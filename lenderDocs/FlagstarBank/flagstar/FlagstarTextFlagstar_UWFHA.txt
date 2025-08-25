@@ -1,0 +1,824 @@
+FHA Underwriting Guidelines 
+ 
+ 
+FHA UNDERWRITING GUIDELINES  
+•  HUD Handbook 4000.1 –  Single Family Housing Policy Handbook 
+•  FHA Single Family Housing Policy Handbook Glossary 
+  
+OVERLAYS   
+4506-C 
+•  A fully executed IRS Form 4506-C must be included in all loan files, except for FHA Non-Credit 
+Qualifying Streamlines  
+•  1040 transcripts are required for the following income types: 
+  Self-employed 
+o
+  Rental income documented on Schedule E 
+o
+  Employed by family 
+o
+  When tax returns are utilized to determine qualifying income, in lieu of alternative 
+o
+documentation options when applicable 
+ 
+ASSETS 
+SWEAT EQUITY 
+Not allowed 
+ 
+BUY-DOWNS 
+Ineligible 
+ 
+CLOSING 
+CLOSING IN TRUST 
+•  For loans closing in a trust, a Certificate of Trust (Lending), Doc. #3954 or similar form is 
+required. For properties located in California, the California Trust Certificate, Doc. #3951 or 
+similar form may be used. 
+ 
+CONDOMINIUMS 
+Flagstar does not participate in DELRAP 
+ 
+CREDIT REPORTS 
+Credit reports for Streamline refinances must be tri-merge credit reports 
+CREDIT SCORES 
+MINIMUM CREDIT SCORES  
+Minimum FHA Credit Scores 
+Loan Purpose  Minimum Credit Score 
+Purchase 1-2 Unit/PUD/Condo/Manufactured Home/203k 1  580 
+Purchase 3-4 Units/203k1  580 
+VI. Underwriting Guidelines  3 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+Minimum FHA Credit Scores 
+Loan Purpose  Minimum Credit Score 
+Rate and Term Refinance and Simple Refinance 1-2 
+580 
+Unit/PUD/Condo/Manufactured Home/203k 1 
+Rate and Term Refinance and Simple Refinance 3-4 Units   580 
+Rate and Term Refinance 3-4 Units 203k 1  580 
+Cash-Out Refinance 1-2 Unit/PUD/Condo/Manufactured Home   580 
+Cash-Out Refinance 3-4 Units   580 
+Streamline Refinance 1-2 Unit/PUD/Condo/Manufactured Home   580 
+Streamline Refinance 3-4 Units  580 
+1.  203k available for approved DE Delegated Correspondents only 
+ 
+DOWN PAYMENT ASSISTANCE 
+All community second and grant programs must be Flagstar-eligible.  Refer to Gift/Grant Programs, Doc. 
+#5935 or Community Seconds Programs, Doc. #5932. 
+ 
+ESCROW HOLDBACKS - REPAIRS 
+•  Closing documents must be prepared through Flagstar’s Web-Based Closing Documents (WBCD), 
+and all repair escrows for Flagstar-underwritten loans are held by Flagstar 
+•  Two bids required for all repair escrows except HUD REO  
+  Escrow holdback will be 1½ times the highest bid - Bids may not exceed $6,666 for 
+o
+maximum escrow holdback of $10,000.  Note:  Overlay does not apply to purchases of HUD 
+REO properties where FHA permits $10,000 in repairs and $11,000 repair escrow or 
+properties subject to disaster repairs where FHA limits the repair escrow to $5,000. 
+ 
+MANUFACTURED HOMES 
+•  Property must be a double-wide (multi-width) manufactured home 
+•  Property must be existing manufactured home on a permanent foundation and previously converted 
+to real estate: 
+  Purchase transaction will be eligible for subsequent purchase only  
+o
+  New construction manufactured home or manufactured home dealer purchases are ineligible 
+o
+  Refinance of interim construction financing of a manufactured home are ineligible 
+o
+•  Manufactured home may not be located in a Condominium, Cooperative or have leasehold interest. 
+•  Manufactured homes that have been moved from their original site are ineligible. 
+ 
+MAXIMUM NUMBER OF FLAGSTAR BANK LOANS 
+Flagstar will not approve and close or purchase loans for borrowers having more than ten loans with 
+Flagstar Bank or having an aggregate loan amount ≥ $4,000,000. The maximum number of loans and 
+aggregate loan amount calculations include all of the following: 
+•  Non-closed loans with Flagstar Bank 
+•  Loans that are closed and currently serviced by Flagstar Bank 
+VI. Underwriting Guidelines  4 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+•  Loans that were closed with Flagstar Bank but the servicing rights have been sold to another lender 
+within the most recent 24 months 
+ 
+MCC CREDITS 
+Permitted for Correspondent lenders who close in their own names 
+ 
+POWER OF ATTORNEY 
+•  Cash-out transactions may not close with any power of attorney other than a military durable power 
+of attorney 
+•  Powers of Attorney may not be e-signed 
+ 
+PRODUCTS AND PROGRAMS 
+INELIGIBLE PROGRAMS 
+•  203(K) and Limited 203(k) 
+•  Title I Loans 
+•  Home Equity Conversion Mortgages (Reverse Mortgages) 
+•  Section 247 – Hawaiian Homelands 
+•  Section 248 – Indian Reservations 
+•  Section 184 – Indian Home Loan Guarantee Program 
+•  Section 223(e) – Declining Neighborhoods 
+•  Energy Efficient Mortgages 
+ 
+PROPERTY ELIGIBILITY 
+INELIGIBLE 
+•  Properties located in American Samoa, Guam, The Commonwealth of the Northern Mariana 
+Islands and Puerto Rico 
+•  Investment properties under the HUD REO program 
+ 
+SECTION 8 HOUSING VOUCHERS 
+Due to system constraints, subsidies paid directly to the servicer are not permitted and may not be 
+deducted from the borrower’s proposed housing payment when calculating the ratios. 
+ 
+PROCESSES AND PROCEDURES 
+Processes and Procedures describe how to use Flagstar’s systems and tools to achieve FHA, GNMA and 
+Flagstar requirements. 
+4506-C 
+•  If the 4506-C transcripts do not match the borrower’s income and the borrower is a victim of 
+taxpayer identification theft, the following conditions must be met in order to validate the borrower’s 
+income. 
+  Proof of identification theft as evidenced by one of the following: 
+o
+  Proof ID theft was reported to and received by the IRS (IRS form 14039) OR 
+VI. Underwriting Guidelines  5 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+  Copy of notification from the IRS alerting the taxpayer to possible identification theft 
+  In addition to one of the documents above, all applicable documents below must be 
+o
+provided: 
+  W2 or 1099 transcripts which match the W2 or 1099 income shown on the 1040s 
+  1099 mortgage interest must match the reported interest on Schedule A or Schedule 
+E 
+  1099G unemployment must match the reported amount of unemployment 
+  1099 dividend and interest income must match the reported dividend and interest 
+  Validation of prior tax year’s income (income for current year must be in line with 
+prior years) 
+ 
+APPRAISALS 
+The required method for ordering appraisals is based on each lender’s approval type with Flagstar and 
+FHA.   
+•  If Flagstar must be the client on the appraisal, order the appraisal through Loantrac Appraisal 
+Management 
+•  For additional information and links to Flagstar-approved appraisal management companies, refer 
+to Appraisal Management Companies, Doc. #4903 
+ 
+Description  Underwriting  Close in Own Name  Client on Appraisal 
+FHA Authorized Agent  Flagstar  Yes  Flagstar or Correspondent 1,3 
+FHA Test Case Phase  Lender  Yes  Correspondent 3 
+FHA Direct Endorsement  Lender  Yes  Correspondent 3 
+FHA Sponsored Originator  Flagstar  No  Flagstar 
+TCP2 Dual/Sponsored Originator  Flagstar  Yes  Correspondent 3 
+TCP2 Dual/Sponsored Originator  Lender  Yes  Correspondent 3 
+FHA Dual/AA  Flagstar  Yes  Flagstar or Correspondent 1 
+FHA Dual/AA  Lender  Yes  Correspondent 3 
+FHA SO AA  Flagstar  Yes  Correspondent 3 
+1.  Flagstar must approve the correspondent for appraisal independence compliance.   If the correspondent is not approved for appraisal independence 
+compliance, the appraisal must be ordered through Loantrac Appraisal Management. 
+2.  TCP refers to an FHA lender in its test case phase. 
+3.  Appraiser must be Flagstar-eligible and must not be on Flagstar’s ineligible or denied appraiser list.  If the eligible appraiser search indicates the 
+appraiser is inactive, expired or suspended, prior to ordering the appraisal, submit the appropriate documentation to Appraiser.Approval@flagstar.com.  
+ 
+PORTABILITY 
+•  To transfer a Flagstar appraisal to another lender, refer to the Transfer Appraisal From Flagstar 
+to Another Lender section of Conventional Underwriting Guidelines 
+•  Appraisals already performed for a case number that was subsequently transferred to Flagstar 
+must be emailed in .xml format to appraisal.review@flagstar.com by one of the following: 
+  The original DE lender to whom the loan was initially submitted or 
+o
+VI. Underwriting Guidelines  6 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+  The appraisal management company providing the appraisal or 
+o
+  The appraiser 
+o
+ 
+PROPERTY ADDRESSES 
+The property addresses on the appraisal, case number assignment, flood certification, mortgage, note 
+and in Loantrac must be identical. However, abbreviation of Street, Road, etc. is acceptable, even if 
+Street or Road is fully spelled in another document. This is the only acceptable variance. 
+•  Use the standardized USPS address. Compare the USPS address to the legal description on 
+the title commitment and use the address in the legal description if that differs from the USPS 
+address 
+•  Appraisers are required to state the USPS address as the property address on the appraisal.  If 
+the legal address differs from the USPS address, the appraiser must reference the legal 
+address in a comment on the appraisal or an addendum to the appraisal 
+ 
+SECOND APPRAISAL POLICY – DEFICIENT APPRAISALS 
+Flagstar DE underwriters adhere to the following policies and processes when determining whether an 
+appraisal contains material deficiencies: 
+•  If the underwriter determines there are flaws and/or material deficiencies, he or she contacts the 
+appraiser and requests necessary revisions, clarification, additional supporting documentation 
+and/or missing data 
+•  If the appraiser fails to provide the information or provides insufficient data and the appraisal still 
+contains material deficiencies, the appraisal is forwarded to the Appraisal Review team for 
+analysis 
+•  A prior-to-close condition indicating the appraisal has been forwarded to Appraisal Review is 
+added to the loan 
+•  Upon receipt of the Appraisal Review team member’s comments, the DE underwriter 
+determines whether a new appraisal is warranted 
+  If not warranted, the conditional commitment is issued based on the original appraisal 
+o
+  If the original appraisal contains significant flaws, the DE Underwriter requests a second 
+o
+Appraisal through the Appraisal Review team.  Even if the originating lender has been 
+approved for Appraiser Independence Compliance, second appraisals due to significant 
+flaws may never be ordered by anyone other than the DE Underwriter  
+BORROWERS 
+BORROWER’S NAME 
+•  The borrower’s name on the case number assignment must match the borrower’s name in 
+Loantrac and the note and mortgage 
+  The following name discrepancies are the only acceptable variations: 
+o
+  James Everett Brown, James E. Brown, James Brown 
+  William Smith Jr., William Smith, William R. Smith, William Ryan Smith, Jr., 
+William Ryan Smith, William R. Smith, Jr. 
+VI. Underwriting Guidelines  7 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+  The following name discrepancies must be resolved prior to the loan closing (this list is 
+o
+not all-inclusive and name discrepancies are reviewed on a case-by-case basis): 
+  Name discrepancies due to marriage (Case number shows Mary Smith, but 
+documentation in Loantrac and/or the note and mortgage shows Mary Jones) 
+  Hyphenated name discrepancies (Case number shows Bill Smith, but 
+documentation in Loantrac and/or the note and mortgage shows Bill Smith-
+Jones) 
+  Middle name discrepancies (Case number shows Bill John Smith, but 
+documentation in Loantrac and/or the note and mortgage shows Bill Robert 
+Smith) 
+  First name discrepancies (Case number shows Bill Smith, but documentation in 
+Loantrac and/or the note and mortgage shows William Smith) 
+  Last name prefix discrepancies (Case number shows Bill St. Pete, but 
+documentation in Loantrac and/or the note and mortgage shows Bill Stpete) 
+ 
+CASE NUMBER ASSIGNMENT/TRANSFER 
+CASE NUMBER FUNCTIONS 
+•  Case numbers for Sponsored Originators must be ordered through Flagstar Bank’s Loantrac 
+System.  
+•  Case numbers for lenders in “eligible for pre-closing” status with FHA (test case phase) must be 
+ordered by Flagstar. Submit a completed Case Number Assignment Request, Doc. #9301 to 
+fsgovlend@flagstar.com. 
+•  If the case number cannot be ordered through Loantrac because the loan was submitted to 
+underwriting prior to case number assignment or update of an existing Flagstar case number is 
+required, complete FHA Case Number Assignment Request, Doc. #9301 and submit to 
+fsgovlend@flagstar.com. 
+•  To obtain a copy of the Refinance Authorization screen for FHA to FHA refinance transactions, 
+complete FHA Refinance Credit Query/Authorization Request, Doc. #9353 and submit to 
+fsgovlend@flagstar.com.  Note:  When requesting an FHA to FHA refinance case number 
+through Loantrac, a Refinance Authorization is automatically provided.   
+•  To obtain a case number transfer from Flagstar to another DE lender, complete FHA Case 
+Number Transfer Request, Doc. #9352 and submit to fsgovlend@flagstar.com. 
+•  If a Flagstar case number requires cancellation, email fsgovlend@flagstar.com.  The email 
+request must contain the borrower’s name, loan number, FHA case number and reason for case 
+cancellation. 
+•  Flagstar cannot perform case number functions for case numbers that are not already in 
+Flagstar’s name. The DE lender to whom the case number is assigned is responsible for all 
+case number functions. 
+ 
+CASE NUMBER ASSIGNMENT – DATA ENTRY 
+When entering the case number assignment date in Loantrac, enter the “Case Received” date from the 
+Case Query screen in FHA Connection. 
+ 
+VI. Underwriting Guidelines  8 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+CLOSING REQUIREMENTS 
+NOTARY POLICY 
+Refer to the Notary Policy stated in Settlement/Closing Requirements, Doc. #4601 
+ 
+ 
+CLOSING - MISCELLANEOUS 
+•  For FHA to FHA refinance transactions, the up-front mortgage insurance premium refund must 
+be credited to the borrower on the Closing Disclosure 
+•  All closing/funding conditions must be collected and provided in the closing package 
+•  Any changes to loan amount, upfront MIP, cash-to-close, interest rate, points, PITI, etc. must be 
+reviewed by underwriting prior to closing and disbursing loan 
+•  Principal reductions are required when the total of lender and/or seller credits reflected on the 
+Closing Disclosure exceeds the total of the actual closing costs, pre-paid expenses and 
+discount points 
+•  Principal reductions are required when the borrower is receiving more than $500 cash at closing 
+on a rate and term or streamline refinance loan.  However, if the borrower has requested to 
+apply the existing escrow balance to the closing costs and pre-paid expenses on the new loan 
+and the existing escrow balance exceeds the amount required to pay closing costs and 
+establish the new escrow account by more than $500, the borrower may receive the excess 
+funds in cash at closing. This is the only acceptable reason for a borrower to receive more than 
+$500 cash back at closing on a rate and term or streamline refinance.  
+•  Closing documents must be signed and notarized on or before the closing date indicated on the 
+closing documents, regardless of the state in which the property is located and/or whether it’s 
+an escrow state 
+ 
+CONFLICT OF INTEREST 
+The loan officer cannot receive compensation from any other person or entity involved in the mortgage 
+transaction, (i.e. compensation as the real estate agent). 
+ 
+CREDIT REPORTS 
+AGE OF CREDIT REPORTS 
+•  To achieve Flagstar’s and FHA’s minimum credit requirements, a new credit report may be re-
+pulled after a borrower has repaired derogatory credit, and Flagstar will honor the new credit 
+score.  The new credit report must be imported to Loantrac 
+•  The following credit report discrepancies require a new credit report: 
+  Social Security number is incorrect 
+o
+  Last name is incorrect 
+o
+  Middle initial is incorrect 
+o
+  Misspelled first names and/or missing or incorrect suffixes (Jr./Sr.) require a new credit 
+o
+report unless the name variation appears in the AKA section of the credit report 
+ 
+VI. Underwriting Guidelines  9 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+DE CUSTOMERS ONLY 
+•  Credit report must contain Office of Foreign Assets Control (OFAC) screening 
+•  If credit report indicates a potential OFAC match, the credit report must be e-mailed to 
+Delegated.Underwriting@Flagstar.com for review by Flagstar Bank’s Secrecy Act Compliance 
+Department – The loan may not close without clearance from Flagstar’s BSA Department 
+(violation of this policy is a federal crime) 
+ 
+DISCLOSURES/FORMS 
+REQUIRED DISCLOSURES AND FORMS 
+•  In addition to the other forms listed in Government Forms and Disclosures, Doc. #9005, 
+HUD/VA Addendum to Uniform Residential Loan Application, HUD Form 92900-a is required for 
+all FHA loans. Lender and sponsor information on the form is based on the originating lender’s 
+relationship with FHA and/or Flagstar Bank. Complete the fields described below in the following 
+manner: 
+  Sponsored Originators (TPOs), including loans underwritten by Flagstar for an 
+o
+Authorized Agent who is still in their test case phase and has only conditional FHA 
+approval (pre-closing review status) 
+  Page 1 Part I: Flagstar Bank is the Mortgagee 
+•  Mortgagee ID - Enter Flagstar’s FHA Lender ID – 7127400001 
+•  Sponsor ID and Agent ID - Leave Blank 
+•  Enter Flagstar’s name, address and phone number: Flagstar Bank, 5151 
+Corporate Drive, Troy, MI 48098, (800) 945-7700 
+•  Name address of Sponsor and Agent – Leave Blank 
+•  FHA Sponsored Originations Section – Enter the loan originating lender’s 
+company name, company Tax ID and company NMLS ID 
+Part II:   
+•  Borrower(s) Name, Date of Birth and Social Security Number must be 
+completed 
+•  Form must be signed by borrower(s) at initial application 
+  Page 2: 
+•  No Lender/sponsor info 
+•  Form must be signed by borrower(s) at initial application 
+  Page 3: 
+•  Form is signed by Flagstar’s underwriter 
+  Page 4: 
+•  Mortgagee – Flagstar Bank 
+•  Title of Flagstar Representative and Signature – A Flagstar 
+Representative must sign at the time of insuring – No originator signature 
+is required 
+VI. Underwriting Guidelines  10 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+  Loans Underwritten by Flagstar as Authorized Agent for an FHA-approved DE Lender 
+o
+who has completed their test cases and is unconditionally approved by FHA 
+  Page 1 Part I: 
+•  Enter Mortgagee ID - originating lender’s FHA lender ID  
+•  Enter Agent ID Flagstar’s FHA Lender ID - 7127400001 
+•  Enter Mortgagee originating lender’s name, address and phone number  
+•  Enter Flagstar’s name and address: Flagstar Bank, 5151 Corporate Drive, 
+Troy, MI 48098 
+•  FHA Sponsored Originations – Leave Blank 
+•  A Mortgagee Representative (not the loan officer or originator) of the 
+originating lender’s company must sign – No originator signature is 
+required - Must not be signed prior to the borrower signing page 2 
+Part II:   
+•  Borrower(s) Name, Date of Birth and Social Security Number must be 
+completed 
+•  Form must be signed by borrower(s) at initial application 
+  Page 2: 
+•  No Lender/sponsor info 
+•  Form must be signed by borrower(s) at initial application 
+  Page 3: 
+•  No Lender/Sponsor info 
+•  Form is signed by Flagstar’s underwriter 
+  Page 4: 
+•  Mortgagee – Originating lender’s name 
+•  A Mortgagee Representative officer (not the loan officer or originator) of 
+the originating lender’s company must sign – No originator signature is 
+required 
+  Loans Underwritten by Flagstar-approved DE Delegated Correspondents 
+o
+  Page 1 Part I: 
+•  Mortgagee ID - Enter DE Delegated correspondent’s FHA lender ID  
+•  Sponsor ID and Agent ID - Leave blank 
+•  Enter DE Delegated correspondent’s name and address 
+•  FHA Sponsored Originations – Leave Blank 
+•  A Mortgagee Representative (not the loan officer or originator) of the DE 
+Delegated correspondent’s company must sign – No originator signature 
+is required -– Must not be signed prior to the borrower signing page 2 
+Part II:   
+•  Borrower(s) Name, Date of Birth and Social Security Number must be 
+completed 
+VI. Underwriting Guidelines  11 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+•  Form must be signed by borrower(s) at initial application 
+  Page 2: 
+•  No Lender/sponsor info 
+•  Form must be signed by borrower(s) at initial application 
+  Page 3: 
+•  Form is signed by DE Delegated correspondent’s underwriter 
+  Page 4: 
+•  Mortgagee – DE Delegated correspondent’s name 
+•  A Mortgagee Representative (not the loan officer or originator) of the DE 
+Delegated correspondent’s company must sign – No originator signature 
+is required 
+ 
+For additional FHA document and disclosure requirements, refer to Government Forms and 
+Disclosures, Doc. #9005. 
+ 
+ELECTRONIC SIGNATURES 
+Electronic signatures are permitted for all FHA loan documents except the following: 
+•  Powers of attorney 
+•  Form SSA-89 
+•  Note  
+ 
+ESCROWS 
+•  Escrow waivers not allowed  
+•  Escrows are required for all of the following: 
+  Real estate taxes 
+o
+  Monthly mortgage insurance premiums 
+o
+  Hazard insurance premiums, including flood insurance, wind insurance, etc. 
+o
+  Special assessments  
+o
+  Ground rents 
+o
+•  Unless the loan has one of the following characteristics, property tax escrows are calculated using 
+the taxes stated on the title commitment, regardless of the rate used to calculate the borrower’s 
+debt-to-income ratios: 
+  When calculating the real estate tax payment for existing (not new construction) properties, 
+o
+the following documentation may be used: 
+  Taxes listed on the title commitment or property tax bill/cert or 
+  Evidence from the local assessor’s office of the current tax rate 
+  For properties being purchased from a seller who paid non-homestead taxes, the title 
+o
+commitment will indicate the non-homestead tax rate.  Homestead tax rates may be used to 
+calculate the borrower’s ratios, provided evidence of the homestead tax rate is obtained 
+VI. Underwriting Guidelines  12 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+from the local tax assessor’s office.  Lenders must collect escrows based on the amount 
+shown on the title commitment. 
+  Generally, property tax escrows for all new construction properties must be calculated based 
+o
+on the fully assessed property value. Obtain actual tax amounts from the local tax 
+assessor’s office. If the new construction property taxes charged by the municipality will not 
+be based on the fully improved property within 12 months of closing, escrows may be based 
+on one of the following. Note:  Regardless of assessment dates, ratios and reserves must 
+be calculated based on the fully assessed property value. 
+  Lot only; or 
+  A partial assessment; or 
+  Actual or estimated amount based on fully assessed value 
+  The Closing Department will require the borrower(s) to confirm that once the property is fully 
+o
+assessed, they are aware of the potential escrow shortage  
+  For purchases of new and existing properties in California only, property taxes may be 
+o
+calculated using 1.25% of the purchase price or the actual tax rate 
+ 
+ESCROW HOLDBACKS - REPAIRS 
+In addition to FHA’s repair escrow requirements and Flagstar’s overlays above, the following 
+documents and clarifications apply: 
+•  Fully executed Escrow Holdback Agreement, Doc. #3655 required in closing package 
+•  For additional repair escrow information, refer to Escrow Holdback Procedures, Doc. #4634 
+•  For new construction properties, items such as pools, decks, sod, etc. may remain incomplete 
+due to weather-related situations. Escrow holdback will be amount indicated on building 
+agreement, contract and/or vendor agreement.   
+•  For purchases of bank-owned properties, approval of repair escrow is granted on a case-by-
+case basis for completion of exterior repairs that cannot be completed due to inclement 
+weather. 
+ 
+HIGHER PRICED MORTGAGE LOANS (HPML) 
+Loans having an APR that is ≥ 1.5% above the APOR on the date the loan locked are classified as an 
+HPML. All HPMLs must meet the following requirements: 
+•  Pre-payment penalties are not permitted  
+•  The interest rate cannot adjust within the first seven years of the loan – FHA ARMs classified as 
+HPMLs are ineligible 
+•  Escrows must be collected for the life of the loan 
+•  Streamline refinance transactions are eligible, provided they are credit qualified 
+•  For FHA transactions that are considered Safe Harbor QM that are HPML for purposes of Section 
+35, please reference Higher Priced Mortgage Loans (HPML), Doc. #4813. Loans that have a QM 
+status of Rebuttable Presumption are required to have a Residual Income Worksheet, this form is 
+not applicable to delegated loans. 
+VI. Underwriting Guidelines  13 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+ 
+INDUSTRY LINKS/FLAGSTAR LINKS/CONTACTS 
+•  FHA Mortgage Limits Search Engine 
+•  FHA Approved Condos Search Engine 
+•  HUD Training Archives 
+•  HUD Training and Events Page 
+•  HUD’s Lender Page 
+•  FHA Connection  
+•  Government Services Administration (GSA) Excluded Parties Search Engine 
+•  Limited Denials of Participation (LDP) Excluded Parties Search Engine 
+•  Flagstar Bank Wholesale Website 
+•  Flagstar Bank Government Underwriting Help Desk  
+  E-Mail: GovernmentUW@Flagstar.com 
+o
+  Phone: 866-945-9872, Option 1 for Underwriting, then Option 2 for Government 
+o
+Underwriting 
+•  HUD’s Listserv email distribution that announces FHA changes and available training: 
+Sign up for the mailing list: https://www.hud.gov/subscribe/signup 
+INSURANCE 
+HAZARD INSURANCE 
+Hazard Insurance Requirements, Doc. #4602 
+ 
+FLOOD INSURANCE 
+•  Flood Insurance - Broker & Non-Delegated Correspondent, Doc. #4603 
+•  Eligible Flood Provider Companies, - FEMA Flood Insurance Company List 
+•  Flood insurance policy must be a NFIP policy and must cover all improvements, including 
+detached structures. Flood insurance provided by private providers is not permitted  
+•  If the subject property is a condominium-unit, the NFIP policy must be obtained by the 
+homeowner’s association. Borrower purchased flood insurance is not permitted unless the 
+property is a site condominium. Loans must be denied if the HOA does not maintain adequate 
+flood insurance, regardless of FHA condominium approval status 
+ 
+CONDOMINIUM FIDELITY/LIABILITY INSURANCE 
+•  Hazard Insurance Requirements, Doc. #4602 
+•  Each project must have $1,000,000 business liability insurance coverage with the HOA named 
+as the insured 
+•  Projects having > 20 units must show evidence of Fidelity (employee dishonesty) coverage ≥ 
+three months HOA income with the HOA named as the insured 
+•  Site Condominiums – Liability insurance is not required 
+•  Must be provided prior-to-close 
+VI. Underwriting Guidelines  14 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+ 
+HO-6 POLICY 
+For coverage requirements, refer to Hazard Insurance Requirements, Doc. #4602 
+ 
+LOAN TERMS 
+FIXED RATE MORTGAGES 
+10, 15, 20, 25 and 30-year fixed rate mortgages 
+ 
+ARMS 
+3/1 and 5/1 CMT adjustable-rate mortgages 
+ 
+MAXIMUM LOAN AMOUNT 
+Maximum Loan calculations are published in the 9000 series of our Sellers Guide: 
+•  FHA Maximum Mortgage Worksheet - Purchase, Doc. #9328 
+•  FHA Maximum Mortgage Worksheet - Rate & Term Refinance, Doc. #9342 
+•  FHA Maximum Mortgage Worksheet - Simple Refinance, Doc. #9346 
+•  FHA Maximum Mortgage Worksheet - Cash-Out Refinance, Doc. #9345 
+•  FHA Maximum Mortgage Worksheet - Streamline Refinance, Doc. #9347 
+ 
+NET TANGIBLE BENEFIT 
+NET TANGIBLE BENEFIT CALCULATION WORKSHEETS 
+To calculate the borrower’s net tangible benefit for Streamline refinances, use FHA Refinance Net 
+Tangible Benefit Worksheet, Doc. #9348. 
+ 
+STATE-REQUIRED NET TANGIBLE BENEFIT FORMS 
+FHA Refinance Net Tangible Benefit Worksheet, Doc. #9348 may not be used in lieu of any state-
+required net tangible benefit forms. When a state requires a net tangible benefit form, the appropriate 
+form must be completed.  
+ 
+POWER OF ATTORNEY 
+•  All signatures on the power of attorney must be notarized, and the power of attorney must be 
+reviewed by a Flagstar underwriter. All signatures must match the signatures in the file 
+•  Unless the POA is a military Durable POA, the POA must be specific to Flagstar Bank’s loan and 
+indicate the property address 
+•  POA is not allowed for single borrower transactions unless Flagstar Bank has borrower experience 
+and the underwriter can compare signatures from previous transaction(s) 
+ 
+ REFINANCE TRANSACTIONS 
+STREAMLINE REFINANCES AND CASH-OUT REFINANCE LOANS 
+•  Refinances must meet all FHA 4000.1 occupancy requirements; and 
+•  Must meet the following seasoning requirements when the loan being paid off is a government 
+loan (FHA, VA or USDA); and 
+VI. Underwriting Guidelines  15 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+•  The borrower made at least six consecutive monthly payments on the loan being refinanced, 
+beginning with the date the payment was made for the first payment due date; and 
+•  The first payment due date of the refinance loan occurs no earlier than 210 days after the first 
+payment due date of the initial loan. 
+ 
+SHORT PAYOFF ON A RATE AND TERM REFINANCE 
+A specific written principal reduction (short payoff) agreement between the existing lender and borrower 
+is required. The agreement must reference the borrower and the loan being paid off. 
+ 
+SOCIAL SECURITY AND DISABILITY BENEFITS 
+When the Notice of Award or equivalent document does not have a defined expiration, the Mortgagee 
+must not inquire or request additional documentation for continuance of the nature of the disability or the 
+medical conditions.  If any disability income from (Social Security Administration (SSA), Department of 
+Veterans Affairs (VA), or a private disability insurance provider) is due to expire within three years from the 
+date of mortgage application, that income cannot be used as Effective Income.  Refer to HUD Single 
+Family Handbook 4000.1 for complete details. 
+ 
+TITLE 
+The title commitment must be dated within 90 days of closing.  If greater than 90 days, a gap letter will be 
+required, which will allow the title to be extended an additional 90 days  
+ 
+ENERGY LOAN TAX ASSESSMENT PROGRAM (ELTAP) LIENS 
+Not permitted 
+ 
+MINERAL RIGHTS – EXCEPTIONS TO TITLE 
+Exceptions to title for Mineral Rights are acceptable as long as the title company states in writing that 
+there are no active mineral rights on the property at the time of loan closing 
+ 
+DEED RESTRICTIONS 
+•  In addition to any deed restriction that does not meet FHA’s requirements, deed restrictions with 
+the following characteristics are ineligible: 
+  Single-family use restrictions when the property is a two- to four-family property 
+o
+  Deed restriction creates or provides for a lien that would be prior to the lien of the home 
+o
+mortgage or provides for the elimination of the home mortgage lien 
+•  The terms and provisions of the restrictive agreements or restrictive covenants must be 
+commonly acceptable to the private institutional mortgage investors in the area where the 
+mortgaged premises are located 
+•  Title company must provide an endorsement to the title policy that affirmatively insures that no 
+violation of any such restrictive agreement or restrictive covenant exists and that any future 
+violation shall not result in forfeiture or reversion of title is required 
+ 
+UNEXPIRED RIGHTS OF REDEMPTION 
+•  All States Except Alabama: 
+VI. Underwriting Guidelines  16 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Underwriting Guidelines 
+ 
+ 
+  Unless the property is located in the State of Alabama, Flagstar will not approve and/or 
+o
+purchase any loan having an unexpired right of redemption unless the purchase 
+agreement, title and appraisal all show the same seller who is the original mortgagor 
+  Title may show lis pendens notices from the bank or mortgagee 
+  Purchase contract may indicate a short sale 
+•  Alabama Only: 
+  Purchase agreement, title and appraisal will be in the name of the lender and not the 
+o
+original mortgagor. 
+  Title commitment will show one or both of the following acceptable recorded deeds: 
+o
+  Foreclosure from John Doe (original mortgagor) to Anybank (foreclosing lender) 
+followed by the date on the deed and the recording date 
+  When the foreclosing lender deeds the property to HUD, Fannie Mae, Freddie 
+Mac, VA or GNMA, there will be a special warranty deed from Anybank 
+(foreclosing lender) to one of the GSEs listed above followed by the date on the 
+deed and the recording date 
+•  If the above referenced deeds are dated within the most recent 12 months, the title commitment 
+must contain a specific exception for the unexpired right of redemption and affirmatively insure, 
+without qualification, the mortgagee (Flagstar Bank) against all losses arising out of the exercise 
+of any outstanding right of redemption 
+ 
+UNDERWRITING TURN TIMES 
+Current underwriting turn times are posted on Flagstar’s website. 
+ 
+ 
+VI. Underwriting Guidelines  17 of 17    11/18/2022 
+Return to Top 
+ 
+ 
+
+NEW PAGE

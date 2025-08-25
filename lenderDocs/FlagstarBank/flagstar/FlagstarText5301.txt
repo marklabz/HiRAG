@@ -1,0 +1,325 @@
+Fannie Mae Fixed Rate 
+Mortgage insurance providers may have additional restrictions not listed within this document.  Please refer to 
+each mortgage insurance company’s website for complete eligibility details. 
+PRIMARY RESIDENCE – PURCHASE AND RATE/TERM REFINANCE  
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit   97% 2  97% 1,2  DU – Approve/Eligible 
+Warrantable Condo 
+DU – Approve/Eligible or 
+PUD  95%  95% 
+LPA – Accept 
+Manufactured Home  NA 
+95%  95%  DU – Approve/Eligible 
+(double-wide) 
+2-Unit  85%  85%  DU – Approve/Eligible or 
+3 to 4-Unit  75%  75%  LPA – Accept 
+ 
+PRIMARY RESIDENCE – CASH-OUT REFINANCE 3 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  80%  80%  DU – Approve/Eligible or 
+PUD  LPA – Accept 
+NA 
+2 to 4-Unit  75%  75% 
+Manufactured Home 
+65%  65%  DU – Approve/Eligible 
+(double-wide) 4 
+ 
+SECOND HOME – PURCHASE & RATE/TERM REFINANCE  
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+DU – Approve/Eligible or 
+Warrantable Condo  90%  90%  620 
+LPA – Accept 
+PUD 
+Manufactured Home 
+90%  90%  620  DU – Approve/Eligible  
+(double-wide) 
+ 
+SECOND HOME – CASH-OUT REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+DU – Approve/Eligible or 
+Warrantable Condo  75%  75%  620 
+LPA – Accept 
+PUD 
+ 
+INVESTMENT PROPERTY – PURCHASE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  85%  85%  DU – Approve/Eligible or 
+620 
+PUD  LPA – Accept 
+2 to 4-Unit  75%  75% 
+ 
+V. Product Guidelines  1 of 6  Document #5301 
+Return to Top    02/03/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae Fixed Rate 
+INVESTMENT PROPERTY – RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1 to 4-Unit 
+DU – Approve/Eligible or 
+Warrantable Condo  75%  75%  620 
+LPA – Accept 
+PUD 
+ 
+INVESTMENT PROPERTY – CASH-OUT REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  75%  75% 
+DU – Approve/Eligible or 
+PUD  620 
+LPA – Accept 
+2 to 4-Unit   70%  70% 
+1.  Traditional subordinate financing is limited to 97% CLTV.  Maximum CLTV allowed up to 105% when utilizing an approved community second program. 
+2.  See BORROWER ELIGIBILITY below. 
+3.  Texas properties - primary residence cash-out transactions, or rate/term refinances with liens on title classified as Section 50(a)(6) are limited to 80% 
+LTV/CLTV. Refer to Texas Refinance Loans section below for further details. 
+4.  Cash-out transactions secured by manufactured homes are limited to a loan term of 20 years or less. 
+ 
+PROGRAM SUMMARY 
+Fixed rate and term, fully amortizing, conventional conforming first lien mortgage loan program. 
+ 
+PRODUCTS OFFERED 
+Product Name  Term 
+Fannie Mae 30-Year Fixed  30 years 
+Fannie Mae 30-Year Fixed for First-Time Home Buyers 6  30 years 
+Fannie Mae 27-Year Fixed  27 years 
+Fannie Mae 25-Year Fixed   25 years 
+Fannie Mae 22-Year Fixed  22 years 
+Fannie Mae 20-Year Fixed   20 years 
+Fannie Mae 15-Year Fixed  15 years 
+Fannie Mae 12-Year Fixed  12 years 
+Fannie Mae 10-Year Fixed  10 years 
+Fannie Mae 8-Year Fixed 5  8 years 
+ 
+5. Loans under the 8yr product require a DU Approve/Eligible; LPA findings not permitted. 
+ 
+6. See First-Time Home Buyers under in Underwriting section below. Originators should be familiar with the area median income (AMI) limits within their market 
+areas and should select the new first-time home buyer product only when the borrower’s qualifying income is within the applicable limit and at least one 
+borrower is a first-time home buyer. If unsure whether the income meets the applicable AMI limit, initially register loans under the standard Fannie Mae 30-Year 
+Fixed product and submit the transaction to Desktop Underwriter (DU) to determine if the eligibility messaging shown under First-Time Home Buyers in the 
+Underwriting section below is returned on the DU findings report. If the DU findings report does not include the messaging, the loan should not be registered 
+under the first-time home buyer product. Originators should use the Fannie Mae Area Median Income Lookup Tool to determine the applicable income limit 
+based on the subject property address (Note: properties not in a “High Cost Area” will not include a 120% income line): 
+V. Product Guidelines  2 of 6  Document #5301 
+Return to Top    02/03/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae Fixed Rate 
+ 
+ 
+LOAN REGISTRATION 
+When registering a Rate & Term with a > 95% LTV, the user will be directed to the Add Loan Purpose Info 
+screen in Loantrac, where you must select the current First Mortgage Holder in the drop-down box.  This 
+information is transmitted to Desktop Underwriter (DU). 
+ 
+LOAN AMOUNTS 
+MAXIMUM  
+Maximum standard conforming loan limits for 1 to 4-unit property (high-cost area limits, except for standard 
+AK, HI, and USVI, are not eligible under this program). 
+ 
+ELIGIBLE BORROWERS 
+PURCHASE 
+When the LTV (Gross LTV for Loan with Financed MI) is greater than 95% at least one borrower must be a 
+first-time home buyer as indicated on the 1003 responding “No” to Declaration: Have you had an ownership 
+interest in a property in the last three years?  A first-time home buyer is defined as anyone who has not 
+had ownership interest in a residential property in the last three years. 
+ 
+RATE & TERM REFINANCES 
+When the LTV is greater than 95%, the existing loan being refinanced must be owned by Fannie Mae.  
+Using the Fannie Mae look up tool, located at knowyouroptions.com, a screen shot of the findings must be 
+uploaded into the loan file. 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1 to 4-unit properties 
+•  Fannie Mae/Freddie Mac-warrantable condominiums 
+•  Planned unit developments (PUDs) 
+•  Modular homes 
+•  Manufactured homes 
+  Multiple-width homes only 
+o
+  No new construction; only homes already on a permanent foundation and properly converted to 
+o
+and taxed as real property 
+  Refer to the Conventional Underwriting Guidelines for additional manufactured home requirements 
+o
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Non-Fannie Mae/Freddie Mac-warrantable condominiums 
+V. Product Guidelines  3 of 6  Document #5301 
+Return to Top    02/03/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae Fixed Rate 
+•  Cooperative properties 
+•  Manufactured homes  
+  Single-wide  
+o
+  New construction/never occupied 
+o
+  MH Advantage 
+o
+ 
+MINIMUM CREDIT SCORES 
+Refer to the Product Eligibility Grids above.  Mortgage insurers may have additional restrictions.  Refer to each 
+specific mortgage insurance company’s website for complete eligibility details.  All scores must meet the credit 
+score validation requirements outlined in the Conventional Underwriting Guidelines. 
+ 
+QUALIFYING RATE 
+Note rate 
+ 
+QUALIFYING RATIOS 
+Determined by DU.  Refer to mortgage insurance companies for additional restrictions. 
+ 
+RESERVES 
+•  Determined by DU.   
+•  Reserves for borrowers with an LTV greater than 95% may be funded from eligible gifts per 
+Conventional Underwriting Guidelines. 
+ 
+SUBORDINATE FINANCING 
+Refer to the Subordinate Financing section of the Conventional Underwriting Guidelines for details. 
+Community Seconds subsidized subordinate financing eligible up to 105% CLTV.  Community Seconds may 
+be eligible from a state, local or municipal authority or agency, a 501(c)(3) not-for-profit corporation, a tax-
+exempt religious organization or the borrower’s employer.  Flagstar Bank must review all Community Second 
+programs for eligibility.  Refer to Community Seconds Programs, Doc. #5932 for documentation requirements. 
+ 
+INTERESTED PARTY CONTRIBUTIONS 
+Interested party contributions include funds contributed by the property seller, builder, real estate agent/broker, 
+mortgage lender, or any other party with an interest in the real estate transaction. Interested party contributions 
+may be used exclusively to cover closing costs and prepaid expenses. 
+ 
+INTERESTED PARTY CONTRIBUTION LIMITS 
+Property Type  Up to 75% CLTV  75.01-90% CLTV  90.01-97% CLTV 
+Primary Residences  Maximum 9%  Maximum 6%  Maximum 3% 
+Second Homes  Maximum 9%  Maximum 6%  Maximum 3% 
+Investment Property  Maximum 2%  Maximum 2%  n/a 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible 
+ 
+V. Product Guidelines  4 of 6  Document #5301 
+Return to Top    02/03/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae Fixed Rate 
+UNDERWRITING 
+All loans must meet the parameters as set out in Flagstar’s Conventional Underwriting Guidelines. 
+•  All loans require an approve/eligible response from DU.   
+•  Manual underwriting is not eligible. 
+•  Loans under the 8yr product require a DU Approve/Eligible; LPA findings not permitted. 
+ 
+FIRST-TIME HOME BUYERS 
+•  First-time home buyers that meet certain area median income (AMI) limits are eligible for the waiver 
+of Fannie Mae loan-level pricing adjustments (LLPAs); the income limit requirements are: 
+  100% of the applicable AMI for non-high-cost areas. 
+o
+  120% of the applicable AMI for high-cost areas. 
+o
+•  Loans must receive DU Approve/Eligible; LPA findings not permitted. 
+•  Final DU findings report must include the messaging shown below about eligibility for the LLPA 
+waiver based on FTHB status and the borrower’s qualifying income meeting the AMI guidelines: 
+ 
+•  Eligible loans must be registered under the “Fannie Mae 30-Year Fixed for First-Time Home Buyers” 
+product in order to receive the LLPA waivers 
+  All such loans must be targeted to “Fannie Mae” only 
+o
+ 
+HOMEOWNERSHIP EDUCATION 
+Refer to Conventional Underwriting Guidelines for requirements. 
+TEXAS REFINANCE LOANS 
+All refinance loans in Texas will be evaluated against the criteria outlined in our Conventional Underwriting 
+Guidelines, Texas Refinances section to determine if the loan must be originated under the requirements of 
+Section 50(a)6 of the Texas Constitution. Texas Home Equity loans are eligible under the program.  Refer to 
+Texas Homestead 50(a)(6) Refinance, Doc. #5907 for eligibility, documentation/disclosure, and title/closing 
+requirements. 
+ 
+MORTGAGE INSURANCE 
+Mortgage insurance providers may have additional restrictions not listed within this document.  Due to rapid 
+changes within the industry, please refer to each mortgage insurance company's website for complete details.   
+ 
+STANDARD MORTGAGE INSURANCE GUIDELINES 
+All loans above 80% LTV require mortgage insurance coverage according to the following guidelines.6 
+Manufactured Home 
+LTV  > 20-Year Term  <= 20-Year Term 
+All Loan Terms 
+95.01 - 97%  35%  35%  NA 
+90.01 - 95%  30%  25%  30% 
+85.01 - 90%  25%  12%  25% 
+80.01 - 85%  12%  6%  12% 
+ 
+V. Product Guidelines  5 of 6  Document #5301 
+Return to Top    02/03/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae Fixed Rate 
+NEW YORK PROPERTIES 
+See Conventional Underwriting Guidelines. 
+ 
+For Single Financed Mortgage Insurance (SFMI) and Lender Paid Mortgage Insurance (LPMI) eligibility 
+see Single Financed Mortgage Insurance – Lender Paid Mortgage Insurance, Doc. #5010. 
+ 
+STATE ELIGIBILITY 
+Available in the following states with geographic restrictions. States not listed are available without restrictions. 
+State  Restriction 
+Puerto Rico  Not eligible 
+ 
+PREPAYMENT PENALTY 
+None 
+ 
+CLOSING DOCUMENTATION 
+Closing docs may be ordered through Flagstar’s Web Based Closing Docs (WBCD) service available in 
+Loantrac. 
+ 
+ALL LOANS: 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series. 
+•  Fannie Mae/Freddie Mac multi-state Fixed Rate Note, 3200-series. 
+•  Standard title commitment with all applicable endorsements. 
+ 
+IF APPLICABLE: 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form #3140. 
+•  Fannie Mae/Freddie Mac multi-state PUD Rider, Form #3150. 
+•  Fannie Mae/Freddie Mac multi-state 1-4 Family Rider, Form #3170, (for 2 to 4-unit primary 
+residences and all investment property mortgages). 
+•  Fannie Mae/Freddie Mac multi-state Second Home Rider, Form #3890.  
+ 
+V. Product Guidelines  6 of 6  Document #5301 
+Return to Top    02/03/2023 
+
+NEW PAGE

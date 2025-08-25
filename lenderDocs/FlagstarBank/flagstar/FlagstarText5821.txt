@@ -1,0 +1,159 @@
+VA Interest Rate Reduction Refinance Loan (IRRRL) 
+ 
+PROGRAM SUMMARY 
+An IRRRL is a new VA-guaranteed loan made to refinance an existing VA-guaranteed loan, generally at a 
+lower interest rate than the existing VA loan, and with lower principal and interest payments than the existing 
+VA loan. 
+ 
+PRODUCTS OFFERED 
+FIXED-RATE MORTGAGES 
+Traditional and jumbo loan amounts are separated into distinct products: 
+•  10-year 
+•  15-year 
+•  20-year 
+•  25-year 
+•  30-year 
+ 
+ADJUSTABLE-RATE MORTGAGES 
+Traditional and jumbo loan amounts are combined into the same product. Manufactured homes are not 
+eligible for the ARM product.  Fixed-rate products only. 
+•  5/1 CMT 
+ 
+ELIGIBLE BORROWERS 
+Refer to the VA website for detailed guidelines. 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1 to 4-unit properties 
+•  PUDs 
+•  Condominiums (refer to Chapter 16 of VA Pamphlet 26-7) 
+•  Manufactured homes  
+  Multiple width homes only 
+o
+  No new construction; only homes already on a permanent foundation and properly converted to 
+o
+and taxed as real property. 
+  Manufactured homes are not eligible for the ARM product.  Fixed-rate products only. 
+o
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Single wide and new construction Manufactured home 
+•  Cooperative 
+•  Working farm, ranch or orchard 
+ 
+LOAN AMOUNTS 
+Loan amount may not exceed the total of the following: 
+•  Existing VA loan balance 
+•  Allowable fees and charges 
+•  Up to two discount points 
+V. Product Guidelines  1 of 3  Document #5821 
+Return to Top    12/16/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  VA Interest Rate Reduction Refinance Loan (IRRRL) 
+ 
+•  VA funding fee 
+•  $4,000,000 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible 
+ 
+CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM (CAIVRS) 
+All borrowers must be screened using HUD’s Credit Alert Interactive Voice Response System (CAIVRS). 
+Generally, any lien must be paid-off or existing delinquent account brought current. Collect each applicant’s 
+Social Security Number prior to accessing CAIVRS. 
+ 
+APPROVED FHA LENDERS 
+If your company is FHA Approved and you have access to the FHA Connection, obtain CAIVRS there. 
+ 
+NON-FHA APPROVED LENDERS 
+Non-FHA participating lenders who are currently VA Approved with a VA Agent Identification Number may 
+apply for access from HUD’s CAIVRS FAQ page. If your company has not been issued a VA Agent 
+Identification Number, complete the VA CAIVRS Authorization Form, Doc. #9734 to order CAIVRS. 
+ 
+DISCOUNT POINTS 
+A lender may charge reasonable discount points. 
+UNDERWRITING 
+•  1 and 4-unit transactions require a minimum credit score of:  
+  580 for loan amounts up to the conforming 1-unit loan limit. 
+o
+  600 for loan amounts up to $4,000,000. 
+o
+•  Non-traditional, alternative credit and no credit score loans are eligible and will follow the VA Lender’s 
+Handbook – VA Pamphlet 26-7. A credit score of 999 should be entered for those borrowers. 
+•  To determine credit scores, a tri-merge credit report is required for all IRRRLs. If the mortgage history is 
+not included on the credit report, a supplemental credit report for the mortgage history must be 
+provided. 
+•  An IRRRL made to refinance a VA loan over 30 days past due may not be processed and closed under 
+the automatic procedure. Loan must be sent directly to VA Regional Office for prior approval and will 
+require additional documentation.   
+•  Manufactured homes are ONLY permitted where the existing loan is serviced by Flagstar Bank (a.k.a., 
+Flagstar-to-Flagstar refinance). No other manufactured home transactions are permitted. 
+ 
+For underwriting questions and support, email Government Underwriting Support or call (866) 945-9872. 
+ 
+COMPUTATION WORKSHEET/SUBMISSION DOCUMENTATION 
+Refer to the Interest Rate Reduction Refinancing Loan Worksheet, VA Form 26-8923. See Government Forms 
+and Disclosures, Doc. #9005 for additional submission documentation information. 
+V. Product Guidelines  2 of 3  Document #5821 
+Return to Top    12/16/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  VA Interest Rate Reduction Refinance Loan (IRRRL) 
+ 
+VA ALLOWABLE FEES AND CHARGES 
+Refer to Chapter 8 of VA Pamphlet 26-7 for closing costs that are allowed by VA to be paid by the borrower 
+and those that must be paid by the seller or lender. For information regarding Flagstar’s administrative fee, 
+please refer to Comprehensive List of Fees – Broker, Doc. #4618 or Comprehensive List of Fees – 
+Correspondent, Doc. #4619.  
+ 
+VA FUNDING FEE 
+VA collects a funding fee on each loan to compensate for any losses or defaults unless the veteran is exempt.  
+The funding fee is one-half percent (0.5%) for IRRRL. 
+ 
+ADJUSTABLE RATE DETAILS 
+Interest Rate  5/1 ARM 
+Adjustment Caps  Initial: 1% up/down; Periodic: 1% up/down; Lifetime: 5% up 
+Margin  See Price Indication Sheet 
+Index  1-Year Constant Maturity Treasury (CMT) 
+Interest Rate Floor  The interest rate floor is equal to the Margin 
+5/1 ARM: Initial interest rate change date will occur within 60 to 66 months, depending on 
+Change Dates 
+disbursement date. See the table below. Interest rate will adjust every 12 months thereafter. 
+Conversion Option  None 
+Assumption  Subject to conditions, fees and rate adjustment 
+Negative Amortization  None 
+ 
+Initial Interest Rate Change Dates 1 
+First Payment Date  Initial Change Date 2 
+Jan. 1, Feb. 1, Mar. 1  April 1 
+Apr. 1, May 1, Jun. 1  July 1 
+Jul. 1, Aug. 1, Sep. 1  October 1 
+Oct. 1, Nov. 1, Dec. 1  January 1 
+ 
+1. The initial interest rate change dates are also published on the daily price indication sheet. 
+ 
+2. The change date is always the first day of the month. 
+ 
+ 
+STATE ELIGIBILITY 
+Available in the following states with restrictions. States not listed are available without restrictions. 
+State  Restriction 
+Puerto Rico  Not eligible 
+ 
+CLOSING DOCUMENTATION 
+Closing docs may be ordered through Flagstar's Web Based Closing Docs (WBCD) service available on 
+Loantrac. Call (866) 945-9872 for questions pertaining to drawing Web Based Closing Docs. 
+ 
+ 
+V. Product Guidelines  3 of 3  Document #5821 
+Return to Top    12/16/2022 
+
+NEW PAGE

@@ -1,0 +1,256 @@
+VA Fixed-Rate and Adjustable-Rate Mortgage 
+PRIMARY RESIDENCE – PURCHASE & CASH-OUT REFINANCE1 
+ 
+Maximum  Maximum Loan  Minimum  Underwriting Engine & 
+Property Type 
+LTV  Amount 2  Credit Score 3  Required Response 
+ 
+1 to 4-Unit   Conforming 1-unit 
+580  DU – Approve or 
+PUD  Loan Limit   LPA – Accept 
+100%  
+Condo  Refer responses will be 
+$4,000,000  600  manually underwritten 
+Manufactured Home (double-wide) 
+1.  Maximum cash-in-hand: Follow AUS. 
+2.  Refer to the Loan Amounts section for additional information regarding borrowers with or without full entitlement. 
+3.  Loans with no Credit Score are allowed following the VA Lender’s Handbook.  Refer to the Underwriting section. 
+ 
+PROGRAM SUMMARY 
+The Veterans Administration loan program enables veterans and active duty personnel to purchase or 
+refinance a home with favorable loan terms. VA offers fixed and adjustable-rate mortgages that can 
+accommodate no down-payment on many purchase transactions. Refer to the VA Interest Rate Reduction 
+Refinance Loan (IRRRL), Doc. #5821 for borrowers who would like to refinance an existing VA loan into a 
+fixed-rate loan, a lower interest rate or shorter loan term without taking additional equity out of the property. For 
+all required guidelines and updates refer to the manuals through the VA website. 
+ 
+PRODUCTS OFFERED 
+Jumbo  DO/DU  ARM 
+Product  Loan Term 
+Allowed  ARM Plan  Disclosure 
+VA 10-Year Fixed  10 years  No  n/a  n/a 
+VA 10-Year Fixed (Jumbo)  10 years  Yes 4  n/a  n/a 
+VA 15-Year Fixed  15 years  No  n/a  n/a 
+VA 15-Year Fixed (Jumbo)  15 years  Yes 4  n/a  n/a 
+VA 20-Year Fixed  20 years  No  n/a  n/a 
+VA 20-Year Fixed (Jumbo)  20 years  Yes 4  n/a  n/a 
+VA 25-Year Fixed  25 years  No  n/a  n/a 
+VA 25-Year Fixed (Jumbo)  25 years  Yes 4  n/a  n/a 
+VA 30-Year Fixed  30 years  No  n/a  n/a 
+VA 30-Year Fixed (Jumbo)  30 years  Yes 4  n/a  n/a 
+VA 5/1 ARM5  30 years  Yes 4  VAARM  Doc. #9402 
+4.  The fixed-rate VA jumbo products have minimum loan amounts set to the conforming 1-unit loan limit plus $1. The VA 5/1 ARM product accepts both 
+conforming and jumbo loan amounts. 
+5.  Manufactured homes are not eligible for the ARM product.  Fixed-rate products only. 
+ 
+ELIGIBLE BORROWERS 
+Non-veterans are not eligible borrowers except as the spouse of an eligible veteran. Refer to the VA Website 
+for detailed guidelines. 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1 to 4-unit properties 
+V. Product Guidelines  1 of 5  Document #5820 
+Return to Top    12/16/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  VA Fixed-Rate and Adjustable-Rate Mortgage 
+•  Condominiums (refer to Chapter 16 of VA Pamphlet 26-7) 
+•  PUDs 
+•  Manufactured Homes 
+  Fixed-rate products only; not available with ARM products 
+o
+  Multiple-width homes only 
+o
+  No new construction; only homes already on a permanent foundation and properly converted to 
+o
+and taxed as real property 
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Single-wide and new construction Manufactured home 
+•  Cooperative 
+•  Working farm, ranch or orchard 
+ 
+LOAN AMOUNTS 
+Property Type  Maximum Loan Amount 
+All  $4,000,000 
+ 
+BORROWERS WITH FULL ENTITLEMENT 
+Refer to VA Circular 26-19-23 and Circular 26-19-30 for specific requirements. Essentially, for loans 
+greater than $144,000, the maximum guaranty amount as of January 1, 2020 will be 25% of the requested 
+loan amount without regard to the Freddie Mac conforming loan limit (CLL). 
+ 
+BORROWERS WITHOUT FULL ENTITLEMENT 
+Refer to VA Circular 26-19-23 and Circular 26-19-30 for specific requirements. Essentially, for loans 
+greater than $144,000, the maximum guaranty amount will be the lesser of: 1) 25% of the requested loan 
+amount, or 2) 25% of the Freddie Mac one-unit CLL minus the amount of any unrestored entitlement 
+previously used by the veteran. Loan amounts requested that do not include a 25% VA guaranty will 
+require additional down payment or equity from the borrower, and thus will not be eligible for maximum 
+financing. Refer to the VA Loan Limits webpage for annual county-specific guaranty limits. 
+ 
+CASH-OUT REFINANCE 
+Maximum Cash-In-Hand:  Follow AUS 
+ 
+SELLER CONTRIBUTIONS 
+All closing costs and discount points may be paid by the seller, regardless of the amount. All other seller 
+contributions are limited to 4% of the lesser of the purchase price or appraised value. 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible 
+ 
+CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM (CAIVRS) 
+All borrowers must be screened using HUD’s Credit Alert Interactive Voice Response System (CAIVRS). 
+Generally, any lien must be paid-off or existing delinquent account brought current. 
+ 
+V. Product Guidelines  2 of 5  Document #5820 
+Return to Top    12/16/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  VA Fixed-Rate and Adjustable-Rate Mortgage 
+APPROVED FHA LENDERS 
+If your company is FHA Approved and you have access to the FHA Connection, obtain CAIVRS there. 
+ 
+NON-FHA APPROVED LENDERS 
+Non-FHA participating lenders who are currently VA Approved with a VA Agent Identification Number may 
+apply for access from HUD’s CAIVRS FAQ page. If your company has not been issued a VA Agent 
+Identification Number, complete the VA CAIVRS Authorization Form, Doc. #9734 to order CAIVRS. 
+ 
+POINTS 
+The veteran can pay points. 
+QUALIFYING RATE 
+Note rate 
+ 
+QUALIFYING RATIOS 
+Follow AUS and Flagstar’s VA Underwriting Guidelines 
+ 
+UNDERWRITING 
+•  All loan applications will be underwritten in accordance with VA and Flagstar current guidelines. Refer 
+to Flagstar’s VA Underwriting Guidelines. 
+•  Non-traditional, alternative credit and no credit score loans are eligible and will follow the VA Lender’s 
+Handbook – VA Pamphlet 26-7. A credit score of 999 should be entered for those borrowers. 
+•  Refinance transactions require an existing lien. If no lien exists, VA financing is not permitted. 
+•  The note date for all refinance loans must be on after the later of: 
+  The date that is 210 days after the date on which the first monthly payment was made on the 
+o
+mortgage being refinanced, and 
+  The date on which six full monthly payments have been made on the mortgage being refinanced. 
+o
+ 
+For underwriting questions and support, email Government Underwriting Support or call (866) 945-9872. 
+ 
+ 
+RESIDUAL INCOME 
+Residual income is the amount of net income remaining to cover family living expenses (food, clothing, health 
+care, etc.) after deducting all debts and obligations, including monthly federal, state, and local income taxes, 
+Social Security and Medicare taxes, and monthly housing expenses. The following tables display the minimum 
+residual income required to qualify for a VA-guaranteed loan: 
+Residual Income by Region  Residual Income by Region 
+  for Loan Amounts $79,999 and less  for Loan Amounts $80,000 and greater 
+Family 
+Northeast  Midwest  South  West  Northeast  Midwest  South  West 
+Size 
+1  $390  $382  $382  $425  $450  $441  $441  $491 
+2  $654  $641  $641  $713  $755  $738  $738  $823 
+3  $788  $772  $772  $859  $909  $889  $889  $990 
+4  $888  $868  $868  $967  $1,025  $1,003  $1,003  $1,117 
+5  $921  $902  $902  $1,004  $1,062  $1,039  $1,039  $1,158 
+V. Product Guidelines  3 of 5  Document #5820 
+Return to Top    12/16/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  VA Fixed-Rate and Adjustable-Rate Mortgage 
+Residual Income by Region  Residual Income by Region 
+  for Loan Amounts $79,999 and less  for Loan Amounts $80,000 and greater 
+Family 
+Northeast  Midwest  South  West  Northeast  Midwest  South  West 
+Size 
+Add $75 for each additional member up to a  Add $80 for each additional member up to a 
+> 5 
+family of seven.  family of seven. 
+ 
+VA Regional State Breakdown 
+Connecticut  New Hampshire  New York  Rhode Island 
+Northeast  Maine  New Jersey  Pennsylvania  Vermont 
+Massachusetts       
+Illinois  Kansas  Missouri  Ohio 
+Midwest  Indiana  Michigan  Nebraska  South Dakota 
+Iowa  Minnesota  North Dakota  Wisconsin 
+Alabama  Georgia  North Carolina  Texas 
+Arkansas  Kentucky  Oklahoma  Virginia 
+South  Delaware  Louisiana  South Carolina  West Virginia 
+District of Columbia  Maryland  Tennessee  U.S. Virgin Islands 
+Florida  Mississippi     
+Alaska  Hawaii  Nevada  Utah 
+Arizona  Idaho  New Mexico  Washington 
+West 
+California  Montana  Oregon  Wyoming 
+Colorado       
+ 
+VA ALLOWABLE FEES AND CHARGES 
+Refer to Chapter 8 of VA Pamphlet 26-7 for closing costs that are allowed by VA to be paid by the borrower 
+and those that must be paid by the seller or lender. For information regarding Flagstar’s administrative fee, 
+please refer to Comprehensive List of Fees – Broker, Doc. #4618 or Comprehensive List of Fees – 
+Correspondent, Doc. #4619.  
+ 
+VA FUNDING FEE 
+Most veterans pay a funding fee. It is a percentage of the base loan amount and may be financed or paid by 
+the borrower or seller. The funding fee tables may be found on the VA website. 
+ 
+ADJUSTABLE RATE DETAILS 
+Interest Rate  5/1 ARM 
+Adjustment Caps  Initial: 1% up/down; Periodic: 1% up/down; Lifetime: 5% up 
+Margin  See Price Indication Sheet 
+Index  1-Year Constant Maturity Treasury (CMT) 
+Interest Rate Floor  The interest rate floor is equal to the Margin 
+5/1 ARM: Initial interest rate change date will occur within 60 to 66 months, depending on the 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+first payment date. See the table below. Interest rate will adjust every 12 months thereafter. 
+Conversion Option  None 
+Assumption  Subject to conditions, fees and rate adjustment 
+Negative Amortization  None 
+V. Product Guidelines  4 of 5  Document #5820 
+Return to Top    12/16/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  VA Fixed-Rate and Adjustable-Rate Mortgage 
+ 
+Initial Interest Rate Change Dates 6 
+First Payment Date  Initial Change Date 7 
+Jan. 1, Feb. 1, Mar. 1  April 1 
+Apr. 1, May 1, Jun. 1  July 1 
+Jul. 1, Aug. 1, Sep. 1  October 1 
+Oct. 1, Nov. 1, Dec. 1  January 1 
+6.  The initial interest rate change dates are also published on the daily price indication sheet. 
+7.  The change date is always the first day of the month. 
+ 
+STATE ELIGIBILITY 
+Available in the following states with restrictions. States not listed are available without restrictions. 
+State  Restriction 
+Puerto Rico  Not eligible 
+Texas refinance loans that must close under Section 50(a)(6) requirements are not eligible; 
+Texas  Texas refinance loans secured by 1 to 4-Unit properties are eligible up to 100% LTV as long 
+as the new loan is paying off only non-Section 50(a)(6) mortgage debt 
+ 
+CLOSING DOCUMENTATION 
+Closing docs may be ordered through Flagstar's Web-Based Closing Docs (WBCD) service available on 
+Loantrac. Call (866) 945-9872 for questions pertaining to drawing Web-Based Closing Docs. 
+ 
+V. Product Guidelines  5 of 5  Document #5820 
+Return to Top    12/16/2022 
+
+NEW PAGE

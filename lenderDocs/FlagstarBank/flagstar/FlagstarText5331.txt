@@ -1,0 +1,287 @@
+Agency 5/6, 7/6 & 10/6 SOFR ARMs 
+Mortgage insurance providers may have additional restrictions not listed within this document. Please refer to 
+each mortgage insurance company’s website for complete eligibility details. 
+PRIMARY RESIDENCE – PURCHASE AND RATE/TERM REFINANCE 
+Maximum  Underwriting Engine &  Minimum 
+Property Type  Maximum LTV 
+CLTV 1/HCLTV  Required Response  Credit Score 
+1-Unit  DU – Approve/Eligible  
+Warrantable Condo  95%  95%  Or  
+PUD  LPA– Accept 
+DU – Approve/Eligible  
+2-Unit  85%  85%  Or 
+NA 
+LPA - Accept 
+ 
+LPA – Accept 
+80%  80% 
+(Freddie Mac-eligible only) 
+3 to 4-Unit 
+DU – Approve/Eligible  
+75%  75%  Or       
+LPA – Accept 
+ 
+PRIMARY RESIDENCE – CASH-OUT REFINANCE  
+Maximum             Underwriting Engine &  Minimum 
+Property Type  Maximum LTV 
+CLTV 1 /HCLTV  Required Response  Credit Score 
+1-Unit  DU – Approve/Eligible  
+Warrantable Condo  80%  80%  Or       
+PUD  LPA – Accept 
+NA 
+DU – Approve/Eligible  
+2 to 4-Unit   75%  75%  Or      
+ LPA – Accept 
+ 
+SECOND HOME – PURCHASE & RATE/TERM REFINANCE 
+Maximum  Underwriting Engine &  Minimum 
+Property Type  Maximum LTV 
+CLTV 1 /HCLTV  Required Response  Credit Score 
+1-Unit  DU – Approve/Eligible  
+Warrantable Condo  90%  90%  Or   620 
+PUD  LPA - Accept 
+ 
+SECOND HOME – CASH-OUT REFINANCE 
+Maximum             Underwriting Engine &  Minimum 
+Property Type  Maximum LTV 
+CLTV 1 /HCLTV  Required Response  Credit Score 
+1-Unit   DU – Approve/Eligible  
+Warrantable Condo  75%  75%  Or        620 
+PUD  LPA – Accept 
+ 
+V. Product Guidelines  1 of 6  Document #5331 
+Return to Top    01/09/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Agency 5/6, 7/6 & 10/6 SOFR ARMs 
+INVESTMENT PROPERTY – PURCHASE 
+Maximum             Underwriting Engine &  Minimum 
+Property Type  Maximum LTV 
+CLTV 1 /HCLTV  Required Response  Credit Score 
+1-Unit  DU – Approve/Eligible  
+Warrantable Condo  85%  85%  Or      
+PUD   LPA – Accept 
+620 
+DU – Approve/Eligible  
+2 to 4-Unit  75%  75%  Or     
+  LPA – Accept 
+ 
+INVESTMENT PROPERTY – RATE/TERM REFINANCE 2 
+Maximum             Underwriting Engine &  Minimum 
+Property Type  Maximum LTV 
+CLTV 1 /HCLTV  Required Response  Credit Score 
+LPA – Accept 
+85%  85% 
+(Freddie Mac-eligible only) 
+1-Unit 
+Warrantable Condo  DU – Approve/Eligible  
+PUD  75%  75%  Or      
+620 
+ LPA – Accept 
+DU – Approve/Eligible  
+2 to 4-Unit  75%  75%  Or       
+LPA – Accept 
+ 
+INVESTMENT PROPERTY – CASH-OUT REFINANCE 2 
+Maximum             Underwriting Engine &  Minimum 
+Property Type  Maximum LTV 
+CLTV 1 /HCLTV  Required Response  Credit Score 
+1-Unit  DU – Approve/Eligible  
+Warrantable Condo  75%  75%  Or       
+PUD  LPA – Accept 
+620 
+DU – Approve/Eligible  
+2 to 4-Unit  70%  70%  Or       
+LPA – Accept 
+1.  Maximum CLTV refers to the maximum combined loan-to-value of drawn and outstanding liens secured by the subject property. Maximum HELOC CLTV 
+refers to the maximum potential combined loan-to-value of all liens using the full amount of the line of credit. All loans must meet the LTV, CLTV and 
+HELOC CLTV criteria.  
+2.  Investment Property loans sold to Freddie Mac are restricted to 7/6 and 10/6 ARM when borrower has more than one financed investment property. 
+PROGRAM SUMMARY 
+This is an intermediate term adjustable-rate mortgage loan program with an initial fixed rate period of 5, 7 or 10 
+years depending on the product selected. Upon the expiration of the fixed-rate term the program allows for 
+increases or decreases to the interest rate every six months. 
+ 
+PRODUCTS OFFERED 
+Product Name  Term  DO/DU ARM Plan  ARM Disclosure 
+Agency 5/6 SOFR ARM   30 years  FM GENERIC, 5 YR  Doc. #3383 or Equivalent 
+Agency 7/6 SOFR ARM   30 years  FM GENERIC, 7 YR  Doc. #3384 or Equivalent 
+V. Product Guidelines  2 of 6  Document #5331 
+Return to Top    01/09/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Agency 5/6, 7/6 & 10/6 SOFR ARMs 
+Product Name  Term  DO/DU ARM Plan  ARM Disclosure 
+Agency 10/6 SOFR ARM   30 years  FM GENERIC, 10 YR 
+LOAN AMOUNTS 
+MAXIMUM 
+Maximum standard conforming loan limits for 1 to 4-unit property (high-cost area limits, except for standard 
+AK, HI, and USVI, are not eligible under this program). 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1 to 4-unit properties 
+•  Fannie Mae/Freddie Mac-warrantable condominiums 
+•  Planned Unit Developments (PUDs) 
+•  Modular homes 
+   
+INELIGIBLE PROPERTY TYPES 
+•  Non-Fannie Mae/Freddie Mac-warrantable condominiums 
+•  Cooperative properties 
+•  Manufactured homes 
+ 
+MINIMUM CREDIT SCORES 
+Refer to the Product Eligibility Grids above. Mortgage insurers may have additional restrictions. All scores must 
+meet the credit score validation requirements outlined in the Conventional Underwriting Guidelines. 
+ 
+QUALIFYING RATE 
+•  5/6 ARM - Greater of fully-indexed or Note rate plus 2% 
+•  7/6 and 10/6 ARM - Greater of fully-indexed or Note rate 
+ 
+QUALIFYING RATIOS 
+Ratios are determined by Desktop Underwriter (DU) or Loan Product Advisor (LPA). Refer to mortgage 
+insurance companies for additional restrictions. 
+ 
+RESERVES 
+Reserves are determined by DU/LPA. 
+ 
+SUBORDINATE FINANCING 
+Refer to the Subordinate Financing section of the Conventional Underwriting Guidelines for details. 
+ 
+Community seconds subsidized subordinate financing eligible up to maximum CLTV/HCLTV as indicated in 
+eligibility grids above. Community seconds may be eligible from a state, local or municipal authority or agency, 
+a 501(c)(3) not-for-profit corporation, a tax exempt religious organization or the borrower’s employer. Flagstar 
+Bank must review all community second programs for eligibility. Refer to Community Seconds Programs, Doc. 
+#5932, for documentation requirements. 
+ 
+V. Product Guidelines  3 of 6  Document #5331 
+Return to Top    01/09/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Agency 5/6, 7/6 & 10/6 SOFR ARMs 
+INTERESTED PARTY CONTRIBUTIONS 
+Interested party contributions include funds contributed by the property seller, builder, real estate agent/broker, 
+mortgage lender, or any other party with an interest in the real estate transaction. Interested party contributions 
+may be used exclusively to cover closing costs and prepaid expenses. 
+ 
+INTERESTED PARTY CONTRIBUTION LIMITS 
+CLTV  Up to 75%  75.01 - 90%  90.01 – 95% 
+Primary Residence  Maximum 3% 
+Maximum 9%  Maximum 6% 
+Second Home 
+N/A 
+Investment Property  Maximum 2%  Maximum 2% 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible 
+ 
+UNDERWRITING 
+All loans must meet the parameters as set out in the Conventional Underwriting Guidelines. 
+ 
+TEXAS REFINANCE LOANS 
+All refinance loans in Texas will be evaluated against the criteria outlined in our Conventional Underwriting 
+Guidelines, Texas Refinances section to determine if the loan must be originated under the requirements of 
+Section 50(a)6 of the Texas Constitution.  Texas Home Equity loans are eligible under the program.  Refer to 
+Texas Homestead 50(a)(6) Refinance, Doc. #5907 for eligibility, documentation/disclosure, and title/closing 
+requirements. 
+ 
+MORTGAGE INSURANCE 
+STANDARD MORTGAGE INSURANCE GUIDELINES 
+All loans above 80% LTV require mortgage insurance coverage according to the following guidelines: 
+LTV  Coverage 
+90.01-95%  30% 
+85.01-90%  25% 
+80.01-85%  12% 
+ 
+NEW YORK PROPERTIES 
+See Conventional Underwriting Guidelines.  
+ 
+For Single Financed Mortgage Insurance (SFMI) and Lender Paid Mortgage Insurance (LPMI) eligibility see 
+Single Financed Mortgage Insurance (SFMI) & Lender Paid Mortgage Insurance (LPMI) Matrix, Doc. #5010. 
+ 
+   
+V. Product Guidelines  4 of 6  Document #5331 
+Return to Top    01/09/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Agency 5/6, 7/6 & 10/6 SOFR ARMs 
+STATE ELIGIBILITY 
+Available in the following states/territories with restrictions. States/territories not listed above are available 
+without restrictions. 
+State  Restriction  
+New York  Refer to the Mortgage Insurance section above for MI coverage calculation requirements.  
+Texas  See Texas Refinance Loans section above.  
+Puerto Rico  Not eligible 
+US Virgin Islands  MI not available 
+ 
+PREPAYMENT PENALTY 
+None 
+ 
+ADJUSTABLE RATE DETAILS 
+Interest Rate  5/6 ARM: Initial – 2% up/down; Subsequent – 1% up/down; Lifetime – 5% up 
+Adjustment Caps  7/6 and 10/6 ARMs: Initial – 5% up/down; Subsequent – 1% up/down; Lifetime – 5% up 
+Margin  See Price Indication Sheet 
+Index   30 Day SOFR (Secured Overnight Financing Rate) 
+Interest Rate Floor  The interest rate floor is equal to the margin 
+ 5/6 - The first change date is the 60th payment due date. There is a new Change Date every 
+6 months thereafter. 
+7/6 - The first change date is the 84th payment due date. There is a new Change Date every 6 
+Change Dates 5 
+months thereafter. 
+10/6 - The first change date is the 120th payment due date. There is a new Change Date 
+every 6 months thereafter. 
+Conversion Option  None 
+Assumption  Subject to conditions, fees and rate adjustment 
+Negative Amortization  None 
+ 
+CLOSING DOCUMENTATION – CORRESPONDENT TRANSACTIONS 
+Closing docs may be ordered through Flagstar’s Web Based Closing Docs (WBCD) service available in 
+Loantrac. 
+ 
+ALL LOANS 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series 
+•  Standard title commitment with all applicable endorsements, including the variable-rate 
+endorsement (Endorsement 6.1) 
+ 
+ 
+5/6, 7/6 & 10/6 SOFR ARMS 
+•  Fannie/Freddie multi-state Adjustable Rate Note, Form# 3442 
+•  Fannie/Freddie multi-state Adjustable Rate Rider, Form# 3142 
+ 
+ 
+IF APPLICABLE 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form# 3140 
+V. Product Guidelines  5 of 6  Document #5331 
+Return to Top    01/09/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Agency 5/6, 7/6 & 10/6 SOFR ARMs 
+•  Fannie Mae/Freddie Mac multi-state PUD Rider, Form# 3150 
+•  Fannie Mae/Freddie Mac multi-state 1-4 Family Rider, Form# 3170 (for 2 to 4-unit primary 
+residences and all investment property mortgages) 
+•  Fannie Mae/Freddie Mac multi-state Second Home Rider, Form# 3890 
+ 
+ 
+V. Product Guidelines  6 of 6  Document #5331 
+Return to Top    01/09/2023 
+
+NEW PAGE

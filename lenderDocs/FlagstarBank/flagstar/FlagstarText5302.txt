@@ -1,0 +1,242 @@
+Freddie Mac Fixed Rate 
+Mortgage insurers may have additional restrictions not listed within this document.  Please refer to each 
+mortgage insurance company’s Web site for complete eligibility details.  
+PRIMARY RESIDENCE – PURCHASE AND RATE/TERM REFINANCE  
+Maximum  Minimum  Underwriting Engine & 
+Property Type  Maximum LTV 
+CLTV/HCLTV 1  Credit Score  Required Response 
+1-Unit  
+DU – Approve/Eligible 
+Warrantable Condo  95%  95% 
+PUD  Or 
+NA 
+LPA – Accept 
+2-Unit  85%  85% 
+3 to 4-Unit  80%  80%  LPA – Accept 
+ 
+PRIMARY RESIDENCE – CASH-OUT REFINANCE 2   
+Maximum  Minimum  Underwriting Engine & 
+Property Type  Maximum LTV 
+CLTV/HCLTV 1  Credit Score  Required Response 
+1-Unit   DU – Approve/Eligible 
+Warrantable Condo  80%  80%  Or 
+PUD  LPA – Accept 
+NA 
+DU – Approve/Eligible 
+2 to 4-Unit  75%  75%  Or 
+LPA – Accept 
+ 
+SECOND HOME – PURCHASE & RATE/TERM REFINANCE 
+Maximum  Minimum  Underwriting Engine & 
+Property Type  Maximum LTV 
+CLTV/HCLTV 1  Credit Score  Required Response 
+1-Unit   DU – Approve/Eligible 
+Warrantable Condo  90%  90%  620  Or 
+PUD  LPA – Accept 
+ 
+SECOND HOME – CASH-OUT REFINANCE 
+Maximum  Minimum  Underwriting Engine & 
+Property Type  Maximum LTV 
+CLTV/HCLTV 1  Credit Score  Required Response 
+1-Unit   DU – Approve/Eligible 
+Warrantable Condo  75%  75%  620  Or 
+PUD  LPA – Accept 
+ 
+INVESTMENT PROPERTY – PURCHASE  
+Maximum  Minimum  Underwriting Engine & 
+Property Type  Maximum LTV 
+CLTV/HCLTV 1  Credit Score  Required Response 
+1-Unit  
+DU – Approve/Eligible 
+Warrantable Condo  85%  85% 
+PUD  620  Or 
+LPA – Accept 
+2 to 4-Unit  75%  75% 
+ 
+ 
+V. Product Guidelines  1 of 5  Document #5302 
+Return to Top    01/13/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Fixed Rate 
+INVESTMENT PROPERTY – RATE/TERM REFINANCE 
+Maximum  Minimum Credit  Underwriting Engine & 
+Property Type  Maximum LTV 
+CLTV/HCLTV1  Score  Required Response 
+1-Unit 
+Warrantable Condo  85%  85% 
+PUD  620  LPA – Accept 
+2 to 4-Unit  75%  75% 
+ 
+INVESTMENT PROPERTY – CASH-OUT REFINANCE 
+Maximum  Minimum  Underwriting Engine & 
+Property Type  Maximum LTV 
+CLTV/HCLTV 1  Credit Score  Required Response 
+1-Unit  
+DU – Approve/Eligible 
+Warrantable Condo  75%  75% 
+620  Or 
+PUD 
+LPA – Accept 
+2 to 4-Unit  70%  70% 
+1.  Maximum CLTV refers to the maximum combined loan-to-value of drawn and outstanding liens secured by the subject property. Maximum HCLTV refers 
+to the maximum potential combined loan-to-value of all liens using the full amount of the line of credit. All loans must meet the LTV, CLTV and HCLTV 
+criteria. 
+2.  Texas property primary residence cash-out transactions, or rate/term refinances with liens on title classified as Section 50(a)(6) cash-outs are limited to 
+80% LTV/CLTV/ HCLTV; refer to Texas Refinances section below for further details. 2 to 4-unit primary residence properties not eligible for cash-out in 
+Texas. 
+ 
+PROGRAM SUMMARY  
+Fixed rate and term, fully amortizing, conventional conforming first lien mortgage loan program. 
+ 
+PRODUCTS OFFERED 
+Product Name  Term  Buy-down Option  Manufactured Housing Allowed? 
+Freddie Mac 30-Year Fixed  30 years 
+Freddie Mac 27-Year Fixed  27 years 
+Freddie Mac 25-Year Fixed   25 years 
+Freddie Mac 22-Year Fixed  22 years 
+None  No 
+Freddie Mac 20-Year Fixed   20 years 
+Freddie Mac 15-Year Fixed  15 years 
+Freddie Mac 12-Year Fixed  12 years 
+Freddie Mac 10-Year Fixed  10 years 
+ 
+LOAN AMOUNTS 
+MAXIMUM 
+Maximum standard conforming loan limits for 1 to 4-unit property (high-cost area limits, except for standard 
+AK, HI, and USVI exceptions, are not eligible under this program). 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1 to 4-unit properties 
+•  Freddie Mac-/Fannie Mae-warrantable condominiums 
+V. Product Guidelines  2 of 5  Document #5302 
+Return to Top    01/13/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Fixed Rate 
+•  Planned Unit Developments (PUDs) 
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Manufactured homes 
+•  Cooperative properties 
+ 
+MINIMUM CREDIT SCORES 
+Refer to eligibility grid above.  Mortgage insurers may have additional restrictions.  Refer to each specific 
+mortgage insurance company’s website for complete eligibility details.  All scores must meet the credit score 
+validation requirements outlined in the Conventional Underwriting Guidelines. 
+ 
+QUALIFYING RATE 
+Note rate. 
+ 
+QUALIFYING RATIOS 
+Determined by Loan Product Advisor (LPA); refer to mortgage insurance company guidelines for additional 
+restrictions. 
+ 
+RESERVES 
+Determined by Loan Product Advisor (LPA). 
+ 
+SUBORDINATE FINANCING 
+Refer to the Subordinate Financing section of the Conventional Underwriting Guidelines for details. 
+ 
+INTERESTED PARTY CONTRIBUTIONS 
+Interested party contributions include funds contributed by the property seller, builder, real estate agent/broker, 
+mortgage lender, or any other party with an interest in the real estate transaction. Interested party contributions 
+may be used exclusively to cover closing costs and prepaid expenses. 
+INTERESTED PARTY CONTRIBUTION LIMITS 
+CLTV  Up to 75%  75.01-90%  90.01-95% 
+Primary Residences  Maximum 9%  Maximum 6%  Maximum 3% 
+Second Homes  Maximum 9%  Maximum 6%  n/a 
+Investment Property  Maximum 2%  Maximum 2%  n/a 
+ 
+TEMPORARY BUYDOWNS 
+Not allowed 
+ 
+UNDERWRITING 
+•  All loans must meet the parameters as set out in Flagstar’s current Residential Underwriting Guidelines. 
+•  Full project review required on Cash Out, greater than 80% LTV/CLTV 
+ 
+TEXAS REFINANCES 
+All refinance loans in Texas will be evaluated against the criteria outlined in our Conventional Underwriting 
+Guidelines, Texas Refinances section to determine if the loan must be originated under the requirements of 
+V. Product Guidelines  3 of 5  Document #5302 
+Return to Top    01/13/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Fixed Rate 
+Section 50(a)6 of the Texas Constitution.  Texas Home Equity loans are eligible under the program.  Refer to 
+Texas Homestead 50(a)(6) Refinance Doc. #5907 for eligibility, documentation/disclosure, and title/closing 
+requirements. 
+ 
+MORTGAGE INSURANCE 
+Mortgage insurance providers may have additional restrictions not listed within this document.  Due to rapid 
+changes within the industry, please refer to each mortgage insurance company's website for complete details.   
+ 
+STANDARD MORTGAGE INSURANCE GUIDELINES 
+All loans above 80% LTV require mortgage insurance coverage according to the following guidelines 
+LTV  25- & 30-year  10-, 15- & 20-year 
+90.01-95%  30%  25% 
+85.01-90%  25%  12% 
+80.01-85%  12%  6% 
+ 
+NEW YORK PROPERTIES  
+ See Conventional Underwriting Guidelines. 
+ 
+For Single Financed Mortgage Insurance (SFMI) and Lender Paid Mortgage Insurance (LPMI) eligibility see 
+Single Financed Mortgage Insurance – Lender Paid Mortgage Insurance, Doc. #5010. 
+ 
+STATE ELIGIBILITY 
+Available in the following states/territories with restrictions. States/territories not listed are available without 
+restrictions. 
+State  Restriction 
+Refer to Mortgage Insurance section above for mortgage insurance coverage calculation 
+New York 
+requirements. 
+Primary residence (“homestead”) cash-out refinance transactions (“Texas Home Equity”) 
+Texas 
+are allowed on single-family properties only - see Texas Refinances section above. 
+Puerto Rico  Not eligible.   
+ 
+PREPAYMENT PENALTY 
+None 
+ 
+CLOSING DOCUMENTATION – CORRESPONDENT TRANSACTIONS 
+Closing docs may be ordered through Flagstar’s Web-Based Closing Docs (WBCD) service available in 
+Loantrac. Please call (866) 945-9872 for questions pertaining to drawing Web-Based Closing Docs. 
+ 
+ALL LOANS: 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series 
+•  Fannie Mae/Freddie Mac multi-state Fixed Rate Note, 3200-series 
+•  Standard title commitment with all applicable endorsements 
+ 
+V. Product Guidelines  4 of 5  Document #5302 
+Return to Top    01/13/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Fixed Rate 
+IF APPLICABLE: 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form #3140 
+•  Fannie Mae/Freddie Mac multi-state PUD Rider, Form #3150 
+•  Fannie Mae/Freddie Mac multi-state 1-4 Family Rider, Form #3170, (for 2- to 4-unit primary 
+residences and all investment property mortgages) 
+•  Fannie Mae/Freddie Mac multi-state Second Home Rider, Form #3890 
+ 
+V. Product Guidelines  5 of 5  Document #5302 
+Return to Top    01/13/2023 
+
+NEW PAGE

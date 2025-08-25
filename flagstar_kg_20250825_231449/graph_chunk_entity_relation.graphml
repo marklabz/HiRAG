@@ -1,0 +1,1771 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="order" attr.type="long"/>
+<key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="description" attr.type="string"/>
+<key id="d4" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d3" for="node" attr.name="clusters" attr.type="string"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;HIGHER PRICED MORTGAGE LOANS&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Higher Priced Mortgage Loans (HPML) are consumer-purpose loans secured by a principal dwelling with an APR higher than specified benchmarks."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 17}]</data>
+</node>
+<node id="&quot;AVERAGE PRIME OFFER RATE&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Average Prime Offer Rate (APOR) is a benchmark rate published weekly by the Federal Reserve System to determine loan interest rates."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 17}]</data>
+</node>
+<node id="&quot;LOANTRAC&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Loantrac is a service or technology platform related to the management of loan documentation and processes, mentioned in connection with Flagstar's WBCD."&lt;SEP&gt;"Loantrac is a system used to manage mortgage loan processes, including tracking rates and statuses of loans."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226&lt;SEP&gt;chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 6}]</data>
+</node>
+<node id="&quot;FHA STREAMLINE REFINANCE&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"FHA Streamline Refinance is a government-backed refinance option that allows borrowers to refinance loans with minimal lender requirements."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 17}]</data>
+</node>
+<node id="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"VA Interest Rate Reduction Refinance Loan (IRRRL) is a product allowing veterans to refinance existing loans at lower interest rates."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 18}]</data>
+</node>
+<node id="&quot;SECOND MORTGAGE LOANS&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Second Mortgage loans are loans secured against a property that already has a mortgage, typically used for additional funding needs."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 17}]</data>
+</node>
+<node id="&quot;OCTOBER 1, 2009&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"October 1, 2009, is the effective date for all mortgage applications considered as Higher Priced Mortgage Loans (HPML)."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+</node>
+<node id="&quot;2025-08-25&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"2025-08-25 is the date on which the document titled Higher Priced Mortgage Loans (HPML) was extracted."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+</node>
+<node id="&quot;COMPLIANCE&quot;">
+  <data key="d0">"INDUSTRY"</data>
+  <data key="d1">"Compliance refers to the industry standards and regulations that govern mortgage loan process and eligibility criteria."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 24}]</data>
+</node>
+<node id="&quot;UNDERWRITING&quot;">
+  <data key="d0">"INDUSTRY"</data>
+  <data key="d1">"Underwriting is the process of evaluating the risk of insuring or lending money to a borrower based on various factors."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 21}]</data>
+</node>
+<node id="&quot;BORROWERS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Borrowers are individuals or entities that take out loans, particularly Higher Priced Mortgage Loans in this context."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+</node>
+<node id="&quot;INELIGIBLE PRODUCTS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Ineligible Products are loans that do not meet the criteria to be classified as Higher Priced Mortgage Loans (HPML)."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+</node>
+<node id="&quot;SYSTEM RESTRICTIONS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"System Restrictions refer to limitations imposed by the Loantrac system based on the characteristics of mortgage loans."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 6}]</data>
+</node>
+<node id="&quot;POLICIES AND PROCEDURES&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Policies and Procedures detail the guidelines and rules governing the processing and approval of Higher Priced Mortgage Loans."&lt;SEP&gt;"Policies and Procedures outlines the regulations and guidelines for loan assessment in mortgage lending."&lt;SEP&gt;"Policies and Procedures refers to the formal directives for practices guiding the management and processing of loans."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226&lt;SEP&gt;chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 21}]</data>
+</node>
+<node id="&quot;CORRESPONDENT LOCK-IN DATE&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Correspondent Lock-In Date is a specific date that corresponds with mortgage rate locking as confirmed by correspondents."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+</node>
+<node id="&quot;FUNDING&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Funding refers to the process of providing financial support for loans once they meet eligibility and processing criteria."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;CLOSING DOCUMENTS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Closing Documents refer to the paperwork required to finalize mortgage loans, ensuring all details are in compliance."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;CLEAR TO CLOSE STATUS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Clear to Close Status indicates that a loan has been approved and is ready for funding and closing procedures."&lt;SEP&gt;"Clear to Close Status indicates that all necessary documents and conditions for a mortgage loan have been satisfied, and the loan is ready for funding."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;ERROR MESSAGE&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Error Message refers to alerts generated by the Loantrac system when discrepancies about loan eligibility arise."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 20}]</data>
+</node>
+<node id="&quot;RATE LOCK&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Rate Lock is a process that ensures a borrower secures an interest rate for a specified period during the mortgage application process."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+</node>
+<node id="&quot;HPML&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"HPML stands for Higher Priced Mortgage Loans, which are consumer loans secured by a principal dwelling with specified interest rate thresholds."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 19}]</data>
+</node>
+<node id="&quot;CONSUMER-PURPOSE LOANS&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Consumer-purpose Loans are loans intended for individual consumers rather than businesses, often used for personal expenses."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+</node>
+<node id="&quot;SUBORDINATE-LIEN LOANS&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Subordinate-lien Loans are secondary loans secured against a property, which have lower priority compared to primary loans in the event of default."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+</node>
+<node id="&quot;LENDER CREDITS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Lender Credits refer to funds provided by a lender to cover closing costs, often used to assist borrowers in financing the cost of their loans."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 20}]</data>
+</node>
+<node id="&quot;ELIGIBLE PRODUCTS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Eligible Products are loans or mortgage options that meet criteria to qualify as Higher Priced Mortgage Loans (HPML)."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+</node>
+<node id="&quot;ADJUSTABLE RATE MORTGAGE (ARM)&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Adjustable Rate Mortgage (ARM) is a type of mortgage where the interest rate may change periodically based on changes in a corresponding financial index."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+</node>
+<node id="&quot;CONVENTIONAL LOANS&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Conventional Loans are mortgage loans that are not insured or guaranteed by the government, often having stricter eligibility criteria."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 19}]</data>
+</node>
+<node id="&quot;REFINANCE&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Refinance is the process of replacing an existing loan with a new loan, typically with better rates or terms."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+</node>
+<node id="&quot;PRE-PAYMENT PENALTY&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Pre-payment Penalty refers to a fee charged to a borrower for paying off a loan before its term ends."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+</node>
+<node id="&quot;DOC. #4801&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Doc. #4801 refers to a specific document that outlines the Qualified Mortgage section within the context of compliance for mortgage loans."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+</node>
+<node id="&quot;UNDERWRITING CONDITION&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Underwriting Condition refers to various criteria and requirements that must be met to approve a mortgage loan."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;ERROR FIXES&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Error Fixes are actions taken to correct discrepancies or issues with a loan application or processing."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 20}]</data>
+</node>
+<node id="&quot;POLICIES AND PROCEDURES DOCUMENT #4813&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Document #4813 outlines the policies and procedures relevant to handling Higher Priced Mortgage Loans (HPML)."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+</node>
+<node id="&quot;FINAL APPROVAL&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Final Approval is the last stage in the mortgage application process, confirming that the loan can be funded and closed."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;FUNDING REQUEST&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Funding Request is a formal appeal to provide financing for a loan once all underwriting conditions are fulfilled."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;INTEREST RATE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Interest Rate is a financial term that signifies the percentage of a loan charged as interest to the borrower, crucial in adjustable-rate mortgages like the 5/1 ARM."&lt;SEP&gt;"Interest Rate is the percentage charged on a loan or the return on savings, which influences loan affordability and terms."&lt;SEP&gt;"Interest Rate refers to the percentage charged on the loan amount, subject to adjustments based on the type of mortgage (fixed or adjustable)."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226&lt;SEP&gt;chunk-783c4782c02cd021bcdf3bdbcc5f3466&lt;SEP&gt;chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+</node>
+<node id="&quot;RATE LOCK EXTENSION&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Rate Lock Extension refers to the process of prolonging the duration of a locked interest rate on a mortgage loan."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Board of Governors of the Federal Reserve System is the central governing body of the Federal Reserve, responsible for overseeing the U.S. banking system and monetary policy, including publishing the Average Prime Offer Rate (APOR)."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+</node>
+<node id="&quot;INTEREST RATE LOCK&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Interest Rate Lock is an agreement between a borrower and a lender to secure a specified interest rate for a set period during the loan process."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 6}]</data>
+</node>
+<node id="&quot;LOAN APPROVAL&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Loan Approval is the official authorization granted by a lender after evaluating a loan application and confirming that it meets all criteria."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+</node>
+<node id="&quot;MORTGAGE APPLICATIONS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Mortgage Applications are formal requests made by borrowers to obtain financing for the purchase or refinance of real estate."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+</node>
+<node id="&quot;REGULATIONS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Regulations refer to rules and guidelines established by authorities governing financial practices, particularly in the lending industry."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 24}]</data>
+</node>
+<node id="&quot;CLOSING COSTS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Closing Costs are the fees and expenses paid by the borrower when finalizing a mortgage, including lender fees, escrow fees, and taxes."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 19}]</data>
+</node>
+<node id="&quot;PRINCIPAL DWELLING&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Principal Dwelling refers to the primary residence of a borrower, which is often used as collateral for a loan."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 17}]</data>
+</node>
+<node id="&quot;COMPLIANCE SECTION&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Compliance Section refers to the part of documentation that details the adherence to regulations and standards necessary for mortgage lending."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 24}]</data>
+</node>
+<node id="&quot; ATR/QM RULE&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"The ATR/QM Rule refers to the Ability-to-Repay and Qualified Mortgage Rule that establishes criteria lenders must follow to ensure borrowers can repay their loans."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+</node>
+<node id="&quot;CLEAR TO CLOSE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Clear to Close is a term used in the mortgage process to indicate that all necessary conditions have been met to finalize a loan."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 17}]</data>
+</node>
+<node id="&quot;LENDER FEES&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Lender Fees are costs charged by the lender as part of processing the mortgage loan, which can affect the overall cost of the loan."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 19}]</data>
+</node>
+<node id="&quot;FINAL APPROVAL CONDITIONS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Final Approval Conditions are specific requirements that must be met before a mortgage loan can receive final approval for closing and funding."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;SECTION 35 ERROR&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Section 35 Error refers to an error related to the Consumer Financial Protection Bureau's definitions of higher-priced mortgage loans, triggering a compliance issue."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 20}]</data>
+</node>
+<node id="&quot;USER RESTRICTIONS&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"User Restrictions refer to limitations placed on users within the Loantrac system, affecting their ability to perform certain actions based on loan details."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 6}]</data>
+</node>
+<node id="&quot;INTEREST RATE REDUCTION&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Interest Rate Reduction refers to the practice of lowering the percentage charged on a loan, which can enable better borrowing options for consumers."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 18}]</data>
+</node>
+<node id="&quot;1968 FAIR HOUSING ACT&quot;">
+  <data key="d0">"LAW"</data>
+  <data key="d1">"The 1968 Fair Housing Act is a landmark legislation that prohibits discrimination in housing, enhancing equal access to mortgage loans and housing opportunities."</data>
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 24}]</data>
+</node>
+<node id="&quot;HIGHER PRICED MORTGAGE LOAN&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Higher Priced Mortgage Loan is a specific classification of mortgage that is subject to additional regulations due to its higher interest rates."&lt;SEP&gt;"Higher Priced Mortgage Loan refers to a classification in mortgage lending that indicates a loan with higher interest rates, often requiring special regulations."</data>
+  <data key="d2">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 23}]</data>
+</node>
+<node id="&quot;DOCUMENT #4813&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Document #4813 is a reference identifier for the specific document outlining protocols regarding loans."&lt;SEP&gt;"Document #4813 is a reference number for specific internal documentation related to loan policies and procedures."</data>
+  <data key="d2">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 22}]</data>
+</node>
+<node id="&quot;10/17/2022&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"10/17/2022 is the date that likely references when the policies and procedures document was created or revised, indicating its relevance in time."&lt;SEP&gt;"10/17/2022 is the date when the referenced policies and procedures document was presumably created or updated."&lt;SEP&gt;"10/17/2022 refers to the date related to the policies and procedures documentation, indicating when it was issued or updated."</data>
+  <data key="d2">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 22}]</data>
+</node>
+<node id="&quot;OR&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"OR stands for Operational Research, which is a methodology used for decision-making and optimization in various fields, including finance and loan processing."</data>
+  <data key="d2">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 23}]</data>
+</node>
+<node id="&quot;POLICIES AND PROCEDURES 2 OF 2&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Policies and Procedures 2 of 2 is the title or identifier for the segment of documentation detailing the second part of policies regarding loan processing."</data>
+  <data key="d2">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 22}]</data>
+</node>
+<node id="&quot;LOAN&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Loan refers to a sum of money borrowed that is expected to be paid back with interest."</data>
+  <data key="d2">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 21}]</data>
+</node>
+<node id="&quot;MORTGAGE&quot;">
+  <data key="d0">"NORMAL_ENTITY"</data>
+  <data key="d1">"Mortgage is a type of loan specifically used to purchase real estate, where the property serves as collateral."</data>
+  <data key="d2">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d3">[{"level": 0, "cluster": 7}, {"level": 1, "cluster": 23}]</data>
+</node>
+<node id="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN (IRRRL)&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"The VA Interest Rate Reduction Refinance Loan (IRRRL) is a VA-guaranteed loan designed for refinancing existing VA loans, typically at a lower interest rate, offering reduced principal and interest payments."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+</node>
+<node id="&quot;FIXED-RATE MORTGAGES&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Fixed-Rate Mortgages are loan products offered under the IRRRL program that include various term lengths such as 10, 15, 20, 25, and 30 years."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+</node>
+<node id="&quot;ADJUSTABLE-RATE MORTGAGES&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Adjustable-Rate Mortgages are loan products that combine traditional and jumbo loan amounts, providing options like 5/1 CMT, but exclude manufactured homes."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+</node>
+<node id="&quot;HUD&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"HUD is the U.S. Department of Housing and Urban Development, responsible for overseeing and managing the Credit Alert Interactive Voice Response System (CAIVRS) used in the IRRRL process."&lt;SEP&gt;"HUD, the U.S. Department of Housing and Urban Development, oversees various housing-related programs, including the IRRRL process and manages the Credit Alert Interactive Voice Response System (CAIVRS)."&lt;SEP&gt;"The U.S. Department of Housing and Urban Development (HUD) is a government agency that oversees housing-related programs and initiatives, including the management of the IRRRL process and CAIVRS."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33&lt;SEP&gt;</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 18}]</data>
+</node>
+<node id="&quot;FLAGSTAR BANK&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Flagstar Bank is a financial institution that offers a variety of loan services, with a focus on manufactured home loans and refinancing programs, particularly under initiatives like the VA IRRRL program."&lt;SEP&gt;"Flagstar Bank is a financial institution that provides a range of loan services, including the management of manufactured home loans and refinancing programs, particularly under the VA IRRRL program."&lt;SEP&gt;"Flagstar Bank is a financial institution that services certain manufactured home loans under the VA IRRRL program, specifically for refinances of VA loans that it has serviced."&lt;SEP&gt;"Flagstar Bank is a financial institution that services loans under the VA Interest Rate Reduction Refinance Loan (IRRRL) program, offering refinancing options specifically for VA loans."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33&lt;SEP&gt;</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 19}]</data>
+</node>
+<node id="&quot;VA PAMPHLET 26-7&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"VA Pamphlet 26-7 provides guidelines and regulations relevant to VA loans, including the IRRRL program and borrower eligibility."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+</node>
+<node id="&quot;VA FUNDING FEE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The VA Funding Fee is a fee collected by the VA on each loan to cover potential losses and defaults, currently set at 0.5% for IRRRL loans."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+</node>
+<node id="&quot;CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM (CAIVRS)&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"CAIVRS is a system used for screening borrowers to check for loans that are delinquent or in default, critical for the IRRRL process."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;COMPUTATION WORKSHEET&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"The Computation Worksheet is a document required for submitting applications for the IRRRL, detailing necessary information for processing the loan."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;TEMPORARY BUYDOWNS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Temporary Buydowns refer to a financing arrangement in which the interest rate is reduced for an initial period, but are not eligible under the IRRRL program."&lt;SEP&gt;"Temporary Buydowns refer to a situation where the borrower pays a reduced rate of interest for a temporary period, but in the context of this document, these are not eligible under the IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 8}]</data>
+</node>
+<node id="&quot;ELIGIBILITY GUIDELINES&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"Eligibility Guidelines provide specific criteria regarding which types of properties, borrowers, and loan amounts are eligible for the IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 15}]</data>
+</node>
+<node id="&quot;VA REGIONAL OFFICE&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"The VA Regional Office is the location where certain IRRRL loans, particularly those over 30 days past due, must be processed and closed with prior approval."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 15}]</data>
+</node>
+<node id="&quot;CONDOMINIUMS&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Condominiums are types of eligible properties specified in the VA IRRRL guidelines that can be financed under the program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;PUDS&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Planned Unit Developments (PUDs) are also listed as eligible property types for financing under the VA IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;MANUFACTURED HOMES&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Manufactured Homes refer to homes that may be financed under the IRRRL program, though specific restrictions apply regarding eligibility, primarily for fixed-rate products only."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 8}]</data>
+</node>
+<node id="&quot;SINGLE WIDE MANUFACTURED HOME&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Single Wide Manufactured Homes are specified as ineligible for financing under the VA IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;COOPERATIVE&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Cooperatives are noted as ineligible property types under the VA IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;WORKING FARM, RANCH OR ORCHARD&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Working Farms, Ranches, or Orchards are identified as ineligible properties for the VA IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;VA LENDER'S HANDBOOK&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"The VA Lender's Handbook contains essential guidelines and instructions for VA loans, including underwriting requirements for the IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 15}]</data>
+</node>
+<node id="&quot;LOAN AMOUNTS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Loan Amounts refer to the total financing amount that can be approved under the IRRRL program, not exceeding specific limits set by the VA."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+</node>
+<node id="&quot;DISCOUNT POINTS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Discount Points are fees that lenders may charge, affecting the overall cost and interest rate of the VA IRRRL loans."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 14}]</data>
+</node>
+<node id="&quot;TRI-MERGE CREDIT REPORT&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"A Tri-Merge Credit Report is a comprehensive credit report from three bureaus required for assessing credit scores for potential borrowers in the IRRRL process."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;VA FORM 26-8923&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"VA Form 26-8923 is the Interest Rate Reduction Refinancing Loan Worksheet necessary for submitting applications under the IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;GOVERNMENT UNDERWRITING SUPPORT&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Government Underwriting Support is a resource for lenders to get assistance with underwriting questions related to VA IRRRL loans."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 15}]</data>
+</node>
+<node id="&quot;COMPREHENSIVE LIST OF FEES - BROKER&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"The Comprehensive List of Fees for Brokers details the various fees associated with VA loans and refinancing, including the administrative fees charged by Flagstar."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 14}]</data>
+</node>
+<node id="&quot;COMPREHENSIVE LIST OF FEES - CORRESPONDENT&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"The Comprehensive List of Fees for Correspondents provides fee details relevant to lenders participating in the VA loan program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;VA PAMPHLET 26-7 CHAPTER 8&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"Chapter 8 of VA Pamphlet 26-7 outlines the allowable fees and closing costs that can be charged to borrowers in VA loans, relevant for the IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;VA AGENT IDENTIFICATION NUMBER&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A VA Agent Identification Number is a unique identifier for lenders approved by the VA to facilitate access to necessary VA tools and resources."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 18}]</data>
+</node>
+<node id="&quot;RESOURCE FOR BORROWERS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Resource for Borrowers refers to the VA website and associated documents that provide eligibility and application information for the IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;VA FUNDING FEE RATE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The VA Funding Fee Rate is the percentage fee applied to VA loans, determined by various factors including the type of loan and borrower status."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;EXISTING VA LOAN BALANCE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The Existing VA Loan Balance refers to the total amount due on an active VA loan that can be refinanced through the IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;PRINCIPAL AND INTEREST PAYMENTS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Principal and Interest Payments are the components of loan payments that go towards the loan balance and the interest accrued, central to the structure of VA loans."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;ELIGIBILITY GUIDELINES DOCUMENT&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"The Eligibility Guidelines Document contains detailed information on which types of properties and borrowers qualify for the IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;UNDERWRITING REQUIREMENTS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Underwriting Requirements refer to the standards and criteria that lenders must follow when assessing loan applications for the IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 15}]</data>
+</node>
+<node id="&quot;LOAN PROCESSING GUIDELINES&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"Loan Processing Guidelines provide instructions on how to properly process loans under the IRRRL program, including necessary documentation and steps."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 15}]</data>
+</node>
+<node id="&quot;LOAN LIMITS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Loan Limits define the maximum amounts allowed for VA loans, which vary based on the number of units and other factors, impacting IRRRL eligibility."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+</node>
+<node id="&quot;PERMANENT FOUNDATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A Permanent Foundation is a requirement for certain types of properties, including manufactured homes, to be eligible for financing under the IRRRL program."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 8}]</data>
+</node>
+<node id="&quot;ACCURATE CREDIT SCORE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"An Accurate Credit Score is crucial for loan qualification under the IRRRL program, reflecting a borrower's creditworthiness and repayment ability."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;DIRECT TO VA REGIONAL OFFICE PROCESSING&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Direct to VA Regional Office Processing refers to the requirement that certain IRRRL loans, such as those over 30 days past due, must be submitted directly to a regional VA office for approval."</data>
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 15}]</data>
+</node>
+<node id="&quot;IRRRL&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"IRRRL (Interest Rate Reduction Refinancing Loan) refers to a type of loan with a funding fee of 0.5% and specific adjustable rate details."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+</node>
+<node id="&quot;5/1 ARM&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"5/1 ARM is an adjustable rate mortgage product where the interest rate is fixed for the first five years and adjusts thereafter according to specified caps and conditions."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+</node>
+<node id="&quot;FLAGSTAR&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Flagstar is a financial institution providing loan services including the ordering of closing documentation through its web-based platform."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 6}]</data>
+</node>
+<node id="&quot;PUERTO RICO&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Puerto Rico is a location mentioned in the context of state eligibility, indicating it is not eligible for certain loan products."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 9}]</data>
+</node>
+<node id="&quot;1-YEAR CONSTANT MATURITY TREASURY (CMT)&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"1-Year Constant Maturity Treasury (CMT) is the index used for determining interest rates on adjustable-rate products."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+</node>
+<node id="&quot;NEGATIVE AMORTIZATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Negative Amortization is a concept referring to a loan condition where the loan balance increases due to payments not covering the interest charged."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+</node>
+<node id="&quot;INTEREST RATE ADJUSTMENT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Interest Rate Adjustment pertains to the periodic changes in interest rates for loans such as the 5/1 ARM, occurring every 12 months after the initial period."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+</node>
+<node id="&quot;CLOSING DOCS&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"Closing Docs are necessary documentation ordered through Flagstar's WBCD service, which facilitates the closing of loans."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 6}]</data>
+</node>
+<node id="&quot;STATE ELIGIBILITY&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"State Eligibility refers to the criteria determining the availability of certain mortgage products based on geographical restrictions."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 9}]</data>
+</node>
+<node id="&quot;RATE FLOOR&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Rate Floor is a financial term indicating the minimum interest rate that can be applied on certain loan products."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+</node>
+<node id="&quot;ADJUSTMENT CAPS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Adjustment Caps refer to the limits on how much the interest rate can increase or decrease during specific adjustment periods for adjustable-rate mortgages."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+</node>
+<node id="&quot;MARGIN&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Margin is the additional amount added to the index value to determine the interest rate for adjustable-rate loans, noted in the price indication sheet."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+</node>
+<node id="&quot;INITIAL INTEREST RATE CHANGE DATE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Initial Interest Rate Change Date is the date when the first change in the interest rate occurs for the 5/1 ARM loan product after the initial fixed period."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;FIRST PAYMENT DATE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"First Payment Date refers to the date when the borrower is required to make their first payment on the loan following its disbursement."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;CHANGE DATES&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Change Dates are specific points in time outlined in loan documentation when interest rates adjust for products like the 5/1 ARM."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;FUNDING FEE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Funding Fee refers to a charge applied to the loan, specifically mentioned as one-half percent (0.5%) for the IRRRL, affecting the overall cost of borrowing."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+</node>
+<node id="&quot;CHANGE DATES TABLE&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Change Dates Table lists the scheduling of interest rate adjustments and important payment dates applicable to the 5/1 ARM loan."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+</node>
+<node id="&quot;TABLE 1&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Table 1 presents the interest rate and adjustment cap details for the 5/1 ARM, specifying its financial characteristics in structured format."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+</node>
+<node id="&quot;TABLE 2&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Table 2 provides a schedule of initial interest rate change dates and first payment dates relevant to loan processing for the 5/1 ARM."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+</node>
+<node id="&quot;TABLE 3&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Table 3 outlines the state-specific eligibility and restrictions that apply to the IRRRL and similar loan products."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;WBCD&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"WBCD (Web Based Closing Docs) is a service by Flagstar that allows users to order necessary documentation for closing loans effectively."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 6}]</data>
+</node>
+<node id="&quot;INTEREST RATE FLOOR&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Interest Rate Floor indicates the lowest level to which the interest rate on a loan can fall, ensuring borrowers do not benefit from a rate lower than the margin."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 10}]</data>
+</node>
+<node id="&quot;INITIAL CHANGE DATE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Initial Change Date marks the designated time when the interest rate for the adjustable-rate mortgage first changes after the introductory period."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;ADJUSTMENT CAP PERIODIC&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Adjustment Cap Periodic refers to the limitation on interest rate changes applicable during each adjustment period for adjustable-rate mortgages."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+</node>
+<node id="&quot;ADJUSTMENT CAP INITIAL&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Adjustment Cap Initial sets the maximum allowable increase or decrease in the interest rate for the first adjustment period of an adjustable-rate mortgage."</data>
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 12}]</data>
+</node>
+<node id="&quot;FEDERAL RESERVE SYSTEM&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Federal Reserve System, often referred to as the Fed, is the central banking system of the United States, responsible for regulating the U.S. monetary and financial system, and overseeing the implementation of national monetary policy."</data>
+  <data key="d2"></data>
+  <data key="d3">[{"level": 0, "cluster": 2}, {"level": 1, "cluster": 11}]</data>
+</node>
+<node id="&quot;ATR/QM RULE&quot;">
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d1">"The ATR/QM rule can categorize additional products as ineligible for HPML."</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 4}, {"level": 1, "cluster": 16}]</data>
+</node>
+<node id="&quot;LOAN APPLICATIONS&quot;">
+  <data key="d2">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d1">"Loan applications must be processed and approved before funding can be executed for HPMLs."</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;COMPONENTS OF LOAN AMOUNT&quot;">
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d1">"The total loan amount calculation must incorporate the VA funding fee, reflecting the comprehensive cost of borrowing."</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 13}]</data>
+</node>
+<node id="&quot;INELIGIBLE PROPERTY TYPES&quot;">
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d1">"Working farms, ranches, or orchards are specifically listed as ineligible property types for the IRRRL."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;VA ALLOWABLE FEES AND CHARGES&quot;">
+  <data key="d2">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d1">"Chapter 8 of VA Pamphlet 26-7 details allowable fees and charges associated with the IRRRL process."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;INITIAL INTEREST RATE CHANGE DATES&quot;">
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d1">"The tables summarize and support the timeline of interest rate changes, establishing a reference relationship."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;STATE RESTRICTION&quot;">
+  <data key="d2">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d1">"State eligibility is accompanied by state restrictions, making them interconnected.</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 9}]</data>
+</node>
+<edge source="&quot;HIGHER PRICED MORTGAGE LOANS&quot;" target="&quot;AVERAGE PRIME OFFER RATE&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Higher Priced Mortgage Loans (HPML) are defined based on the comparison of their APR to the Average Prime Offer Rate (APOR)."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HIGHER PRICED MORTGAGE LOANS&quot;" target="&quot;FHA STREAMLINE REFINANCE&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"FHA Streamline Refinance products are mentioned as ineligible if they fall into the HPML category."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HIGHER PRICED MORTGAGE LOANS&quot;" target="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"VA Interest Rate Reduction Refinance Loan is also listed as an ineligible product under HPML conditions."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HIGHER PRICED MORTGAGE LOANS&quot;" target="&quot;SECOND MORTGAGE LOANS&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Second Mortgage Loans are listed as ineligible products under HPML guidelines if they exceed the maximum allowable APR."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HIGHER PRICED MORTGAGE LOANS&quot;" target="&quot;LOAN APPROVAL&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Higher Priced Mortgage Loans must go through a specific loan approval process based on compliance with HPML guidelines."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HIGHER PRICED MORTGAGE LOANS&quot;" target="&quot;PRINCIPAL DWELLING&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Higher Priced Mortgage Loans are secured against a borrower’s principal dwelling for consumer purposes."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HIGHER PRICED MORTGAGE LOANS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Flagstar Bank offers services related to Higher Priced Mortgage Loans, indicating their involvement in this area of financial products."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;AVERAGE PRIME OFFER RATE&quot;" target="&quot;FEDERAL RESERVE SYSTEM&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The Average Prime Offer Rate (APOR) is published by the Federal Reserve System, which is the organization that oversees monetary policy in the U.S."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LOANTRAC&quot;" target="&quot;SYSTEM RESTRICTIONS&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Loantrac is involved in managing system restrictions for ineligible products when they exceed HPML APR requirements."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LOANTRAC&quot;" target="&quot;CLOSING COSTS&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Loantrac manages the closing costs that need to be aligned with HPML regulations for closing loans."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LOANTRAC&quot;" target="&quot;INTEREST RATE LOCK&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Loantrac manages the interest rate lock process to ensure compliance with HPML requirements."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LOANTRAC&quot;" target="&quot;CLOSING DOCS&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Closing documents may be ordered through the Loantrac platform, indicating a functional relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LOANTRAC&quot;" target="&quot;WBCD&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The WBCD service is integrated with Loantrac for closing document processing, establishing a functional link."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LOANTRAC&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.5</data>
+  <data key="d5">"Loantrac is a technology platform associated with the management of loan documentation that is utilized by Flagstar Bank for its loan services."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FHA STREAMLINE REFINANCE&quot;" target="&quot;CLEAR TO CLOSE&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"FHA Streamline Refinance loans must meet clear to close requirements to proceed."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FHA STREAMLINE REFINANCE&quot;" target="&quot;FEDERAL RESERVE SYSTEM&quot;">
+  <data key="d4">6.5</data>
+  <data key="d5">"FHA Streamline Refinance options are also influenced by the interest rates reported by the Federal Reserve System."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN&quot;" target="&quot;INTEREST RATE REDUCTION&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The VA Interest Rate Reduction Refinance Loan is linked to the concept of interest rate reduction in mortgage refinancing."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN&quot;" target="&quot;HUD&quot;">
+  <data key="d4">7.5</data>
+  <data key="d5">"The VA Interest Rate Reduction Refinance Loan (IRRRL) program is regulated by HUD, which sets the guidelines for such loans."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;SECOND MORTGAGE LOANS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Flagstar Bank may provide services related to Second Mortgage Loans as part of their loan offerings, indicating financial breadth."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;COMPLIANCE&quot;" target="&quot;POLICIES AND PROCEDURES&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Compliance is guided by specific policies and procedures that dictate the handling of HPML loans."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;COMPLIANCE&quot;" target="&quot;1968 FAIR HOUSING ACT&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Compliance with the 1968 Fair Housing Act is necessary when processing all loans, including HPMLs."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;COMPLIANCE&quot;" target="&quot;REGULATIONS&quot;">
+  <data key="d4">17.0</data>
+  <data key="d5">"Compliance is enforced through various regulations that govern the handling of mortgage loans, particularly HPMLs."&lt;SEP&gt;"Regulations dictate the compliance measures that need to be implemented for managing HPML loans."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;COMPLIANCE&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Compliance with industry standards is essential for Flagstar Bank in order to process loans effectively and legally."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;UNDERWRITING&quot;" target="&quot;POLICIES AND PROCEDURES&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Policies and procedures guide the underwriting process to ensure all loans comply with HPML standards."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;UNDERWRITING&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Underwriting processes are conducted by Flagstar Bank to assess borrower eligibility for loans, showcasing their operational procedures."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;BORROWERS&quot;" target="&quot;INELIGIBLE PRODUCTS&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Borrowers are affected by the conditions set for ineligible products that may prevent them from closing on HPML loans."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;BORROWERS&quot;" target="&quot;LOAN APPROVAL&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Borrowers must secure loan approval to ensure they qualify for the mortgage products offered, including HPMLs."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;BORROWERS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Borrowers seek loans and services from Flagstar Bank, which lends directly to individuals needing financing."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INELIGIBLE PRODUCTS&quot;" target="&quot;ATR/QM RULE&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The ATR/QM rule can categorize additional products as ineligible for HPML."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INELIGIBLE PRODUCTS&quot;" target="&quot;PRE-PAYMENT PENALTY&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Loans with a pre-payment penalty are categorized as ineligible products per HPML guidelines."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INELIGIBLE PRODUCTS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Flagstar Bank must identify Ineligible Products as part of their compliance and regulatory operations in mortgage lending."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;SYSTEM RESTRICTIONS&quot;" target="&quot;ERROR MESSAGE&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"System restrictions in Loantrac can cause an error message to be displayed for ineligible products exceeding HPML APR."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;SYSTEM RESTRICTIONS&quot;" target="&quot;USER RESTRICTIONS&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"User restrictions are placed in the Loantrac system based on the system restrictions applied to ineligible products."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;POLICIES AND PROCEDURES&quot;" target="&quot;COMPLIANCE SECTION&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The Compliance Section provides specific guidelines that need to be adhered to as part of the policies and procedures for handling HPMLs."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;POLICIES AND PROCEDURES&quot;" target="&quot;LOAN&quot;">
+  <data key="d4">18.0</data>
+  <data key="d5">"Policies and Procedures are established guidelines that apply to loans, including Higher Priced Mortgage Loans."&lt;SEP&gt;"The term LOAN is central to POLICIES AND PROCEDURES, indicating that these guidelines address the handling of various loans."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;POLICIES AND PROCEDURES&quot;" target="&quot;DOCUMENT #4813&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"DOCUMENT #4813 is associated with Policies and Procedures relevant to loans."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;POLICIES AND PROCEDURES&quot;" target="&quot;OR&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"OR is mentioned in the context of the Policies and Procedures for identifying Higher Priced Mortgage Loans."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FUNDING&quot;" target="&quot;FINAL APPROVAL&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Final approval is essential before funding can occur for loans classified as HPML."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FUNDING&quot;" target="&quot;LOAN APPLICATIONS&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Loan applications must be processed and approved before funding can be executed for HPMLs."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FUNDING&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Funding is a key function that Flagstar Bank performs for loans, reflecting their role in loan disbursement."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLOSING DOCUMENTS&quot;" target="&quot;CLEAR TO CLOSE STATUS&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Closing documents are linked to the clear to close status and cannot be approved until HPML APR conditions are met."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLOSING DOCUMENTS&quot;" target="&quot;FINAL APPROVAL&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Closing documents must meet the conditions of final approval for the loan process."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLOSING DOCUMENTS&quot;" target="&quot;RATE LOCK EXTENSION&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Rate lock extensions offer additional time to align closing documents with the expected HPML APR."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLOSING DOCUMENTS&quot;" target="&quot;FUNDING REQUEST&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Closing documents are necessary for submitting a funding request once the loan is approved."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLOSING DOCUMENTS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.5</data>
+  <data key="d5">"Closing Documents are ordered through Flagstar Bank's WBCD service, linking them directly to the functionality of this financial institution."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLEAR TO CLOSE STATUS&quot;" target="&quot;FINAL APPROVAL CONDITIONS&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Final approval conditions must be met before a loan can achieve clear to close status."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ERROR MESSAGE&quot;" target="&quot;ERROR FIXES&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Error messages indicate when action is needed to rectify issues in the loan process, prompting error fixes."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ERROR MESSAGE&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">6.5</data>
+  <data key="d5">"Error Messages generated during loan processing directly relate to Flagstar Bank's operational technology, indicating service dependability."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;RATE LOCK&quot;" target="&quot;INTEREST RATE&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The interest rate must be accurately locked to ensure compliance with HPML regulations."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;RATE LOCK&quot;" target="&quot;FEDERAL RESERVE SYSTEM&quot;">
+  <data key="d4">7.5</data>
+  <data key="d5">"Rate locking processes are affected by the interest rates set or influenced by the Federal Reserve System."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HPML&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Flagstar Bank deals with Higher Priced Mortgage Loans (HPML), reflecting their focus on specific loan categories."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LENDER CREDITS&quot;" target="&quot;ERROR FIXES&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Lender credits can be applied to fix errors related to HPML loans and their rate positioning."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LENDER CREDITS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">7.5</data>
+  <data key="d5">"Lender Credits are part of the services Flagstar Bank may offer to assist borrowers, linking them to client benefits."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ADJUSTABLE RATE MORTGAGE (ARM)&quot;" target="&quot;INTEREST RATE&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Adjustable Rate Mortgages (ARMs) are defined in relation to the interest rate and can affect HPML categorization."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ADJUSTABLE RATE MORTGAGE (ARM)&quot;" target="&quot;FEDERAL RESERVE SYSTEM&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The Federal Reserve System's interest rate decisions impact the functioning and conditions of adjustable-rate mortgages (ARMs)."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CONVENTIONAL LOANS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Flagstar Bank offers Conventional Loans among other mortgage products, indicating their variety in loan services."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;REFINANCE&quot;" target="&quot;FEDERAL RESERVE SYSTEM&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Refinancing decisions are influenced by prevailing interest rates, which are set by the Federal Reserve System's monetary policy."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;UNDERWRITING CONDITION&quot;" target="&quot;FINAL APPROVAL&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Final approval depends on meeting underwriting conditions specified for the loan category."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ERROR FIXES&quot;" target="&quot;SECTION 35 ERROR&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Section 35 errors result in certain fixes being necessary before moving forward with the loan process."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ERROR FIXES&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">6.5</data>
+  <data key="d5">"Error Fixes are managed within Flagstar Bank's loan processing, indicating their operational procedures and attention to detail."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FINAL APPROVAL&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Final Approval is a stage in the loan process overseen by Flagstar Bank, reflecting their involvement in mortgage applications."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FUNDING REQUEST&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.5</data>
+  <data key="d5">"Funding Requests are submitted to Flagstar Bank as part of the loan approval process, emphasizing their role in managing funds."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INTEREST RATE&quot;" target="&quot;LENDER FEES&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Lender fees may impact the overall interest rate, determining eligibility for HPML loans."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INTEREST RATE&quot;" target="&quot;ADJUSTABLE-RATE MORTGAGES&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"For adjustable-rate mortgages, the interest rate is subject to adjustments as defined in the loan agreements."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INTEREST RATE&quot;" target="&quot;FIXED-RATE MORTGAGES&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Fixed-rate mortgages feature a consistent interest rate throughout the life of the loan, providing stability for borrowers."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INTEREST RATE&quot;" target="&quot;5/1 ARM&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The 5/1 ARM defines the terms under which the interest rate will be adjusted, connecting these two concepts closely."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INTEREST RATE&quot;" target="&quot;RATE FLOOR&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The rate floor sets the minimum level for the interest rate, creating a direct link between them."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INTEREST RATE&quot;" target="&quot;NEGATIVE AMORTIZATION&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The absence of negative amortization affects how the interest rate is formulated, linking the two concepts."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INTEREST RATE&quot;" target="&quot;FEDERAL RESERVE SYSTEM&quot;">
+  <data key="d4">8.5</data>
+  <data key="d5">"Interest rates, including the Average Prime Offer Rate, are influenced and regulated by the Federal Reserve System's policies."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM&quot;" target="&quot;FEDERAL RESERVE SYSTEM&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The Board of Governors oversees the Federal Reserve System and is responsible for its governance."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LOAN APPROVAL&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Loan Approval is a process managed by Flagstar Bank, showcasing their role in the lending process."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;REGULATIONS&quot;" target="&quot;COMPLIANCE SECTION&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The compliance section outlines specific regulations that financial institutions must adhere to for HPMLs."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;REGULATIONS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.5</data>
+  <data key="d5">"Flagstar Bank must adhere to regulations governing mortgage lending, indicating their compliance obligations."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLOSING COSTS&quot;" target="&quot;LENDER FEES&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Closing costs encompass lender fees that are necessary for finalizing the loan transaction."</data>
+  <data key="d6">chunk-889bb036e55402548e1f5e0fcb109226</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLOSING COSTS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.5</data>
+  <data key="d5">"Closing Costs are a part of the mortgage process that Flagstar Bank informs borrowers about, demonstrating their customer service aspect."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;PRINCIPAL DWELLING&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.5</data>
+  <data key="d5">"Principal Dwelling is typically used as collateral for loans offered by Flagstar Bank, indicating their lending support and practices."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLEAR TO CLOSE&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Clear to Close status is issued by Flagstar Bank when a loan is ready to be finalized, reflecting their operational efficiency."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LENDER FEES&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">7.5</data>
+  <data key="d5">"Lender Fees charged by Flagstar Bank can impact the cost of loans, illustrating their role in loan economics."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FINAL APPROVAL CONDITIONS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">8.5</data>
+  <data key="d5">"Final Approval Conditions are required to be met by Flagstar Bank to facilitate loan closings, linking procedural compliance to their operations."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;USER RESTRICTIONS&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"User Restrictions are policies that may be enforced within Flagstar Bank's operational systems, addressing security and compliance aspects."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HIGHER PRICED MORTGAGE LOAN&quot;" target="&quot;OR&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"OR is used as a condition to determine if a loan qualifies as a Higher Priced Mortgage Loan."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HIGHER PRICED MORTGAGE LOAN&quot;" target="&quot;MORTGAGE&quot;">
+  <data key="d4">26.0</data>
+  <data key="d5">"A HIGHER PRICED MORTGAGE LOAN is a specific categorization within the broader category of MORTGAGE loans."&lt;SEP&gt;"A Higher Priced Mortgage Loan is specifically a type of mortgage that meets certain criteria."&lt;SEP&gt;"The term MORTGAGE encompasses all types of mortgage loans, including Higher Priced Mortgage Loans."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HIGHER PRICED MORTGAGE LOAN&quot;" target="&quot;DOCUMENT #4813&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"DOCUMENT #4813 includes guidelines regarding Higher Priced Mortgage Loans."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;DOCUMENT #4813&quot;" target="&quot;POLICIES AND PROCEDURES 2 OF 2&quot;">
+  <data key="d4">14.0</data>
+  <data key="d5">"DOCUMENT #4813 is the title of the documentation that outlines the Policies and Procedures related to loans."&lt;SEP&gt;"POLICIES AND PROCEDURES 2 OF 2 serves as a continuation or detailed section of DOCUMENT #4813."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;DOCUMENT #4813&quot;" target="&quot;10/17/2022&quot;">
+  <data key="d4">13.0</data>
+  <data key="d5">"The date 10/17/2022 likely indicates when DOCUMENT #4813 was created or last updated."&lt;SEP&gt;"The date 10/17/2022 refers to when DOCUMENT #4813 was created or last modified."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;DOCUMENT #4813&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Document #4813 pertains to policies that affect Flagstar Bank's operations in handling Higher Priced Mortgage Loans, linking procedural details to their practices."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;10/17/2022&quot;" target="&quot;POLICIES AND PROCEDURES 2 OF 2&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"The date 10/17/2022 is likely significant as it relates to the creation or revision of POLICIES AND PROCEDURES 2 OF 2."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;10/17/2022&quot;" target="&quot;LOAN&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"The date 10/17/2022 likely relates to the policies governing LOAN applications or classifications around that time."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;OR&quot;" target="&quot;POLICIES AND PROCEDURES 2 OF 2&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"POLICIES AND PROCEDURES 2 OF 2 is part of a document that uses OR in relation to evaluating loan qualifications."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LOAN&quot;" target="&quot;MORTGAGE&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"MORTGAGE is a specific type of LOAN used for purchasing real estate."</data>
+  <data key="d6">chunk-6baa5293c454b23773beb478dc4d7a71</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;LOAN&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Loans represent the core offering of Flagstar Bank, illustrating their primary business function."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;MORTGAGE&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Flagstar Bank provides mortgage services, indicating a direct service relationship with mortgage-related products."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN (IRRRL)&quot;" target="&quot;FIXED-RATE MORTGAGES&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"IRRRL offers fixed-rate mortgages as one of its refinancing options, providing a stable payment structure."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN (IRRRL)&quot;" target="&quot;ADJUSTABLE-RATE MORTGAGES&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"IRRRL includes adjustable-rate mortgages among its products, catering to different borrower needs."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN (IRRRL)&quot;" target="&quot;VA FUNDING FEE&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The VA funding fee is a requirement for the IRRRL, impacting the overall cost of the loan."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN (IRRRL)&quot;" target="&quot;VA PAMPHLET 26-7&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The IRRRL program is detailed in VA Pamphlet 26-7, which provides guidelines for VA loans."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN (IRRRL)&quot;" target="&quot;LOAN AMOUNTS&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"IRRRL specifies loan amounts that should not exceed certain limits established by the VA."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN (IRRRL)&quot;" target="&quot;GOVERNMENT UNDERWRITING SUPPORT&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Government Underwriting Support assists with the underwriting processes for the IRRRL, ensuring compliance with regulations."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA INTEREST RATE REDUCTION REFINANCE LOAN (IRRRL)&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Flagstar Bank offers the VA Interest Rate Reduction Refinance Loan (IRRRL) as a product for veterans to lower their interest rates on existing loans."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FIXED-RATE MORTGAGES&quot;" target="&quot;ADJUSTABLE-RATE MORTGAGES&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"These are the two primary types of mortgage products offered, each appealing to different financial situations and preferences."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FIXED-RATE MORTGAGES&quot;" target="&quot;VA FUNDING FEE&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Fixed-rate mortgages under the IRRRL also require the VA funding fee to be included in the loan process."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ADJUSTABLE-RATE MORTGAGES&quot;" target="&quot;VA FUNDING FEE&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Adjustable-rate mortgages through the IRRRL require the VA funding fee as part of their structure."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HUD&quot;" target="&quot;CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM (CAIVRS)&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"CAIVRS is a system overseen by HUD that screens borrowers for eligibility and compliance with VA loan requirements."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HUD&quot;" target="&quot;VA AGENT IDENTIFICATION NUMBER&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The VA Agent Identification Number is required for accessing CAIVRS, which is managed by HUD for loan processing."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HUD&quot;" target="&quot;VA LENDER'S HANDBOOK&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"The VA Lender’s Handbook contains information that is also relevant to HUD guidelines for approving VA loans."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;HUD&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">16.0</data>
+  <data key="d5">"HUD oversees housing-related programs, one of which includes the management of refinancing processes that Flagstar Bank participates in."&lt;SEP&gt;"HUD provides guidelines and oversight for financial institutions like Flagstar Bank that participate in the IRRRL program and ensure compliance with federal regulations."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FLAGSTAR BANK&quot;" target="&quot;MANUFACTURED HOMES&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Flagstar Bank is identified as the service provider for certain manufactured home transactions under the IRRRL program."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FLAGSTAR BANK&quot;" target="&quot;WBCD&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"WBCD is a service provided by Flagstar Bank that facilitates the closing of loans, showcasing their operational capabilities."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FLAGSTAR BANK&quot;" target="&quot;STATE ELIGIBILITY&quot;">
+  <data key="d4">7.5</data>
+  <data key="d5">"Flagstar Bank considers State Eligibility in offering mortgage products, linking their services with geographical areas."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FLAGSTAR BANK&quot;" target="&quot;VA REGIONAL OFFICE&quot;">
+  <data key="d4">7.8</data>
+  <data key="d5">"Flagstar Bank processes certain IRRRL loans that require approval through regional VA offices, linking the bank's operations to HUD's housing programs."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FLAGSTAR BANK&quot;" target="&quot;VA FUNDING FEE&quot;">
+  <data key="d4">8.5</data>
+  <data key="d5">"The VA Funding Fee is a fee charged on the IRRRL loans processed by Flagstar Bank, affecting the overall cost of the loans it services."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FLAGSTAR BANK&quot;" target="&quot;LOAN PROCESSING GUIDELINES&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Flagstar Bank must adhere to specific loan processing guidelines set by HUD to efficiently manage VA loans, including the IRRRL services."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FLAGSTAR BANK&quot;" target="&quot;FLAGSTAR BANK&quot;">
+  <data key="d4">7.5</data>
+  <data key="d5">"Flagstar Bank provides loan services including financial solutions related to housing, which aligns with HUD's oversight of housing programs."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA PAMPHLET 26-7&quot;" target="&quot;VA FUNDING FEE&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"VA Pamphlet 26-7 outlines the details regarding the VA funding fee applicable to IRRRLs and other VA loans."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA FUNDING FEE&quot;" target="&quot;LOAN AMOUNTS&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Loan amounts under the IRRRL are calculated by including the VA funding fee in the total financial assessment."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA FUNDING FEE&quot;" target="&quot;DISCOUNT POINTS&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The VA funding fee and any applied discount points directly influence the total borrowing cost for VA loans."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA FUNDING FEE&quot;" target="&quot;VA AGENT IDENTIFICATION NUMBER&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"A VA Agent Identification Number is required for lenders processing loans, including the management of funding fees."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA FUNDING FEE&quot;" target="&quot;COMPONENTS OF LOAN AMOUNT&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The total loan amount calculation must incorporate the VA funding fee, reflecting the comprehensive cost of borrowing."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA FUNDING FEE&quot;" target="&quot;ELIGIBILITY GUIDELINES&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The VA funding fee is affected by the eligibility guidelines that determine borrower qualifications for the IRRRL."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM (CAIVRS)&quot;" target="&quot;VA FORM 26-8923&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"VA Form 26-8923 is referenced for submission documentation regarding CAIVRS during the loan process."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM (CAIVRS)&quot;" target="&quot;TRI-MERGE CREDIT REPORT&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The tri-merge credit report is integral to the CAIVRS process as it provides a comprehensive view of the borrower's creditworthiness."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;COMPUTATION WORKSHEET&quot;" target="&quot;VA FORM 26-8923&quot;">
+  <data key="d4">16.0</data>
+  <data key="d5">"The computation worksheet is used alongside VA Form 26-8923 for determining borrower eligibility and loan amounts."&lt;SEP&gt;"VA Form 26-8923 is utilized in conjunction with the computation worksheet to assess eligibility and submission accuracy."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;TEMPORARY BUYDOWNS&quot;" target="&quot;MANUFACTURED HOMES&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Manufactured homes are specified as ineligible for temporary buydowns, influencing borrower options."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ELIGIBILITY GUIDELINES&quot;" target="&quot;VA LENDER'S HANDBOOK&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The VA Lender's Handbook provides detailed eligibility guidelines for various VA loans including the IRRRL."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ELIGIBILITY GUIDELINES&quot;" target="&quot;VA REGIONAL OFFICE&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The VA Regional Office is responsible for approving loans based on eligibility guidelines outlined for programs like the IRRRL."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA REGIONAL OFFICE&quot;" target="&quot;GOVERNMENT UNDERWRITING SUPPORT&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The VA Regional Office coordinates with Government Underwriting Support for additional documentation required for processes."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA REGIONAL OFFICE&quot;" target="&quot;LOAN PROCESSING GUIDELINES&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The VA Regional Office oversees adherence to loan processing guidelines to ensure compliance during the IRRRL application."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA REGIONAL OFFICE&quot;" target="&quot;UNDERWRITING REQUIREMENTS&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The VA Regional Office sets and oversees underwriting requirements for loans processed under the IRRRL."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA REGIONAL OFFICE&quot;" target="&quot;DIRECT TO VA REGIONAL OFFICE PROCESSING&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Direct processing to the VA Regional Office is required for loans needing additional approvals, ensuring thorough review."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;MANUFACTURED HOMES&quot;" target="&quot;PERMANENT FOUNDATION&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Manufactured homes must be on a permanent foundation to qualify for VA loans, as outlined in the guidelines."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;SINGLE WIDE MANUFACTURED HOME&quot;" target="&quot;INELIGIBLE PROPERTY TYPES&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Single wide manufactured homes are explicitly noted as ineligible for the IRRRL program per the guidelines."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;COOPERATIVE&quot;" target="&quot;INELIGIBLE PROPERTY TYPES&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Cooperatives are classified as ineligible for VA loans including the IRRRL, limiting financing options for buyers."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;WORKING FARM, RANCH OR ORCHARD&quot;" target="&quot;INELIGIBLE PROPERTY TYPES&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Working farms, ranches, or orchards are specifically listed as ineligible property types for the IRRRL."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA LENDER'S HANDBOOK&quot;" target="&quot;UNDERWRITING REQUIREMENTS&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The VA Lender's Handbook includes underwriting requirements necessary for loan approval under the IRRRL."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;DISCOUNT POINTS&quot;" target="&quot;COMPREHENSIVE LIST OF FEES - BROKER&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Discount points are included in the comprehensive list of fees and charges that can be applied to VA loans."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;TRI-MERGE CREDIT REPORT&quot;" target="&quot;ACCURATE CREDIT SCORE&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"A tri-merge credit report is needed to determine an accurate credit score, critical for processing IRRRLs."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;VA PAMPHLET 26-7 CHAPTER 8&quot;" target="&quot;VA ALLOWABLE FEES AND CHARGES&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Chapter 8 of VA Pamphlet 26-7 details allowable fees and charges associated with the IRRRL process."</data>
+  <data key="d6">chunk-c1e89cab5ceec2e12a42293f598e5c33</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;IRRRL&quot;" target="&quot;5/1 ARM&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"IRRRL funding fee is applicable to the 5/1 ARM, indicating a financial connection."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;IRRRL&quot;" target="&quot;FUNDING FEE&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The funding fee of 0.5% specifically applies to IRRRL loans, highlighting a financial relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;5/1 ARM&quot;" target="&quot;1-YEAR CONSTANT MATURITY TREASURY (CMT)&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The 5/1 ARM's interest rate is indexed to the 1-Year CMT, establishing a direct relationship between them."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;5/1 ARM&quot;" target="&quot;ADJUSTMENT CAPS&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The adjustment caps describe the limits on how much the 5/1 ARM interest rate can change, indicating a conditional relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;5/1 ARM&quot;" target="&quot;NEGATIVE AMORTIZATION&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Negative amortization is explicitly noted as 'None' for the 5/1 ARM, affecting borrower responsibilities."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;5/1 ARM&quot;" target="&quot;MARGIN&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The margin determines the interest rate floor for the 5/1 ARM, creating a financial basis for their relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;5/1 ARM&quot;" target="&quot;INTEREST RATE FLOOR&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The interest rate floor applies specifically to the 5/1 ARM, reinforcing their connection in loan terms."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;5/1 ARM&quot;" target="&quot;RATE FLOOR&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The rate floor is tied to the 5/1 ARM's interest rate specifications, creating a financial connection."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;5/1 ARM&quot;" target="&quot;FEDERAL RESERVE SYSTEM&quot;">
+  <data key="d4">7.5</data>
+  <data key="d5">"The 5/1 ARM's interest rates are responsive to adjustments made by the Federal Reserve System's monetary policy."</data>
+  <data key="d6"></data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FLAGSTAR&quot;" target="&quot;CLOSING DOCS&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Closing docs can be ordered through Flagstar's service indicating a procedural relationship between them."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;PUERTO RICO&quot;" target="&quot;STATE ELIGIBILITY&quot;">
+  <data key="d4">10.0</data>
+  <data key="d5">"Puerto Rico is specifically mentioned as not eligible for the product, highlighting a regulatory relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;1-YEAR CONSTANT MATURITY TREASURY (CMT)&quot;" target="&quot;INITIAL INTEREST RATE CHANGE DATE&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The interest rate change is influenced by the 1-Year CMT, indicating a financial relationship with specific change dates."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INTEREST RATE ADJUSTMENT&quot;" target="&quot;ADJUSTMENT CAP PERIODIC&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Periodic adjustments are referenced as part of the interest rate adjustments, indicating a cyclical relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INTEREST RATE ADJUSTMENT&quot;" target="&quot;MARGIN&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The margin directly influences how the interest rate is adjusted, indicating a financial relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INTEREST RATE ADJUSTMENT&quot;" target="&quot;ADJUSTMENT CAP INITIAL&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The adjustment cap initial serves as a limit for how much the interest rate can change, linking these concepts closely."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLOSING DOCS&quot;" target="&quot;WBCD&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The WBCD service is used for obtaining closing docs, highlighting an operational relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CLOSING DOCS&quot;" target="&quot;INITIAL INTEREST RATE CHANGE DATE&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Closing documents are relevant at the time of the initial interest rate change date, establishing a temporal connection."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;STATE ELIGIBILITY&quot;" target="&quot;STATE RESTRICTION&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"State eligibility is accompanied by state restrictions, making them interconnected.</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ADJUSTMENT CAPS&quot;" target="&quot;ADJUSTMENT CAP INITIAL&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The initial adjustment cap is included within the larger adjustment caps framework for the interest rate."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ADJUSTMENT CAPS&quot;" target="&quot;ADJUSTMENT CAP PERIODIC&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The periodic adjustment cap is a component of the overall adjustment caps for the interest rate, indicating a structural relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;ADJUSTMENT CAPS&quot;" target="&quot;TABLE 1&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Table 1 includes specific details on adjustment caps related to the interest rate, indicating a reference relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;MARGIN&quot;" target="&quot;INTEREST RATE FLOOR&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The interest rate floor is defined as equal to the margin, establishing a direct correlation between them."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INITIAL INTEREST RATE CHANGE DATE&quot;" target="&quot;CHANGE DATES&quot;">
+  <data key="d4">15.0</data>
+  <data key="d5">"Change dates are crucial for determining when the initial interest rate change takes effect, establishing a functional relationship."&lt;SEP&gt;"Initial interest rate change dates are aligned with the defined change dates, indicating a timeline relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;INITIAL INTEREST RATE CHANGE DATE&quot;" target="&quot;FIRST PAYMENT DATE&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The initial interest rate change date precedes the first payment date in the loan timeline, creating a chronological relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;FIRST PAYMENT DATE&quot;" target="&quot;INITIAL CHANGE DATE&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"The first payment date is linked with the initial change date timeline, establishing a sequential relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CHANGE DATES&quot;" target="&quot;INITIAL CHANGE DATE&quot;">
+  <data key="d4">14.0</data>
+  <data key="d5">"Initial change dates outlined relate directly to the defined change dates for interest rates."&lt;SEP&gt;"The initial change date is part of the broader set of change dates for the interest rate adjustments."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CHANGE DATES&quot;" target="&quot;TABLE 3&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Table 3 summarizes the restrictions for state eligibility, connecting these concepts through conditionality."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;CHANGE DATES TABLE&quot;" target="&quot;TABLE 1&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Table 1 outlines specific interest rate adjustment details, reflecting their interrelated content."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;TABLE 2&quot;" target="&quot;INITIAL INTEREST RATE CHANGE DATES&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The tables summarize and support the timeline of interest rate changes, establishing a reference relationship."</data>
+  <data key="d6">chunk-783c4782c02cd021bcdf3bdbcc5f3466</data>
+  <data key="d7">1</data>
+</edge>
+</graph></graphml>

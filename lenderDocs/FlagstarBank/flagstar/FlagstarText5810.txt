@@ -1,0 +1,323 @@
+FHA Fixed-Rate and Adjustable-Rate Mortgage 
+PRIMARY RESIDENCE – PURCHASE   
+Maximum  Maximum Loan  Minimum 
+Property Type 2  LTV  Amount 1  Credit Score  Underwriting Engine & Required Response 
+1-4 Unit 
+PUD  FHA Total Mortgage Scorecard  
+Condo  96.50%  Varies by County  580  DU – Approve or LPA – Accept 
+Manufactured Home  Refer responses will be manually underwritten 
+(double-wide) 
+ 
+PRIMARY RESIDENCE – RATE/TERM REFINANCE & SIMPLE REFINANCE 7 
+Maximum  Maximum Loan  Minimum 
+Property Type  LTV  Amount 3  Credit Score  Underwriting Engine & Required Response 
+1-4 Unit 
+PUD  FHA Total Mortgage Scorecard 
+Condo  97.75%  Varies by County  580  DU – Approve or LPA – Accept 
+Manufactured Home  Refer responses will be manually underwritten 
+(double-wide)  
+ 
+PRIMARY RESIDENCE – STREAMLINED REFINANCE 6 
+Refer to FHA Maximum Mortgage Worksheet –Streamline Refinance, Doc. #9347. 
+Minimum credit score is 580 for 1 to 4-Unit properties.  
+ 
+PRIMARY RESIDENCE – CASH-OUT REFINANCE    
+Maximum  Maximum Loan  Minimum 
+Property Type  LTV  Amount 4  Credit Score  Underwriting Engine & Required Response 
+1-4 Unit 
+FHA Total Mortgage Scorecard 
+PUD 
+5 DU – Approve or LPA – Accept 
+Condo  80%    Varies by County  580 
+Refer responses will be manually underwritten 
+Manufactured Home 
+ 
+(double-wide) 
+1.  Refer to FHA Purchase Maximum Mortgage Worksheet, Doc. #9328 for calculation of maximum purchase loan amount. 
+2.  Purchase transactions with a non-occupant co-borrower secured by 2 to 4-Unit properties are limited to a maximum 75% LTV. 
+3.  Refer to FHA Rate/Term Refinance Maximum Mortgage Worksheet, Doc. #9342 for calculation of maximum rate/term refinance loan amount. 
+4.  Refer to FHA Cash-Out Refinance Maximum Mortgage Worksheet, Doc. #9345 for calculation of maximum cash-out refinance loan amount. 
+5.  Maximum cash-in-hand: 1 – 4 unit Follow AUS.  
+6.  Second homes and investment properties permitted provided the new loan is not an ARM. 
+7.  All simple refinance loans MUST be registered under one of the FHA Simple Refi products (see PRODUCTS OFFERED below) by selecting a 
+Purpose type of “RATE & TERM REFINANCE (FHA TO FHA)” on the Loantrac Main Registration page. 
+ 
+PROGRAM SUMMARY 
+The Federal Housing Administration (FHA) provides mortgage insurance on loans made by FHA-approved 
+lenders throughout the U.S. FHA mortgage insurance provides lenders with protection against loss as the 
+result of homeowners defaulting on their mortgage loans. FHA offers both fixed- and adjustable-rate mortgages 
+that accommodate a low down payment from the borrower. 
+ 
+V. Product Guidelines  1 of 6  Document #5810 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Fixed-Rate and Adjustable-Rate Mortgage 
+PRODUCTS OFFERED 
+FIXED-RATE MORTGAGES 
+Traditional and jumbo loan amounts are separated into distinct products 
+•  10-year 
+•  15-year 
+•  20-year 
+•  25-year 
+•  30-year 
+ 
+ADJUSTABLE-RATE MORTGAGES 
+Traditional and jumbo loan amounts are combined into the same product 
+•  5/1 CMT 
+ 
+Distinct products are available for standard FHA transactions (most Section 203(b) loans), loans secured 
+by condominium properties (Section 234(c) loans), and Simple Refinance transactions. Simple Refinance 
+transactions MUST be registered using a Purpose type of “RATE & TERM REFINANCE (FHA TO FHA)” on 
+Loantrac’s Main Registration page. 
+ 
+ELIGIBLE BORROWERS 
+•  U. S. citizens and permanent resident aliens. 
+•  Non-permanent resident aliens may qualify (refer to HUD Handbook 4000.1) 
+•  Non-occupant co-borrowers: 
+  Purchase transactions are limited to 75% LTV when secured by 2-unit properties. 
+o
+  Not eligible on cash-out refinance transactions. 
+o
+ 
+ELIGIBLE PROPERTY TYPES 
+203(B) LOANS 
+•  1 to 4-unit property 
+•  PUD 
+•  Manufactured homes  
+  Fixed-rate products only; not available with ARM products 
+o
+  Multiple-width homes only 
+o
+  No new construction; only homes already on a permanent foundation and properly converted to 
+o
+and taxed as real property 
+  Refer to the FHA Underwriting Guidelines for additional manufactured home requirements 
+o
+  
+234(C) LOANS 
+•  Condominium must either be on the FHA Approved Condo list or  
+•  Receive a Single Unit approval 
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Manufactured home (single-wide) 
+•  Cooperative 
+V. Product Guidelines  2 of 6  Document #5810 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Fixed-Rate and Adjustable-Rate Mortgage 
+•  Working farm, ranch or orchard 
+ 
+LOAN AMOUNTS 
+MINIMUM LOAN AMOUNT 
+None 
+ 
+MAXIMUM LOAN AMOUNT 
+Maximum loan amount varies by county. Refer to the FHA Connection Website to determine the 
+geographic mortgage limits. 
+ 
+SELLER CONTRIBUTIONS 
+Maximum 6% seller contributions 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible 
+ 
+SUBORDINATE FINANCING 
+Refer to HUD Handbook 4000.1 for details. 
+ 
+CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM (CAIVRS) 
+All borrowers must be screened using the Credit Alert Interactive Voice Response System (CAIVRS) (except 
+on streamline refinances). FHA will not insure a loan if the borrower is currently delinquent on any unpaid 
+federal debt, or has had a claim paid within the previous three years. Prior to accessing CAIVRS you will need 
+each applicant’s Social Security Number. CAIVRS must be accessed through FHA Connection. This is a web-
+based system that requires prior approval through HUD. 
+ 
+QUALIFYING RATE 
+Note rate 
+ 
+QUALIFYING RATIOS 
+Refer to the Ratios section of our FHA Underwriting Guidelines. 
+ 
+SUBMISSION DOCUMENTATION 
+Refer to the Government Submission Review Checklist, Doc. #3205 for details. 
+ 
+FORMS AND DISCLOSURES 
+Refer to Government Forms and Disclosures, FHA Underwriting Guidelines for details. 
+ 
+APPRAISAL GUIDELINES 
+The appraisal must comply with all of FHA’s minimum property standards. Refer to the Appraisal section of our 
+FHA Underwriting Guidelines. 
+ 
+UNDERWRITING 
+For underwriting questions and underwriting support please contact Government Customer Support by calling 
+(866) 945-9872 or via email at governmentuw@flagstar.com. 
+V. Product Guidelines  3 of 6  Document #5810 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Fixed-Rate and Adjustable-Rate Mortgage 
+ 
+All loan applications will be underwritten to FHA’s Total Mortgage Scorecard and Flagstar current guidelines. 
+Refer to HUD Handbook 4000.1 and Flagstar’s FHA Underwriting Guidelines for Government Guidelines. 
+ 
+CREDIT SCORES 
+•  Non-traditional, alternative credit and no credit score loans are now eligible and will follow the FHA 
+Handbook 4000.1 
+•  Loans for borrowers with non-traditional credit are permissible; a credit score of 999 should be 
+entered for those borrowers. 
+ 
+RATE/TERM REFINANCES & SIMPLE REFINANCES 
+•  Loan must be current 
+•  New loan may include any accrued late charges/escrow shortages 
+•  Any cash back to borrower at closing may not exceed $500 
+•  Prepaid expenses may include per diem interest to end of month on new loan, hazard insurance 
+premium deposits, monthly MIP premium deposits and any real estate tax deposits needed for new 
+escrow account, regardless whether mortgagee refinancing the existing loan is also the servicing 
+lender for that mortgage 
+•  Simple refinances do not permit the paying out of equity to an ex-spouse or the payoff of 
+subordinate liens; if either of those situations is required, the loan must be treated as a regular 
+rate/term refinance and registered under the appropriate standard FHA product (not the Simple Refi 
+product) 
+•  Refer to the appropriate refinance worksheet to determine the maximum base loan amount: 
+  FHA Maximum Mortgage Worksheet – Rate & Term Refinance, Doc. #9342 
+o
+  FHA Maximum Mortgage Worksheet – Simple Refinance, Doc. #9346 
+o
+ 
+SUBORDINATE FINANCING AND CLTV 
+All subordinate financing, whether new or existing being re-subordinated, is subject to a CLTV limit of 
+97.75% (the FHA-insured first mortgage and any junior liens when added together). 
+ 
+STREAMLINE REFINANCES 
+•  Seasoning: at the time of loan application, the borrower must have made at least six payments on 
+the FHA-insured mortgage being refinanced 
+•  Payment history: for mortgages with less than a 12-month payment history, the borrowers have 
+made ALL payments in the month due; for mortgages with a 12-month payment history or greater, 
+no more than 1 x 30 in the past 12 months AND 0 x 30 for the three months prior to loan application 
+•  Net tangible benefit: refer to our FHA Underwriting Guidelines for information about the net tangible 
+benefit requirements 
+•  Refer to the streamline refinance worksheet to determine the maximum base loan amount: 
+  FHA Maximum Mortgage Worksheet –Streamline Refinance, Doc. #9347 
+o
+•  Second homes and investment properties permitted provided the new loan is not an ARM 
+ 
+SUBORDINATE FINANCING AND CLTV 
+Existing subordinate financing, in place at the time of case number assignment, must be 
+resubordinated to the streamline refinance. 
+ 
+V. Product Guidelines  4 of 6  Document #5810 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Fixed-Rate and Adjustable-Rate Mortgage 
+New subordinate financing is permitted only where the proceeds of the subordinate financing are used 
+to: 
+•  Reduce the principal amount of the existing FHA-insured mortgage, or 
+•  Finance the origination fees, other closings costs, or discount points associated with the 
+refinance 
+ 
+There is no maximum CLTV. 
+ 
+Mortgagees must contact the National Servicing Center for processing of any HUD held lien 
+subordination. 
+ 
+CASH-OUT REFINANCE 
+•  Maximum cash-in-hand for 1- to 4-unit properties: Follow AUS 
+•  Any co-borrower/co-signer added must occupy property; non-occupant co-borrowers are not 
+allowed 
+•  Borrowers who are delinquent or in arrears on their mortgage are not eligible for a cash-out 
+refinance 
+•  The property securing the cash-out refinance must have been owned and occupied by the borrower 
+as their primary residence for the 12 months prior to the date of case number assignment 
+•  The borrower must have made all payments for all their mortgages within the month due for the 
+previous 12 months or since the borrower obtained the mortgages, whichever is less 
+ 
+SUBORDINATE FINANCING AND CLTV 
+All subordinate financing, whether new or existing being re-subordinated, is subject to a CLTV limit of 
+80% (the FHA-insured first mortgage and any junior liens when added together). 
+ 
+In addition, the combined amount of the first mortgage and any junior liens must not exceed the 
+statutory loan limit for the county where the property is located. 
+ 
+ADP CODES 
+ 
+Loan Type  ADP Code 
+203(b) Fixed-Rate  703 
+203(b) ARM  729 
+234(c) Condo Fixed-Rate  734 
+234(c) Condo ARM  731 
+ 
+MORTGAGE INSURANCE 
+Upfront and monthly mortgage insurance premiums will be calculated according to the policies outlined in HUD 
+Handbook 4000.1. 
+ 
+ADJUSTABLE RATE DETAILS 
+ 
+Interest Rate 
+Initial: 1% up/down; Periodic: 1% up/down; Lifetime: 5% up 
+Adjustment Caps 
+Margin  See Price Indication Sheet 
+Index  1-Year Constant Maturity Treasury (CMT) 
+V. Product Guidelines  5 of 6  Document #5810 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA Fixed-Rate and Adjustable-Rate Mortgage 
+Interest Rate Floor  The interest rate floor is equal to the Margin 
+5/1 ARM: Initial interest rate change date will occur within 60 to 66 months, depending on the 
+Change Dates 
+first payment date. See table below. Interest rate will adjust every 12 months thereafter. 
+Conversion Option  None 
+Assumption  Subject to conditions, fees and rate adjustment 
+Negative 
+None 
+Amortization 
+ 
+Initial Interest Rate Change Dates 8 
+First Payment Date  Initial Change Date 9 
+Jan. 1, Feb. 1, Mar. 1  April 1 
+Apr. 1, May 1, Jun. 1  July 1 
+Jul. 1, Aug. 1, Sep. 1  October 1 
+Oct. 1, Nov. 1, Dec. 1  January 1 
+8.  The initial interest rate change dates are also published on the daily Price Indication Sheet. 
+9.  The change date is always the first day of the month. 
+ 
+ 
+STATE ELIGIBILITY 
+Available in the following states with geographic restrictions. States not listed are available without restrictions. 
+State  Restriction 
+Any loan receiving a DU verbal only response will still require full income and asset 
+Minnesota 
+documentation 
+Puerto Rico  Not eligible 
+Texas  Texas Section 50(a)(6) loans are not eligible 
+ 
+CLOSING DOCUMENTATION 
+Closing documents may be ordered through Flagstar's Web Based Closing Docs (WBCD) service available in 
+Loantrac. Please call (866) 945-9872 for questions pertaining to drawing Web-Based Closing Docs. 
+ 
+V. Product Guidelines  6 of 6  Document #5810 
+Return to Top    06/03/2022 
+
+NEW PAGE

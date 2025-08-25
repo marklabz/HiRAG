@@ -1,0 +1,453 @@
+One-Close Construction 
+RESTRICTED USE PROGRAM  
+All loan originators must complete Flagstar’s Construction Loan training course prior to originating any loans 
+under this program. Originators will not be able to register construction transactions without having completed 
+the course. 
+PRIMARY RESIDENCE – CONFORMING CONSTRUCTION/CONSTRUCTION-PERM 
+Maximum  Maximum  Minimum Credit   Underwriting Engine & AUS 
+Property Type 
+LTV 1  CLTV  Score   Response 
+1-Unit 
+89.99%  Subordinate  720 
+PUD 
+Financing Not  DU – Approve/Eligible 
+Site Condo 
+70%  Allowed  700 
+Modular 
+ 
+SECOND HOME CONSTRUCTION/CONSTRUCTION-PERM 1 
+Maximum  Maximum  Minimum Credit   Underwriting Engine & AUS 
+Property Type 
+LTV1   CLTV  Score   Response 
+1-Unit 
+Subordinate 
+PUD 
+80%  Financing Not  720  DU – Approve/Eligible 
+Site Condo 
+Allowed 
+Modular 
+ 
+PRIMARY RESIDENCE – HIGH BALANCE CONSTRUCTION/CONSTRUCTION-PERM  
+Maximum  Maximum  Minimum Credit   Underwriting Engine & AUS 
+Property Type 
+LTV 1  CLTV  Score   Response 
+1-Unit 
+Subordinate 
+PUD 
+89.99%  Financing Not  720  DU – Approve/Eligible 
+Site Condo 
+Allowed 
+Modular 
+ 
+SECOND HOME – HIGH BALANCE CONSTRUCTION/CONSTRUCTION-PERM  
+Maximum  Maximum  Minimum Credit   Underwriting Engine & AUS 
+Property Type 
+LTV 1  CLTV  Score   Response 
+1-Unit 
+Subordinate 
+PUD 
+80%  Financing Not  720  DU – Approve/Eligible 
+Site Condo 
+Allowed 
+Modular 
+1.  Loans with a loan to value of 70.01% and greater must be requalified at completion of construction. 
+ 
+PROGRAM SUMMARY 
+Conforming one-time close, nine or twelve month construction term program allowing for payment of interest-
+only during construction.  Major remodels and tear downs are ineligible.  Note to be modified upon completion 
+of improvements to a fully amortized principal and interest payment. Soft costs (architectural, engineering and 
+permit fees) may be financed.  Closing costs may only be financed if the loan purpose type is considered a 
+rate/term refinance as defined in the Loan Registration section.  Full third party builder contracts only.  All loans 
+close in the name of Flagstar Bank. 
+V. Product Descriptions  1 of 10  Document #5717 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  One-Close Construction 
+ 
+PRODUCTS OFFERED 
+Construction/Interest- Loan Term for 
+Product Name  Term 
+Only Period  Registration 
+One-Close Construction 30-Yr Conforming (9-mo Const)  30 years  9 months  369 
+One-Close Construction 30-Yr Conforming (12-mo Const)  30 years  12 months  372 
+One-Close Construction 15-Yr Conforming (9-mo Const)  15 years  9 months  189 
+One-Close Construction 15-Yr Conforming (12-mo Const)  15 years  12 months  192 
+One-Close Construction 30-Yr High Balance (9-mo Const)  30 years  9 months  369 
+One-Close Construction 30-Yr High Balance (12-mo Const)  30 years  12 months  372 
+One-Close Construction 15-Yr High Balance (9-mo Const)  15 years  9 months  189 
+One-Close Construction 15-Yr High Balance (12-mo Const)  15 years  12 months  192 
+ 
+LOAN REGISTRATION 
+•  Purpose type – Two loan purpose types are available for use under specific circumstances based on 
+the borrower’s ownership status of the lot at the time of  the first advance of construction financing 
+  “Construction” purpose type is used if the borrower is not the owner of record at the time of loan 
+o
+application and the borrower will not take title prior to the first advance of construction funds 
+(purchase) 
+  “Construction Permanent” purpose type is used if the borrower is the owner of record prior to 
+o
+the first advance of construction funds, regardless of length of time owned or how title was 
+acquired (rate/term refinance) 
+•  Loan term selection per table above 
+•  Prior to selecting interest rate the Construction Worksheet must be completed.  The worksheet can be 
+accessed by clicking on Add Loan Purpose Info within the loan registration module 
+•  Year built should be entered as the current year  
+•  Select Proposed in the building status field 
+•  All Loan Estimates will be prepared by Flagstar Disclosure Management 
+ 
+CONSTRUCTION TO PERM 
+Construction to Perm loans are treated as a rate/term refinance. 
+•  Complete construction worksheet (Add Loan Purpose Info) 
+•  Go to the Real Estate Owned section 
+  Using drop down for indicator select “SUBJECT OF LOAN” 
+o
+  Using drop down for Disposition select “RETAINED-WILL BECOME PRIMARY OR 
+o
+ADDITIONAL RESIDENCE” 
+  Enter the Estimated as completed Value in the Present Market value field.  Note: the Amt of 
+o
+Mtgs Liens field currently shows the value of the land.  This will be updated once the 
+Liabilities Section has been completed 
+•  In the Liabilities screen 
+  Enter the Builder’s Price to Build plus Unpaid Balance of Lot from the Construction 
+o
+Worksheet in the Balance field. The Amt of Mtgs liens field will update on the REO screen 
+  Be sure the paid by close box is selected 
+o
+V. Product Descriptions  2 of 10  Document #5717 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  One-Close Construction 
+•  Check Details of Transaction screen to verify that “line d” reflects the cost of construction  + 
+outstanding lot lien balance 
+•  Select Complete Registration to go to the products screen 
+ 
+See EXHIBIT A for further detail. 
+ 
+MAXIMUM LOAN AMOUNT CONFORMING 
+MAXIMUM   
+Conforming loan limits  
+ 
+MAXIMUM LOAN AMOUNT HIGH BALANCE 
+MAXIMUM   
+Subject to high-cost county loan limits 
+ 
+MINIMUM   
+Maximum conforming loan limits plus $1 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1-unit site-built homes 
+•  Planned unit development (PUD) 
+•  Modular home (constructed in sections off-site, but when installed at the site takes on the 
+characteristics of a site-built home) 
+•  Site condominium (detached), must be fee simple interest for land and dwelling 
+•  Rural Properties 
+•  Properties where construction has already begun. 
+  Confirmation is required that Flagstar’s first lien position is insurable by the title insurance 
+o
+provider for all construction completed prior to the closing of the loan. 
+•  Properties with up to 20 acres 
+  For properties >10 to 20 acres 
+o
+  Maximum 35% land to value 
+o
+  No income producing attributes   
+o
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Manufactured homes 
+•  2-4 unit properties 
+•  Lots in excess of 20 acres 
+•  Log homes 
+ 
+INELIGIBLE BORROWERS 
+Non-occupant co-borrowers 
+ 
+TEMPORARY BUYDOWNS 
+Not allowed 
+V. Product Descriptions  3 of 10  Document #5717 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  One-Close Construction 
+ 
+MINIMUM CREDIT SCORES: 
+Refer to eligibility grid above 
+ 
+QUALIFYING RATE:  
+Note rate, fully amortizing over 30 or 15 years 
+ 
+QUALIFYING RATIOS 
+Per DU 
+ 
+NUMBER OF PROPERTIES FINANCED 
+If the mortgage is secured by a second home and the borrower owns more than 6 financed properties, refer to 
+the Conventional Underwriting Guidelines. 
+ 
+TAX AND INSURANCE ESCROW 
+Escrows will be collected at time of closing for taxes and insurance.  When the actual real estate tax amount is 
+not available because the property is new construction (or major renovation), the qualifying taxes must be 
+based on the total acquisition cost based on the value of the land plus purchase price and improvements. 
+Refer to the Conventional Underwriting Guidelines for calculation method.  
+ 
+During construction, the borrower will make interest-only payments on the funds disbursed along with taxes 
+and insurance.  When the house is complete, the borrower’s payment will be modified to principal, interest, 
+taxes and insurance.  Mortgage insurance will be activated and the premium included in the modified monthly 
+payment.  This process will not affect those loans for which an escrow waiver is obtained. 
+ 
+Borrower must carry a builder’s risk policy until the property is eligible for standard homeowner insurance 
+policy. 
+ 
+PRICING 
+Refer to the Construction Price Indication Sheet for details.  
+ 
+CONSTRUCTION INTEREST RATE 
+Add 0.75% to permanent interest rate 
+ 
+FEES 
+Refer to the Construction & Renovation Lending for fee requirements. 
+ 
+ADDITIONAL FEES FOR TEXAS LOANS 
+Loans in Texas should take additional attorney fees into consideration when issuing initial disclosures 
+and may include a doc prep fee and fee for the preparation of mechanics lien note.  
+ 
+CONSTRUCTION GUIDES 
+Executed borrower acknowledgement must be in the loan file.  The construction guide and supporting 
+documentation can be found under Construction Forms.   
+ 
+V. Product Descriptions  4 of 10  Document #5717 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  One-Close Construction 
+Borrower and contractor must also be supplied with the appropriate State Statutory Form package and State 
+Draw Requirement Letter.  These can be found under Construction Forms.  
+ 
+FILE SUBMISSION 
+BUILDER/PROJECT PACKAGE 
+Builder/project packages must be submitted to: 
+Granite Loan Management, LLC 
+10770 Briarwood Ave., Suite 280 
+Centennial, CO 80112   
+Phone: (866) 380-9657 
+Fax: (800) 919-8912 
+Email: customerservice@graniteriskmanagement.com  
+ 
+CREDIT PACKAGE: 
+Credit packages must be submitted to underwriting through paperless loan submission. 
+ 
+APPRAISAL 
+All appraisals must be ordered through Flagstar Loantrac from an approved Appraisal Management Company 
+even if the customer has AIR Compliant status.  Please refer to the Construction and Renovation Guide. 
+ 
+UNDERWRITING 
+All loans must meet Fannie Mae underwriting criteria as set out in Flagstar Bank’s current Residential 
+Underwriting Guidelines if not addressed within this document.  All loans must be underwritten by Flagstar.   
+•  Project/builder will be reviewed by Granite Loan Management, LLC 
+•  Cost to construct must be documented by fully executed “arm’s length” third-party builder contract (or 
+up to two contracts for modular). No manufactured homes 
+•  Fourth-party transactions are not eligible 
+•  No alternate credit history 
+•  The LTV ratio will be calculated as follows: 
+  Construction purpose type (borrower not owner of record of lot):   
+o
+  Divide loan amount by the lesser of the total acquisition cost (sum of the cost of 
+construction plus the purchase price of the lot) or the as completed appraised value of the 
+property (lot and improvements) 
+  Construction to Perm purpose type (borrower is owner of record): 
+o
+  Divide loan amount by the as completed appraised value of the property (lot and 
+improvements) 
+  All payments made by the borrower directly to builder, or purchases of materials outside of the 
+o
+builder’s contract, will not be considered in the total acquisition cost calculation 
+•  If the lot was acquired within 120 days of loan application, acquisition funds must be documented 
+•  Sweat equity will not be accepted 
+•  $2,000 or 2% cash back to borrower is not eligible on this program 
+•  Escrows will be collected at time of closing for taxes and insurance. The amount collected will be based 
+on the current assessed value of the vacant land and the current tax rate. During construction, the 
+V. Product Descriptions  5 of 10  Document #5717 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  One-Close Construction 
+borrower will make interest-only payments on the funds disbursed along with taxes and insurance. When 
+the house is complete, the borrower’s payment will be modified to principal, interest, taxes and insurance. 
+This process will not affect those loans for which an escrow waiver is obtained 
+•  All new construction properties require 5% contingency funds based on the total cost of improvements, 
+excluding the cost/value of the land; the contingency may only be waived if the borrower can document 
+10% additional reserves after the down payment 
+•  Interest Reserve Accounts to pay interest during the Construction Period are not eligible.  Borrower 
+must make an interest-only payment during the construction period 
+•  Credit documents must be dated within 120 days of the closing date 
+•  Appraisal must be dated within 120 days of the closing date 
+ 
+DU FINDINGS/RISK ELIGIBILITY: FOR CONSTRUCTION TO PERM 
+•  DU response must reflect Approve Eligible.  Approve/Ineligible findings are acceptable only if the 
+reason for ineligibility is for detached condominium as a property type   
+•  See Exhibit A for REO entries 
+•  Findings must reflect 
+  “This loan casefile has been underwritten as a limited cash-out refinance” 
+o
+  “For single-closing construction-to-permanent financing, special feature code 151 must be 
+o
+provided at delivery” 
+ 
+SPECIAL FEATURE CODES 
+•  Loan must include Special Feature Code 151 
+•  If the borrower purchased the property prior to the closing of the construction loan transaction, 
+Special Feature Code 007 must be added by the underwriter  
+•  Properties secured by a site condo must include SFC 917 
+ 
+RESERVES  
+Per DU 
+ 
+MORTGAGE INSURANCE 
+Mortgage insurance commitment must be issued prior to closing of loan and be for a minimum of 12 months.  
+Mortgage insurance providers may have additional restrictions not listed within the document.  Due to rapid 
+changes within the industry, please refer to each mortgage insurance company’s website for complete details.   
+ 
+STANDARD MORTGAGE INSURANCE GUIDELINES 
+All loans above 80% LTV require mortgage insurance coverage according to the following guidelines. 
+LTV  30-Year  15-Year 
+85.01 – 89.99%  25%  12% 
+80.01 – 85%  12%  6% 
+ 
+Mortgage insurance is to be obtained from Enact (fka Genworth) and must be activated at completion of 
+construction and prior to shipping.   
+ 
+Mortgage insurance effective date must be entered to match the expected end of the construction term to 
+ensure proper disclosures and servicing boarding. 
+V. Product Descriptions  6 of 10  Document #5717 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  One-Close Construction 
+ 
+NEW YORK PROPERTIES 
+See Conventional Underwriting Guidelines. 
+ 
+FLOOD INSURANCE 
+A flood policy is required for any loan in a flood zone. 
+•  The full policy must be issued prior to building vertically 
+•  This may take up to 30 days for the agent to provide 
+•  No exceptions will be issued. 
+ 
+TITLE INSURANCE 
+Long-form title insurance must be obtained for all construction loans; short-form title policies are not 
+acceptable. 
+ 
+Title updates are required at the time of each draw. Ensure when you request your title quote that the title 
+company understands the quote is for a construction loan. Long-form title is required, and the title quote must 
+include the cost of endorsements required with each draw.  
+ 
+For properties located in Illinois, all title commitments, updates and final policies must be provided by: 
+•  First American Title 
+•  Fidelity National Title 
+•  Chicago Title 
+•  Attorneys Title Guaranty 
+ 
+For a smoother draw process with your construction loans you may wish to use one of these companies in all 
+eligible states. 
+ 
+EXTENSIONS OF CONSTRUCTION PERIOD 
+Refer to the Construction & Renovation Lending for fee requirements.   
+ 
+INTEREST RATE MODIFICATION REQUESTS 
+During times of improved market rates available at the completion of construction, an interest rate 
+modification may be eligible by request.  Modifications must be requested prior to conversion of the loan to 
+the fully amortized period.  Contact the Construction Department for the current policy as project nears 
+completion of construction. 
+ 
+STATE ELIGIBILITY 
+State/Territory  Restriction 
+Puerto Rico  Not eligible 
+Virgin Islands  Not eligible 
+ 
+CLOSING DOCUMENTATION 
+Closing Disclosures and closing documents will be prepared by Closing Services.  Interim interest is not 
+collected at closing.  Loans closing within the first 7 days of the month cannot be closed with an interest credit. 
+V. Product Descriptions  7 of 10  Document #5717 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  One-Close Construction 
+ 
+Maximum draw request from builder at closing is capped at 10% or $50,000 of the total cost to build, whichever 
+is less.  No further draws can occur until closing package has been received and post-closed by Flagstar Bank 
+(usually 10 business days). 
+   
+   
+V. Product Descriptions  8 of 10  Document #5717 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  One-Close Construction 
+EXHIBIT A 
+When registering a Construction to Perm loan, after completing the Loan Purpose screen, some of the 
+information must be manually entered into the REO and LIABILITIES screens.  The Estimated “As completed” 
+Appraisal is the present market value on the REO screen.  The Unpaid Balance of Lot plus Builder’s Price to 
+Build from the Construction worksheet is entered in the Liabilities balance field and marked as Paid by Close. 
+ 
+ 
+ 
+ 
+  
+ 
+V. Product Descriptions  9 of 10  Document #5717 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  One-Close Construction 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+V. Product Descriptions  10 of 10  Document #5717 
+Return to Top    01/27/2023 
+
+NEW PAGE

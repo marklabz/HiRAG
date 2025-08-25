@@ -1,0 +1,189 @@
+FHA 203(h) - Disaster Victims Mortgage 
+ 
+PRIMARY RESIDENCE – PURCHASE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  Loan Amount  Credit Score  Required Response 
+1-Unit  FHA Total Mortgage Scorecard 
+Varies by 
+PUD  100% 1  580  DU – Approve or LPA – Accept 
+County 
+Condo  Refer responses will be manually underwritten 
+1.  The total LTV can exceed 100% when financing the upfront mortgage insurance premium (UFMIP). 
+ 
+PROGRAM SUMMARY 
+The FHA 203(h) program is a special mortgage insurance program to assist disaster victims whose previous 
+residence has been destroyed or damaged to such an extent that replacement is necessary. 
+ 
+PRODUCTS OFFERED 
+FIXED-RATE MORTGAGES 
+Traditional and jumbo loan amounts are separated into distinct products: 
+•  10-year 
+•  15-year 
+•  20-year 
+•  25-year 
+•  30-year 
+ 
+ADJUSTABLE-RATE MORTGAGES 
+Traditional and jumbo loan amounts are combined into the same product: 
+•  5/1 CMT 
+ 
+ELIGIBLE BORROWERS 
+•  U. S. citizens and permanent resident aliens 
+•  Non-permanent resident aliens may qualify (refer to HUD Handbook 4000.1) 
+•  Non-occupant co-borrowers 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1-unit 
+•  PUD 
+•  Condominium (prior approval by FHA Field Office is required) 
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Manufactured home 
+•  Cooperative 
+•  Working farm, ranch or orchard 
+ 
+V. Product Guidelines  1 of 4  Document #5811 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA 203(h) - Disaster Victims Mortgage 
+LOAN AMOUNTS 
+MINIMUM LOAN AMOUNT 
+None 
+MAXIMUM LOAN AMOUNT 
+Maximum loan amount varies by county. Refer to the FHA Connection website to determine the geographic 
+mortgage limits. 
+ 
+SELLER CONTRIBUTIONS 
+6% maximum seller contributions 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible 
+ 
+SUBORDINATE FINANCING 
+Refer to the Secondary Financing section of our FHA Underwriting Guidelines for details. 
+ 
+CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM (CAIVRS) 
+All borrowers must be screened using the Credit Alert Interactive Voice Response System (CAIVRS). FHA will 
+not insure a loan if the borrower is currently delinquent on any unpaid federal debt, or has had a claim paid 
+within the previous three years. Prior to accessing CAIVRS you will need each applicant’s Social Security 
+Number. CAIVRS must be accessed through FHA Connection. This is a web-based system that requires prior 
+approval through HUD. 
+ 
+QUALIFYING RATE 
+Note Rate 
+ 
+QUALIFYING RATIOS 
+Refer to the Ratios section of our FHA Underwriting Guidelines. 
+ 
+SUBMISSION DOCUMENTATION 
+Refer to the Government Submission Review Checklist, Doc. #3205 for details. 
+ 
+FORMS AND DISCLOSURES 
+Refer to Government Forms and Disclosures, Doc. #9005 for details. 
+ 
+APPRAISAL GUIDELINES 
+The appraisal must comply with all of FHA’s minimum property standards. Refer to the Appraisal section of our 
+FHA Underwriting Guidelines. 
+ 
+UNDERWRITING 
+For underwriting questions and underwriting support please contact Government Customer Support by calling 
+(866) 945-9872 or via email at governmentuw@flagstar.com. 
+ 
+All loan applications will be underwritten to FHA’s Total Mortgage Scorecard and Flagstar current guidelines. 
+Refer to HUD Handbook 4000.1 and Flagstar’s FHA Underwriting Guidelines for Government Guidelines. 
+ 
+V. Product Guidelines  2 of 4  Document #5811 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA 203(h) - Disaster Victims Mortgage 
+The borrower must provide conclusive evidence that their previous residence was located in a disaster area 
+and was destroyed or damaged to such an extent that replacement is necessary. Documentation showing a 
+permanent residence in the affected area before the disaster includes a valid driver’s license, a voter 
+registration card, utility bills, etc. Documentation regarding destruction of the residence may include an 
+insurance report, an inspection report by an independent fee inspector or government agency or conclusive 
+photographic evidence showing the destruction or damage. The borrower may have been the owner or a renter 
+of the property affected. 
+ 
+The borrower’s application for mortgage insurance must be submitted to the lender within one year of the 
+President’s declaration of the disaster. 
+ 
+CREDIT SCORES 
+•  Non-traditional, alternative credit and no credit score loans are now eligible and will follow the FHA 
+Handbook 4000.1 
+•  Loans for borrowers with non-traditional credit are permissible; a credit score of 999 should be 
+entered for those borrowers. 
+ 
+ADP CODES 
+•  703 – 203(h) Fixed Rate. 
+•  729 – 203(h) ARM. 
+ 
+MORTGAGE INSURANCE PREMIUM (MIP) 
+Upfront and monthly mortgage insurance premiums will be calculated according to the policies outlined in HUD 
+Handbook 4000.1. The total LTV can exceed 100% when financing the upfront mortgage insurance premium 
+(UFMIP). 
+ 
+ADJUSTABLE RATE DETAILS 
+Interest Rate 
+Initial: 1% up/down; Periodic: 1% up/down; Lifetime: 5% up 
+Adjustment Caps 
+Margin  See Price Indication Sheet 
+Index  1-Year Constant Maturity Treasury (CMT) 
+Interest Rate Floor  The interest rate floor is equal to the Margin 
+5/1 ARM: Initial interest rate change date will occur within 60 to 66 months, depending on the 
+Change Dates 
+first payment date. See table below. Interest rate will adjust every 12 months thereafter. 
+Conversion Option  None 
+Assumption  Subject to conditions, fees and rate adjustment 
+Negative Amortization  None 
+ 
+Initial Interest Rate Change Dates 2 
+First Payment Date  Initial Change Date 3 
+Jan. 1, Feb. 1, Mar. 1  April 1 
+Apr. 1, May 1, Jun. 1  July 1 
+Jul. 1, Aug. 1, Sep. 1  October 1 
+Oct. 1, Nov. 1, Dec. 1  January 1 
+2.  The initial interest rate change dates are also published on the daily price indication sheet. 
+V. Product Guidelines  3 of 4  Document #5811 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA 203(h) - Disaster Victims Mortgage 
+3.  The change date is always the first day of the month. 
+ 
+STATE ELIGIBILITY 
+Available throughout the United States in areas declared as disaster areas by the President. Refer to Federal 
+Emergency Management Agency Web site for a complete listing of declared disaster areas: 
+http://www.fema.gov. 
+ 
+Available in the following states with restrictions. States not listed are available without restrictions. 
+State  Restriction 
+Any loan receiving a DU verbal only response will still require full income & asset 
+Minnesota 
+documentation 
+Puerto Rico  Not eligible 
+ 
+CLOSING DOCUMENTATION 
+Closing documents may be ordered through Flagstar's Web-Based Closing Docs (WBCD) service available on 
+Loantrac. Please call (866) 945-9872 for questions pertaining to drawing Web-Based Closing Docs. 
+ 
+ 
+ 
+V. Product Guidelines  4 of 4  Document #5811 
+Return to Top    06/03/2022 
+
+NEW PAGE

@@ -1,0 +1,242 @@
+Jumbo Express 
+PRIMARY RESIDENCE – PURCHASE ONLY 
+Maximum  Maximum  Minimum 
+Property Type  Maximum LTV  
+CLTV/HCLTV  Loan Amount   Credit Score 
+1-4 Unit / PUD   90%  90%  $1,500,000  700 
+ 
+PRIMARY RESIDENCE – PURCHASE AND RATE/TERM REFINANCE 
+Maximum  Maximum  Maximum  Minimum 
+Property Type 
+LTV   CLTV/HCLTV  Loan Amount   Credit Score 
+85%  85%  $1,500,000  680 
+85%  85%  $2,000,000  700 
+1-4 Unit  
+80%  80%  $1,500,000  660 
+PUD 
+80%  80%  $2,500,000  720 
+Condo 
+75%  75%  $3,000,000  740 
+70%  70%  $3,500,000  740 
+ 
+PRIMARY RESIDENCE – CASH-OUT REFINANCE 1 
+Maximum  Maximum  Minimum 
+Property Type  Maximum LTV 
+CLTV/HCLTV  Loan Amount  Credit Score 
+80%  80%  $1,000,000  680 
+1-4 Unit  
+PUD  75%  75%  $1,500,000  700 
+Condo 
+70%  70%  $2,000,000  700 
+ 
+SECOND HOME – PURCHASE AND RATE/TERM REFINANCE  
+Maximum  Maximum  Maximum  Minimum 
+Property Type 
+LTV  CLTV/HCLTV  Loan Amount   Credit Score 
+1-Unit   80%  80%  $1,500,000  680 
+PUD 
+Condo  75%  75%  $2,000,000  700 
+ 
+SECOND HOME – CASH-OUT REFINANCE 1 
+Maximum  Maximum  Minimum 
+Property Type  Maximum LTV 
+CLTV/HCLTV  Loan Amount  Credit Score 
+1-Unit   75%  75%  $1,000,000  700 
+PUD  70%  70%  $1,500,000  720 
+Condo  65%  65%  $1,500,000  720 
+ 
+INVESTMENT – PURCHASE AND RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum 
+Property Type  Maximum LTV 
+CLTV/HCLTV  Loan Amount  Credit Score 
+1-4 Unit   75%  75%  $1,500,000  700 
+PUD 
+Condo  70%  70%  $2,000,000  700 
+ 
+ 
+ 
+V. Product Guidelines  1 of 5  Document #5432 
+Return to Top    12/23/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Jumbo Express 
+INVESTMENT – CASH-OUT REFINANCE 1 
+Maximum  Maximum  Minimum 
+Property Type  Maximum LTV 
+CLTV/HCLTV  Loan Amount  Credit Score 
+1-4 Unit  
+60%  60%  $1,500,000  700 
+PUD 
+Condo  60%  60%  $1,500,000  720 
+ 
+ 
+1. Refer to Cash Out Refinance section for cash out limits. 
+ 
+ 
+PROGRAM SUMMARY 
+Jumbo Express offers a fixed-rate product allowing for loan amounts greater than the agency national limit. 
+Fourth (4th) Party Eligible. 
+PRODUCTS OFFERED 
+ 
+Product Name  Loan Term 
+Jumbo Express 15-Year Fixed  15 years 
+Jumbo Express 30-Year Fixed  30 years 
+ 
+LOAN AMOUNTS 
+Minimum: Conforming Loan Limits plus $1 
+Maximum: Refer to the Product Eligibility Grids above 
+ 
+CASH OUT REFINANCE 
+The maximum cash back to borrower includes non-mortgage debt to be paid off.  Maximum cash out is 
+determined by LTV: 
+LTV  Max Cash Out 
+> 55%  $500,000 
+<= 55%  $750,000 
+ 
+MORTGAGE INSURANCE 
+Not required. 
+ 
+MINIMUM CREDIT SCORE 
+Refer to Eligibility Grids above. No exceptions to credit score requirements. 
+ 
+QUALIFYING RATE 
+Note Rate 
+ 
+QUALIFYING RATIOS 
+Determined by Desktop Underwriter, not to exceed 45% debt-to-income ratio.  
+ 
+V. Product Guidelines  2 of 5  Document #5432 
+Return to Top    12/23/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Jumbo Express 
+RESERVES 
+All loans must follow and meet all requirements of DU.  
+Occupancy  Loan Amount  Required Verified PITIA Reserves  
+Up to $2,000,000  Greater of 3 months or AUS required reserves 
+$2,000,001 – $3,000,000  Greater of 6 months or AUS required reserves 
+Primary, Second 
+Home & Investment  > $3,000,000  Greater of 12 months or AUS required reserves 
+For LTV/CLTV > 80%, borrower must have the greater of 6 months reserves or reserves 
+determined by DU.   
+ 
+INTERESTED PARTY CONTRIBUTIONS 
+Interested party contributions include funds contributed by the property seller, builder, real estate agent/broker, 
+mortgage lender, or their affiliates, or any other party with an interest in the real estate transaction. Interested 
+party contributions may only be used for closing costs and prepaid expenses, and may never be applied to any 
+portion of the down payment. 
+Occupancy Type  CLTV/HCLTV  IPC Allowance 
+ > 80%  3% 
+Primary Residence and Second Homes 
+≤ 80%  6% 
+Investment  All  2% 
+ 
+MINIMUM BORROWER CONTRIBUTION 
+Borrower must contribute at least 5% from their own funds for purchase transactions greater than 80% CLTV. 
+ 
+SUBORDINATE FINANCING 
+Refer to the Subordinate Financing section of the Conventional Underwriting Guidelines for details. 
+ 
+APPRAISAL REQUIREMENTS 
+All appraisals will be reviewed by the Appraisal Review Department.   
+Loan amounts ≤ $2,000,000 additionally require one of the following secondary valuation products:  
+•  If Collateral Underwriter (CU) score is ≤ 2.5, no additional collateral evaluation is required. 
+•  If Collateral Underwriter (CU) score is > 2.5, obtain a Desk Review (CDA or CCA) validating original 
+appraisal within -10%.   
+•  If the value on the CDA or CCA is outside a negative 10% variance, a 2nd full appraisal is required.  
+The lower of the two appraised values is used for qualification. 
+Loan Amount  Appraisal Requirement 
+Up to $2,000,000  One Full Appraisal 
+> $2,000,000  Two Full Appraisals  
+Two Full Appraisals 
+All properties in which the seller 
+•  Seller on purchase contract must be the owner of record 
+purchased property within 90 days of the 
+•  Increases in value must be documented with commentary 
+fully executed purchase contract 
+from the appraiser and recent paired sales 
+ 
+UNDERWRITING 
+Guidelines not addressed below must meet the parameters documented in the Non-Agency Underwriting 
+Guidelines. Product specific criteria may vary from the guidelines only as indicated below. 
+V. Product Guidelines  3 of 5  Document #5432 
+Return to Top    12/23/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Jumbo Express 
+•  Desktop Underwriter (DU) submission applies to all transactions. 
+  DU Approve/Eligible response for loan amounts between the applicable conforming and High 
+o
+Balance loan limits based on county and property type 
+  DU Approve/Ineligible response for loan amounts above the applicable conforming or High 
+o
+Balance loan limit for the county and property type; Ineligible due to loan amount only. 
+•  Loans must meet all Ability to Repay requirements. 
+  Requirements per the Non-Agency Guidelines for Income and Liabilities must be met, 
+o
+regardless of DU findings. 
+ 
+TRADELINE REQUIREMENT 
+The credit report(s) must meet one the following tradeline requirements: 
+•  2 tradelines with a minimum 12-month history or 
+1 tradeline with a minimum 12-month history and a 12-month housing reference.  
+ 
+MORTGAGE/RENT HISTORY REQUIREMENTS  
+Mortgage and/or rent histories must adhere to the FSB Non-Agency guideline requirements 
+ 
+DEROGATORY CREDIT 
+Significant derogatory credit will follow DU findings with the exception of Chapter 13 bankruptcies and 
+loan modifications: 
+•  Chapter 13 bankruptcies discharged or dismissed will require 4-year seasoning from the 
+discharge or dismissal date 
+•  Loan modifications will require 7-year seasoning from the modification date 
+•  Reduced seasoning due to extenuating circumstances is not permitted 
+ 
+STATE ELIGIBILITY 
+Available with the following geographic restrictions 
+ 
+State  Restriction 
+Puerto Rico  Not eligible 
+US Virgin Islands  Not eligible 
+ 
+CLOSING DOCUMENTATION 
+Closing docs may be ordered through Flagstar’s Web-Based Closing Docs (WBCD) service available on 
+Loantrac. 
+ 
+FIXED RATE LOANS: 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series. 
+•  Fannie Mae/Freddie Mac multi-state Fixed Rate Note, 3200-series. 
+•  Standard title commitment with all applicable endorsements. 
+ 
+IF APPLICABLE 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form #3140 
+V. Product Guidelines  4 of 5  Document #5432 
+Return to Top    12/23/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Jumbo Express 
+•  Fannie Mae/Freddie Mac Multi-state PUD Rider, Form #3150 
+•  Fannie Mae/Freddie Mac multi-state 1-4 Family Rider, Form #3170 (2-Unit primary residence) 
+•  Fannie Mae-Freddie Mac multi-state Second Home Rider, Form #3890 
+ 
+ 
+V. Product Guidelines  5 of 5  Document #5432 
+Return to Top    12/23/2022 
+
+NEW PAGE

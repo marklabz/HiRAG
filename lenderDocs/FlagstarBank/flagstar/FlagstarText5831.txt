@@ -1,0 +1,547 @@
+GRH Streamlined-Assist 
+Refer to Exhibit A for Rural Housing origination instructions. 
+PRIMARY RESIDENCE – RATE/TERM REFINANCE 
+Property Type  1-Unit Condo PUD 
+Maximum LTV  None 
+Maximum CLTV  None 1 
+No specific maximum loan amount; borrower must meet income limit and qualify for the 
+Maximum Loan Amount 
+loan 
+Maximum Ratios  Not used 
+Minimum Credit Score  580 
+Reserves  Not required 
+Upfront Fee 
+1.00% of the Gross Loan Amount  
+Guarantee Fee   
+Annual Fee (Paid Monthly) 
+0.35% 
+ 
+1. Refer to the Subordinate Financing section. 
+ 
+PROGRAM SUMMARY 
+The Guaranteed Rural Housing (GRH) Streamlined-Assist program offers a 30-year fixed-rate mortgage loan 
+guaranteed by the U.S. government through USDA-Rural Development (RD) for borrowers whose existing loan 
+is also a Guaranteed Rural Housing loan. The existing loan may be serviced by Flagstar Bank or another loan 
+servicer.  
+•  Basic requirements of the program: 
+  Non-traditional, alternative credit and no credit score loans are now eligible and will follow the 
+o
+USDA Handbook HB-1-3555 requirements. 
+  The existing loan to be refinanced must have been current for the previous 12 months prior to 
+o
+application. The permanent file for the new loan must contain documented evidence that the 
+payment history requirements have been met. 
+  No appraisal or property inspections are required. Enter the requested base loan amount (loan 
+o
+amount before adding the Guarantee Fee) as the estimated value in Loantrac. 
+  Debt-to-income ratios are not used. 
+o
+  The interest rate of the new loan must be at or below that of the existing loan. 
+o
+  Borrowers may be added but not removed (unless deceased) from the existing loan. 
+o
+  Customary and reasonable closing costs may be financed into the new loan. 
+o
+  Borrower must receive a net tangible benefit to refinance under this program; a tangible benefit 
+o
+is defined as a $50 or greater reduction in their principal, interest and annual fee monthly 
+payment compared to the existing principal, interest and annual fee monthly payment. 
+  Existing loans may be refinanced even if the property is no longer in a designated rural area. 
+o
+ 
+PRODUCTS OFFERED 
+Product  Loan Term 
+GRH Streamlined-Assist 30-Year  30-Year Fixed 
+ 
+V. Product Guidelines  1 of 10  Document #5831 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  GRH Streamlined-Assist 
+PRICING 
+The GRH program is priced to the GNMA I 30Y or GNMA II 30Y pricing (depending on the desired rate) listed 
+on the daily price indication sheets, but subject to the maximum interest rate listed under Government Price 
+Adjustments. The interest rate selected for the GRH Streamlined-Assist loan must be at or below the interest 
+rate on the existing GRH loan being refinanced. 
+ 
+RURAL DEVELOPMENT STATE WEBSITES 
+Websites for state Rural Development offices can be accessed by inputting the main address, then adding the 
+2-letter state code. Main web address: http://www.rd.usda.gov/ 
+ 
+EXAMPLE 
+State of Michigan 
+http://www.rd.usda.gov/mi 
+ 
+RURAL DEVELOPMENT FORMS 
+Most Rural Development forms are available at the USDA Service Center Agencies eForms site: 
+ 
+FORM RD 3555-21, REQUEST FOR SINGLE FAMILY HOUSING LOAN GUARANTEE 
+Form RD 3555-21 must be submitted to Underwriting with the initial loan submission. Borrower and co-
+borrower must sign page two. The version dated “Rev.03-21” must be used for all loan submissions 
+beginning on and after May 1, 2021. 
+ 
+ELIGIBLE BORROWERS 
+•  Borrowers may be added but not removed (unless deceased) from the existing loan. 
+•  If an existing borrower is a resident alien, evidence of their residency status must be submitted: 
+  Submit INS/CIS Form I-551, Alien Registration Receipt Card (a.k.a. green card) for permanent 
+o
+resident aliens. 
+  For non-permanent resident aliens, obtain from the applicant whichever documentation is 
+o
+available as shown on page 8-8 of Chapter 8, Applicant Characteristics of RD Technical 
+Handbook, HB-1-3555. 
+  Refer to Chapter 8, Applicant Characteristics of RD Technical Handbook, HB-1-3555 for further 
+o
+information. 
+•  Married borrowers who were on the original loan without their spouse: 
+  Income of the spouse must be verified and included in the household income calculation to 
+o
+determine if household is income eligible. 
+  Credit of the spouse is not considered a reason to deny a loan application. 
+o
+  The spouse will not sign the note, but will sign the security instrument. 
+o
+ 
+INELIGIBLE BORROWERS 
+•  Borrowers closing in a trust (if a property has been moved into a trust since the existing loan was 
+closed, it must be removed from the trust prior to closing on the refinance). 
+ 
+ELIGIBLE PROPERTY TYPES 
+Any property securing a GRH loan except manufactured housing 
+V. Product Guidelines  2 of 10  Document #5831 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  GRH Streamlined-Assist 
+INELIGIBLE PROPERTY TYPES 
+Manufactured homes; note: RD will accept manufactured homes under this program, Flagstar will not. 
+INCOME LIMITS 
+•  An IRS Form 4506-C is required for ALL adults living in the household 
+•  Income used for purposes of determining eligibility for the GRH program is referred to as adjusted 
+annual income, and it is an estimate of the annual income to be received by all adult members of the 
+household over the next 12 months; adjusted annual income is not the same as repayment income, 
+which includes only income from the loan applicants and which must be determined by the underwriter 
+to be stable and dependable 
+•  Annual income, adjusted annual income and repayment income will all be determined by using the 
+Worksheet for Documenting Eligible Household and Repayment Income, which is Attachment 9-B to 
+Chapter 9, Income Analysis, of RD Technical Handbook, HB-1-3555 
+•  Adjusted annual income may not exceed 115% of the median income for the area in which the subject 
+property is located; the income limits published here are calculated at 115% of the median income and 
+cannot be exceeded 
+•  Tax exempt income is included for purposes of determining whether adjusted annual income conforms 
+to the income limits, but it is not grossed up 
+ 
+HOMEBUYER EDUCATION 
+Not required 
+ 
+MAXIMUM LOAN AMOUNT 
+The loan amount may include the principal balance of the existing loan plus a portion of or the full upfront 
+Guarantee Fee and eligible loan closing costs. No cash out is permitted. Enter the requested base loan 
+amount (loan amount before adding the Guarantee Fee) as the estimated value in Loantrac. 
+ 
+TEMPORARY BUY-DOWNS 
+Not eligible. RD will permit temporary buy-downs, Flagstar will not. 
+ 
+RESERVES 
+Not required 
+ 
+SUBORDINATE FINANCING 
+No maximum CLTV; any subordinate financing cannot be included in the new loan and must remain subordinate. 
+ 
+GIFTS 
+Gifts and grants from non-profit, government or community agencies are allowed towards closing costs and 
+prepaid items. A gift letter is required. 
+ 
+INTERESTED PARTY CONTRIBUTIONS 
+Not applicable 
+ 
+V. Product Guidelines  3 of 10  Document #5831 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  GRH Streamlined-Assist 
+CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM (CAIVRS) 
+All borrowers must be screened using HUD’s Credit Alert Interactive Voice Response System (CAIVRS). Rural 
+Development will not insure a loan if the borrower is currently delinquent on any unpaid federal debt or has had 
+a claim paid within the previous three years. A CAIVRS number that begins with anything other than an A must 
+be investigated and verification must be obtained that the debt has been satisfied prior to moving forward with 
+the loan application. 
+SYSTEM FOR AWARD MANAGEMENT (SAM) 
+All applicants and other parties to the transaction (including loan officers, processors and underwriters) must 
+be screened using General Services Administration (GSA) System for Award Management (SAM) 
+(https://www.sam.gov/portal/public/SAM/). An applicant/other parties are ineligible if he/she is presently 
+delinquent on any Federal debt or is suspended or debarred, or otherwise excluded from participating in Rural 
+Development programs. Customers will check the website above and submit screen prints of the results of 
+those checks for all parties along with their underwriting submission to Flagstar. The checks should occur no 
+greater than 30 days prior to loan closing, otherwise documentation will need to be updated by performing 
+another check of SAM and submitting the new screen print to Flagstar. 
+PROPERTY GUIDELINES 
+APPRAISAL STANDARDS 
+•  An appraisal is not required, and a new appraisal will not be accepted. 
+•  Property value entered in Loantrac should equal the requested base loan amount. 
+•  Underwriter should enter GRH REFI PILOT as the appraiser name. 
+ 
+PROPERTY STANDARDS 
+•  Property must be in area designated as rural by Rural Development (refer to the USDA Income and 
+Property Eligibility site) or an area that was eligible at the time of the loan closing on the existing loan. 
+•  Condominiums must meet Fannie Mae or Freddie Mac warranty guidelines or be HUD or VA approved. 
+ 
+FLOOD HAZARD REQUIREMENTS 
+•  The lender must complete, or arrange for a contractor to complete, FEMA Form 086-0-32, 
+Standard Flood Hazard Determination Form (SFHDF) to determine whether the dwelling is 
+located in a Special Flood Hazard Area (SFHA) in accordance with the National Flood 
+Insurance Reform Act of 1994. 
+•  Existing dwellings are eligible under the SFHGLP only if flood insurance through FEMA’s 
+National Flood Insurance Program (NFIP) is available for the community and flood insurance 
+whether NFIP, write your own, or private flood insurance, as approved by the lender, is 
+purchased by the borrower. Lenders are required to accept private flood insurance policies that 
+meet the requirements of 42 USC 4012a(b)(1)(A). Insurance must be obtained as a condition of 
+closing and maintained for the life of the loan for an existing residential structures property when 
+any portion of the residential improvements structure is determined to be located in a SFHA, 
+including decks and carports, etc. However, according to the Homeowner Flood Insurance 
+Affordability Act (HFIAA) of 2014, flood insurance is not required for any additional structures 
+that are located on the property but are detached from the primary residential structure and do 
+not serve as a residence, such as sheds, garages, or other ancillary structures. 
+ 
+Part of the site may be located in the SFHA without triggering these requirements, as long as no part of 
+the dwelling is located in the SFHA. At the lender’s discretion they may require national flood insurance 
+V. Product Guidelines  4 of 10  Document #5831 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  GRH Streamlined-Assist 
+even if the residential building and related improvements to the property are not located within the 
+SFHA, but the lender has reason to believe that the building and related improvements to the property 
+may be vulnerable to damage from flooding. 
+ 
+Flood insurance must cover the lesser of the outstanding principal balance of the loan or the maximum 
+amount of coverage allowed under FEMA’s National Flood Insurance Program (NFIP). Unless a higher 
+maximum amount is required by state or federal law, the maximum deductible clause for a flood 
+insurance policy should not exceed the greater of $1,000 or 1 percent of the face amount of the policy. 
+ 
+UNDERWRITING 
+•  All loans will be MANUALLY underwritten to current Flagstar Bank and Rural Development guidelines. 
+RD’s Guaranteed Underwriting System (GUS) cannot be used for loans submitted under this program. 
+•  Rural Development’s basic eligibility and underwriting guidelines are found in 7 CFR 3555 and the RD 
+Technical Handbook, HB-1-3555. 
+•  Use the Flagstar Rural Housing Processing Checklist, Doc. #9801, for documentation required for 
+submission to Flagstar Underwriting. 
+•  Basic requirements of the program: 
+  Non-traditional, alternative credit and no credit score loans are now eligible and will follow the 
+o
+USDA Handbook HB-1-3555 requirements. 
+  Loans for borrowers with non-traditional credit are permissible; a credit score of 999 should be 
+o
+entered for those borrowers. 
+  The existing loan to be refinanced must have been current for the previous 12 months prior to 
+o
+application. The permanent file for the new loan must contain documented evidence that the 
+payment history requirements have been met. 
+  No appraisal or property inspections are required. 
+o
+  Debt-to-income ratios are not used. 
+o
+  The interest rate of the new loan must be at or below that of the existing loan. 
+o
+  Borrowers may be added but not removed (unless deceased) from the existing loan. 
+o
+  Customary and reasonable closing costs may be financed into the new loan. 
+o
+  Borrower must receive a net tangible benefit to refinance under this program; a tangible benefit 
+o
+is defined as a $50 or greater reduction in their principal, interest and annual fee monthly 
+payment compared to the existing principal, interest and annual fee monthly payment. 
+  Existing loans may be refinanced even if the property is no longer in a designated rural area. 
+o
+•  Flagstar will permit credit reports from any vendor when underwriting GRH Streamlined-Assist loans. 
+•  The underwriter must review the credit report: 1) to ensure Flagstar’s minimum credit score has been 
+satisfied, and 2) to ensure that the borrower has no late payments on the existing mortgage at any point 
+in the past 12 months. Also, Flagstar reserves the right to deny any loan application that, in its sole 
+discretion, has unacceptable credit. 
+•  The broker/correspondent is to fill out the Request for Single Family Housing Loan Guarantee, Form 
+RD 3555-21. The borrower and co-borrower must sign page two. In addition, the broker/correspondent 
+is to fill out the Worksheet for Documenting Eligible Household and Repayment Income, which is 
+Attachment 9-B to Chapter 9, Income Analysis, of RD Technical Handbook, HB-1-3555. For non-
+delegated customers, the forms must be submitted to the underwriter with the initial loan submission. 
+The 3555-21 must be completely filled out and signed by the underwriter and applicants PRIOR to 
+submitting the loan to the appropriate RD production team. 
+V. Product Guidelines  5 of 10  Document #5831 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  GRH Streamlined-Assist 
+•  Once the underwriter issues a conditional loan approval where the only outstanding prior to close 
+conditions are not likely to affect the ability of the appropriate RD production team to issue an RD 
+Conditional Commitment, the underwriter will send the appropriate documents to the appropriate RD 
+production team for their review. Non-delegated brokers/correspondents should not submit anything to RD. 
+•  Documentation to include in submission to the appropriate RD production team. 
+  Request for Single Family Housing Loan Guarantee, Form RD 3555-21. 
+o
+  Household income verifications. 
+o
+  Loan application. 
+o
+  Resident alien status verifications, if applicable. 
+o
+  Flood certificate (FEMA Form 086-0-32). 
+o
+•  Income/Employment Documentation: 
+  Non-self-employed applicants must meet one of the following plus a signed IRS Form 4506-C: 
+o
+• Request for Verification of Employment, Form RD 1910-5 or the equivalent 
+FHA/VA/Fannie Mae form, and the most recent paycheck stub, or 
+• Paycheck stubs or payroll earnings statements covering the most recent 30-day period, 
+and W-2 tax forms for the previous two tax years, and a verbal verification of 
+employment (VOE) as required, or 
+• Electronic verification or other computer-generated documents accessed and printed from 
+an Intranet or Internet, and W-2 tax forms for the previous two tax years, and a verbal VOE, 
+as required. 
+• Refer to Section 2: Repayment Income of Chapter 9, Income Analysis of RD Technical 
+Handbook, HB-1-3555 for further guidance. 
+  Self-employed applicants must submit the following: 
+o
+• Signed individual Federal income tax returns with all appropriate schedules for the most 
+recent two tax years. 
+• Signed business Federal tax returns for the most recent two tax years: 
+  Sole proprietor: Schedule C to individual Form 1040 
+  Partnership: Form 1065 
+  S Corporation: Form 1120S 
+  Corporation: Form 1120 
+• Current profit and loss statement for the business. 
+• Current balance sheet for the business. 
+• IRS Form 4506-C, signed. 
+• Refer to Section 2: Repayment Income of Chapter 9, Income Analysis of RD Technical 
+Handbook, HB-1-3555 for further guidance on underwriting self-employed applicants as 
+well as information on how to treat business debts. 
+  Part-time, Second Job and/or Seasonal Income: 
+o
+• Income from a second job or part-time job may be counted for repayment income if the 
+applicant has worked this position uninterrupted for the past two years and will continue 
+to do so. This type of income must be likely to continue for the next three years. 
+• Income from seasonal employment (e.g., umpiring baseball games in summer or 
+working at a department store during the Christmas shopping season) is considered 
+uninterrupted and may be counted if the applicant has worked the same type of job for 
+the past two years. 
+V. Product Guidelines  6 of 10  Document #5831 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  GRH Streamlined-Assist 
+• Income from a part-time position that has been received for less than two years may be 
+counted if the lender is able to determine through employer verification that the income’s 
+continuance is likely at the level of receipt verified in the past. Income from part-time 
+positions not meeting these requirements may be considered as a compensating factor, 
+as described in Chapter 11, Ratio Analysis of RD Technical Handbook, HB-1-3555. 
+• To utilize secondary employment or seasonal income for repayment, the income must 
+be reported on the applicant’s federal income tax returns for the most recent two years. 
+  Alimony and child support income must have a history of receipt of no less than 12 months. 
+o
+  Social Security or disability income: 
+o
+• Document receipt of income with award letter. 
+  When considering income not subject to Federal income tax, for example, certain types of 
+o
+disability payments or military allowance, the amount of continued tax savings attributable to non-
+taxable income source may be added to the applicant’s repayment income. Income that has been 
+verified to be tax exempt may be grossed up by 25 percent, in other words, multiplied by 125 
+percent to gross up such income. No other adjustments for tax exempt income are authorized. 
+Tax exempt income sources should not be grossed up when calculating eligibility income. 
+  Rental income: 
+o
+• Net monthly rental income must always be included in household income for income 
+eligibility purposes. To calculate the amount to be included in household income, the 
+monthly gross rents amount must be reduced by a vacancy factor of 25% before 
+subtracting the monthly principal, interest, taxes, insurance, and homeowners 
+association dues, etc. Treat the income as follows: 
+  Positive net rental income is included in household income 
+  Negative net rental income is treated as $0. 
+•  Debts/Obligations: 
+  Debt-to-income ratios are not used in underwriting the GRH Streamlined-Assist. 
+o
+  All federal judgments must be satisfied prior to closing. 
+o
+•  Assets: 
+  Assets are not required for the GRH Streamlined-Assist, except as they may influence program 
+o
+eligible income. Refer to Paragraph 9.4 of Chapter 9, Income Analysis of RD Technical Handbook, 
+HB-1-3555 for additional information regarding assets and program eligible income. Assets 
+meeting the requirements of that paragraph will require verification documentation in the file. 
+• Depository accounts (e.g., checking, savings, certificate of deposit, money market):  
+  Verification of Deposit with the average two-month balance, or two consecutive 
+monthly bank statements dated within 45 days of the initial loan application date. 
+  The lesser of a two-month average balance or the actual balance (as reported on 
+the most recent statement). Refer to Paragraph 9.3 of Chapter 9, Income 
+Analysis of RD Technical Handbook, HB-1-3555 for documentation standards 
+and examples of calculating the average monthly balance of assets. 
+• Gift funds: 
+  Funds may be provided by the applicant’s relative, employer or labor union, 
+charitable organization, or government agency/public entity that has a program to 
+provide homeownership assistance to low and moderate income applicants. 
+  Refer to Section 9.3(E)(1) of Chapter 9, Income Analysis of RD Technical 
+Handbook, HB-1-3555 for information on verification of gifts. 
+V. Product Guidelines  7 of 10  Document #5831 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  GRH Streamlined-Assist 
+• Sale proceeds from currently owned property: 
+  Final HUD-1 Settlement Statement or Closing Disclosure indicating cash sales 
+proceeds actually realized by borrower. 
+  Proceeds from the sale of the property should be included in the borrower’s liquid 
+assets (such as a checking or savings account). 
+• Retirement accounts (e.g., IRAs, thrift savings plans, 401(k)s, and Keogh accounts): 
+  To account for withdrawal penalties and taxes, 60% of the vested amount will be 
+used as the value of retirement assets. Accounts that restrict withdrawals only in 
+connection with the borrower’s employment separation, retirement, or death will 
+not be considered as assets. 
+  Obtain the most recent statement. 
+  Funds borrowed against these accounts may be used for loan closing, but are 
+not to be considered as cash reserves 
+• Stocks and bonds: 
+  Obtain the most recent monthly or quarterly statement provided by the 
+stockbroker or financial institution managing the portfolio. 
+•  Borrowers owning multiple dwellings: Applicants are limited to retaining ownership in one dwelling other 
+than the one associated with the loan request. The retained dwelling must be outside of the local 
+commuting area or not be structurally sound and functionally adequate. 
+•  An escrow account is required. Therefore, escrow waivers are not permitted. 
+•  Escrow credits are not permitted. The borrower's existing escrow balance may not be credited to the 
+payoff and/or credited anywhere on the Closing Disclosure. 
+•  The Rural Development Conditional Commitment for Single Family Housing Loan Guarantee, Form RD 
+3555-18 must be received by the underwriter prior to issuing a Final Approval. 
+•  Final loan approval must include a statement about the maximum interest rate (e.g., The maximum 
+interest rate is ___%.), which is to be drawn from the RD Conditional Commitment. 
+ 
+FEES 
+GUARANTEE FEE 
+The guarantee fee for all transactions is 1.00% of the gross (final) loan amount. The guarantee fee may be 
+financed or paid at closing. If the upfront fee is financed, it is calculated as the base loan amount (before 
+the guarantee fee is added, but after other financed items) divided by 0.99, rounded down to the nearest 
+dollar, and then multiplied by 0.01. The gross loan amount may only exceed the appraised value by the 
+amount of the financed guarantee fee. 
+ 
+ANNUAL FEE (PAYABLE MONTHLY) 
+0.35% 
+Calculate the amount for the upfront and annual guarantee fees using the Guarantee Upfront and Annual 
+Fee Calculator. 
+Loantrac permits the following three options regarding the upfront guarantee fee: 
+•  Full financing of the upfront guarantee fee (except for any amount less than one dollar), 
+•  Partial financing of the fee (with the remainder paid in cash at closing), or 
+•  Paying the full upfront guarantee fee in cash at closing. 
+ 
+V. Product Guidelines  8 of 10  Document #5831 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  GRH Streamlined-Assist 
+Customers should refer to Loantrac’s Guaranteed Rural screen for the breakdown of the financed vs. paid 
+in cash portions of the guarantee fee. 
+ 
+OTHER FEES 
+•  Fees and charges associated with originating/closing a GRH loan cannot exceed fees charged for 
+loans insured or guaranteed by the FHA or VA; refer to Paragraph 6.2C of Chapter 6, Loan Purpose 
+of RD Technical Handbook, HB-1-3555 
+•  Customary and reasonable closing costs and other fees may be charged to the borrower by the 
+lender. Such charges may not exceed the cost paid by the lender or charged to the lender by the 
+service provider. Excessive fees are not permitted. 
+•  Loan discount points may not be financed for this program. 
+ 
+STATE ELIGIBILITY 
+Available in all 50 states and the U.S. Virgin Islands, but not available in the following areas: 
+State  Restriction 
+District of Columbia  Not eligible 
+Puerto Rico  Not eligible 
+ 
+LATE FEE 
+Flagstar requires a 5% late fee for GRH transactions. 
+ 
+CLOSING DOCUMENTATION – CORRESPONDENT TRANSACTIONS 
+Closing documentation may be obtained from Flagstar’s Web Based Closing Documents (WBCD) service 
+available on Loantrac. 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series. 
+•  Fannie Mae/Freddie Mac multi-state Fixed Rate Note, 3200-series. 
+•  Copy of Preliminary Title Policy or Preliminary Opinion (with environmental endorsement). 
+•  Copy of Homeowners Policy or Binder. 
+ 
+Cash back to the borrower at closing is not allowed. Any excess funds from the closing should be returned to 
+Flagstar as a principal curtailment of the new loan.
+ 
+ 
+V. Product Guidelines  9 of 10  Document #5831 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  GRH Streamlined-Assist – Exhibit A 
+EXHIBIT A 
+How to originate a non-delegated Rural Housing loan with Flagstar: 
+1.  Take the application, ensure applicant is eligible for a guaranteed loan based on: 
+a.  Income eligibility (use RD’s Worksheet for Documenting Eligible Household and Repayment 
+Income, which is Attachment 9-B to Chapter 9, Income Analysis, of RD Technical Handbook, HB-
+1-3555) 
+b.  Initial review of credit 
+2.  Confirm eligibility through USDA’s Income and Property Eligibility site (for income only). 
+3.  All applicants and other parties to the transaction (including loan officers) must be screened using 
+General Services Administration (GSA) System for Award Management (SAM) 
+(https://www.sam.gov/portal/public/SAM/). Obtain screen prints for results of all checks and submit with 
+underwriting file. 
+4.  Upload/input loan application into Loantrac, select product using a Loan Type of Rural, complete 
+Guaranteed Rural screen on Loantrac, run credit through Loantrac, order verifications, etc. 
+5.  Retrieve and follow the Flagstar Rural Housing Processing Checklist, Doc. #9801. 
+6.  Complete all applicable Rural Development forms, to include signatures, and then submit loan 
+application package to Flagstar for underwriting review. 
+7.  Once Flagstar issues its conditional loan approval, the underwriter will submit file to the appropriate RD 
+production team for their review. 
+8.  Rural Development reviews loan and issues Form RD 3555-18, Conditional Commitment of Single 
+Family Housing Loan Guarantee. 
+9.  Flagstar reviews and clears conditions listed on the Form RD 3555-18 and places loan into Final 
+Approval status. 
+10. Broker/correspondent locks interest rate with Flagstar Marketing department (if not previously locked). 
+Save confirmation in the file. 
+11. Schedule the closing. Prepare closing documents using Flagstar’s Web Based Closing Docs (WBCD) 
+service available on Loantrac. Order funds. 
+12. Close the loan. 
+13. Deliver closed loan package to Flagstar. 
+14. Flagstar submits the guarantee package to Rural Development using RD’s Loan Closing Stacking 
+Order Checklist. 
+15. Rural Development issues the Loan Note Guarantee, Form RD 3555-17 to Flagstar. 
+ 
+ 
+V. Product Guidelines  10 of 10  Document #5831 
+Return to Top    06/03/2022 
+
+NEW PAGE

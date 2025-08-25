@@ -1,0 +1,334 @@
+Freddie Mac Super Conforming 
+Mortgage insurers may have additional restrictions not listed within this document. Please refer to each 
+mortgage insurance company’s website for complete eligibility details.  
+PRIMARY RESIDENCE – PURCHASE & RATE/TERM REFINANCE 
+Maximum  Maximum  Underwriting Engine & 
+Property Type  Minimum Credit Score 
+LTV  CLTV/HCLTV 1  Required Response 
+1-Unit  
+Warrantable Condo   95%  95%  
+PUD 
+LPA - Accept  NA 
+2-Unit  85%  85% 
+3 to 4-Unit 2  80%  80% 
+ 
+PRIMARY RESIDENCE – CASH-OUT REFINANCE 
+Maximum  Maximum  Underwriting Engine & 
+Property Type  Minimum Credit Score 
+LTV  CLTV/HCLTV 1  Required Response 
+1-Unit  
+Warrantable Condo   80%  80% 
+PUD 
+LPA - Accept  NA 
+2 to 4-Unit 2  75%  75% 
+ 
+SECOND HOME – PURCHASE & RATE/TERM REFINANCE 
+Maximum  Maximum  Underwriting Engine & 
+Property Type  Minimum Credit Score 
+LTV  CLTV/HCLTV 1  Required Response 
+1-Unit  
+Warrantable Condo  90%  90%  LPA - Accept  620 
+PUD 
+ 
+SECOND HOME – CASH-OUT REFINANCE  
+Maximum  Maximum  Underwriting Engine & 
+Property Type  Minimum Credit Score 
+LTV  CLTV/HCLTV 1  Required Response 
+1-Unit  
+Warrantable Condo  75%  75%  LPA - Accept  620 
+PUD 
+ 
+INVESTMENT PROPERTY – PURCHASE  
+Maximum  Maximum  Underwriting Engine & 
+Property Type  Minimum Credit Score 
+LTV  CLTV/HCLTV 1  Required Response 
+1-Unit  
+Warrantable Condo  85%  85% 
+LPA - Accept   620 
+PUD  
+2 to 4-Unit 2  75%  75% 
+ 
+V. Product Guidelines  1 of 7  Document #5347 
+Return to Top    12/05/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Super Conforming 
+INVESTMENT PROPERTY – RATE/TERM REFINANCE 
+Maximum  Maximum  Underwriting Engine & 
+Property Type  Minimum Credit Score 
+LTV  CLTV/HCLTV 1  Required Response 
+1-Unit   620 
+Warrantable Condo  85%  85%   
+LPA - Accept 
+PUD   
+2 to 4-Unit 2  75%  75%   
+ 
+INVESTMENT PROPERTY – CASH-OUT REFINANCE 
+Maximum  Maximum  Underwriting Engine & 
+Property Type  Minimum Credit Score 
+LTV  CLTV/HCLTV 1  Required Response 
+1-Unit  
+Warrantable Condo  75%  75% 
+ 
+PUD 
+LPA - Accept  620 
+ 
+2 to 4-Unit 2  70%  70% 
+1.  Maximum CLTV refers to the maximum combined loan-to-value of drawn and outstanding liens secured by the subject property. Maximum HCLTV 
+refers to the maximum potential combined loan-to-value of all liens using the full amount of the line of credit. All loans must meet the LTV, CLTV and 
+HCLTV criteria. 
+2.  2-unit properties are subject to minimum and maximum loan amounts per the Loan Amounts section below and Exhibit A. 
+ 
+PROGRAM SUMMARY   
+This program is a fixed-rate, fully amortizing, conventional first lien mortgage loan program for properties 
+located in certain high-cost areas as defined annually by the Federal Housing Finance Agency (FHFA). 
+ 
+PRODUCTS OFFERED 
+Product Name  Term  ARM Disclosure 
+Freddie Mac Super Conforming 30-Year Fixed  30 years 
+Freddie Mac Super Conforming 20-Year Fixed  20 years  NA 
+Freddie Mac Super Conforming 15-Year Fixed    15 years 
+Freddie Mac Super Conforming 5/6 SOFR ARM  30 years  Doc. #3383 or Equivalent 
+Freddie Mac Super Conforming 7/6 SOFR ARM  30 years  Doc. #3384 or Equivalent 
+ 
+LOAN AMOUNTS 
+Contiguous States and the District of Columbia 
+No. of Units 
+Minimum Loan Amount 3  Maximum Loan Amount 4 
+1  $726,200  $1,089,300 
+2  $929,850  $1,394,775 
+3  $1,123,900  $1,685,850 
+4  $1,396,800  $2,095,200 
+3.  Loans below the minimum loan amount are eligible under standard Fannie Mae/Freddie Mac products. 
+4.  The maximum loan amounts listed are the maximum amounts that may apply; the limit may be lower for a specific high-cost area. 
+V. Product Guidelines  2 of 7  Document #5347 
+Return to Top    12/05/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Super Conforming 
+ 
+A complete list of the high-cost areas eligible for financing under this program is attached as Exhibit A. 
+ 
+A complete list of the 2023 loan limits for the entire United States, both those eligible under this program and 
+those eligible under standard Fannie Mae and/or Freddie Mac products, may be located on the following Web 
+address:  https://www.fhfa.gov/DataTools/Downloads/Pages/Conforming-Loan-Limit.aspx    
+   
+ELIGIBLE PROPERTY TYPES 
+•  1 to 4-unit properties 
+•  Freddie Mac-/Fannie Mae-warrantable condominiums 
+•  Planned unit developments (PUD) 
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Non-warrantable condominiums 
+•  Manufactured homes 
+•  Cooperative properties 
+ 
+MINIMUM CREDIT SCORES 
+•  Refer to the Product Eligibility Grids above.   Mortgage insurers may have additional restrictions.  Refer 
+to each specific mortgage insurance company’s website for complete eligibility details. 
+•  All scores must meet the credit score validation requirements outlined in the Conventional Underwriting 
+Guidelines. 
+ 
+QUALIFYING RATE 
+Fixed Rate  5/6 ARMs  7/6 ARMs 
+Note rate using a fully  Greater of note rate plus 2% or fully- Greater of fully indexed or 
+amortizing payment.  indexed.  Note rate. 
+ 
+QUALIFYING RATIOS 
+Determined by Loan Product Advisor (LPA) 
+ 
+RESERVES 
+Determined by LPA; for loans greater than 80% LTV, also refer to the mortgage insurer’s guidelines; their 
+reserve requirements may be higher. 
+ 
+SUBORDINATE FINANCING 
+Refer to the Subordinate Financing section of the Conventional Underwriting Guidelines for details. 
+ 
+INTERESTED PARTY CONTRIBUTIONS 
+Interested party contributions include funds contributed by the property seller, builder, real estate agent/broker, 
+mortgage lender, or any other party with an interest in the real estate transaction. Interested party contributions 
+may be used exclusively to cover closing costs and prepaid expenses. 
+V. Product Guidelines  3 of 7  Document #5347 
+Return to Top    12/05/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Super Conforming 
+ 
+INTERESTED PARTY CONTRIBUTION LIMITS 
+CLTV  Up to 75%  75.01-90%  90.01-95% 
+Primary Residences  Maximum 9%  Maximum 6% 5  Maximum 3% 
+Second Homes  Maximum 9%  Maximum 6% 
+N/A 
+Investment Property  Maximum 2%  Maximum 2% 
+5.  For loans over 80% LTV, check the mortgage insurer’s guidelines; many have a lower interested party contribution limit. 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible 
+ 
+UNDERWRITING 
+Items not covered below must meet the parameters as set out in Flagstar’s Conventional Underwriting 
+Guidelines. 
+•  Loans must be submitted to LPA and receive an Accept response. 
+•  Loans that receive an invalid, ineligible, or incomplete risk evaluation status from LPA: the customer 
+must make every possible effort to correct the information and resubmit the loan to LPA. 
+•  All loans must meet the qualifying ratio guidelines in the Qualifying Ratios section above. 
+ 
+MORTGAGE INSURANCE 
+Mortgage insurance providers may have additional restrictions not listed within this document. All loans above 
+80% LTV require mortgage insurance coverage according to the following guidelines: 
+ 
+STANDARD MORTGAGE INSURANCE GUIDELINES 
+LTV  30-Year Fixed  15 & 20-Year Fixed 
+90.01-95%  30%  25% 
+85.01-90%  25%  12% 
+80.01-85%  12%  6% 
+ 
+NEW YORK PROPERTIES  
+ See Conventional Underwriting Guidelines. 
+ 
+For Single Financed Mortgage Insurance (SFMI) and Lender Paid Mortgage Insurance (LPMI) eligibility see 
+Single Financed Mortgage Insurance (SFMI) & Lender Paid Mortgage Insurance (LPMI) Matrix, Doc. #5010. 
+ 
+STATE ELIGIBILITY 
+Refer to Exhibit A for a complete list of eligible locations and loan amount limits. 
+ 
+PREPAYMENT PENALTY 
+None 
+ 
+V. Product Guidelines  4 of 7  Document #5347 
+Return to Top    12/05/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Super Conforming 
+ADJUSTABLE RATE DETAILS 
+Interest Rate  5/6:  Initial – 2% up/down; subsequent – 1% up/down; lifetime – 5% up. 
+Adjustment Caps  7/6:  Initial – 5% up/down; subsequent – 1% up/down; lifetime – 5% up. 
+Margin  See Price Indication Sheet 
+Index  30 Day SOFR (Secured Overnight Financing Rate) 
+Interest Rate Floor  The interest rate floor is equal to the margin 
+5/6: The first change date is the 60th payment due date. There is a new Change Date 
+every 6 months thereafter. 
+Change Dates 
+7/6: The first change date is the 84th payment due date. There is a new Change Date 
+every 6 months thereafter. 
+Conversion Option  None 
+Assumption  Subject to conditions, fees and rate adjustment 
+Negative Amortization  None 
+ 
+CLOSING DOCUMENTATION – CORRESPONDENT TRANSACTIONS 
+Closing docs may be ordered through Flagstar’s Web Based Closing Docs (WBCD) service available in 
+Loantrac. 
+ALL LOANS: 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series 
+•  Fannie Mae/Freddie Mac multi-state Fixed Rate Note, 3200-series 
+•  Standard title commitment with all applicable endorsements 
+ 
+5/6 & 7/6 SOFR ARMS  
+•  Fannie/Fannie multi-state Adjustable Rate Note, Form# 3442  
+•  Fannie/Fannie multi-state Adjustable Rate Rider, Form# 3142  
+ 
+IF APPLICABLE: 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form# 3140 
+•  Fannie Mae/Freddie Mac multi-state PUD Rider, Form# 3150 
+•  Fannie Mae/Freddie Mac multi-state 1-4 Family Rider, Form# 3170, (for 2- to 4-unit primary 
+residences and all investment property mortgages) 
+•  Fannie Mae/Freddie Mac multi-state Second Home Rider, Form# 3890 
+   
+V. Product Guidelines  5 of 7  Document #5347 
+Return to Top    12/05/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Super Conforming 
+EXHIBIT A 
+Counties where loan limits are set based on high-cost area provisions of HERA (areas where one-unit loan 
+limit exceeds $726,200 in continental U.S. or is above $1,089,300 for locations in Alaska, Hawaii and U.S. 
+Virgin Islands). 
+ 
+Fannie Mae and Freddie Mac conforming loan limits for the high cost areas below may not exceed the 
+corresponding levels listed. The 2023 conforming loan limit of $726,200 is in place everywhere else.  
+State  County  Limit 1-Unit  Limit 2-Unit  Limit 3-Unit  Limit 4-Unit 
+CA  El Dorado, Placer, Sacramento, Yolo  $763,600   $977,550   $1,181,650   $1,468,500  
+CA  Sonoma  $861,350   $1,102,700   $1,332,900   $1,656,450  
+CA  Santa Barbara  $805,000   $1,030,550   $1,245,700   $ 1,548,100  
+CA  San Luis Obispo  $911,950   $1,167,450   $1,411,200   $1,753,800  
+CA  Ventura  $948,750   $1,214,600   $1,468,150   $1,824,550  
+CA  Monterey  $915,400   $1,171,900   $1,416,550   $1,760,400  
+CA  San Diego  $977,500   $1,251,400   $1,512,650   $1,879,850  
+CA  Napa  $1,017,750   $1,302,900   $1,574,900   $1,957,250  
+Alameda, Contra Costa, Los Angeles, Marin, 
+CA  Orange, San Benito, San Francisco, San Mateo,  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+Santa Clara, Santa Cruz 
+CO  Routt  $845,250   $1,082,100   $1,308,000   $1,625,500  
+Adams, Arapahoe, Broomfield, Clear Creek, 
+CO  $787,750   $1,008,450   $1,219,000   $1,514,950  
+Denver, Douglas, Elbert, Gilpin, Jefferson, Park 
+CO  Boulder  $856,750   $1,096,800   $1,325,800   $1,647,650  
+CO  San Miguel  $862,500   $1,104,150   $1,334,700   $1,658,700  
+CO  Summit  $953,350   $1,220,450   $1,475,250   $1,833,400  
+CO  Garfield, Pitkin  $948,750   $1,214,600   $1,468,150   $1,824,550  
+CO  Eagle  $1,075,250   $1,376,550   $1,663,900   $2,067,850  
+DC  District of Columbia  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+FL  Monroe  $874,000   $1,118,900   $1,352,450   $1,680,800  
+ID  Blaine, Camas  $740,600   $948,100   $1,146,050   $1,424,250  
+ID  Teton  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+MA  Essex, Middlesex, Norfolk, Plymouth, Suffolk  $828,000   $1,060,000   $1,281,300   $1,592,350  
+MA  Dukes, Nantucket  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+Calvert, Charles, Frederick, Montgomery, Prince 
+MD  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+Georges 
+NH  Rockingham, Strafford  $828,000   $1,060,000   $1,281,300   $1,592,350  
+Bergen, Essex, Hudson, Hunterdon, Middlesex, 
+NJ  Monmouth, Morris, Ocean, Passaic, Somerset,  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+Sussex, Union 
+NY  Dutchess, Orange  $726,525  $930,300  $1,124,475  $1,397,400 
+V. Product Guidelines  6 of 7  Document #5347 
+Return to Top    12/05/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Super Conforming 
+Bronx, Kings, Nassau, New York, Putnam, 
+NY  Queens, Richmond, Rockland, Suffolk,  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+Westchester 
+PA  Pike  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+Cannon, Cheatham, Davidson, Dickson, Macon, 
+TN  Maury, Robertson, Rutherford, Smith, Sumner,  $890,100   $1,139,500   $1,377,400   $1,711,750  
+Trousdale, Williamson, Wilson 
+UT  Box Elder, Davis, Morgan, Weber  $744,050  $952,500  $1,151,400  $1,430,900 
+UT  Summit, Wasatch  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+Arlington, Clarke, Culpepper, Fairfax, Fauquier, 
+Loudoun, Madison, Prince William, Rappahannock, 
+VA  Spotsylvania, Stafford, Warren, Alexandria City,  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+Fairfax City, Falls Church City, Fredericksburg City, 
+Manassas City, Manassas Park City, 
+WA  King, Pierce, Snohomish  $977,500   $1,251,400   $1,512,650   $1,879,850  
+WV  Jefferson  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+WY  Teton  $1,089,300   $1,394,775   $1,685,850   $2,095,200  
+ 
+V. Product Guidelines  7 of 7  Document #5347 
+Return to Top    12/05/2022 
+
+NEW PAGE

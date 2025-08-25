@@ -1,0 +1,271 @@
+Fannie Mae Multiple Property 
+ 
+SECOND HOME – PURCHASE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit Warrantable 
+90%  90%  720  DU – Approve/Eligible 
+Condo PUD 
+ 
+SECOND HOME – RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit Warrantable 
+90%  90%  720  DU – Approve/Eligible 
+Condo PUD 
+Manufactured Home  Subordinate 
+70%  720  DU – Approve/Eligible 
+(double-wide) 1  financing not eligible 
+ 
+SECOND HOME – CASH-OUT REFINANCE   
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit Warrantable 
+75%  75%  720  DU – Approve/Eligible 
+Condo PUD 
+ 
+INVESTMENT PROPERTY – PURCHASE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit Warrantable 
+85%  85%  720 
+Condo PUD  DU – Approve/Eligible 
+2-4 Unit  75%  75%  720 
+ 
+INVESTMENT PROPERTY – RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit Warrantable 
+75%  75%  720 
+Condo PUD  DU – Approve/Eligible 
+2-4 Unit  75%  75%  720 
+ 
+INVESTMENT PROPERTY – CASH-OUT REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit Warrantable 
+75%  75%  720  DU – Approve/Eligible 
+Condo PUD 
+2-4 Unit  70%  70%  720  DU – Approve/Eligible 
+ 
+V. Product Guidelines  1 of 5  Document #5351 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae Multiple Property 
+1.  Manufactured homes are only eligible on the 30 and 15-year fixed product.  Purchase transactions are not eligible for manufactured homes.  
+Manufactured home loan purpose type is restricted to rate/term refinance of a Flagstar serviced loan.  Refinance loans not currently serviced by Flagstar 
+are not eligible. Adjustable rate loans are not eligible. 
+ 
+PROGRAM SUMMARY 
+Fixed and adjustable-rate, fully amortizing, conventional conforming and high balance first lien mortgage loan 
+program specifically designed for borrowers with 7 to 10 financed properties. 
+ 
+PRODUCTS OFFERED 
+Manufactur
+Product Name  Term  ARM Disclosure  ed Housing 
+Allowed? 
+Fannie Mae Multiple Property 30-Year Fixed  30 years 
+NA  Yes 
+Fannie Mae Multiple Property 15-Year Fixed  15 years 
+Fannie Mae Multiple Property 5/6 SOFR ARM  30 years  Doc #3383 or Equivalent  No 
+Fannie Mae Multiple Property High Balance 30-Year Fixed  30 years  Yes 
+NA 
+Fannie Mae Multiple Property High Balance 15-Year Fixed  15 years  Yes 
+Fannie Mae Multiple Property High Balance 5/6 SOFR ARM  30 years  Doc #3383 or Equivalent   No 
+ 
+LOAN AMOUNTS 
+MAXIMUM 
+Maximum standard conforming and high balance loan limits for 1 to 4-unit properties. See Fannie Mae 
+High Balance, Doc. #5346 for eligible locations. 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1 to 4-unit properties  
+•  Fannie Mae/Freddie Mac-warrantable condominiums 
+•  Planned Unit Developments (PUD) 
+•  Manufactured homes (double-wide only) 
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Non-Fannie Mae/Freddie Mac-warrantable condominiums   
+•  Cooperative properties 
+•  Manufactured homes (single-wide) 
+ 
+MINIMUM CREDIT SCORES 
+Refer to the Product Eligibility Grids above 
+ 
+QUALIFYING RATE 
+FIXED 
+Note rate 
+  
+ARM 
+Greater of the note rate plus 2% or the fully indexed rate 
+V. Product Guidelines  2 of 5  Document #5351 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae Multiple Property 
+ 
+QUALIFYING RATIOS 
+Determined by Desktop Underwriter (DU) 
+ 
+SUBORDINATE FINANCING 
+Refer to the Subordinate Financing section of the Conventional Underwriting Guidelines for details. 
+ 
+Community seconds subsidized subordinate financing is not eligible.  
+ 
+INTERESTED PARTY CONTRIBUTIONS 
+Interested party contributions include funds contributed by the property seller, builder, real estate agent/broker, 
+mortgage lender, or any other party with an interest in the real estate transaction. Interested party contributions 
+may be used exclusively to cover closing costs and prepaid expenses. 
+ 
+Property Type  Maximum Contribution 
+CLTV  Up to 75%  75.01-90% 
+Second Home  Maximum 9%  Maximum 6% 
+Investment Property  Maximum 2%  Maximum 2% 
+ 
+UNDERWRITING 
+All loans must meet the parameters as set out in Flagstar’s Conventional Underwriting Guidelines. 
+•  Borrowers own between 7-10 financed properties. (This applies to the total number of properties 
+financed, not just the number of mortgages sold to Fannie Mae). 
+•  For Flagstar policies on Multiple Loans to the Same Borrower, see Conventional Underwriting 
+Guidelines. 
+•  DU will determine the number of financed properties for the loan casefile based on the following: 
+  If the Number of Financed Properties field is completed, DU will use that as the number of 
+o
+financed properties.  The lender must complete this field with the number of financed one- to 
+four-unit residential properties (including the subject transaction) for which the borrower(s) are 
+personally obligated. 
+  If the Number of Financed Properties field is not provided, DU will use the number of residential 
+o
+properties in the REO section that include a mortgage payment, or that are associated with a 
+mortgage or HELOC in the liabilities section of the loan application, as the number of financed 
+properties. 
+  If the Number of Financed Properties field and the REO information was not provided, DU will 
+o
+use the number of mortgages and HELOCs disclosed in the liabilities section of the loan 
+application as the number of financed properties. 
+  When none of the information above is provided on the loan application, DU will use the number 
+o
+of mortgages and HELOCs disclosed on the credit report as the number of financed properties. 
+•  DU will issue a message informing the lender of the number of financed properties that DU used and 
+where that information was obtained (Number of Financed Properties field, REO section, number of 
+mortgages on application or number of mortgages on credit report).  If DU used the information 
+provided in the Number of Financed Properties field or in the REO section as the number of financed 
+properties, and that information is inaccurate, the lender must update the data and resubmit the loan 
+casefile to DU.  If DU used the number of mortgages and HELOCs on the loan application or credit 
+V. Product Guidelines  3 of 5  Document #5351 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae Multiple Property 
+report as the number of financed properties, and that number is inaccurate, the lender must provide the 
+correct number in the Number of Financed Properties field, or complete the Real Estate Owned section 
+of the loan application and resubmit the loan casefile to DU. 
+ 
+RESERVES  
+6% of the aggregate Unpaid Principal Balance (UPB).  The aggregate UPB calculation does not include the 
+mortgages or HELOCs that are on: 
+•  The subject property 
+•  The borrower’s principal residence 
+•  Properties that are sold or pending sale, and 
+•  Accounts that will be paid by closing 
+DU will include in the UPB calculation open mortgages or HELOCs on the credit report that are not disclosed 
+on the online loan application. 
+ 
+MORTGAGE INSURANCE 
+Mortgage insurance providers may have additional restrictions not listed within this document.  Due to rapid 
+changes within the industry, please refer to each mortgage insurance company’s website for complete details. 
+ 
+STANDARD MORTGAGE INSURANCE GUIDELINES 
+All loans above 80% LTV require mortgage insurance coverage according to the following guidelines. 
+LTV  30-Year  15-Year 
+85.01 – 90%  25%  12% 
+80.01 – 85%  12%  6% 
+ 
+NEW YORK PROPERTIES 
+See Conventional Underwriting Guidelines. 
+ 
+For Single Financed Mortgage Insurance (SFMI) and Lender Paid Mortgage Insurance (LPMI) eligibility see 
+Single Financed Mortgage Insurance (SFMI) & Lender Paid Mortgage Insurance (LPMI) Matrix, Doc. #5010. 
+ 
+TEXAS REFINANCE LOANS 
+All refinance loans in Texas will be evaluated against the criteria outlined in our Texas Refinances section to 
+determine if the loan must be originated under the requirements of Section 50(a)(6) of the Texas Constitution. 
+Refer to Texas Homestead 50(a)(6) Refinance, Doc. #5907 for eligibility, documentation/disclosure, and 
+title/closing requirements. 
+ 
+STATE ELIGIBILITY 
+Available in the following states/territories with restrictions. Those not listed are available without restrictions. 
+State  Restriction 
+Puerto Rico  Ineligible 
+US Virgin Islands  MI is not available 
+ 
+PREPAYMENT PENALTY 
+None 
+ 
+V. Product Guidelines  4 of 5  Document #5351 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae Multiple Property 
+ADJUSTABLE RATE DETAILS 
+Interest Rate Adjustment Caps  Initial – 2% up/down; Subsequent – 1% up/down; Lifetime – 5% up 
+Margin  See Price Indication Sheet 
+Index   30 Day SOFR (Secured Overnight Financing Rate) 
+Interest Rate Floor  The interest rate Floor is equal to the Margin 
+The first change date is the 60th payment due date.  There is a new change date 
+Change Dates 
+every 6 months thereafter. 
+Conversion Option  None 
+Assumption  Subject to conditions, fees and rate adjustment 
+Negative Amortization  None 
+ 
+CLOSING DOCUMENTATION – CORRESPONDENT TRANSACTIONS 
+Closing docs may be ordered through Flagstar’s Web Based Closing Docs (WBCD) service available in 
+Loantrac. 
+ 
+30-YEAR FIXED-RATE 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series. 
+•  Fannie Mae/Freddie Mac multi-state Fixed Rate Note, 3200-series. 
+•  Standard title commitment with all applicable endorsements. 
+ 
+5/6 SOFR ARMS 
+•  Fannie/Freddie multi-state Adjustable Rate Note, Form# 3442. 
+•  Fannie/Freddie multi-state Adjustable Rate Rider, Form# 3142. 
+•  Standard title commitment with all applicable endorsements, including the variable-rate 
+endorsement (ALTA 6.1). 
+ 
+IF APPLICABLE 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form# 3140. 
+•  Fannie Mae/Freddie Mac multi-state PUD Rider, Form# 3150. 
+•  Fannie Mae/Freddie Mac multi-state 1-4 Family Rider, Form# 3170, (investment property 
+mortgages). 
+•  Fannie Mae/Freddie Mac multi-state Second Home Rider, Form# 3890. 
+ 
+   
+V. Product Guidelines  5 of 5  Document #5351 
+Return to Top    08/31/2022 
+
+NEW PAGE

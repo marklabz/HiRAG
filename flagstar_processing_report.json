@@ -1,0 +1,37 @@
+{
+  "processing_summary": {
+    "total_documents": 3,
+    "successful_extractions": 3,
+    "total_characters": 615065,
+    "average_processing_time": 6.494633
+  },
+  "document_details": [
+    {
+      "filename": "Flagstar_ConventionalLoanCreditOverlays.pdf",
+      "file_size_mb": 0.18,
+      "extraction_method": "pdfplumber",
+      "processing_time_seconds": 0.44,
+      "character_count": 15921,
+      "has_errors": false,
+      "errors": null
+    },
+    {
+      "filename": "Flagstar_UWConv.pdf",
+      "file_size_mb": 1.33,
+      "extraction_method": "pdfplumber",
+      "processing_time_seconds": 18.46,
+      "character_count": 585193,
+      "has_errors": false,
+      "errors": null
+    },
+    {
+      "filename": "5010.pdf",
+      "file_size_mb": 0.05,
+      "extraction_method": "pdfplumber",
+      "processing_time_seconds": 0.59,
+      "character_count": 13951,
+      "has_errors": false,
+      "errors": null
+    }
+  ]
+}

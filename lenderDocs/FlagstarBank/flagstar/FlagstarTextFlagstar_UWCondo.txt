@@ -1,0 +1,1293 @@
+Conventional Condominium Guidelines 
+CONDOMINIUMS  
+All condominium projects, for non-delegated and table funded transactions, must be reviewed and approved by 
+Flagstar’s Condo Review Department. Flagstar Bank utilizes Fannie Mae’s Condominium Project Management 
+(CPM) system for all full project approvals. In addition, established projects may be submitted through Freddie 
+Mac’s Project Assessment Request (PAR). 
+ 
+For Delegated Correspondent Lenders, Project Eligibility Certification Form, Doc. #3285, or similar form 
+completed by the underwriter on all Condo transactions.  
+ 
+PROJECT DOCUMENTATION RETENTION AND EXPIRATION 
+Lenders must retain all of the project documentation needed to demonstrate that the project meets Fannie 
+Mae’s eligibility requirements, including any documentation the lender relied upon to enter information into 
+CPM. This documentation must be retained, and made available upon request, as long as lenders originate 
+mortgages from the project, and until all mortgages sold to Fannie Mae have been liquidated. 
+ 
+Expiration for Project Reviews 
+Project Review Process Employed  Fannie Mae Expiration  Freddie Mac Expiration 
+Limited/Streamline Review 
+Must review and determine project 
+Must have been completed within 
+meets requirements within one year 
+Full Review (with or without CPM) for  one year prior to the note date 
+prior to the Note date 
+Established Projects 
+Must have been completed within 
+Full review for New Projects 
+180 days prior to the note date  Must review and determine project 
+meets requirements within 180 
+Approved by Fannie Mae as  Must be valid (unexpired) as of the 
+days prior to the note date 
+Reflected in CPM  note Date 
+FHA approval must be valid 
+Approved by FHA  N/A 
+(unexpired) as of the note date 
+ 
+CONDO PROJECT MANAGER (CPM) DESIGNATIONS 
+CPM is a web-based application that supports a lender’s Full Review of a condo project by providing 
+key project eligibility questions to assist the lender in determining whether the project meets Fannie 
+Mae’s eligibility requirements. CPM is also used to communicate eligibility decisions made by Fannie 
+Mae. 
+ 
+Certified by Lender  Loans in the project are eligible for sale by the certifying lender prior to the 
+expiration date. 
+Approved by Fannie Mae  Project has been approved by Fannie Mae, and loans may be sold with a valid 
+and unexpired approval by any lender. This status may include projects 
+approved through the PERS or other Fannie Mae approval processes. 
+Conditional Approval  Project has been approved by Fannie Mae through the PERS process subject 
+to certain conditions being met. Loans in this project cannot be sold to Fannie 
+Mae until an Approved by Fannie Mae status has been issued. 
+No Fannie Mae Review  Lender can certify the project or subject legal phase based on the Selling Guide 
+requirements. 
+Unavailable  Project has been determined by Fannie Mae to be ineligible. 
+Guide Ineligible  Based on information entered in CPM by the lender, loans in this project are not 
+eligible for sale to Fannie Mae. 
+VI. Underwriting Guidelines  3 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+Incomplete Certification  Project has been entered into CPM, but the lender's certification process has 
+not been completed. The required information must be entered into CPM for the 
+lender to determine the project's eligibility. 
+ 
+If a lender becomes aware of any information that could impact the eligibility status reflected in CPM 
+(such as, significant deferred maintenance or major litigation), the lender must notify the CPM 
+Management team with the relevant data and information. Fannie Mae will evaluate the new 
+information and its impact on eligibility. Fannie Mae reserves the right to change a project eligibility 
+status designation if information acquired after approval or certification has an impact on a previously 
+issued eligibility determination.  
+ 
+Fannie Mae does not review insurance policies as part of the review process, therefore verification that 
+the project meets the applicable insurance requirements is required. 
+ 
+FREDDIE MAC CONDO PROJECT ADVISOR – PROJECT ASSESSMENT REQUEST (PAR) 
+PAR is a web-based application that supports a lender’s review of established projects. Green PAR 
+results do not remove any requirements or reduce documentation required from the project review. If 
+yellow results are returned from PAR, additional documentation may be required. 
+ 
+Note: all condo projects, excluding delegated transactions, must be reviewed and approved by Flagstar 
+Bank Condo Review Department in order to ensure requirements have been met.  
+ 
+DETACHED CONDOMINIUMS 
+See Conventional Underwriting Guidelines for Detached Condominium requirements 
+ 
+FANNIE MAE TEMPORARY REQUIREMENTS  
+The following requirements will remain in effect until further notice. 
+ 
+SIGNIFICANT DEFERRED MAINTENANCE AND UNSAFE CONDITIONS 
+Loans secured by units in condo projects with significant deferred maintenance or in projects that have 
+received a directive from a regulatory authority or inspection agency to make repairs due to unsafe 
+conditions are not eligible. These projects will remain ineligible until the required repairs have been 
+made and documented. Acceptable documentation may include a satisfactory engineering or inspection 
+report, certificate of occupancy, or other substantially similar documentation that shows the repairs 
+have been completed in a manner that resolves the building’s safety, soundness, structural integrity, or 
+habitability concerns.  
+ 
+Significant deferred maintenance includes deficiencies that meet one or more of the following criteria:  
+•  full or partial evacuation of the building to complete repairs is required for more than seven days 
+or an unknown period of time;  
+•  the project has deficiencies, defects, substantial damage, or deferred maintenance that  
+  is severe enough to affect the safety, soundness, structural integrity, or habitability of the 
+o
+improvements;  
+  the improvements need substantial repairs and rehabilitation, including many major 
+o
+components; or  
+  impedes the safe and sound functioning of one or more of the building’s major structural 
+o
+or mechanical elements, including but not limited to the foundation, roof, load bearing 
+structures, electrical system, HVAC, or plumbing. 
+ 
+VI. Underwriting Guidelines  4 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+Additionally, projects that have failed to obtain an acceptable certificate of occupancy or pass local 
+regulatory inspections or re-certifications are not eligible.  
+ 
+These policies do not apply to routine maintenance or repairs that a homeowners’ association (HOA) 
+undertakes to maintain or preserve the integrity and condition of its property. Also, if damage or 
+deferred maintenance is isolated to one or a few units and does not affect the overall safety, 
+soundness, structural integrity, or habitability of the improvements then these project eligibility 
+requirements do not apply. Examples of this scenario include water damage to a unit due to a leaky 
+pipe that is isolated or damage from a small fire impacting the interior of a specific unit. However, if the 
+subject property unit is affected, our standard requirements for property condition apply. 
+ 
+SPECIAL ASSESSMENTS 
+Any current or planned special assessment, even if paid in full for the subject unit, must be reviewed to 
+determine acceptability. Documentation must be retained in the loan file with the following:  
+•  the reason for the special assessment;  
+•  the total amount assessed and repayment terms;  
+•  documentation to support no negative impact to the financial stability, viability, condition, and 
+marketability of the project; and  
+•  borrower qualification with any outstanding special assessment payment.  
+ 
+Obtain the financial documents necessary to confirm the association has the ability to fund any repairs. 
+If the special assessment is related to safety, soundness, structural integrity, or habitability, all related 
+repairs must be fully completed or the project is not eligible. Additionally, if unable to determine that 
+there is no adverse impact, the project is ineligible 
+ 
+CONDO PROJECT MANAGER “UNAVAILABLE” STATUS 
+Loans secured by units in any project with a CPM status of “Unavailable” are ineligible, regardless of 
+the project review process used. 
+ 
+RESERVE REQUIREMENTS 
+A reserve study in lieu of the condo project meeting our 10% budget reserve requirement is not eligible. 
+Reserve studies are an important tool to help HOAs plan for future needs. It is best practice for HOAs 
+to obtain a reserve study, keep it updated, and follow its recommendations for reserves and 
+maintenance schedules. However, projects that budget less than 10% of the HOA’s assessment 
+income may be at increased risk for significant deferred maintenance and special assessments. 
+Lenders may submit exception requests to us through the Project Eligibility Review Service (PERS) 
+process for established projects that do not meet our minimal reserve requirements but that have a 
+reserve study demonstrating sufficient reserves. We will not consider such requests for new projects at 
+this time. 
+ 
+BEST PRACTICES AND REMINDERS 
+In the event documentation is obtained (e.g. project questionnaire, appraisal, insurance, etc.) indicating 
+deferred maintenance or other conditions that impact the safety, soundness, structural integrity, or 
+habitability, Flagstar a may request any of the following in adherence with Fannie Mae’s best practices: 
+•  Six months of the project’s HOA meeting minutes review for references to items such as 
+improvements, renovations, inadequate reserve funding, budget deficits, and negative cash-
+flows 
+VI. Underwriting Guidelines  5 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+•  Any available inspection, engineering, or other certification reports completed within the past 
+five years to identify deferred maintenance that may need to be addressed. 
+•  Regardless of review type, projects must comply with all policies described Ineligible Projects, 
+including when completing a Limited Review or an appraisal waiver is used. 
+ 
+As a reminder, appraisers must document special assessments or deferred maintenance that may 
+impact the safety, soundness, structural integrity, or habitability of the unit or the overall project and its 
+amenities.  
+•  Regardless of review type, projects must comply with all policies described in Ineligible Projects, 
+including when completing a Limited Review or an appraisal waiver is used.  
+•  Using an appraisal waiver does not exempt the lender from completing the required project 
+review. 
+ 
+FREDDIE MAC TEMPORARY REQUIREMENTS 
+The following requirements apply to all condo projects with five or more attached units, regardless of the 
+project review type, and will remain in effect until further notice. 
+ 
+PROJECTS IN NEED OF CRITICAL REPAIRS 
+Loans secured by units in condo projects in need of critical repairs, as defined below, are not eligible. 
+Acceptable sources of documentation to determine if a project needs critical repairs may include but 
+are not limited to: 
+•  Homeowners association (HOA)  
+•  Engineer's reports 
+•  Reserve studies 
+•  List of necessary repairs provided by the HOA or management company, and 
+•  Other substantially similar documentation 
+ 
+Violations of State or local law, ordinance or code, including failure by the HOA to schedule an 
+inspection required by the applicable jurisdiction and any directive from a regulatory authority or 
+inspection agency to make Critical Repairs. 
+ 
+Projects in need of critical repairs remain ineligible until the required repairs and/or inspection report 
+have been completed and documented. An engineer's report or substantially similar document must be 
+reviewed to determine that the repairs resolved the building's safety, soundness, structural integrity, or 
+habitability concerns. 
+ 
+These temporary requirements do not apply to: 
+•  Routine Repairs and Maintenance, and 
+•  Damage or deferred maintenance to one or a few units in the project, provided that there is no 
+impact to the overall safety, soundness, structural integrity, or habitability of the improvements 
+ 
+SPECIAL ASSESSMENTS 
+Any current special assessment, even if paid in full for the subject unit, must be reviewed to determine 
+acceptability. Borrowers must qualify with any outstanding special assessment with more than 10 
+monthly payment remaining. 
+ 
+The assessment must be reviewed to determine the following: 
+VI. Underwriting Guidelines  6 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+•  The reason for the special assessment 
+•  The total amount assessed 
+•  For current special assessments, the total amount is an appropriate allocation or, for planned 
+special assessments, there is adequate cash flow to fund the reason for the special 
+assessment, and 
+•  For current special assessments, the amount budgeted to be collected year-to-date has been 
+collected 
+ 
+To determine that the amount budgeted to be collected year-to-date (YTD) has been collected: 
+•  The Seller must review an income statement or a substantially similar document which has YTD 
+budgeted and actual amounts for the special assessment 
+•  The document should be dated within 90 days of the project review date, and 
+•  Any shortfall between the budgeted and actual YTD amounts for the special assessment must 
+not be more than 5% 
+ 
+Calculation: 1 - (actual YTD amount collected / budgeted YTD amount) ≤ .05 
+ 
+If the special assessment is related to a critical repair, all related repairs must be completed or the 
+project is not eligible. 
+ 
+FREDDIE MAC KEY TERMS 
+Term  Definition 
+Repairs and replacements that significantly impact the safety, soundness, structural 
+integrity or habitability of the project's building(s) and/or that impact unit values, financial 
+viability or marketability of the project. These repairs and replacements include: 
+•  All life safety hazards 
+Critical 
+Repairs  •  Violations of any federal, State or local law, ordinance or code relating to zoning, 
+subdivision and use, building, housing accessibility, health matters or fire safety 
+•  Material Deficiencies 
+•  Significant Deferred Maintenance 
+Unresolved problems that cannot reasonably be addressed by normal operation or routine 
+maintenance and which include: 
+•  Deficiencies which, if left uncorrected, have the potential to result in or contribute to 
+critical element or system failure within one year 
+Material  •  Deficiencies that will likely result in a significant escalation of remedial cost related to 
+Deficiencies  any material building components that are approaching, have reached or exceeded 
+their typical expected useful life or whose remaining useful life should not be relied 
+upon in view of actual or effective age, abuse, excessive wear and tear, poor 
+maintenance and exposure to the elements 
+•  Any mold, water intrusions or potentially damaging leaks to the project's building(s) 
+The postponement of normal maintenance, which cannot reasonably be resolved by normal 
+operations or routine maintenance and which may result in any of the following: 
+Significant  •  Advanced physical deterioration 
+Deferred 
+•  Lack of full operation or efficiency 
+Maintenance 
+•  Increased operating costs 
+•  Decline in property value 
+VI. Underwriting Guidelines  7 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+Repairs and maintenance that are expected to be completed by the project in the normal 
+course of business and are nominal in cost. These repairs are not considered to be critical 
+and include work that is: 
+•  Often preventative in nature 
+•  Accomplished within the project's normal operating budget 
+Routine 
+•  Typically completed by on-site staff 
+Repairs and 
+Maintenance  •  Focused on keeping the project fully functioning and serviceable 
+•  Minor deficiencies with a cost of $3,000 or less per repair item that do not warrant 
+immediate attention but that require repairs or replacements that should be undertaken 
+within the next 12 months 
+•  Scheduled repairs and maintenance that are fully funded, may have a cost greater than 
+$3,000 and will be undertaken within the next 12 months 
+ 
+BEST PRACTICES AND REMINDERS 
+Appraisers must document special assessments or deferred maintenance that may impact the safety, 
+soundness, structural integrity, or habitability of the unit or the overall project and its amenities.  
+•  Regardless of review type, projects must comply with all policies described in Ineligible Projects, 
+including when completing a Limited Review or an appraisal waiver is used.  
+•  Using an appraisal waiver does not exempt the lender from completing the required project 
+review. 
+ 
+As a reminder, if reserve study is utilized, all requirements which include but are not limited to the 
+following must be met: 
+•  A reserve study's financial analysis must validate that the project has appropriately allocated the 
+recommended reserve funds to provide the Condominium Project with sufficient financial 
+protection comparable to Freddie Mac's standard budget requirements for replacement 
+reserves, 
+•  The reserve study's annual reserve funding plan, which details total costs identified for 
+replacement components, must meet or exceed the study's recommendation and conclusion, 
+•  The most current reserve study (or update) must be dated within 36 months of the Seller's 
+determination that a Condominium Project is eligible, and 
+•  The reserve study must be prepared by an independent expert skilled in performing such 
+studies (such as a reserve study professional, a construction engineer, a certified public 
+accountant who specializes in reserve studies, or any professional with demonstrated 
+experience and knowledge in completing reserve studies) 
+ 
+When evaluating the reserve study's financial analysis, a comparison should be completed for the 
+current fiscal year, the estimated beginning of the year (BOY) reserve fund balance in the reserve study 
+to the actual BOY reserve fund balance. The reserve study's recommended reserve allocation for the 
+current fiscal year correlates to the project starting the year with that estimated reserve fund balance. If 
+the project started the year with significantly less than what was estimated, then the project has likely 
+failed to appropriately allocate the recommended reserve funds to provide the project with sufficient 
+financial protection. 
+ 
+FANNIE MAE LIMITED REVIEW/ FREDDIE MAC STREAMLINED REVIEW REQUIREMENTS FOR 
+ATTACHED ESTABLISHED PROJECTS 
+To be eligible for limited/streamline review the following characteristics must be met: 
+VI. Underwriting Guidelines  8 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+•  Project or legal phase must be completed 
+•  Must not contain any characteristics under Ineligible Projects;  
+•  90% of the units must be sold and conveyed 
+•  Control of HOA must be turned over to the unit owners 
+•  Project does not consist of manufactured homes 
+•  Project is not currently on Flagstar’s denied list 
+ 
+LIMITED/STREAMLINE REVIEW SUBMISSION REQUIREMENTS 
+Limited/Streamline Review Uniform Condominium Questionnaire, Doc. #3281 or similar form is 
+required. A condominium questionnaire will not be required if the condominium is on the Flagstar 
+approved list 
+ 
+LIMITED CASH-OUT PROJECT REVIEW WAIVER 
+Limited Cash-Out Project Review Waiver 
+Requirements  Fannie Mae 1  Freddie Mac 
+Current Loan  Fannie Mae must own  Freddie Mac must own 
+Maximum LTV 80% (CLTV/HCLTV 
+LTV/CLTV/HCLTV  Maximum LTV/CLTV/HCLTV 80% 
+may be higher) 
+Project is not a condo hotel or motel, houseboat, a timeshare or segmented 
+Project Type 
+ownership project, or include manufactured homes 
+Insurance  Complies will all applicable project related property and flood coverage 
+Title  Complies with all title insurance requirements 
+ 
+1. Fannie Mae-Loan must be delivered with Project Type Code “V” and any applicable SFCs that apply  
+ 
+LIMITED REVIEW ELIGIBILITY FOR ATTACHED UNITS IN ESTABLISHED PROJECTS (OUTSIDE 
+OF FLORIDA) 
+Limited Review Attached Units in Established Condo Project (Project Outside of Florida) 
+Maximum LTV/CLTV/HCLTV Ratios 
+Occupancy  Fannie Mae  Freddie Mac 
+Principal Residence  90% LTV/CLTV/HCLTV 
+Second Home  75% LTV/CLTV/HCLTV 
+Investment Property  75% LTV/CLTV/HCLTV 
+ 
+FLORIDA LIMITED REVIEW ELIGIBILITY FOR ATTACHED UNITS IN ESTABLISHED PROJECTS 
+Florida Limited Review Attached Units in Established Condo Project 
+Maximum LTV/CLTV/HCLTV Ratios 
+Occupancy  Fannie Mae  Freddie Mac 
+Less than or equal to 
+Principal Residence  75/90/90% 
+LTV/CLTV/HCLTV 
+VI. Underwriting Guidelines  9 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+Florida Limited Review Attached Units in Established Condo Project 
+Maximum LTV/CLTV/HCLTV Ratios 
+Less than or equal to 
+Second Home  70/75/75% 
+LTV/CLTV/HCLTV 
+Less than or equal to 
+Investment Property   70/75/75% 
+LTV/CLTV/HCLTV 
+ 
+FULL REVIEW 
+FULL REVIEW SUBMISSION REQUIREMENTS 
+Full review requires the submission of the following items: 
+•  Condominium Questionnaire 
+•  Budget 
+•  HOA insurance showing $1,000,000 liability coverage 
+•  Fidelity coverage for project with over 20 units 
+•  Appraisal  
+•  Recorded Declaration and Bylaws (only required for new projects) 
+•  HOA Master Hazard Policy 
+ 
+See Project Review Submission Instructions, Doc. #3253 for more information on project approval. 
+ 
+FLORIDA PROJECT REVIEW REQUIREMENTS FOR ATTACHED UNITS IN NEW, NEWLY 
+CONVERTED, ESTABLISHED PROJECTS 
+Florida Full Review Attached Units for New, Newly Converted and Established Projects 
+Maximum LTV Ratios 
+New, Newly Converted  Established Approved by Fannie Mae 
+Occupancy Type 
+PERS Approved   and Full Review (with or without CPM) 
+Principal Residence  97% (DU) 
+Second Home  90% 
+Investment Property  85% 
+ 
+FANNIE MAE TYPE S/FREDDIE MAC ESTABLISHED PROJECTS 
+•  Control of the HOA has been turned over to the unit owner from the developer  
+•  All common elements and amenities must be completed and not subject to additional phasing or 
+add-ons 
+•  See Conversions section, Type S for Fannie Mae requirements 
+•  Project Conveyance: 
+Percentage of Project required to be Conveyed to Unit Purchasers 
+Fannie Mae  90% 
+Freddie Mac  75% 
+VI. Underwriting Guidelines  10 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+  Exceptions to Percentage of Units Conveyed 
+o
+  Fannie Mae- A new project may be reviewed as an established project with less 
+than 90% of the units sold to unit purchasers, provided the deficit is the result of 
+the developer holding back units for rent. The following requirements must be 
+met:  
+•  Constructions is 100% complete; and  
+•  The project is not subject to any additional phasing or annexation, and the 
+HOA has been turned over to the unit owners; and 
+•  The developer’s share of the units held back for rental is no more than 
+20% of the project’s total units; and 
+•  HOA fees are paid current in developer-held units; and  
+•  There are no active or pending special assessments in the project. 
+  Freddie Mac- A project may be reviewed as established, with a Project Waiver 
+Request, with less than 75% of the units sold provided the developer is holding 
+the units for rent. The following requirements must be met: 
+•  The developer has owned those units a minimum of 10 years; and 
+•  The project otherwise meets the completion and project control 
+requirements to be classified as an established project. 
+•  Occupancy Requirements: 
+Occupancy Requirements for Attached Units in Established Projects 
+Total Units Required to be conveyed as Principal Residence or Second Home 
+Occupancy Type  Fannie Mae  Freddie Mac 
+Owner Occupied 
+None 
+Second Home 
+Investment Property  50%1 
+ 
+1. Fannie Mae- Financial institution-owned REO units that are for sale (not rented) are considered owner-occupied when calculating the 
+50% owner-occupancy ratio requirement 
+ 
+FANNIE MAE TYPE S PERS APPROVAL 
+May use this process for projects that do not meet Fannie Mae Project Standards 
+ 
+FANNIE MAE TYPE R/FREDDIE MAC NEW PROJECTS 
+•  New projects are projects in which less than 90% for Fannie Mae (or 80% if meets new Fannie 
+Mae Type S additional requirements) or 75% for Freddie Mac of the total units have been 
+conveyed to the unit purchasers and/or the HOA is still controlled by the developer. 
+•  Projects that are not fully complete, such as proposed construction, new construction, or the 
+proposed or incomplete conversion of an existing building to a condominium. 
+•  The legal phase must be 100% complete. All units must be constructed to the buyers’ 
+preference stage. 
+•  Please refer to Conversions, Type R section for additional requirements 
+•  Pre-sale requirement: 
+  At least 50% of the total units in the project must have been sold (or must be under 
+o
+contract to be sold) to principal residence purchasers or second home purchasers; or 
+VI. Underwriting Guidelines  11 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+  For a specific phase, or phases, in a new project, at least 50% of the total units in the 
+o
+subject phase(s) considered together with all prior phases must have been sold (or must 
+be under contract to be sold) to principal residence purchasers or second home 
+purchasers. 
+  For the purpose of calculating owner-occupancy, a single building can only have 
+one legal phase regardless of whether the condo project is comprised solely of 
+that single building or multiple buildings. Legal phases are defined by the project 
+documents 
+  Freddie Mac- construction or marketing phases for the convenience of the 
+developer are not necessarily legal phases and are not eligible 
+ 
+TYPE R (NEW PROJECTS) THAT REQUIRE FANNIE MAE (PERS/TYPE T) APPROVAL 
+Fannie Mae 
+Projects that are newly converted, non-gut rehabilitation must be Fannie Mae (PERS) approved that 
+contain more than four attached residential units, and are only eligible for delivery to Fannie Mae.  
+ 
+Fannie Mae and Freddie Mac 
+•  All new and newly converted attached unit projects located in Florida 
+•  Please refer to Conversions, Type R section for additional requirements 
+•  Please refer to Projects Consisting of Manufactured Homes section for additional 
+requirements. 
+ 
+CONDOMINIUM PROJECT LEGAL DOCUMENT REVIEW REQUIREMENTS FOR UNITS IN NEW 
+OR NEWLY CONVERTED PROJECTS 
+The table below provides requirements for the review of the condominium project's legal documents for 
+units in new and newly converted condominium projects containing more than four residential units. 
+Condo Project Legal Document Review Requirements –  
+For Units in New or Newly Converted Condo Projects 
+Any right of first refusal in the condo project documents will not 
+adversely impact the rights of a mortgagee or its assignee to: 
+•  foreclose or take title to a condo unit pursuant to the remedies in 
+Limitations on Ability to Sell/Right of 
+the mortgage, 
+First Refusal 
+•  accept a deed or assignment in lieu of foreclosure in the event of 
+default by a mortgagor, or 
+•  sell or lease a unit acquired by the mortgagee or its assignee. 
+The project documents must give the mortgagee and guarantor of the 
+mortgage on any unit in a condo project the right to timely written notice 
+of: 
+•  any condemnation or casualty loss that affects either a material 
+portion of the project or the unit securing its mortgage; 
+Rights of Condo Mortgagees and  •  any 60-day delinquency in the payment of assessments or 
+Guarantors  charges owed by the owner of any unit on which it holds the 
+mortgage; 
+•  a lapse, cancellation, or material modification of any insurance 
+policy maintained by the homeowners’ association; and 
+•  any proposed action that requires the consent of a specified 
+percentage of mortgagees. 
+VI. Underwriting Guidelines  12 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+Condo Project Legal Document Review Requirements –  
+For Units in New or Newly Converted Condo Projects 
+No provision of the condo project documents gives a condo unit owner 
+or any other party priority over any rights of the first mortgagee of the 
+First Mortgagee’s Rights Confirmed  condo unit pursuant to its mortgage in the case of payment to the unit 
+owner of insurance proceeds or condemnation awards for losses to or a 
+taking of condominium units and/or common elements. 
+Required provisions related to amendments to project documents are 
+as follow: 
+•  The project documents must provide that amendments of a 
+material adverse nature to mortgagees be agreed to by 
+mortgagees that represent at least 51% of the votes of unit 
+estates that are subject to mortgages. 
+•  The project documents must provide for any action to terminate 
+the legal status of the project after substantial destruction or 
+condemnation occurs or for other reasons to be agreed to by 
+mortgagees that represent at least 51% of the votes of the unit 
+estates that are subject to mortgages. 
+Amendments to Documents  •  The project documents may provide for implied approval to be 
+assumed when a mortgagee fails to submit a response to any 
+written proposal for an amendment within 60 days after it 
+receives proper notice of the proposal, provided the notice was 
+delivered by certified or registered mail, with a return receipt 
+requested. Notwithstanding the foregoing, project documents 
+that were recorded prior to August 23, 2007, may provide for 
+implied approval to be assumed when a mortgagee fails to 
+submit a response to any written proposal for an amendment 
+within 30 days after it receives proper notice of the proposal, 
+provided the notice was delivered by certified or registered mail, 
+with a return receipt requested. 
+ 
+FANNIE MAE TYPE T CONDOMINIUM 
+Type T projects are condominium projects that are reviewed and approved by Fannie Mae, including 
+those approved through PERS. Please refer to Conversions, Type R section for additional 
+requirements. 
+ 
+SMALL CONDOMINIUM PROJECTS 2 TO 4-UNITS  
+Project review is waived for new and established condominium projects that consist of no more than four 
+units. The following requirements will apply: 
+•  Project has the required project-related property and flood coverage  
+•  The project is not a condo hotel or motel, houseboat project, or a timeshare or segmented 
+ownership project  
+•  When an appraisal is obtained, it must meet all applicable appraisal requirements  
+•  Property is not a manufactured home 
+•  Freddie Mac- the project may consist of no more than one commercial unit. 
+ 
+FHA – APPROVED CONDO REVIEW ELIGIBILITY  
+Fannie Mae accepts delivery of FHA mortgage loans in FHA-approved condominium projects that appear 
+on the FHA-approved condominium list. For conventional mortgage loans, Fannie Mae and Freddie Mac 
+will accept delivery of mortgages in established projects on the FHA-approved list provided the approval 
+VI. Underwriting Guidelines  13 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+was completed by FHA HUD Review and Approval Process (HRAP) rather than through an FHA Direct 
+Endorsement Lender Review and Approval Process (DELRAP). FHA condominium project approval is not 
+acceptable for conventional mortgage loans secured by units in new or newly converted condominium 
+projects or projects in which lender is aware of any circumstances that would make the project ineligible. 
+ 
+Lenders may search for FHA-approved condominium projects by location, name, or project status online at 
+HUD.gov (will show HRAP approved) or through CPM.  Must be a Fannie Mae approved Seller/Servicer to 
+access CPM.  
+ 
+Lenders must maintain copies of the FHA approval documentation in the loan file. 
+ 
+ADDITIONAL CONDOMINIUM WARRANTIES 
+•  Project or legal phase is physically completed including all units, common areas, amenities, and 
+facilities. 
+•  Delinquent HOA Fees – No more than 15% of the unit owners are more than 60 days delinquent in 
+payment of homeowners’ dues or assessments. 
+•  Leasehold projects must meet agency guidelines. See the Leaseholds section of the conventional 
+underwriting guidelines for more information.  
+•  See Project Budget section for additional requirements.  
+•  Freddie Mac-project to remain in full compliance with applicable state laws and regulations, the 
+requirements of the relevant jurisdiction and all other applicable laws and regulations.  
+ 
+COMMERCIAL SPACE  
+No more than 35% of a condominium or co-op project or 35% of the building in which the project is located 
+be commercial space or allocated to mixed-use. This includes commercial space that is above and below 
+grade. Any commercial space in the project or in the building in which the residential project is located must 
+be compatible with the overall residential nature of the project.  
+ 
+Fannie Mae: 
+Projects located in flood zones with commercial space greater than 25% of the project’s square 
+footage, including any commercial parking facilities, may need supplemental or private flood 
+insurance policies to meet Fannie Mae’s requirements for flood insurance. Coverage under the 
+National Flood Insurance Program may provide inadequate coverage for projects with commercial 
+space in excess of 25%. 
+ 
+CALCULATION OF COMMERCIAL SPACE 
+Commercial space allocation is calculated by dividing the total non-residential square footage by the 
+total square footage of the project or building. Lenders are responsible for determining the total square 
+footage of the project, the square footage of the non-residential space, and the residential space 
+square footage. This calculation includes the total square footage of commercial space even if the 
+residential and commercial owners are represented by separate associations. 
+ 
+Non-residential square footage excludes amenities that are: 
+•  residential in nature  
+•  designated for the exclusive use of the residential unit owners (such as, but not limited to, a 
+fitness facility, pool, community room, and laundry facility) 
+•  owned by the unit owners or the HOA 
+ 
+VI. Underwriting Guidelines  14 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+The following table shows which commercial or mixed-use space must be included in the 
+calculation of the percentage of commercial space: 
+Then its square footage is included 
+in the calculation of commercial 
+If the commercial or mixed-use space is…   space percentage 
+Fannie Mae  Freddie Mac 
+Retail and commercial space located within the project (e.g. 
+Yes 
+restaurants 
+Rental apartments, hotels, or similar space even though space 
+Yes 
+may have residential characteristics 
+Space that is non-residential in nature and owned by a private 
+individual or entity outside the HOA structure (e.g. private-fitness  Yes 
+club that is membership based) 
+No 
+Commercial Parking Facilities that are not designated for  *See Project 
+No 
+residential unit owners  Budget for 
+limitations 
+Owned, controlled, or operated by the subject property’s HOA 
+that is unrelated to the project-specific amenities offered for the  Yes 
+exclusive use and enjoyment by the HOA members  
+Owned by the subject property’s HOA but controlled or operated 
+by a separate private entity (e.g. office space owned by the HOA  Yes 
+but leased to a private business.) 
+Owned and controlled by a project HOA other than the subject 
+property’s HOA that shares the same master HOA with the 
+Yes 
+subject property’s HOA and the commercial space is co-located 
+in the project’s building(s) that contain(s) the residential units  
+Owned, controlled, or operated by a private entity that is co-
+located in the building(s) that contain(s) the project’s residential 
+units (e.g. specific floors designated for rental apartments and  Yes 
+commercial use with other floors consisting of condo project 
+units)  
+Owned, controlled, or operated by a private entity that is NOT 
+co-located in the building(s) or common elements as declared in 
+No  Yes 
+the project legal documents that contain(s) the project’s 
+residential units  
+Owned and controlled by a project HOA other than the subject 
+property’s HOA that shares the same master HOA with the 
+subject property’s HOA BUT the commercial space is located in  No 
+a building that is separate from the building(s) containing the 
+project’s residential units  
+ 
+CONDO-HOTEL 
+Please refer to the Condo Hotel Evaluation Point Scale, Doc. #3260 for assistance in determining if a 
+project is eligible or otherwise considered ineligible as a condo-hotel. The project must be reviewed and 
+approved by the Condo Review Department. 
+ 
+If the unit owners in resort locations (either individually or through a rental company) rent their units on a 
+short-term basis, this alone does not indicate the project to be considered a Condo-Hotel. All 
+characteristics of the project and related project information should be analyzed including project 
+documents (e.g. by-laws, project budgets and financial statements), offering statements, marketing 
+material, web sites, contracts for sale and appraisal reports. 
+VI. Underwriting Guidelines  15 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+ 
+Characteristics Defining a Project as a Condo-Hotel 
+Project or HOA operated or managed as a hotel, motel or similar entity 
+Characteristic  Fannie Mae  Freddie Mac 
+Licensed as a hotel, motel, or similar entity  √  √ 
+Restrict owner’s ability to occupy the unit during any 
+√  √ 
+part of the year. 
+Require owners to make their units available for 
+√  √ 
+rental pooling (daily or otherwise) 
+Legal documents require unit owners to share profits 
+from the rental of units with the HOA, management  √  N/A 
+company, resort or hotel rental company 
+A conversion of a hotel, or similar entity, unless the 
+project was a gut rehabilitation and the resulting units  N/A  √ 
+no longer have the characteristics of a hotel 
+Hotel Type Services (see Condo Hotel Evaluation 
+√  √ 
+Point Scale, Doc. #3260 for limitations) 
+ 
+CONVERSIONS 
+TYPE R CONVERSION 
+Acceptable new conversion projects are not eligible to be underwritten by any Delegated Channel. The 
+LTV and CLTV for Type R conversion properties will be capped at 10% less than maximum financing 
+for the loan product. For example, if the product allows 95% LTV/CLTV, condominium conversions will 
+be capped at 85% LTV/CLTV.  Florida projects over 80% LTV, refer to MI company website for details 
+and restrictions 
+ 
+A new gut rehabilitation conversion is when the building is brought down to the shell and all HVAC and 
+electrical components have been replaced.  
+ 
+Freddie Mac 
+For a Condominium Project that was created by conversion of a building(s) with a prior use the 
+following requirements must be met:  
+•  For a conversion involving a Non-Gut Rehabilitation of a prior use of the building that was 
+legally created within the past three years, the engineer's report (or functionally equivalent 
+documentation for jurisdictions that do not require an engineer's report) must state that the 
+project is structurally sound, the condition and remaining useful life of the major project 
+components are sufficient to meet the residential needs of the project, and that there is no 
+evidence that any of these conditions have not been met. Major components include the 
+roof, elevators and mechanical systems such as HVAC, plumbing and electricity.  
+•  A review of the engineer's report (or functionally equivalent documentation) is not required 
+for conversions involving a Gut-Rehabilitation, and on a Non-Gut Rehabilitation if more than 
+three years have elapsed since the legal creation of the project 
+•  All rehabilitation work involved in the conversion (Non-Gut Rehabilitation and Gut 
+Rehabilitation) must be completed in a professional manner 
+VI. Underwriting Guidelines  16 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+ 
+TYPE S CONVERSION 
+Fannie Mae 
+•  A satisfactory engineer’s report is required if the project has been converted in the most 
+recent three years. It must comment favorably on sound transmission, the structural integrity 
+of the project and the condition and remaining useful life of the major project components, 
+such as heating and cooling systems, plumbing, electrical systems, elevators, boilers, and 
+roofs. The report must state the project is free of environmental hazards.  
+•  An engineer’s report is not required if a Limited or Streamlined Review is performed. All 
+construction/rehab work must be complete.  
+ 
+INSURANCE REQUIREMENTS 
+CONDOMINIUM FLOOD INSURANCE 
+Refer to Flood Insurance – Broker and Non-Delegated Doc. #4603 for coverage requirements. 
+ 
+CALIFORNIA CONDOMINIUM EARTHQUAKE INSURANCE  
+Flagstar Bank does not require earthquake insurance for Fannie Mae or Freddie Mac warrantable 
+projects. 
+ 
+LIABILITY INSURANCE  
+Liability Insurance is required on all full review projects. Each project must have $1,000,000 business 
+liability insurance coverage with HOA named as the insured.   
+ 
+The following exceptions do not require liability insurance:  
+•  Projects eligible for limited/streamline review 
+•  Detached condominium Unit Mortgages reviewed under the detached condominium project 
+review type 
+•  2-to 4-unit condominium projects 
+•  Fannie Mae-owned limited cash-out refinance waiver condo unit mortgages 
+•  Freddie Mac-owned no cash-out refinance waiver condo unit mortgages 
+ 
+MASTER HAZARD INSURANCE  
+For all policy requirements please refer to Hazard Insurance Requirements, Doc. #4602. 
+ 
+HO-6 INSURANCE 
+For all policy requirements please refer to Hazard Insurance Requirements, Doc. #4602.  
+ 
+FIDELITY (EMPLOYEE DISHONESTY) BOND INSURANCE 
+Projects with over 20-units must show evidence of the fidelity (employee dishonesty) bond coverage.  
+ 
+The HOA must be named as the insured. 
+ 
+The HOA must carry fidelity bond insurance, which covers the maximum funds that are in the custody 
+of the HOA (or co-op corporation) or its management agent at any time while the policy is in force. 
+Fidelity/crime insurance is not required if the maximum estimated funds are less than or equal to 
+$5,000. 
+VI. Underwriting Guidelines  17 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+ 
+A lesser amount of coverage (the sum of three months of assessments on all units in the project) is 
+acceptable if the project’s legal documents require the homeowner’s association and any management 
+company to adhere to one of more of the following financial controls: 
+•  Separate bank accounts are maintained for the working account and the reserve account, each 
+with appropriate access controls, and the bank in which funds are deposited sends copies of the 
+monthly bank statements directly to the homeowners’ association, or co-op corporation. 
+•  The management company maintains separate records and bank accounts for each 
+homeowners’ association, or co-op corporation, that uses its services, and the management 
+company does not have the authority to draw checks on, or transfer funds from the 
+homeowners’ association’s or co-op corporation’s reserve account. 
+•  Two members of the Board of Directors must sign any checks written on the reserve account. 
+ 
+Even then, the fidelity insurance coverage must equal at least the sum of three months of assessments 
+on all units in the project, unless this calculated amount is less than or equal to $5,000 in which case 
+fidelity/crime insurance is not required. 
+ 
+Fannie Mae 
+Fidelity/crime coverage is not required for projects that meet the criteria for a waiver of project 
+review. Fannie Mae does not require a thorough project review for the project types and 
+transactions for the following: 
+•  Detached condo unit 
+•  2-4 Unit project 
+•  Planned Unit Development 
+•  Fannie Mae to Fannie Mae limited cash-out refinance. Please refer to the conventional 
+underwriting guidelines for eligibility. 
+ 
+Ten days’ notification is required when the policies are being cancelled. 
+ 
+Freddie Mac 
+Fidelity or employee dishonesty insurance is required for Condominium Projects, except the 
+following: 
+•  Condominium Projects reviewed under the streamlined project review type 
+•  Detached Condominium Unit Mortgages reviewed under the Detached Condominium 
+Project review type 
+•  Freddie Mac-owned "no cash out" refinance Condominium Unit Mortgages 
+ 
+INELIGIBLE PROJECTS 
+Projects containing any of the following characteristics are not eligible for full, limited, or streamline review: 
+•  Condominium projects that include weekly and/or daily rentals are not acceptable if the HOA is 
+involved in rental of units 
+•  The project has blackout dates restricting the owners’ use 
+•  Timeshare or segmented ownership projects 
+•  Houseboat projects 
+•  Continuing care – Any project that operates either wholly or partially, as a continuing care 
+community are ineligible. The communities or facilities are residential projects designed to meet 
+VI. Underwriting Guidelines  18 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+specialized health and housing needs and typically require residents to enter into a lifetime contract 
+with the facility to meet all future health, housing, or care needs. Continuing care communities are 
+not the same as age-restricted projects. Age-restricted projects that restrict the age of residents but 
+do not require residents to enter into a long-term or lifetime contract for healthcare and housing as 
+the residents’ age are eligible. 
+•  Mandatory membership fees and recreational leases – projects with mandatory upfront or periodic 
+membership fees for the use of recreational facilities, included but not limited to country clubs, golf 
+courses, tennis clubs, etc., owned by an outside party, including the developer or builder, are 
+ineligible. Membership fees paid for the use of recreational amenities owned exclusively by the 
+HOA or master association are acceptable. Projects subject to recreational leases are also not 
+eligible. 
+•  Multi-dwelling unit condominiums –the owner holds title to more than one dwelling unit, with 
+ownership of all of his/her units evidenced by a single deed and mortgage are not eligible.  
+  If the subject is a combined unit, it must have been done legally so there is only one parcel 
+o
+ID number and the amended governing documents for the project must have been recorded 
+to show the new number of units and ownership percentages to be eligible. 
+•  Condominium projects that represent a legal, but non-conforming use of land if zoning regulations 
+prohibit rebuilding the improvements in the event of partial or full destruction 
+•  Any project where the owner’s association pays the property taxes for the individual units 
+•  Common interest apartments or Own Your Owns 
+•  Projects without an established HOA 
+•  See Commercial Space section for requirements 
+•  Projects in which more than 15% of income is from sources other than dues and assessments  
+  Fannie Mae - Non-incidental income from the following sources is permitted provided the 
+o
+income does not exceed 15% of the project’s budgeted income: 
+  income from the use of recreational amenities or services owned by the HOA for the 
+exclusive use by unit owners in the project or leased to another project according to 
+a shared amenities agreement (as noted below), or 
+  income from the leasing of units in the project acquired by the HOA through 
+foreclosure. 
+  The single-entity ownership limits (described in Single-Entity Ownership section) will 
+apply to the number of units owned and rented by the HOA. 
+•  A project for which the homeowners association or developer, if the project has not been turned 
+over to the unit owners, is a party to current litigation, arbitration, mediation or other dispute 
+resolution process, and the reason for the dispute involves the safety, structural soundness or 
+habitability of the project.  Refer to Minor Litigation section for additional details.   
+•  Flagstar will not lend in projects where its exposure exceeds 30% of the units in projects with more 
+than 4 units. For 2 to 4-unit projects, Flagstar will lend on more than one unit on a case by case 
+basis. 
+•  New projects where the seller is offering sale/financing structures in excess of investors eligibility 
+policies for individual mortgage loans. These excessive structures include, but shall not be limited to 
+builder/developer contributions, sales concessions, HOA or principal and interest payment 
+abatements, and/or contributions not disclosed on the Closing Disclosure. 
+•  See Single-Entity Ownership section for requirements 
+•  See Shared Amenities section for requirements 
+VI. Underwriting Guidelines  19 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+•  Projects in which an auction has taken place to sell original units. Projects must qualify for a Type S 
+Review. 
+•  If the project has been identified as being affected by environmental hazards and an environmental 
+hazard assessment indicates unacceptable condition(s) 
+  Refer to Fannie Mae Selling Guides for Phase I and Phase II assessments and 
+o
+unacceptable hazards. 
+•  See Condo-Hotel section for requirements 
+•  When Flagstar is aware the project does not meeting state or local jurisdiction laws and/or 
+regulations 
+ 
+LIVE-WORK PROJECTS  
+Live-work projects are projects that permit individual residential unit owners to operate and run a small 
+business from their residential unit. Units in projects that permit live-work arrangements are eligible 
+provided the project complies with all applicable local zoning, program, or statutory requirements for live-
+work projects and the nature of the project is primarily residential. 
+ 
+MINOR LITIGATION  
+Projects in which the HOA is named as a party to pending litigation or engaging in pre-litigation (e.g. 
+arbitration or mediation), or the project sponsor or developer is named as a party to pending litigation or 
+engaging in pre-litigation that relates to the safety, structural soundness, functional use or habitability of the 
+project are ineligible. 
+ 
+If it is documented, and retained in file, that the reason for the pending litigation or pre-litigation involves 
+minor matters that do not affect the safety, structural soundness, functional use or habitability of the 
+project, the project may be eligible as indicated below. 
+ 
+FANNIE MAE 
+The project is eligible provided the minor litigation meets at least one of the following: 
+•  Non-monetary litigation including, but not limited to neighbor disputes or rights of quiet 
+enjoyment;  
+•  Litigation for which the insurance carrier has agreed to provide the defense, and the amount is 
+covered by the HOA's or co-op corporation's insurance;  
+•  The HOA or co-op corporation is the plaintiff in the litigation and upon investigation and analysis 
+the lender has reasonably determined the matter is minor and will result in an insignificant 
+impact to the financial stability of the project;  
+•  The reasonably anticipated or known damages and legal expenses are not expected to exceed 
+10% of the project’s funded reserves;  
+•  The HOA or co-op corporation is seeking recovery of funds for issues that have already been 
+remediated, repaired, or replaced and there is no anticipated material adverse impact to the 
+HOA or co-op corporation if funds are not recovered;  
+•  Litigation concerning localized damage to a unit in the project that does not impact the overall 
+safety, structural soundness, habitability, or functional use of the project; or  
+•  The HOA or co-op corporation is named as the plaintiff in a foreclosure action, or as a plaintiff in 
+an action for past due HOA or co-op assessments.  
+ 
+Litigation that involves personal injury or death does not meet Fannie Mae’s criteria for minor litigation 
+unless: 
+VI. Underwriting Guidelines  20 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+•  The claim amount is reasonably anticipated or known,  
+•  The insurance carrier has agreed to provide the defense, and  
+•  The reasonably anticipated or known damages are covered by the HOA’s or co-op corporation’s 
+insurance.  
+ 
+Construction defect litigation in which the HOA or co-op corporation is the plaintiff are not considered a 
+minor matter unless the HOA or co-op corporation is seeking recovery of funds for issues that have 
+already been remediated, repaired, or replaced. In addition, there is no anticipated material adverse 
+impact to the HOA or co-op if the funds are not recovered.  
+ 
+FREDDIE MAC 
+The project is eligible provided the minor litigation meets at least one of the following: 
+•  The litigation amount is known, the insurance company has committed to provide the defense 
+and the litigation amount is covered by the insurance policy 
+•  If the litigation amount is unknown a copy of the complaint, or the most recent amended 
+complaint, along with an attorney letter that supports the litigation involves minor matters is 
+required. The attorney letter must state: 
+  the reason for the litigation; and 
+o
+  that the insurance company has committed to provide the defense; and 
+o
+  that any potential monetary judgment against the HOA, or settlement with the HOA, 
+o
+including punitive damages, will likely be covered by the HOA's insurance policy. If the 
+attorney indicates the matter will not likely be covered by the HOA's insurance policy, 
+then the project is ineligible; or 
+•  The matter involves: 
+  A non-monetary neighbor dispute or right of quiet enjoyment, or 
+o
+  The HOA is the plaintiff in a foreclosure action or action for past due HOA assessments, 
+o
+or 
+  The HOA is the plaintiff in the litigation seeking reimbursement for expenditures made to 
+o
+repair the project's component(s) which may have included items that related to the 
+safety, structural soundness, functional use or habitability of the project, the repair 
+permanently resolved the defect or issue and the expenditures did not significantly 
+impact the financial stability or future solvency of the HOA. 
+•  The valid estimation of or known litigation amount is not expected to exceed 10% of the 
+project’s funded reserves, provided that this does not violate the applicable jurisdiction’s laws 
+and regulations. 
+ 
+PROJECT BUDGET 
+The following HOA projected budget requirements must be met: 
+•  The budget must be adequate and consistent with the nature of the project. 
+•  The budget must be for the current fiscal year. 
+•  The budget must provide for the annual funding of replacement reserves for capital expenditures 
+and deferred maintenance equal to at 10% of the budgeted income of the amount is required, 
+regardless of the amount of money the HOA has currently collected for reserve funding. The budget 
+must also provide for the adequate funding for insurance deductible amounts. 
+  Incidental income on which the project does not rely for ongoing operations, maintenance or 
+o
+capital improvements, income collected from utilities typically paid by the individual unit 
+VI. Underwriting Guidelines  21 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+owners, income allocated to reserve accounts and special assessment income may be 
+excluded from the reserve calculation. 
+  Freddie Mac-No more than 10% of the HOA budgeted income may be generated from 
+o
+renting or leasing of commercial parking spaces. 
+•  Freddie Mac Only: When the project’s budget does not have a line item allocating at least 10% of 
+the budgeted income to reserves for capital expenditures and deferred maintenance, an acceptable 
+Reserve Study in lieu of the 10% may be used provided all the following conditions are met: 
+  The reserve study must have been completed within 36 months of the project review  
+o
+  Be prepared by an independent third party that has specific expertise in completing reserve 
+o
+studies. This may include a professional with reserve study credentials, a construction 
+engineer, a CPA who specializes in reserve studies, or professional with demonstrated 
+knowledge of and experience in completing reserve studies, and  
+  The reserve study demonstrates that the project has adequate funded reserves that provide 
+o
+financial protection for the project equivalent to the standard reserve requirements, and  
+  The reserve study demonstrates that the project’s funded reserves meet or exceed the 
+o
+recommendations included in the reserve study, and  
+  The reserve study must meet the following requirements: 
+o
+  All major components and elements of the project’s common areas for which repair, 
+maintenance, or replacement is expected, and  
+  The condition and remaining useful life of each major component, and  
+  An estimate of the cost of repair, replacement, restoration, or maintenance of major 
+components, and 
+  And estimate of the total annual contributions required to defray costs (minus 
+existing reserves funded for this purpose), including inflation, and an analysis of 
+existing funded reserves, and  
+  A suggested reserve funding plan. 
+  These requirements for a budget review, replacement reserves, and reserve study are not 
+o
+applicable to 2 to 4-unit projects. 
+ 
+Freddie Mac New Project Budget Requirements 
+For New Projects Freddie Mac requires the budget complies with the following: 
+•  The HOA assessments must begin once the developer has ceased to pay operating 
+expenses attributable to the project, whether or not all units have been sold. When any unit 
+owners other than the developer pay assessments, the developer must pay the 
+assessments attributable to the unsold units; 
+•  No more than 10% of the HOA budgeted income may be generated from renting or leasing 
+of commercial parking spaces. 
+•  The budget (or projected budget if the project has not been turned over to the unit owners) 
+must be consistent with the nature of the project; 
+•  Appropriate assessments must be established to manage the project; 
+•  There must be appropriate allocations for line items pertinent to the type and status of the 
+project; 
+•  If recently converted, the developer must have initially funded a working capital fund, 
+through contributions made by the developer and/or purchases of the units, in an amount 
+consistent with the estimated remaining life of the common elements; 
+VI. Underwriting Guidelines  22 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+•  There must be adequate funding for insurance deductible amounts; 
+•  At least 10% of the budget must provide funding for replacement reserves for capital 
+expenditures and deferred maintenance based on the project’s age, estimated remaining life 
+and replacement cost of major elements; and 
+•  If the budget does not provide a replacement reserve of at least 10% a reserve study may 
+be used or contributions to a working capital fund may be used: 
+•  Project Budget relying on contributions to a Working Capital Fund for New Projects: 
+  The Project Documents require the purchaser of a Condominium Unit to pay a non-
+o
+refundable and non-transferable assessment to a working capital fund which must be 
+established for the periodic maintenance, repair and replacement of the Common 
+Elements 
+  The assessment must be equal to a minimum of at least two months of the HOA fees 
+o
+attributable to the Condominium Unit and be due and payable at closing 
+  The developer is in control of the HOA 
+o
+ 
+PROJECTS CONSISTING OF MANUFACTURED HOMES 
+When determining the eligibility of condominium, Coop or PUD projects consisting of manufactured homes 
+on the basis of a Full Review, the property and project must meet the additional eligibility requirements 
+described in the following table. 
+ 
+Additional Requirements for Condo Projects Consisting of Manufactured Home Units 
+•  Certain manufactured home projects must be submitted to PERS. Lenders must perform a pre-
+PERS submission review to confirm the project meets the Full Review and other requirements. 
+•  The condominium project must meet all Full Review requirements, as applicable. 
+•  CPM should not be relied upon to complete the Full Review because it does not contain all the 
+requirements that apply to condo projects consisting of manufactured homes. 
+•  The project must not contain campgrounds or other facilities for transient or mobile units. 
+•  The project legal documents must require a provision for land-lease “hold-out” units to be converted 
+into the condominium structure upon transfer, sale, or refinance of property. Land lease “hold-out” 
+units are limited to 25% or less of the total units in the project. 
+•  Land-lease hold-out units are units where the structure is owned by an individual, but the land is 
+leased from the HOA or project sponsor. These units were not converted to condo ownership when 
+the project converted to a condominium regime. 
+ 
+SINGLE ENTITY OWNERSHIP  
+A project meets the definition of single-entity ownership when a single entity (the same individual, investor 
+group, partnership, or corporation) owns more than the following total number of units in the project.  
+ 
+Units currently subject to any rental or lease arrangement must be included in the calculation. This includes 
+lease arrangements containing provisions for the future purchase of units such as lease-purchase and rent-
+to-own arrangements. 
+ 
+VI. Underwriting Guidelines  23 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+MAXIMUM SINGLE INDIVIDUAL OR A SINGLE ENTITY OWNERSHIP (SUCH AS AN INVESTOR 
+GROUP, PARTNERSHIP OR CORPORATION) 
+Maximum Single Individual or Single Entity Ownership 
+Such as an Investor Group, Partnership or Corporation 
+Number of Units in Project  Fannie Mae  Freddie Mac 
+2-4 units  N/A 
+5-20 units  Maximum 2 units 
+21 or more  Maximum 20%  Maximum 25% 
+ 
+The following may be excluded from the single-entity ownership calculation: 
+•  Units that are owned by the project sponsor or developer and are vacant and being actively 
+marketed for sale; or 
+•  Units that are controlled or owned by a non-profit entity for the purpose of providing affordable 
+housing, units held in affordable housing programs (including units subject to non-eviction rent 
+regulation codes), or units held by higher-education institutions for a workforce housing program. 
+ 
+Single-Entity Ownership on Purchase Transactions The single-entity ownership requirement may 
+be waived when the transaction is a purchase transaction that will result in a reduction of the single-
+entity ownership concentration. In such instances, all the following requirements must be met: 
+•  Units owned by the single entity represent no more than 49% of the units 
+•  Evidence is required that the single entity is marketing units for sale to further reduce single-
+entity ownership: 
+  Fannie Mae with the goal of reducing the concentration to 40% or less of the project 
+o
+units 
+  Freddie Mac with goal of reducing the concentration to 25% or less 
+o
+•  The single entity is current on all HOA assessments, and 
+•  There are no pending or active special assessments in the project. 
+ 
+SHARED AMENITIES 
+Leased amenities in a project are not acceptable. Unit owners must have sole ownership interest in, and 
+rights to use the project facilities, common elements, and limited common elements, except as noted 
+below. 
+ 
+Permitted only when two or more HOAs share amenities for the exclusive use of the unit owners. Examples 
+include club houses, recreational and fitness facilities, and swimming pools. The association must have an 
+agreement in place governing the arrangements for the shared amenities that include:  
+•  A description of the shared amenities subject to the arrangement; and 
+•  A description of the terms under which units owners in the project may use the shared amenities; 
+and 
+•  Provisions for the funding, management, and upkeep of the shared amenities; and 
+•  Provisions to resolve conflicts between the association over the amenities 
+ 
+The developer may not retain any ownership interest in any of the facilities related to the project. The 
+amenities and facilities—including parking and recreational facilities—may not be subject to a lease 
+VI. Underwriting Guidelines  24 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE
+
+ 
+ 
+ 
+  Conventional Condominium Guidelines 
+between the unit owners or the HOA and another party. Parking amenities provided under commercial 
+leases or parking permit arrangements with parties unrelated to the developer are acceptable. 
+ 
+CONVENTIONAL CONDOMINIUM OVERLAYS 
+The Conventional Condominium Guidelines, include but not limited to, the following overlays to Fannie Mae or 
+Freddie Mac Selling Guides: 
+ 
+CONDO PROJECT EXPOSURE 
+Flagstar will not lend in projects where its exposure exceeds 30% of the units in projects with more than 4 
+units. For 2 to 4-unit projects, Flagstar will lend on more than one unit on a case by case basis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+VI. Underwriting Guidelines  25 of 25  12/22/2022 
+Return to Menu     
+
+NEW PAGE

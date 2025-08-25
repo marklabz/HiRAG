@@ -1,0 +1,482 @@
+Home Possible  
+Mortgage insurance providers may have additional restrictions not listed within this document. Please refer to 
+each mortgage insurance company’s website for complete eligibility details.  
+ 
+HOME POSSIBLE 
+PRIMARY RESIDENCE – PURCHASE AND RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  TLTV/HTLTV 1  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  97%  97% 
+NA  LPA - Accept 
+PUD 
+2 to 4-Unit   95%  95% 
+ 
+FIXED SUPER CONFORMING 
+PRIMARY RESIDENCE – PURCHASE AND RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  TLTV/HTLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  95%  95% 1 
+PUD 
+NA  LPA - Accept 
+2 Unit   85%  85% 
+3 to 4 Unit  80%  80% 
+ 
+ARM 
+PRIMARY RESIDENCE - PURCHASE & RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  TLTV/HTLTV 1  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  95%  95% 
+PUD 
+NA  LPA - Accept 
+2-Unit  95%  95% 
+3 to 4-Unit  75%  75% 
+ 
+ARM SUPER CONFORMING 
+PRIMARY RESIDENCE - PURCHASE & RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  TLTV/HTLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  95%  95% 
+PUD 
+NA  LPA - Accept 
+2-Unit  85%  85% 
+3 to 4-Unit  75%  75% 
+ 
+1. A TLTV ratio up to 105% is permitted when secondary financing is an Affordable Second. 
+V. Product Descriptions  1 of 9  Document #5335 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Possible  
+PROGRAM SUMMARY 
+Home Possible is Freddie Mac’s community lending program offering additional flexibility and options to meet a 
+variety of borrowers’ home financing needs.   
+ 
+PRODUCTS OFFERED 
+Product Name  Term  Arm Disclosure 
+Home Possible 30-Year Fixed  30 years 
+Home Possible 25-Year Fixed  25 years 
+NA 
+Home Possible 20-Year Fixed  20 years 
+Home Possible 15-Year Fixed  15 years 
+Doc. #3383 or 
+Home Possible 5/6 SOFR ARM  30 years 
+Equivalent 
+Home Possible 7/6 SOFR ARM  30 years  Doc. #3384 or 
+Home Possible 10/6 SOFR ARM  30 years  Equivalent 
+Home Possible Super Conforming 30-Year Fixed  30 years 
+Home Possible Super Conforming 25-Year Fixed  25 years 
+NA 
+Home Possible Super Conforming 20-Year Fixed  20 years 
+Home Possible Super Conforming 15-Year Fixed  15 years 
+Doc. #3383 or 
+Home Possible Super Conforming 5/6 SOFR ARM  30 years 
+Equivalent 
+Home Possible Super Conforming 7/6 SOFR  ARM  30 years  Doc. #3384 or 
+Home Possible Super Conforming 10/6 SOFR  ARM  30 years  Equivalent 
+ 
+LOAN REGISTRATION 
+When registering Home Possible loans in Loantrac, select Home Possible for the product question:  Is an 
+affordable housing loan requested?  See Income Limitations section below for additional registration 
+instructions. 
+ 
+LOAN AMOUNTS 
+MAXIMUM 
+Maximum standard conforming loan limits for 1 to 4-unit properties, including super conforming loan limits.  
+Refer to Freddie Mac Super Conforming, Doc. #5347 for a complete list of eligible high-cost areas   
+ 
+ELIGIBLE BORROWERS 
+•  All income-eligible occupant borrowers 
+•  Non-occupant co-borrower, see Underwriting-Occupancy below 
+•  May not have an ownership interest in more than two (2) financed residential properties, including the 
+subject property as of the Note Date. 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1 to 4-unit properties 
+•  Freddie Mac-warrantable condominium 
+•  Planned Unit Development (PUD) 
+V. Product Descriptions  2 of 9  Document #5335 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Possible  
+•  Modular home 
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Manufactured home 
+•  Cooperative property 
+ 
+MINIMUM CREDIT SCORES 
+All cores must meet the credit score validation requirements outlined in the Conventional Underwriting 
+Guidelines. 
+ 
+QUALIFYING RATE 
+•  Fixed Rate - Note rate 
+•  5/6 ARM - Greater of fully-indexed or note rate plus 2% 
+•  7/6 and 10/6 ARM - Greater of fully-indexed or note rate 
+ 
+INCOME LIMITATIONS 
+In determining whether a mortgage is eligible under the borrower income limits 
+•  80% of AMI as confirmed by LPA. 
+•  To see income limits prior to loan registration  
+  https://sf.freddiemac.com/working-with-us/affordable-lending/home-possible-eligibility-map 
+o
+  Enter property address 
+o
+  See example below. 
+o
+ 
+ 
+QUALIFYING RATIOS 
+Determined by Loan Product Advisor (LPA) 
+ 
+UNDERWRITING 
+All loans must meet the parameters as set out in Flagstar Bank’s Conventional Underwriting Guidelines. 
+•  All loans must submitted to LPA and receive an Accept response. 
+V. Product Descriptions  3 of 9  Document #5335 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Possible  
+•  At least one borrower must complete a homeownership education course if all borrowers are first time 
+homebuyers. See Homeownership Education below. 
+•  All scores must meet the credit score validation requirements outlined in the Conventional Underwriting 
+Guidelines.  Manual underwriting, thin file or non-traditional credit profiles are not eligible. 
+•  Occupancy 
+  At least one borrower must occupy the property secured by the mortgage as their primary 
+o
+residence 
+  Non-occupying borrowers are permitted provided that: 
+o
+  The mortgage is secured by a 1-unit property 
+  The LTV, TLTV and HTLTV ratios must not exceed 95% for LPA mortgages, except that 
+for a fixed rate mortgage with affordable seconds, the TLTV ratio must not exceed 105% 
+•  Income 
+  Total borrower income limited as indicated above under Income Limitations 
+o
+  Income other than listed below to be documented per standard Freddie Mac guidelines and/or 
+o
+LPA. 
+  Rental income: 
+o
+  Rental income from a 1-unit primary residence 
+  Rental income from a 1-unit primary residence may be considered as stable monthly 
+income provided it meets the stable monthly income guidelines of Freddie Mac including 
+the following: 
+•  Connection with the borrower. The person providing the rental income and the Borrower: 
+  Have resided together for at least one year 
+o
+  Will continue residing together in the new residence, and 
+o
+  The person providing the rental income provides appropriate documentation to evidence 
+o
+residency with the Borrower (i.e., copy of a driver’s license, bill, bank statement, etc., that shows 
+the address of that person to be the same as the Borrower’s address) 
+  Rental payment. Rental income from the person residing in the mortgaged premises: 
+  Has been paid to the borrower for the past 12 months on a regular basis 
+o
+  Can be verified by the borrower with evidence showing receipt of regular payments of rental 
+o
+income to the borrower for at least 9 of the past 12 months (i.e. copies of cancelled checks) 
+  Income must be averaged over 12 months when fewer than 12 months of payments are 
+o
+documented. 
+  Does not exceed 30% of the total income used to qualify for the mortgage 
+o
+  The mortgage file must contain a written statement from the borrower affirming: 
+  The source of the rental income 
+o
+  The fact that the person providing the rental income has resided with the borrower for the past 
+o
+year and intends to continue residing with the borrower in the new residence for the foreseeable 
+future 
+  Rental income from 2 to 4-unit primary residences 
+o
+  Rental income from a 2 to 4-unit primary residence must meet the requirements per the 
+Flagstar Conventional Underwriting Guidelines.   
+•  Assets 
+  Reserves determined by LPA 
+o
+V. Product Descriptions  4 of 9  Document #5335 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Possible  
+ 
+Minimum Contribution from Borrower Personal Funds 
+Home Possible  Home Possible 
+Property  Home Possible 
+LTV/TLTV/HTLTV ratios  LTV/TLTV/HTLTV ratios 
+Type  LTV/TLTV/HTLTV ratios <=80% 
+>80% <=95%  >95% 
+1-Unit  None  None  None 
+2 to 4 Unit  None  3%  3% 
+ 
+Permitted Sources of Funds 
+Use  Permitted Sources of Funds 
+Minimum borrower contribution  Borrower personal funds 
+Down payment for purchase transaction  Borrower personal funds 
+(difference between the purchase price and the 
+Other borrower funds 
+first lien amount) 
+Additional equity if needed for a no-cash-out  Borrower personal funds 
+refinance transaction  Other borrower funds 
+Borrower personal funds 
+Closing costs, financing costs, 
+Other borrower funds 
+prepaids/escrows 
+Flexible sources of funds 
+Borrower personal funds 
+Reserves  Other borrower funds 
+Eligible assets 
+ 
+  Borrower personal funds include 
+o
+  Borrower personal funds per Freddie Mac guidelines 
+  Cash on hand, if the following requirements are met: 
+•  The lender reasonably concludes, and can support, that the borrower is a cash-
+basis individual and that the cash on hand is not borrowed and could be saved 
+by the borrower 
+•  The mortgage file contains the following documents supporting the conclusion: 
+  Completed Monthly Budget and Residual Analysis Form, or another 
+o
+document containing the same information, confirming that the total 
+monthly residual  income available for savings is a positive number 
+  Copies of six months cash receipts (e.g. rent or utility receipts) or other 
+o
+alternative documentation (e.g., direct verifications or wire transfers) 
+meeting the requirements  
+  A credit report obtained at the time of loan application.  The credit report 
+o
+must not show more than three trade lines. 
+  Copies of three months’ statements for any open revolving account that 
+o
+reveal cash advances are not the source of borrower funds.  Any cash 
+advances must be explained and documented (i.e., a cash advance used 
+in an emergency situation). 
+  An updated credit report obtained approximately one week before closing 
+o
+that does not show any new accounts or a substantial increase to an 
+existing account that approximates, or exceeds, the amount of cash on 
+hand provided by the borrower. 
+V. Product Descriptions  5 of 9  Document #5335 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Possible  
+•  The mortgage file must have no indication that the borrower typically uses 
+checking, savings or similar accounts 
+•  Evidence that funds for the down payment, closing costs, financing costs, 
+prepaids/escrows and reserves are deposited in a financial institution or are held 
+in an institutional escrow account prior to closing. 
+  Other borrower funds per Freddie guidelines plus: 
+o
+  For purchase transactions, proceeds from an unsecured loan meeting the Freddie Mac 
+requirements for an Individual Development Account from one of the following: 
+•  An agency 
+•  A related person or 
+•  A Community Savings System (CSS) (funds in excess of the borrower 
+contribution to the CSS) 
+  Flexible Sources of Funds: 
+o
+  Financing concessions/interested party contributions per limits below 
+  Premium financing 
+•  Affordable Seconds 
+  Only approved Affordable Second programs are eligible, see Community Seconds Programs, 
+o
+Doc. #5932. 
+  When the TLTV ratio exceeds 97%, the secondary financing subordinated must be an 
+o
+Affordable Second 
+  An affordable second that does not require a payment before the due date of the 61st payment 
+o
+under the Home Possible mortgage may be entered in LPA in the Total Gift Fund field.  In all 
+other respects the affordable second must be considered as secondary financing. 
+ 
+INTERESTED PARTY CONTRIBUTIONS 
+Interested party contributions include funds contributed by the property seller (directly or indirectly), builder, 
+real estate agent/broker, or any other party with an interest in the real estate transaction. The mortgage lender 
+may also be considered an interested party if it has an ownership relationship with the property seller or one of 
+the other interested parties such as the builder or real estate broker/agent.  After the borrowers minimum 
+contributions have been met, such contributions may be used to: 
+•  Reduce permanently the interest rate of the mortgage 
+•  Towards mortgage financing costs, closing costs, or prepaids/escrows, including up to 12 months of 
+homeowners association dues. 
+INTERESTED PARTY CONTRIBUTION LIMITS 
+CLTV  Up to 75%  75.01-90%   90.01% & Greater 
+Primary Residence  Maximum 9%  Maximum 6%  Maximum 3% 
+ 
+HOMEOWNERSHIP EDUCATION 
+Refer to Conventional Underwriting Guidelines for requirements.   
+ 
+2 TO 4-UNIT PROPERTIES 
+•  Purchase transactions – At least one qualifying borrower must participate in a landlord education 
+program prior to the note date.  A copy of the certificate of completion must be retained in the mortgage 
+loan file. 
+V. Product Descriptions  6 of 9  Document #5335 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Possible  
+•  Refinance transactions – Landlord education is not required but is recommended for borrowers who 
+have not previously attended a program. 
+ 
+SUBORDINATE FINANCING 
+Refer to the Subordinate Financing section of the Conventional Underwriting Guidelines for details. The use of 
+financing obtained from the property seller is not allowed. 
+ 
+Eligible Community Seconds subsidized subordinate financing. Community seconds may be eligible from a 
+state, local or municipal authority or agency, a 501(c)(3) nonprofit corporation, a tax-exempt religious 
+organization or the borrower’s employer. Flagstar Bank must review all community second programs for 
+eligibility. An official written description of the program (from the agency providing the funds), the loan 
+documents used in connection with the financing (i.e. the note, mortgage/deed of trust, etc.), and any other 
+written descriptive material must be submitted with the loan file. Subordinate financing program review 
+generally requires three to five business days for approval. 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible 
+ 
+TEXAS REFINANCE LOANS   
+All refinance loans in Texas will be evaluated against the criteria outlined in our Conventional Underwriting 
+Guidelines, Texas Refinances section to determine if the loan must be originated under the requirements of 
+Section 50(a)(6) of the Texas Constitution. Refer to Texas Homestead 50(a)(6) Refinance, Doc. #5907, for 
+eligibility, documentation/disclosure, and title/closing requirements.   
+ 
+INVESTOR FEATURE IDENTIFIERS 
+This loan program requires that certain special feature codes be attached to each loan file by the underwriter. 
+•  IFI 140 For mortgages when the borrower qualifying income converted to an annual basis does not 
+exceed 80% of the applicable area median income or the mortgaged premises is located in an 
+underserved area)   
+•  IFI 532 If mortgage satisfies the minimum number of payment reference requirement using noncredit 
+payment references  
+•  IFI 583 Home Possible mortgage with an affordable second 
+•  IFI G18 Home Possible mortgage with affordable second entered into Loan Product Advisor in Total 
+Gift Fund field 
+ 
+MORTGAGE INSURANCE   
+Mortgage insurance providers may have additional restrictions not listed within this document.  Due to rapid 
+changes within the industry, please refer to each mortgage insurance company's website for complete details.   
+ 
+Reduced MI coverage is not eligible. 
+ 
+All loans above 80% LTV require mortgage insurance coverage according to the following guidelines: 
+ 
+V. Product Descriptions  7 of 9  Document #5335 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Possible  
+MORTGAGE INSURANCE GUIDELINES 
+Primary Residence – Purchase & Rate/Term Refinance 
+LTV  25 & 30-Year  10, 15 & 20-Year 
+95.01-97% 
+25% 
+90.01-95%  25% 
+85.01-90%  12% 
+80.01-85%  12%  6% 
+ 
+3-4 units with a LTV >80% is only eligible for MI through Genworth and MGIC. 
+ 
+NEW YORK PROPERTIES 
+See Conventional Underwriting Guidelines. 
+ 
+For Single Financed Mortgage Insurance (SFMI) and Lender Paid Mortgage Insurance (LPMI) eligibility 
+see Single Financed Mortgage Insurance – Lender Paid Mortgage Insurance, Doc. #5010. 
+ 
+STATE ELIGIBILITY 
+These products are available in the following states/territories with restrictions. The states/territories not listed 
+are available without restrictions. 
+State/Territory  Restriction 
+Refer to Mortgage Insurance section above for mortgage 
+New York 
+insurance coverage calculation requirements.  
+Puerto Rico  Ineligible 
+Texas  Refer to Texas Refinances section above.  
+ 
+PREPAYMENT PENALTY 
+None 
+ 
+ADJUSTABLE RATE DETAILS 
+Interest Rate  5/6:  Initial – 2% up/down; subsequent – 1% up/down; lifetime – 5% up. 
+Adjustment Caps  7/6 and 10/6:  Initial – 5% up/down; subsequent – 1% up/down; lifetime – 5% up. 
+Margin  See Price Indication Sheet 
+Index   30 Day SOFR (Secured Overnight Financing Rate) 
+The interest rate floor is equal to the margin. There is a new change date every 6 
+Interest Rate Floor 
+months thereafter. 
+•  5/6: The first change date is the 60th payment due date. There is a new Change 
+Date every 6 months thereafter. 
+•  7/6: The first change date is the 84th payment due date. There is a new Change 
+Change Dates 
+Date every 6 months thereafter. 
+•  10/6: The first change date in the 120th payment due date. There is a new Change 
+Date every 6 months thereafter. 
+Conversion Option  None 
+Assumption  Subject to conditions, fees and rate adjustment 
+V. Product Descriptions  8 of 9  Document #5335 
+Return to Top    08/31/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Possible  
+Negative Amortization  None 
+ 
+CLOSING DOCUMENTATION – CORRESPONDENT TRANSACTIONS 
+Closing docs may be ordered through Flagstar’s Web Based Closing Docs (WBCD) service available in 
+Loantrac.  
+ALL LOANS 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series 
+•  Fannie Mae/Freddie Mac multi-state Fixed Rate Note, 3200-series 
+•  Standard title commitment with all applicable endorsements 
+ 
+5/6, 7/6, & 10/6 SOFR ARMS  
+•  Fannie/Freddie multi-state Adjustable Rate Note, Form# 3442  
+•  Fannie/Freddie multi-state Adjustable Rate Rider, Form# 3142  
+ 
+IF APPLICABLE 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form# 3140 
+•  Fannie Mae/Freddie Mac multi-state PUD Rider, Form# 3150 
+•  Fannie Mae/Freddie Mac multi-state 1-4 Family Rider, Form# 3170 (for 2 to 4-unit primary 
+residences and all investment property mortgages) 
+V. Product Descriptions  9 of 9  Document #5335 
+Return to Top    08/31/2022 
+
+NEW PAGE

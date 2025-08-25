@@ -1,0 +1,604 @@
+Home Equity Line of Credit 
+ 
+PRIMARY RESIDENCE 1,3 – PURCHASE 2 & CASH-OUT REFINANCE 
+Property  Maximum  Maximum  Minimum  Total 
+Type  LTV/CLTV  Line Amount  Credit Score  Debt Ratio 
+1 to 4-Unit  
+Warrantable Condo  89.99%  $500,000  680   45% 
+PUD 
+ 
+SECOND HOME 1,3 – PURCHASE 2 & CASH-OUT REFINANCE 
+Property  Maximum  Maximum  Minimum  Total 
+Type  LTV/CLTV  Line Amount  Credit Score  Debt Ratio 
+1-Unit 
+Warrantable Condo  80%   $500,000  700   45% 
+PUD 
+1. Properties located in the state of Texas are not eligible. 
+2. Purchase-money loans are not eligible as standalone transactions; must close concurrently with a new Flagstar first mortgage. 
+3. When used concurrently with a Flagstar first mortgage, if the first mortgage has a higher credit score requirement, lower LTV/CLTV requirement or lower DTI 
+limit,  the more restrictive guideline(s) must be met. 
+ 
+PROGRAM SUMMARY 
+Revolving line of credit with a 10-year draw period followed by a 20-year repayment period; full term is 30 
+years. Monthly payments require either interest-only or principal and interest calculated on the outstanding 
+balance and based on the product selected by the customer prior to closing. HELOCs will be table-funded and 
+will close in the name of Flagstar Bank. Must not be used as a bridge loan. 
+ 
+EXHIBITS & SUPPORTING DOCUMENTS 
+•  Exhibit A – Standalone HELOC Valuation Decision Matrix 
+•  Exhibit B – Allowable Fee Tables 
+•  HELOC Amortization Schedule (requires Microsoft Excel 2013 or later) for payment scenarios 
+•  TPO Standalone HELOC – Title Order and Fees User Guide 
+•  TPO Standalone HELOC – Consolidated Analytics Property Valuation User Guide 
+•  Standalone Home Equity Underwriting Guidelines 
+PRODUCTS OFFERED 
+Product Name  Term  Lien Position  Description 
+HELOC: P&I Pymt (2nd-Concurrent) 
+Must close concurrently with a new Flagstar 
+30 years  Second lien 
+first mortgage 
+HELOC: I-O Pymt (2nd-Concurrent) 
+HELOC: P&I Pymt (2nd-Standalone)  For use behind an existing first lien; not 
+30 years  Second lien  eligible for concurrent closing behind another 
+HELOC: I-O Pymt (2nd-Standalone)  lender’s first mortgage 
+HELOC: P&I Pymt (1st-Standalone)  For use on a property with no existing first 
+30 years  First lien  lien or where the existing first lien will be 
+HELOC: I-O Pymt (1st-Standalone)  refinanced into a HELOC also in first lien 
+Use HELOC Amortization Schedule for payment scenarios. 
+V. Product Guidelines  1 of 12  Document #5561 
+Return to Top    01/19/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Equity Line of Credit 
+ 
+ELIGIBLE BORROWERS 
+•  Borrowers must be the same for the first mortgage loan and HELOC (concurrent HELOCs only) 
+•  U.S. citizens 
+•  Permanent resident aliens 
+•  Non-permanent resident aliens 
+•  Non-occupant co-borrowers 
+•  Revocable/”living” trusts are acceptable provided it is established by, and the primary beneficiary is, an 
+individual; for concurrent HELOCs, loans closing in a trust must follow the same trust requirement as 
+the first mortgage 
+INELIGIBLE BORROWERS 
+•  Land trusts are not eligible, including Illinois land trusts 
+ELIGIBLE PROPERTY TYPES 
+•  1 and 4-unit properties (second homes must be 1-unit) 
+•  Warrantable condominiums 
+•  Planned unit developments (PUDs) 
+•  Modular homes 
+INELIGIBLE PROPERTY TYPES 
+•  Manufactured/mobile homes (single- or double-wide) 
+•  Cooperative properties 
+•  Vacant land 
+•  Properties currently listed for sale 
+•  Properties under construction or renovation at time of loan closing 
+•  Properties titled as Life Estates are not eligible 
+ELIGIBLE TRANSACTION TYPES 
+•  Purchase 
+  When used as part of a concurrent transaction to pay off an interim construction lien for a new 
+o
+property that has never been occupied, the transaction will be treated as a purchase 
+  No rescission period is required; however, the borrower must execute a Right to Cancel 
+form specific to HELOC purchase transactions (the right to cancel applies only to any 
+undrawn portion of the line of credit; the initial disbursement used to payoff the interim 
+construction financing is not subject to rescission) 
+  No additional funds can be disbursed to the borrower with the initial draw; access to any 
+remaining undrawn HELOC funds will be available only after closing and after the loan 
+has been setup on the MSP servicing system; it may take up to three to four business 
+days for the loan be setup on the servicing system 
+•  Cash-out refinance 
+  Subject to standard rescission guidelines applicable to refinance transactions 
+o
+V. Product Guidelines  2 of 12  Document #5561 
+Return to Top    01/19/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Equity Line of Credit 
+INELIGIBLE TRANSACTION TYPES 
+•  Rate/term refinance 
+•  New York CEMA transactions 
+INELIGIBLE FIRST LIEN TYPES 
+CONCURRENT HELOCS 
+•  FHA, VA, or USDA mortgages 
+•  Construction or renovation loans 
+STANDALONE HELOCS 
+•  Land contracts or contracts for deed 
+•  Reverse mortgages 
+•  Negative amortization loans 
+•  Home equity lines of credit or other future advance liens 
+ 
+MINIMUM LINE AMOUNT 
+•  $50,000 is the minimum line amount; the minimum initial draw requirement is the greater of $50,000 or 
+50% of the full line amount 
+ 
+FEES 
+Customers may not charge any origination or third-party fees other than bona fide third-party fees listed below. 
+Charges for credit report and third-party processing should be applied consistently on all loans made by the 
+originator. Originators cannot retain any portion of bona fide third-party charges. 
+Customers who have fee templates setup in the TPO website that pre-populate amounts for various 
+fees must ensure that only the fees shown on Exhibit B are assessed on HELOC transactions. Closers 
+must also validate that only Exhibit B fees are included when preparing closing documents. 
+CLOSING FEES 
+Refer to Exhibit B – Allowable Fee Tables for a list of permissible fees that may be assessed on HELOCs 
+ 
+OTHER HELOC FEES 
+ANNUAL FEE  
+$75 charged to the line each year of the draw period; waived the first year 
+ 
+EARLY CLOSURE FEE 
+None 
+INTEREST RATES/PRICING 
+HELOC rates product are posted to the price indication sheets. Lines of credit must be locked by calling the 
+Lock Desk at (866) 945-9872, option 1 and follow the prompts. The lock period will be 15 days, and the 
+HELOC must be in Final Approval Clear to Close status.  
+ 
+All HELOC loans will be priced at par (100.00).  Margin is effective as of the application date. 
+ 
+V. Product Guidelines  3 of 12  Document #5561 
+Return to Top    01/19/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Equity Line of Credit 
+INITIAL DISCLOSURES 
+HELOCs are exempt from the TILA-RESPA Integrated Disclosures (TRID) rule. Thus, Loan Estimates and 
+Closing Disclosures are not provided for HELOC loans. A TILA disclosure is required, but it is not the same as 
+the TIL disclosure provided for pre-TRID loans. Instead, the documents listed below will be included in the 
+initial disclosure package for the HELOC loan obtained from the Disclosures screen on the TPO website. 
+These disclosures must be provided to applicants within three days of the Broker/Correspondent customer’s 
+application date. 
+•  Important Terms of Your Home Equity Line of Credit, Doc. #3263 (the TILA disclosure for HELOCs) 
+•  Federally-mandated CFPB booklet, What you should know about home equity lines of credit 
+•  Other federal disclosures required: 
+  List of Homeownership Counseling Organizations 
+o
+  Credit Score Disclosure 
+o
+Refer to Flood Insurance – Broker & Correspondent, Doc. #4603 for flood requirements. 
+QUALIFYING RATE/PAYMENT 
+The Qualifying Rate for all HELOCs is the fully indexed rate (index + margin) plus 1.00%. 
+ 
+The Qualifying Payment for all HELOCs is a 20-year fully amortizing payment calculated at the Qualifying Rate. 
+ 
+Use the HELOC Amortization Schedule tool to determine the qualifying rate/payment for the line of credit and 
+to run payment scenarios using various initial draw amounts as well as subsequent draw and repayment 
+amounts. Important Note: Users must have Microsoft Excel 2013 or later installed in order for the tool to 
+calculate properly. 
+ 
+INTEREST-ONLY HELOC PAYMENT CALCULATION (DURING DRAW PERIOD) 
+Principal Balance x Interest Rate x (30 ÷ 365) 
+ 
+PRINCIPAL & INTEREST HELOC PAYMENT CALCULATION (APPLIES THROUGHOUT TERM) 
+(Principal Balance ÷ Remaining Term) + (Principal Balance x Interest Rate x (30 ÷ 365)) 
+ 
+TOTAL DEBT RATIO 
+The maximum debt-to-income (DTI) ratio is 45% (this is true even for concurrent transactions where DU or LP 
+approved a higher ratio amount for the first mortgage). However, for concurrent transactions, it should be noted 
+that some first mortgage products (e.g., jumbo) may have a lower DTI requirement that must be met. 
+ 
+APPRAISAL / COLLATERAL EVALUATIONS 
+All appraisals will be reviewed by the Appraisal Review Department. 
+ 
+CONCURRENT HELOCS 
+A full appraisal appropriate to the property type must be obtained. The appraisal from the first mortgage 
+can be used. However, any reduced appraisal options offered by the first mortgage AUS findings, including 
+a property inspection waiver (PIW), are not eligible. A full traditional first mortgage appraisal fee must be 
+disclosed as part of the first mortgage disclosures. 
+ 
+V. Product Guidelines  4 of 12  Document #5561 
+Return to Top    01/19/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Equity Line of Credit 
+STANDALONE HELOCS 
+Refer to Exhibit A – Standalone HELOC Valuation Decision Matrix to determine the valuation type required 
+for a standalone HELOC.  
+ 
+UNDERWRITING 
+•  Concurrent HELOCs: Underwritten to the standards of the first mortgage product, except that the credit 
+score, DTI ratio and appraisal requirements must meet the guidelines set out in this product description. 
+•  Standalone HELOCs: Underwritten to the standards set out in this product description and Flagstar 
+Bank’s Standalone Home Equity Underwriting Guidelines. 
+•  Refer to the Standalone Home Equity Line of Credit Submission Review Checklist, Doc. #3234. 
+•  Delegated underwriting is not permitted for HELOCs nor for any first mortgage loan originated for or 
+intended to be sold to Flagstar as part of a concurrently closing transaction. For concurrent transactions, 
+both the first mortgage and HELOC must be underwritten together by a Flagstar underwriter. 
+•  Credit documents must be uploaded into the Documents screen of the TPO website for all HELOCs. 
+•  For concurrent HELOCs, both the first and second lien loans must be linked together in the TPO website 
+using the Linked Loan functionality; both loans should be submitted to Underwriting at the same time. 
+•  Lines of credit are underwritten using the line amount requested, not the potential amount for which an 
+applicant may qualify. 
+•  Lines of credit may not be used to pay off a land contract unless it is recorded. 
+CREDIT 
+•  Concurrent HELOCs:  
+  Credit report issued for the first mortgage must be reissued through the TPO website for the 
+o
+HELOC. 
+  The credit standards of the first mortgage product will be used for the HELOC as long as the 
+o
+minimum credit score requirement is met (credit score requirement of either the first mortgage 
+product or the HELOC, whichever is higher). 
+  An AUS response of Approve (from Desktop Underwriter) or Accept (from Loan Product 
+o
+Advisor) for the first mortgage will be deemed as evidence of acceptable credit and no 
+further manual review of the applicants’ credit profile will need to occur other than to confirm 
+that the decision credit scores of each borrower are at or above the minimum credit score 
+requirement of either the first mortgage product or the HELOC, whichever is higher. 
+  When a first mortgage must be manually underwritten – as is the case with many jumbo 
+o
+loans, for example – then the credit standards of the first mortgage product will apply also to 
+the HELOC with the exception of the minimum credit score requirement. As long as the 
+underwriter has confirmed the borrower meets the credit requirements of the first mortgage, 
+that will be deemed as evidence of acceptable credit and no further manual review of the 
+applicants’ credit profile will need to occur other than to confirm that the decision credit 
+scores of each borrower are at or above the minimum credit score requirement of either the 
+first mortgage product or the HELOC, whichever is higher. 
+•  Standalone HELOCs:  
+  Refer to Flagstar Bank’s current Standalone Home Equity Underwriting Guidelines. 
+o
+  Customer must submit a tri-merged credit report for all standalone HELOC transactions. 
+o
+ 
+V. Product Guidelines  5 of 12  Document #5561 
+Return to Top    01/19/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Equity Line of Credit 
+EMPLOYMENT AND INCOME 
+•  Concurrent HELOCs:  
+  The employment and income requirements and documentation standards of the first 
+o
+mortgage product will be used for the HELOC; this applies to transactions where the first 
+mortgage is underwritten using an automated underwriting system (AUS) (e.g., 
+Fannie/Freddie loans) as well as first mortgages that are manually underwritten (e.g., jumbo 
+loans). 
+  4506-C tax transcripts: 
+o
+  When tax returns are used to document the qualifying income, the more restrictive tax 
+transcript requirements apply: 
+•  The number of years required on the concurrent first mortgage, or 
+•  The most recent (1) year tax transcript unless the following apply: 
+  If transcripts are not required on the first mortgage, transcripts are also 
+o
+not required if the borrower is an existing Flagstar customer with one of 
+the following: 
+  Transcripts were previously obtained/provided to Flagstar for most 
+recent year used for qualification; or 
+  There is no significant increase (defined as 10%) to the income 
+source based on the last available transcript for the borrower; or 
+  Borrower has a satisfactory payment history of at least 12 months 
+with Flagstar 
+•  Standalone HELOCs:  
+  Refer to Flagstar Bank’s current Standalone Home Equity Underwriting Guidelines. 
+o
+ 
+ASSETS 
+•  Concurrent HELOCs:  
+  The asset requirements and documentation standards of the first mortgage product will be 
+o
+used for the HELOC; this applies to transactions where the first mortgage is underwritten 
+using an automated underwriting system (AUS) (e.g., Fannie/Freddie loans) as well as first 
+mortgages that are manually underwritten (e.g., jumbo loans). 
+•  Standalone HELOCs:  
+  Refer to Flagstar Bank’s current Standalone Home Equity Underwriting Guidelines. 
+o
+ 
+INSURANCE COVERAGE 
+MORTGAGE INSURANCE 
+Mortgage insurance is not required for HELOCs 
+ 
+TITLE INSURANCE 
+•  Concurrent HELOCs:  
+  Not required; title commitment from the first mortgage will be used for the line of credit 
+o
+•  Standalone HELOCs:  
+  All states except Alaska, Hawaii and South Dakota: 
+o
+  A Property Report must be obtained from title vendor; the Broker/Correspondent must 
+order the Property Report from title vendor, and it must be uploaded to the Documents 
+screen on the TPO website as a prior to close condition identified as “Consumer Title” 
+  Refer to TPO Standalone HELOC – Title Order and Fees User Guide 
+V. Product Guidelines  6 of 12  Document #5561 
+Return to Top    01/19/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Equity Line of Credit 
+  Alaska, Hawaii and South Dakota: 
+o
+  Title insurance is required in these states and must be ordered from title vendor 
+  Refer to TPO Standalone HELOC – Title Order and Fees User Guide 
+ 
+HAZARD INSURANCE 
+The amount of hazard insurance coverage must include the full amount of the line of credit and any other 
+mortgage liens secured by the property. 
+ 
+Refer to Hazard Insurance Requirements, Doc. #4602 for hazard insurance guidelines 
+ 
+FLOOD CERTIFICATE/FLOOD INSURANCE 
+Refer to Flood Insurance – Broker & Correspondent, Doc. #4603 for flood insurance requirements. 
+ 
+STATE ELIGIBILITY 
+Available with the following geographic restrictions. States not listed are available without restrictions. 
+State  Restriction 
+Puerto Rico  Not eligible 
+Texas  Not eligible  
+US Virgin Islands  Not eligible 
+ 
+VARIABLE RATE DETAILS 
+Interest Rate 
+None other than Interest Rate Floor & Ceiling Rate; no periodic rate caps 
+Adjustment Caps 
+Margin  See Price Indication Sheet 
+Index  The Wall Street Journal Prime Rate 
+Interest Rate Floor  1.99% 
+Ceiling Rate  21.00% 
+The rate will adjust on the first calendar day following any event impacting the Margin or 
+Change Dates 
+following the publication of any change to the Index 
+Conversion Option  None 
+Assumption  Not assumable 
+Negative Amortization  None 
+ 
+REQUESTING CLOSING SERVICES 
+Customers must request closing services through the TPO website for all HELOCs. All HELOCs will be table-
+funded and will close in the name of Flagstar Bank. Substantial differences exist in the closing process 
+between concurrent and standalone HELOCs. See below for a description of the process for each. 
+ 
+CONCURRENT HELOCS 
+Customers must request closing services through the TPO website for all HELOCs. Concurrent HELOCs 
+must close with the same settlement agent, and at the same time, as the first mortgage. 
+ 
+STANDALONE HELOCS 
+All standalone HELOCs must close through a pre-approved Standalone Settlement Agent available in the 
+TPO website. Standalone HELOCs must NOT close using a traditional settlement agent. Refer to Exhibit B. 
+ 
+V. Product Guidelines  7 of 12  Document #5561 
+Return to Top    01/19/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Equity Line of Credit 
+STEP 1 
+Prior to requesting closing services through the TPO website, customers will first need to request 
+closing through the appropriate title vendor website (the same site used to order the property report). 
+Please refer to the TPO Standalone HELOC – Title Order and Fees User Guide, for information about 
+requesting closings for standalone HELOC transactions. The title vendor will engage a notary or 
+attorney, as appropriate, based on the state where the property is located. Once scheduled, they will 
+send a confirmation back to the customer. 
+ 
+STEP 2  
+On the TPO website, request closing services from Flagstar using the confirmed information received 
+from the title vendor. Flagstar will contact the standalone settlement agent/attorney to receive the 
+recording charges and will prepare the closing documents. Flagstar will send the closing documents to 
+the standalone settlement agent. The settlement agent will conduct the closing with the borrower, will 
+disburse funds after rescission, and will record the security instrument and any riders. 
+ 
+CLOSING DOCUMENTATION 
+Closing documents must be ordered through the Request Closing Docs link available on the TPO website. 
+HELOCs will be table-funded and will close in the name of Flagstar Bank. 
+ 
+All title holders must sign the mortgage even if they are not on the loan. 
+ 
+ALL HELOCS 
+•  Flagstar HELOC Line Agreement, DocMagic document HELCASD22.CST 
+•  State-specific future advance mortgage, open-end deed of trust, etc., as applicable 
+ 
+ADDITIONAL DOCUMENT THAT MAY BE NEEDED IN CERTAIN CIRCUMSTANCES 
+•  Condominium Rider – HELOC, DocMagic document USHERDCN.HLC 
+•  Planned Unit Development Rider – HELOC, DocMagic document USHERDPU.HLC 
+•  1-4 Family Rider – HELOC, DocMagic document USHERD14.HLC (for 2-4 unit transactions) 
+•  Second Home Rider – HELOC, DocMagic document USHERD2H.HLC 
+•  Employee Rate Adjustment Amendment, DocMagic document ERAA.CST (all Flagstar Bank 
+employee loans) 
+ 
+FIRST PAYMENT DATE FOR HELOCS 
+Payment for all HELOC loans will be due on the first of the month. HELOCs with disbursement dates on or 
+before the 9th of the month (e.g., October 7th) will have a first payment date of the next month (November 
+1). HELOCs with disbursement dates on or after the 10th of the month (e.g., October 11th) will have a first 
+payment date of the first of the following month (December 1). 
+ 
+The method for determining the first payment date for HELOC loans described above is different than the 
+method used for first mortgage loans. Therefore, it is possible that the first payment date of the HELOC 
+could be earlier than the first payment date of the first mortgage if the disbursement date is on or before the 
+9th of the month. 
+ 
+MORTGAGE ELECTRONIC REGISTRATION SYSTEM (MERS) 
+HELOC loans do not require MERS registration or MIN numbers 
+ 
+V. Product Guidelines  8 of 12  Document #5561 
+Return to Top    01/19/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Home Equity Line of Credit 
+HIGH COST (SECTION 32) OR HIGHER PRICED (SECTION 35) MORTGAGE LOANS 
+Flagstar Bank will not fund or purchase any High Cost (Section 32) mortgage loans under this program, or 
+loans for which the points and/or fees exceed specific federal, state or local regulations. 
+ 
+Higher Priced (Section 35/HPML) mortgage loan regulations do not apply to open-ended credit transactions. 
+RIGHT OF RESCISSION 
+Standard rescission guideline apply to refinance transactions. All primary residence borrowers and title holders 
+must execute a Notice of Right to Cancel form at closing. Purchase borrowers (concurrent transactions only) 
+will be required to execute a Notice of Right to Cancel for the non-purchase-money portion of the line of credit. 
+ 
+ESCROWS 
+CONCURRENT HELOCS 
+An escrow account for taxes and insurance can be established with the first mortgage loan, but not with the 
+home equity line of credit. However, regardless of whether an escrow account is established with the first 
+mortgage loan, all housing expenses, including first and subordinate mortgage loan amounts, property 
+taxes, homeowner’s insurance, flood insurance, association fees, etc., must be included in the debt ratio 
+calculation. 
+ 
+STANDALONE HELOCS 
+An escrow account for taxes and insurance cannot be established as part of the home equity line of credit 
+transaction. Also, all housing expenses, including first and subordinate mortgage loan amounts, property 
+taxes, homeowner’s insurance, flood insurance, association fees, etc., must be included in the debt ratio 
+calculation. 
+ 
+ACCESSING HELOC FUNDS AFTER CLOSING 
+Borrowers will receive a checkbook with which to access their line of credit approximately three weeks after 
+closing. If they anticipate needing funds prior to that time, they should be encouraged to take those funds as a 
+draw at closing. 
+ 
+Refer to the Access to HELOC Funds FAQ document for other methods the borrower can use to access their 
+HELOC funds. 
+ 
+V. Product Guidelines  9 of 12  Document #5561 
+Return to Top    01/19/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+Exhibit A – Standalone Home Equity Valuation Decision Matrix 
+ 
+This Decision Matrix is for Standalone HELOCs only. Concurrent HELOCs will use the appraisal from the first 
+mortgage. 
+ 
+           
+      Use unexpired full appraisal from loan # __________________   
+      Do not complete remainder of Decision Matrix. 
+1.  Is the requested HELOC line amount > $250,000? 
+      Yes  Full URAR appropriate to the property type is required. Order through Appraisal Management 
+        screen in the TPO website. Enter “Home Equity” in Special Instructions. 
+         
+      No  Continue to #2   
+           
+2.  For a HELOC line amount <= $250,000, does the property have any of the following characteristics? 
+      Recent remodel or extensive renovations?   
+         
+      Properties with excess acreage?  (15+ acres)   
+         
+      Unique design or amenities?  (Berm/dome/log home or atypical amenities such as private tennis court, 
+           multiple outbuildings, etc.) 
+         
+      None of the above; Continue to #3   
+         
+    If any box other than “None of the above” is checked, order a full URAR appropriate to the property type 
+    through Appraisal Management screen in the TPO website. Enter “Home Equity” in Special Instructions. 
+           
+3.  Order the following:  • Collateral evaluation1 (I-Eval) from Consolidated Analytics. 
+ 
+ 
+ 
+Customers must use the Consolidated Analytics website to order collateral evaluations. Please refer to the TPO 
+Standalone HELOC – Consolidated Analytics Property Valuation User Guide for information about how to place 
+Consolidated Analytics valuation orders. 
+1  Flagstar reserves the right to require a full appraisal at its sole discretion for any property when one of the other 
+valuation options is deemed insufficient. 
+V. Product Guidelines  10 of 11  Document #5561 (Exhibit A) 
+Return to Top    01/19/2023 
+
+NEW PAGE
+
+ 
+ 
+ 
+Exhibit B – Allowable Fee Tables 
+Only the following fees may be charge on HELOC transactions: 
+Concurrent  Standalone 
+Fee Type  Description 
+HELOCs  HELOCs 
+Administrative Fee or 
+Not assessed on HELOCs  N/A  N/A 
+Commitment Fee 
+Not charged on concurrent HELOCs because the 
+appraisal from the first mortgage is used, but may be 
+required on standalone HELOCs if a collateral  Amount varies; 
+Appraisal Fee 1  N/A 
+evaluation cannot be used. Paid for at the time the  actual cost  
+order is placed. The settlement agent will not collect or 
+reimburse funds for this service. 
+If a collateral evaluation is permitted to be used for a 
+$95 or $125; 
+standalone HELOC in lieu of a URAR appraisal, the 
+Appraisal - Collateral  depending on the 
+collateral evaluation fee must be charged. Paid for at  N/A 
+Evaluation Fee 1  valuation product 
+the time the order is placed. The settlement agent will 
+required 
+not collect or reimburse funds for this service. 
+Not permitted on concurrent HELOCs as the credit 
+Amount varies; 
+Credit Report Fee  report from first mortgage will be used; may only be  N/A 
+actual cost 
+charged on standalone HELOCs 
+To determine if the property is in a Special Flood 
+Flood Certification Fee  $7.50  $7.50 
+Hazard Area 
+1.00% of the full line 
+Compensation paid by Flagstar to the 
+HELOC Origination Fee  $250  amount (Min. $500; 
+Broker/Correspondent for originating the HELOC 
+Max. $1,250) 
+May only be charged on standalone HELOCs for 
+Amount varies; 
+processing services performed by an independent third 
+Processing Fee (third  actual cost, but 
+party firm unaffiliated with the Flagstar TPO customer  N/A 
+party)  must not exceed 
+originating the HELOC; no portion of the fee can be 
+$1,000 
+payable to or retained by the Flagstar TPO customer. 
+Amount varies;  Amount varies; 
+The appropriate recording fee for the 
+Recording Fee  obtain quote from  obtain quote from 
+mortgage/security instrument must be charged 
+settlement agent  title vendor 
+State-specific or  Any fees or taxes charged by state or local  Amount varies;  Amount varies; 
+Government-imposed  governments must be charged on the HELOC, as  obtain quote from  obtain quote from 
+Fees and Taxes  applicable  settlement agent  title vendor 
+Tax Service Fee  Not assessed on HELOCs  N/A  N/A  
+All standalone 
+Title work not required 
+closings must be 
+(1st mtg title will be used) 
+coordinated with title 
+ 
+Title Fees  Fees charged by the settlement agent  vendor; refer to TPO 
+Settlement / Closing Fee: 
+Standalone HELOC 
+Amount varies; obtain quote 
+– Title Order and 
+from settlement agent 
+Fees User Guide 
+1. Standalone HELOCs: complete Exhibit A (Decision Matrix) prior to ordering any property valuation product or completing the Fee Summary page. 
+ 
+Refer to TPO Standalone HELOC – Title Order and Fees User Guide for eligible title vendors and the 
+associated title fees. 
+ 
+V. Product Guidelines  11 of 11  Document #5561 (Exhibit B) 
+Return to Top    01/19/2023 
+
+NEW PAGE

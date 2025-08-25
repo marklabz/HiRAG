@@ -1,0 +1,217 @@
+Freddie Mac Multiple Property 
+ 
+SECOND HOME – PURCHASE & RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  90%  90%  720  LPA – Accept 
+PUD 
+ 
+SECOND HOME – CASH-OUT REFINANCE   
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  75%  75%  720  LPA – Accept 
+PUD 
+ 
+INVESTMENT PROPERTY – PURCHASE & RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  85%  85%  720 
+LPA – Accept 
+PUD 
+2-4 Unit  75%  75%  720 
+ 
+INVESTMENT PROPERTY – CASH-OUT REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  75%  75%  720  LPA – Accept 
+PUD 
+2-4 Unit  70%  70%  720  LPA – Accept 
+ 
+PROGRAM SUMMARY 
+Fixed and adjustable-rate, fully amortizing, conventional conforming and high balance first lien mortgage loan 
+program specifically designed for borrowers with 7 to 10 financed properties. 
+ 
+PRODUCTS OFFERED 
+Product Name  Term  ARM Disclosure 
+Freddie Mac Multiple Property 30-Year Fixed  30 years 
+NA 
+Freddie Mac Multiple Property 15-Year Fixed  15 years 
+Freddie Mac Multiple Property 7/6 SOFR ARM  30 years  Doc. #3384 or Equivalent 
+Freddie Mac Multiple Property Super Conforming 30-Year Fixed  30 years 
+NA 
+Freddie Mac Multiple Property Super Conforming 15-Year Fixed  15 years 
+Freddie Mac Multiple Property Super Conforming 7/6 SOFR ARM  30 years  Doc. #3384 or Equivalent 
+V. Product Guidelines  1 of 4  Document #5340 
+Return to Top    01/06/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Multiple Property 
+LOAN AMOUNTS 
+MAXIMUM 
+Maximum standard conforming and high balance loan limits for 1 to 4-unit properties. See Freddie Mac 
+Super Conforming, Doc. #5347 for eligible locations. 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1 to 4-unit properties  
+•  Fannie Mae/Freddie Mac-warrantable condominiums 
+•  Planned Unit Developments (PUD) 
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Non-Fannie Mae/Freddie Mac-warrantable condominiums  
+•  Cooperative properties 
+•  Manufactured homes 
+ 
+MINIMUM CREDIT SCORES 
+Refer to the Product Eligibility Grids above 
+ 
+QUALIFYING RATE 
+FIXED 
+Note rate 
+  
+ARM 
+Greater of fully-indexed or Note rate 
+ 
+QUALIFYING RATIOS 
+Determined by Loan Product Advisor (LPA) 
+ 
+SUBORDINATE FINANCING 
+Refer to the Subordinate Financing section of the Conventional Underwriting Guidelines for details. 
+ 
+Community seconds subsidized subordinate financing is not eligible.  
+ 
+INTERESTED PARTY CONTRIBUTIONS 
+Interested party contributions include funds contributed by the property seller, builder, real estate agent/broker, 
+mortgage lender, or any other party with an interest in the real estate transaction. Interested party contributions 
+may be used exclusively to cover closing costs and prepaid expenses. 
+ 
+Property Type  Maximum Contribution 
+CLTV  Up to 75%  75.01-90% 
+Second Home  Maximum 9%  Maximum 6% 
+Investment Property  Maximum 2%  Maximum 2% 
+ 
+V. Product Guidelines  2 of 4  Document #5340 
+Return to Top    01/06/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Multiple Property 
+UNDERWRITING 
+All loans must meet the parameters as set out in Flagstar’s Conventional Underwriting Guidelines. 
+•  Borrowers own between 7-10 financed properties. (This applies to the total number of properties 
+financed, not just the number of mortgages sold to Freddie Mac). 
+•   For Flagstar policies on Multiple Loans to the Same Borrower, see Conventional Underwriting 
+Guidelines. 
+ 
+RESERVES  
+Minimum reserves of eight months of the monthly payment on each additional second home and/or 1- to 4-unit 
+investment property that is financed and on which the Borrower is obligated.  The monthly payment amount is 
+the sum of the following monthly charges: 
+•  Principal and interest payments on the Mortgage 
+•  Property hazard insurance premiums 
+•  Real estate taxes 
+•  When applicable: 
+  Mortgage insurance premiums 
+o
+  Leasehold payments 
+o
+  Homeowners association dues (excluding unit utility charges) 
+o
+  Payments on secondary financing 
+o
+•  LPA may require greater reserves based on the borrowers credit profile 
+ 
+MORTGAGE INSURANCE 
+Mortgage insurance providers may have additional restrictions not listed within this document.  Due to rapid 
+changes within the industry, please refer to each mortgage insurance company’s website for complete details. 
+ 
+STANDARD MORTGAGE INSURANCE  GUIDELINES 
+All loans above 80% LTV require mortgage insurance coverage according to the following guidelines. 
+LTV  30-Year  15-Year 
+85.01 – 90%  25%  12% 
+80.01 – 85%  12%  6% 
+ 
+NEW YORK PROPERTIES 
+See Conventional Underwriting Guidelines. 
+ 
+TEXAS REFINANCE LOANS 
+All refinance loans in Texas will be evaluated against the criteria outlined in our Texas Refinances section to 
+determine if the loan must be originated under the requirements of Section 50(a)(6) of the Texas Constitution. 
+Refer to Texas Homestead 50(a)(6), Doc. #5907 for eligibility, documentation/disclosure, and title/closing 
+requirements. 
+ 
+STATE ELIGIBILITY 
+Available in the following states/territories with restrictions. Those not listed are available without restrictions. 
+V. Product Guidelines  3 of 4  Document #5340 
+Return to Top    01/06/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Freddie Mac Multiple Property 
+State  Restriction 
+Puerto Rico  Ineligible 
+Refer to Mortgage Insurance section above for mortgage insurance 
+New York 
+coverage calculation requirements 
+US Virgin Islands  MI not available 
+ 
+PREPAYMENT PENALTY 
+None 
+ 
+ADJUSTABLE RATE DETAILS 
+Interest Rate Adjustment Caps  Initial – 5% up/down; Subsequent – 1% up/down; Lifetime – 5% up 
+Margin  See Price Indication Sheet 
+Index   30 Day SOFR (Secured Overnight Financing Rate) 
+Interest Rate Floor  The interest rate Floor is equal to the Margin 
+The first change date is the 84th payment due date.  There is a new change date 
+Change Dates 
+every 6 months thereafter. 
+Conversion Option  None 
+Assumption  Subject to conditions, fees and rate adjustment 
+Negative Amortization  None 
+ 
+CLOSING DOCUMENTATION – CORRESPONDENT TRANSACTIONS 
+Closing docs may be ordered through Flagstar’s Web Based Closing Docs (WBCD) service available in 
+Loantrac. 
+ 
+30-YEAR FIXED-RATE 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series. 
+•  Fannie Mae/Freddie Mac multi-state Fixed Rate Note, 3200-series. 
+•  Standard title commitment with all applicable endorsements. 
+ 
+7/6 SOFR ARMS 
+•  Fannie/Freddie multi-state Adjustable Rate Note, Form# 3442. 
+•  Fannie/Freddie multi-state Adjustable Rate Rider, Form# 3142. 
+•  Standard title commitment with all applicable endorsements, including the variable-rate 
+endorsement (ALTA 6.1). 
+ 
+IF APPLICABLE 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form# 3140. 
+•  Fannie Mae/Freddie Mac multi-state PUD Rider, Form# 3150. 
+•  Fannie Mae/Freddie Mac multi-state 1-4 Family Rider, Form# 3170, (investment property 
+mortgages). 
+•  Fannie Mae/Freddie Mac multi-state Second Home Rider, Form# 3890. 
+ 
+ 
+ 
+V. Product Guidelines  4 of 4  Document #5340 
+Return to Top    01/06/2022 
+
+NEW PAGE

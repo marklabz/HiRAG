@@ -1,0 +1,3001 @@
+Standalone Home Equity Underwriting Guidelines 
+ 
+INTRODUCTION 
+GENERAL CONSIDERATIONS 
+COMPLIANCE WITH LAWS/REGULATIONS 
+These guidelines are intended to be consistent with all applicable legal and regulatory requirements 
+regarding their subject matter.  
+ 
+STANDALONE HOME EQUITY UNDERWRITING STANDARDS 
+Prior to consummation, the underwriter must make a reasonable and good faith determination of the 
+consumer’s ability to repay the loan. This determination must be based on a consideration of the 
+consumer’s current or reasonably expected income, debt obligations, and assets (other than the value 
+of the subject property) so that a monthly debt-to-income ratio or a monthly residual income amount, as 
+appropriate, can be calculated.All applications require manual underwriting. No automated underwriting 
+systems (AUS) will be used for standalone home equity transactions. 
+ 
+UNDERWRITING CONSIDERATIONS OUTSIDE OF STANDARD GUIDELINES 
+It is the responsibility of the underwriter to confirm that the credit underwriting information entered into 
+the system is correct, that resources utilized are current and valid, and the decision is adequately 
+supported as outlined within this document.  
+ 
+Flagstar Bank reserves the right to reject any loan, regardless of the AUS response when 
+applicable. Flagstar Bank will evaluate all aspects of the loan file, including but not limited to, 
+LTV/CLTV, ratios, program parameters, reserves, credit, property type and value. Although no one area 
+of a particular loan may be weak enough to merit a denial, a compilation of several weak areas with no 
+or limited strength to compensate can be sufficient to deny. 
+ 
+A loan file may be submitted to Flagstar Bank for an exception to the guidelines. The exception can be 
+reviewed only by a designated employee of the bank on a case by case basis depending on the overall 
+loan file. 
+ 
+LOAN PURPOSE 
+Standalone Home Equity Lines of Credit (HELOC) are secured loans allowing individuals to refinance 
+or obtain equity from a residential property. 
+ 
+SEGREGATION OF DUTIES 
+The person who originates the loan application cannot be the person making the credit decision. 
+Applications will be taken by authorized personnel or via online banking. All credit decisions will be 
+made by the Underwriting Department. 
+ 
+LOAN INTEGRITY 
+It is the responsibility of Flagstar Bank to protect borrowers, our own company, investors, and insurers 
+from becoming victim to mortgage fraud. Mortgage fraud is generally categorized as one of the 
+following: fraud for housing, fraud for profit, or fraud for criminal enterprise. While the presence of one 
+or more red flags in a file does not necessarily mean that there is fraudulent intent by parties involved in 
+the transaction, red flags indicating a material misstatement, misrepresentation, or omission of 
+information in relation to a mortgage loan, relied upon by Flagstar to meet the guidelines, must be 
+addressed accordingly during the origination process. 
+ 
+VI. Underwriting Guidelines                      5 of 55      01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+PRODUCT DESCRIPTIONS AND RATE SHEETS 
+Access the Product Guidelines page and Price Indicator Sheets on tpo.flagstar.com for the most 
+current product descriptions and rates. 
+ 
+LOAN REGISTRATION/LOCK 
+Refer to Loan Registration and Locking a Loan, Doc. #4101 for registration and lock procedures. The 
+addition or deletion of a borrower, a program change or a loan parameter change (loan amount, LTV, 
+etc.) does not require an existing non-closed loan to be re-registered. 
+ 
+ADVERSE ACTION 
+Refer to Compliance, Doc. #4801 for information regarding adverse action letters. 
+ 
+A loan placed in a final HMDA status of Denied, Withdrawn or Cancelled may not reactivated. A new 
+loan application must be submitted along with all the required documentation. 
+ 
+LOAN DISCLOSURES/SUBMISSIONS 
+Refer to Compliance, Doc. #4801. 
+ 
+ADJUSTABLE RATE MORTGAGE (ARM) DISCLOSURE 
+Per Federal Regulation Z it is required that an ARM disclosure is provided at time of application, or if 
+application is taken by telephone or through a broker, must be mailed or delivered within 3 business 
+days following receipt of application. In order to comply with this regulation, Underwriting will condition 
+for the ARM disclosure prior to closing.  
+ 
+ELIGIBILITY  
+GENERAL REQUIREMENTS  
+Flagstar Bank is committed to the fair and equal evaluation of credit applications. Discrimination based on 
+the basis of the following factors is prohibited and will not be tolerated: race, color, religion, national origin, 
+sex, marital status, family status, age (provided the applicant has the capacity to contract), disability status, 
+sexual orientation, the fact that all or part of an applicant’s income derives from any public assistance 
+program or the fact that the applicant has in good faith exercised any right under the Consumer Credit 
+Protection Act (including Truth-in-Lending, Equal Credit Opportunity, Fair Housing Act, Fair Credit 
+Reporting, Fair Debt Collection Practices and Consumer Leasing Acts.)  
+ 
+Flagstar Bank will not lend to the following: 
+•  Individuals and/or entities identified by the Office of Foreign Assets Control (OFAC) as prohibited. 
+•  Irrevocable trusts  
+•  Corporations, partnerships, estates or Life Estates, and Not-for-Profit Organizations, Schools, or 
+Churches 
+•  Non-resident aliens (i.e., foreign nationals) 
+•  Persons with no legal residency status in the U.S. 
+ 
+ELIGIBLE BORROWERS 
+An applicant is defined as an individual who applies for secured financing with the obligation of paying 
+the debt in full, with interest. A borrower is defined as the individual obligated to repay the secured loan 
+in full, with interest. Flagstar Bank will lend to the following for real-estate transactions: 
+•  Individuals of legal age 
+VI. Underwriting Guidelines                      6 of 55      01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  U.S. citizens 
+•  Lawful Permanent and Non-Permanent Resident Aliens  
+ 
+BORROWER(S) AGE 
+The Borrower must have reached the age at which the mortgage note can be legally enforced in the 
+jurisdiction in which the property is located. There is no maximum age limit for a borrower. All 
+applicants are evaluated on their ability to meet our underwriting guidelines. 
+ 
+PERMANENT RESIDENT ALIEN 
+A permanent resident alien (immigrant) is an individual who is lawfully accorded the privilege of residing 
+permanently in the United States. Permanent Resident Aliens must be employed in the U.S. for the last 
+12 months and document lawful residency as follows: 
+ 
+  Documentation and Expiration 
+Permanent Resident Alien status must be documented with a copy of the borrower(s)’ green 
+card. 
+•  Conditional 2-year green card- borrower must provide evidence of petition for permanent 
+resident status if the card is expiring within 90 days of the application. 
+•  Permanent green card with 10-year renewal- If the green card contains an expiration 
+date, and will expire within 6 months of the application, the borrower must provide 
+evidence of filing an I-90 form to replace the card. Note: an expired 10-year green card 
+does not, in itself, impact the borrower’s status to lawfully reside in the United States. 
+ 
+Refugees and Asylum Status 
+Refugees and others seeking political asylum, who are immigrating to and seeking permanent 
+residency in the United States, are classified under the permanent resident alien status. The INS 
+has special immigration programs that enable these individuals to seek and accept employment 
+while they are in the process of obtaining their permanent resident alien status, which generally will 
+take from two to three years. 
+ 
+Documentation and Expiration 
+•  Refugees and asylees may provide valid form I-94 with the indicator of refugee or 
+asylum admission status and copy of EAD card showing classification of A03 through 
+A05. 
+•  Refugee and Asylum status- If an EAD card expiration is within six months of the 
+application the borrower must show evidence they have applied for an extension 
+ 
+DACA Status 
+For borrower’s with DACA, a work status that is under a deferred action, an unexpired employment 
+authorization status (EAD Card C33) is required.  
+ 
+Citizens of U.S. Territories 
+For Citizens of Micronesia, Marshall Islands or Palau, an unexpired employment authorization 
+status (EAD Card A08) is required. 
+VI. Underwriting Guidelines                      7 of 55      01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+ 
+NON-PERMANENT RESIDENT ALIEN 
+Due to the inability to compel payment or seek judgment, transactions with individuals with diplomatic 
+immunity who are not subject to United States jurisdiction are not eligible. Non-Permanent Resident 
+Aliens must be employed in the U.S. for the last 24 months and document lawful residency as follows: 
+ 
+  Documentation and Expiration 
+All nonpermanent resident alien borrower(s) must verify they are legally present in the United 
+States with a copy of one of the following: 
+VISA 
+  If expiration is within six months of the loan application and the borrower has not 
+o
+changed employers, a copy of the employer’s letter of sponsorship for visa renewal 
+must be provided. 
+  If Visa has expired, a valid USCIS Form I-797 confirming submitted application to 
+o
+renew. 
+EAD Card 
+  If expiration is within six months of the application the borrower must show evidence 
+o
+they have applied for an extension or provide letter from the employer indicating they 
+will continue to sponsor their employment 
+For residents of Canada or Mexico, H1-B status stamped on an unexpired passport   
+For borrowers with income being used for qualification, see below for eligible VISA 
+classifications. 
+ 
+VISA Eligibility for Borrower’s with Income for Qualification 
+Borrowers with any source of income being used for qualification must have one of the following VISA 
+classifications and submit the appropriate documentation to support they are legally able to work within the 
+United States. 
+•  Some VISAs automatically grant work authorization and an EAD will not be issued.  
+•  For certain VISA classes, spouses and dependents must be issued an EAD to work within the U.S.  
+•  When an EAD is provided it must be associated with one of the acceptable VISA classes notes 
+below.  
+•  Refer to uscis.gov for the further guidance on associated VISA and EAD categories. 
+VISA Series  Acceptable VISA Class  Description 
+A Series   A-1, A-2 and A-3  Diplomat and foreign government official such as an 
+    ambassador, consular officer or other top 
+Must document that the  government official, spouse, dependents and 
+borrower does not have  employees of a diplomat or official. A-2 can also 
+diplomatic immunity.  classify as lower ranked foreign government 
+  employees. 
+ 
+EAD class C01 issued to dependents. 
+E Series  E-1, E-2, E-3, E3D  Trade Treaty. International trader or investor, spouse 
+and dependents. Employer Sponsored 
+ 
+EAD class A17 issued to spouse.  
+EAD class C02 may also be issued to dependents. 
+VI. Underwriting Guidelines                      8 of 55      01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+G Series  G-1, G-2, G-3, G-4, and G- Employees of International Organizations and 
+  5  NATO. Internationally recognized staff, spouse and 
+  dependents 
+Must document that the   
+borrower does not have  EAD class C04 issued to spouse and dependents 
+diplomatic immunity. 
+H Series  H-1B, H-1B1, H-1B2, H- Temporary Work VISA. An individual who is in the 
+  1B3,   U.S. performing services of a professional nature in 
+H-1C, and H-4  a specific position for a sponsoring employer 
+ 
+EAD class C26 issued to spouse 
+I Series  I  Foreign media representatives 
+  
+K Series   K-1 and K-3  Finance or spouse of U.S. Citizen 
+   
+EAD class A06 issued to fiancé(e) or dependent of 
+K-1. EAD class A09 issued to spouse or dependent 
+of K-3 
+L Series   L-1A, L-1B, L-2  Temporary Work VISA. Intracompany transfer of an 
+  executive or an employee with specialized 
+knowledge, spouse and dependents 
+ 
+EAD Class A18 issued to spouses 
+NATO  NATO statuses 1 through  Employees of International Organizations and 
+7  NATO. Representative of member state to NATO, 
+  officials of NATO, support staff, spouse and 
+Must document that the  dependents 
+borrower does not have   
+diplomatic immunity.  EAD class C07 issued to dependents 
+O Series  O-1 and O-2  An individual who possesses extraordinary ability in 
+  the sciences, arts, education, business, or athletics, 
+or who has a demonstrated record of extraordinary 
+achievement in the motion picture or television 
+industry and has been recognized nationally or 
+internationally for those achievements. Employer 
+Sponsored. 
+R Series  R-1  Religious Workers. Employer Sponsored 
+TN  TN  Nonimmigrant NAFTA Professional visa (only 
+issued to citizens of Canada and Mexico) Employer 
+sponsored 
+ 
+ 
+INELIGIBLE BORROWERS 
+•  Non-Resident Aliens  
+•  Foreign Nationals  
+•  Borrowers with diplomatic status  
+•  Life Estates  
+•  Non-Revocable Trusts  
+VI. Underwriting Guidelines                      9 of 55      01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Land Trusts  
+•  Guardianships  
+•  LLCs, Corporations or Partnerships  
+•  Borrower(s) with any ownership in a business that is federally prohibited, regardless if the income is 
+not being considered for qualifying, will be considered an ineligible borrower. 
+ 
+NUMBER OF BORROWERS 
+The maximum number of borrowers on a loan transaction is limited to four.  
+ 
+NUMBER OF FINANCED PROPERTIES 
+There is no limit to the number of financed properties the borrower(s) may own. 
+ 
+ 
+ 
+ 
+ADDING/REMOVING APPLICANTS ON APPLICATION 
+Applicants cannot be removed after the application has been received by Flagstar. A decision must be 
+rendered on the original application, and a new application must be received by Flagstar without the 
+intended applicant. 
+ 
+However, an applicant(s) may be added to the original application during the application process 
+without creating a new transaction. 
+ 
+ 
+POWER OF ATTORNEY 
+A Power of Attorney (POA) is a legal document giving one-person (described as the agent or attorney-
+in-fact) power to legally bind the borrower enacting the POA to the mortgage transaction.  
+ 
+Owner Occupied and Second Homes only. Investment properties are not 
+Eligible Occupancy 
+eligible.  
+Types 
+ 
+When multiple borrowers are on the transaction, at least one borrower 
+Borrower Eligibility 
+must be present at closing.  
+•  Must be specific to the transaction referencing the property address, 
+unless the POA is a Military Durable POA. 
+•  Signatures on the POA must match signatures in the file to Flagstar 
+Power of Attorney  
+Bank’s satisfaction (may not be eSigned). 
+ 
+•  POA must be notarized. 
+•  The POA must executed by the borrower prior to its use by the 
+agent. 
+The application and Purchase Agreement (if applicable) must be signed 
+by all parties of the loan. 
+ 
+Application 
+A POA may sign the initial application only when the borrower is on 
+ 
+military service servicing outside the U.S. or deployed on a U.S. vessel, 
+as long as the POA expressly states the intent to secure a loan on the 
+subject property 
+Eligible Agent/ 
+Family member of the borrower 
+Attorney in Fact 
+VI. Underwriting Guidelines                      10 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+Title  The title policy must not make any exceptions to the use of a POA. 
+ 
+ 
+CLOSING IN TRUST 
+The following guidelines must be met: 
+•  An attorney’s opinion letter stating all below warranties are met will be required on all loans 
+closing in trust; or Certificate of Trust, Doc. #3954 or equivalent form. 
+  For California properties, a certificate of trust is acceptable in lieu of an attorney’s 
+o
+opinion letter. 
+  Refer to the California Trust Certificate, Doc. #3951 
+o
+•  The trust(s) must be a living revocable trust also known as a family trust or an inter vivos trust 
+•  The title company must agree to insure over the trust with no exceptions for the trust or trustees 
+•  A copy of the trust(s), or pertinent pages within the trust, must be included in the submission 
+package 
+•  The Settlor or grantor must be a natural person. The settlor must also be the trustee or one of 
+the co-trustees 
+•  The primary beneficiary of the trust must be the settlor or the grantor. If there is more than one 
+settler or grantor, then there may be more than one primary beneficiary, as long as the income 
+or assets of least one of the grantors or settlors will be used to qualify for the mortgage and that 
+grantor or settlor will occupy the property and sign the mortgage instruments in their individual 
+capacity 
+•  The trust document must give the trustee or trustees the authority to mortgage trust assets, to 
+incur debt on behalf of the trust, and to hold legal title to and manage trust assets. 
+ 
+OCCUPANCY AND PROPERTY 
+Inconsistencies in the loan file that raise questions about the authenticity of the proposed occupancy status as 
+disclosed must be addressed to validate loan integrity. Examples may include significant or unrealistic 
+commuting distance, close proximity between subject property and current primary residence. Flagstar, at its 
+discretion, may determine the occupancy based on its current and best use. Properties occupied by a party 
+other than the borrower will be considered an investment property. 
+  
+ELIGIBLE PROPERTIES 
+•  Primary Residence  
+  The residential property physically occupied by the owner(s) as their principal home 
+o
+domicile. 
+•  Second Homes 
+  Must be located reasonable distance away from the borrower’s principal primary residence 
+o
+  Restricted to 1-unit dwellings 
+o
+  Must be suitable for year-round occupancy 
+o
+  Must not be subject to any timeshare arrangement or other shared occupancy agreement 
+o
+  Property may not be rented or determined to be an investment property 
+o
+•  Residential Single-Family  
+•  Owner-Occupied 2-4-unit Primary Residence 
+•  Detached Condominiums and Condominiums, see below for additional requirements  
+•  Planned Unit Developments (PUD) 
+•  Modular Homes 
+•  Leaseholds, see below for additional requirements 
+•  Age-Based Resale Restricted properties 
+ 
+VI. Underwriting Guidelines                      11 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+INELIGIBLE PROPERTIES 
+•  Investment Properties 
+•  Manufactured/Mobile Homes (single or double-wide) 
+•  Cooperative properties 
+•  Resale Deed Restricted properties (age-based restricted only eligible) 
+•  Vacant Land 
+•  Properties currently listed for sale 
+•  Properties located in the state of Texas 
+•  Properties located in the U.S. Virgin Islands 
+•  Properties in less than Average condition (C5 and C6 are not eligible) 
+•  Properties under construction or renovation at time of loan closing 
+  Construction/renovation cannot affect the safety, soundness or structural integrity of the 
+o
+subject property 
+•  Properties titled as Life Estates or Land Trusts 
+•  Properties located on Indian/Native American Tribal Land 
+•  Unique properties including, but not limited, non-traditional property types such as barndominiums, 
+berm earth houses, geodesic domes, container homes 
+•  Properties without utilities (water, electric, gas, etc.) and/or utilities not meeting community 
+standards (e.g. off-grid homes) 
+•  Income producing properties with acreage, including but not limited to, working farms, ranches or 
+orchards 
+•  Properties located in Lava Zones 1 or 2 
+•  Properties with environmental risk exposures to include, but not limited to, gas tanks, railroad 
+tracks, high tension wires, UFFI, industrial areas, radon, mold, or Chinese Drywall.  
+•  Properties that are not suitable for year-round occupancy, regardless of location 
+•  Mixed-use properties, business use (primary function/modifications to property is non-residential in 
+nature), included but not limited to:  
+  Boarding Houses 
+o
+  Group Homes 
+o
+  Bed and Breakfasts 
+o
+  Daycare facility  
+o
+  Beauty/Barber Shops 
+o
+  Doctor Offices 
+o
+ 
+ 
+U.S. TERRITORIES  
+Flagstar Bank does not currently lend on properties located in the following U.S. Territories: Guam, Puerto 
+Rico, American Samoa and Northern Mariana Islands. 
+ 
+PRESENT ADDRESS 
+The borrower’s present address must be within the U.S. territories, or APO military addresses located 
+within the U.S.   
+ 
+WARRANTABLE CONDOMINIUMS 
+•  FNMA Warrantable Condos 
+•  Limited Review Eligible 
+•  Detached condos (i.e. site condo) 
+VI. Underwriting Guidelines                      12 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Each condominium project must be reviewed and approved by Flagstar’s Condo Review 
+Department. Refer to Condominium Submission Instructions, Doc. #3253 for details. 
+•  Please refer the Conventional Condominium Guidelines for project eligibility. 
+ 
+DETACHED CONDO REQUIREMENTS 
+When the underwriter performs a review for a mortgage secured by a detached unit, defined as any 
+condo unit that is completely detached from other condo units in the project, the following eligibility 
+criteria must be met: 
+Review Eligibility Criteria for Detached Condo Units 
+The mortgage is secured by a single detached unit in a condo project. 
+The mortgage is not secured by a manufactured home. 
+Project cannot be a condo-hotel, houseboat, timeshare project, or a project with segmented ownership. 
+The appraiser commented on, and reflected in the appraisal report, any effect that buyer resistance to the 
+condo form of ownership has on the market value of the individual unit. 
+If the condo project is new, the appraiser used as a comparable sale at least one detached condo unit, 
+which may be located either in a competing project or in the subject project, if the condo unit is offered by 
+a builder other than the one that built the subject unit. 
+The property is covered by hazard, flood, liability, and fidelity insurance 
+Unit holders have an automatic non-severable interest in the homeowners’ association and pay 
+mandatory assessments 
+A condo rider will be required at closing  
+ 
+LEASEHOLDS 
+When the first mortgage was originated or is being serviced by Flagstar Bank, no further documentation is 
+required.  If the first lien is not held or originated by Flagstar Bank, or when the HELOC is taking first lien 
+position, an attorney’s opinion letter is required to verify the property is a FNMA eligible leasehold. 
+ 
+INELIGIBLE FIRST LIENS 
+Home equity transactions may not be closed behind the following ineligible first lien types: 
+•  Land Contracts or Contracts for Deed 
+•  Reverse Mortgages 
+•  Negative Amortization Loans  
+  Will be considered ineligible when disclosed as such by the applicant or if uncovered during 
+o
+the credit bureau investigation.  
+•  Home Equity Lines of Credit or any other future advance liens (HELOCs in repayment period are 
+eligible) 
+ 
+When the first lien type cannot be determined from the credit report or other credible source, a copy of  
+the first mortgage note may be requested to verify it is not an ineligible lien. 
+ 
+INELIGIBLE PARTICIPANTS 
+If any of the participants associated to the loan transaction are listed on Flagstar Bank’s internal ineligible 
+list, the loan may not be approvable. 
+ 
+ADDITIONAL SUBORDINATE FINANCING 
+An existing Home Equity lien or non-first mortgage financing on title may be re-subordinated to the new 
+HELOC. The following requirements must be met: 
+VI. Underwriting Guidelines                      13 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Provide documentation that the lien will subordinate to a second or third lien position, as applicable  
+•  Must meet CLTV requirements 
+•  Subordination agreement must be provided at closing 
+ 
+TRANSACTION TYPES 
+All transactions will be classified as cash-out transactions.  
+ 
+COMBINED LOAN TO VALUE 
+LTV/CLTV/HCLTV is generally calculated based on the appraised value or valuation of the property. 
+•  Properties purchased within 120 days of application will use the lesser of the purchase price or 
+appraised value to calculate LTV/CLTV/HCLTV, measured from the date on which the property was 
+purchased to the disbursement date of the new mortgage loan. 
+•  There is no seasoning requirements for LTV/CTLV/HCLTV calculations where an occupying 
+borrower is added to the title on a primary residence. For second homes, see title requirements 
+below for additional restrictions. 
+ 
+TITLE  
+Flagstar will originate refinance loans secured by residential single-family homes. It is the responsibility of 
+the Underwriting department to ensure the Bank has a first or second lien position that is perfected in 
+accordance with applicable state law. 
+ 
+The borrower must own the property in fee simple or leasehold interest. Title may also be held in a 
+revocable “living” trust, also known as a family trust or an inter vivos trust. Land trusts are not acceptable. 
+ 
+For second homes, the borrower must be also be a Note holder on any first lien held against the subject 
+property, unless the borrower is the spouse of the Note holder and is present on title.  
+ 
+SOLAR PANELS 
+Ownership and financing/leasing structure of the subject property solar panels must be determined by 
+evaluating documents including but not limited to the credit report, copy of related solar panel 
+documentation and title commitment to address if the related debt is reflected in the land records.  
+•  The monthly lease must be included in the DTI unless the lease is structured to:  
+  Provide delivery of a specific amount of energy at a fixed payment during a given period, 
+o
+and  
+  Have a production guarantee that compensates the borrower on a prorated basis in the 
+o
+event the solar panels fail to meet the energy output required for in the lease for that period. 
+•  The payment on financed loan for solar panels must be included in the borrower’s obligations 
+•  Property must maintain access to an alternative source of electric power that meets community 
+standards. 
+•  Only solar panels owned free and clear by the borrower may be included in the appraised value. 
+Solar power leases, power purchase agreements and panels financed as personal property can be 
+repossessed or removed from the property in the event of default. 
+•  When financed as a fixture to real estate the loan must be included in the CLTV calculation and 
+must obtain a subordination agreement or lien must be released, 
+  Title confirmation or copy of UCC-1 Financing Statement may be required to determine if 
+o
+recorded against title to the Mortgaged Premises, creating a lien on the real estate itself 
+(i.e., claiming an interest in both the solar panels and the real estate, not just the solar 
+panels). 
+VI. Underwriting Guidelines                      14 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+  Financed solar panels where the lien takes priority position, in other words will not 
+o
+subordinate, are not eligible (e.g. select PACE loans) and must be paid off prior to or at 
+closing 
+ 
+ESCROW REQUIREMENTS 
+Escrows for taxes and insurance are not allowed for standalone home equity transactions. 
+ 
+HAZARD 
+Refer to Hazard Insurance Requirements, for specific hazard insurance guidelines.  
+ 
+FLOOD 
+Refer to Flood Insurance, Doc. #4603, for specific prior to closing flood insurance guidelines. 
+ 
+MORTGAGE INSURANCE 
+Not Applicable 
+ 
+CREDIT 
+INTRODUCTION 
+An individual’s credit history, at origination, is considered to be an indicator of future credit performance. 
+Applicants will be reviewed, to determine if there is an acceptable credit profile. An acceptable credit profile 
+is established by compiling a financial history that, when viewed as a whole, reflects the applicant’s 
+demonstrated ability to make ongoing payments on obligations.  
+ 
+CREDIT REPORTS 
+The credit report is an essential part of the loan file. It provides an up-to-date history of the applicant’s 
+employment, residence, credit types, use, repayment pattern and overall performance of paying 
+obligations. 
+ 
+The credit report is good for 120 days and must contain complete information supplied by all repositories 
+used and must be issued by an independent credit-reporting agency. The following type of credit report will 
+be used: 
+•  Tri-Merged Credit Report – includes credit information from at least three repositories and is used for 
+real-estate transactions. A minimum of credit information from two bureaus is required to proceed 
+with the transaction. 
+ 
+Note: Credit should be current at the time of underwriting. Any loan with a credit report date greater than 
+120 days will require a new credit report.  
+ 
+EXTENDED FRAUD ALERTS OR ACTIVE MILITARY ALERTS 
+Applicants with credit reports containing Extended Fraud Alerts or Active Military Alerts will be contacted by 
+a Flagstar employee prior to a commitment letter being issued.  
+ 
+CREDIT SCORING 
+The credit score has proven to be a consistent predictor of performance compared to traditional 
+underwriting and processing methods. Credit scoring offers consistency and objectivity, and gives the 
+lender expanded capacity to accurately evaluate and underwrite a loan application with varying degrees of 
+risk. 
+ 
+VI. Underwriting Guidelines                      15 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+A tri-merge credit report is obtained from the three national credit bureaus. If three scores are obtained for 
+a borrower, the middle score is used to qualify the borrower; when two scores are obtained for a borrower, 
+the lower score is used. If there is more than one borrower on a mortgage loan, the credit score of the 
+borrower with the lowest score (as calculated in accordance with the preceding sentence) is used. 
+ 
+FROZEN CREDIT 
+No more than one credit repository can have frozen credit information. The lower of the two available 
+scores will be used for qualifying purchases 
+ 
+CREDIT ANALYSIS 
+The following items should be examined and considered when underwriting credit: 
+•  Social Security Number red flags for incorrect number, duplicate numbers and multiple numbers are 
+typically revealed in the credit report 
+•  Compensating Factors of positive loan characteristics that add strength to a loan profile (e.g. strong 
+equity position in a property being refinanced, borrower has a net worth substantial enough to 
+ascertain his/her ability to repay the loan, borrower has demonstrated the ability to accumulate 
+savings) 
+•  Credit History changes in credit usage, derogatory credit, discrepancies, bankruptcy/foreclosure 
+•  A high score does not mean automatic approval and a low score does not mean automatic denial 
+ 
+CREDIT INQUIRIES 
+The report must list all inquiries that were made in the previous 120 days. All loan applicants will be 
+required to provide an explanation for all inquiries that were made in the previous 90 days on their 
+credit report and any new debt must be added to the liabilities section of the 1003 and be supposed by 
+applicable documentation. All applicants will be required to provide an explanation for all credit inquiries 
+found during the loan process.  
+ 
+TRADELINES 
+•  Minimum 4 trade lines; one currently active and open for more than 12 months with a minimum 
+high balance of $1,000, regardless of credit score 
+•  Credit history showing 0x30 for all mortgages in last 12 months 
+ 
+DISPUTED TRADELINES 
+•  All disputed tradelines with a balance must be included in the DTI if the account belongs to the 
+borrower 
+•  A disputed account with a zero balance and no late payments, can be disregarded. 
+ 
+TRADITIONAL CREDIT 
+Traditional credit is typically presented in the form of a credit report that provides sufficient information with 
+which to make an underwriting decision.  
+NON-TRADITIONAL/ALTERNATIVE CREDIT 
+Non-traditional/Alternative credit is not acceptable. Tradelines, or items such as collections, charge-
+offs, “authorized user” accounts, deferred loans with no payment history, transferred accounts, not 
+traditionally reported obligations (e.g. utilities) are all considered non-traditional tradelines.  
+ 
+ 
+VI. Underwriting Guidelines                      16 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+DISPUTED CREDIT INFORMATION 
+If a borrower indicates that any significant information in the credit file is inaccurate, such as reported 
+accounts that do not belong to the borrower or derogatory information that is reported in error, the 
+borrower should request the credit reporting company that provided that information to confirm its 
+accuracy. If the credit reporting company confirms that the disputed information is incorrect, the 
+information should be corrected and a new report obtained if the erroneous information significantly 
+effects the underwriting of the file. 
+ 
+VERIFICATION OF MORTGAGE-NOT ON CREDIT 
+If there is a first lien on the subject property where the borrower is not a Note holder (e.g. mortgage 
+held by another party on title), or is not reporting on credit, a verification of mortgage must be provided 
+to verify no late or missed payments in the last 12 months. 
+ 
+TEMPORARY VERIFICATION OF MORTGAGE REQUIREMENTS 
+Credit Report must reflect 12 months of trended data to demonstrate timely payments made for all 
+mortgages, both subject and non-subject, to demonstrate no late or missed payment in the last 12 
+months or one of the following will be required: 
+•  a loan payment history ledger from the servicer the last 12-months mortgage account 
+statements and/or cancelled checks from the borrower 
+•  a verification of mortgage from the servicer, including credit supplements verified with servicer 
+name and contact provided, cannot be automated  
+ 
+Loans in Forbearance 
+•  Any loan (subject or non-subject property) in Forbearance with full or partially missed 
+payments within the last 12 months will be considered late and ineligible. 
+•  Any loan (subject or non-subject property) in a Forbearance without any missed payments 
+over 30 days in the last 12 months may proceed and will not be required to exit Forbearance 
+prior to the Note date. 
+•  For mortgages identified with missed payments over 12 months old which resulted from a 
+COVID-related forbearance, the borrower must have formally exited the forbearance by 
+either 
+  Reinstating the loan by repayment of the missed payments in full, or 
+o
+  Documenting a servicer approved resolution (e.g. payment deferral, repayment plan, 
+o
+or other modification) and verification of three subsequent full and timely payments 
+made after the date of the approved servicer resolution 
+  For COVID-related forbearance servicer resolutions only, standard modification 
+o
+timing requirements for derogatory events do not apply. 
+ 
+SIGNIFICANT DEROGATORY CREDIT EVENTS 
+The presence of significant derogatory credit events dramatically increases the likelihood of a future 
+default and represents a significantly higher level of default risk.   
+ 
+BANKRUPTCY, FORECLOSURE, DEED-IN-LIEU, SHORT SALE 
+The underwriter must determine the significance of the derogatory event and verify sufficient time has 
+elapsed since the date of the last derogatory event based on the distribution date of the new loan. 
+VI. Underwriting Guidelines                      17 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+ 
+Recovery Time Periods for Re- Recovery Time Periods for Re-
+Significant 
+Establishment of Credit with  Establishment of Credit with   
+Derogatory Event 
+Financial Mismanagement  Extenuating Circumstances 
+ 
+Bankruptcy  A 4-year waiting period is required,  Primary Residence only 
+(Chapter 7 or 11)  measured from the discharge or     
+dismissal date of the bankruptcy action  A 2-year waiting period is permitted 
+from the discharge or dismissal   
+date of the bankruptcy action. 
+ 
+Bankruptcy   2 years from the discharge date, or   Primary Residence only 
+(Chapter 13)   4 years from the dismissal date     
+A distinction is  A 2-year waiting period is permitted 
+ 
+made between  after a Chapter 13 dismissal, if 
+Chapter 13  extenuating circumstances can be   
+bankruptcies that  documented. There are no 
+were discharged  exceptions permitted to the 2-year 
+and those were  waiting period after a Chapter 13 
+dismissed.  discharge. 
+Multiple Bankruptcy  For a borrower with more than one  Primary Residence only 
+Filings  bankruptcy filing within the past 7 years,   
+a 5-year waiting period is required from  A 3-year waiting period is permitted 
+the most recent dismissal/discharge  if extenuating circumstances can 
+date.  be documented, and measured 
+from the most recent bankruptcy 
+discharge of dismissal date. The 
+most recent bankruptcy filing must 
+have been the result of extenuating 
+circumstances  
+Foreclosure  A 7-year waiting period is required, and   
+is measured from the completion date of  All cash out transactions are 
+the foreclosure action as reported on the  prohibited 
+credit report or other foreclosure 
+documents provided by the borrower 
+Deed-In-Lieu of  4-year date of completion or sale   Primary Residence only 
+Foreclosure, Pre-  
+foreclosure  2 years date of completion or sale 
+Short sale, or 
+Charge-off of 
+mortgage account 
+Extenuating Circumstances for Bankruptcy, Foreclosure, Deed-In-Lieu, Short Sales 
+Extenuating circumstances are nonrecurring events that are beyond the borrower’s control that 
+result in a sudden, significant, and prolonged reduction in income or a catastrophic increase in 
+financial obligations.  
+ 
+In order to support an extenuating circumstance and follow the reduced recovery time, listed above, 
+the following requirements must be met: 
+•  Documentation to support borrower’s claim must be provided. Examples include: 
+  Copy of divorce decree 
+o
+  Medical bills  
+o
+  Notice of job layoff or severance papers 
+o
+  Additional documents that illustrate an inability to resolve the derogatory event 
+o
+VI. Underwriting Guidelines                      18 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+  Insurance paper or claim settlements 
+  Property listing agreements 
+  Lease agreements 
+  Tax returns covering the periods to, during and after the loss of employment 
+•  Letter from borrower explaining the relevance of the documentation and support claims of 
+the extenuating circumstances that led to the event. Letter to illustrate the borrower had no 
+reasonable options other than the default on their financial obligations. 
+ 
+COLLECTIONS ANDCHARGE-OFFS OF NON-MORTGAGE ACCOUNTS  
+Accounts that are reported as past-due, not reported as collection accounts, must be brought current.  
+•  For 1-unit, owner-occupied properties, borrowers are not required to pay off outstanding 
+collections or charge-offs, regardless of the amount, provided the collection will not threated 
+first-lien position.  
+•  For 2 to 4-unit owner-occupied properties and second homes, collections and charge-offs 
+totaling more than $5,000 must be paid in full prior to closing. 
+ 
+Delinquent credit, including taxes, judgments, charge-offs of non-mortgage accounts, tax liens, and 
+other liens that have the potential to affect lien position or diminish the borrower’s equity, must be paid 
+off at or prior to closing. 
+ 
+JUDGMENTS, GARNISHMENTS, AND LIENS 
+Open judgments, garnishments, and all outstanding liens that are in the public records section of the 
+credit report will be identified and must be paid off prior to closing. Documentation of the satisfaction of 
+these liabilities, along will verification of funds sufficient to satisfy these obligations, must also be 
+obtained. 
+GARNISHMENTS  
+Garnishments, generally disclosed as a deduction on paystubs, with more than 10 months remaining 
+must be included in the monthly debt obligations. 
+ 
+LIABILITIES 
+INTRODUCTION 
+The applicant’s financial obligations in relation to income are key in determining the borrower’s ability to 
+repay debt. The applicant must be able to meet all existing liabilities and monthly obligations, as well as the 
+new obligation. 
+ 
+Liabilities include all revolving charges, installment debts, real estate loans, stock pledges, alimony, child 
+support, and other consistent and recurring expenses. They do not include items such as utility bills, food, 
+and clothing expenditures. These items are considered within debt burden ratios. 
+ 
+DEBT-TO-INCOME (DTI) RATIO 
+Monthly DTI ratio is the sum of the monthly Principal and interest, Taxes, and Insurance plus one or more 
+of the following: 
+•  Minimum monthly payments on revolving debt  
+•  Monthly installment debt extending beyond 10 months5 
+•  Lease payments will be included regardless of number of payments remaining 
+•  Other consistent, recurring expenses as detailed in the “Recurring Debt” section below 
+•  Monthly PITI for primary residence, second homes, and other investment properties that are non-
+income producing real estate 
+VI. Underwriting Guidelines                      19 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Current real estate taxes and hazard insurance premiums for real estate owned that is free of any 
+lien 
+•  Association Dues or other condominium fees, if applicable (written verification of fee amount is not 
+required; it is acceptable to use the stated amount so long as it appears reasonable; however, 
+confirmation may be documented via appraisal or bank statements) 
+•  Child support, alimony, or separate maintenance payments extending beyond 10 months * 
+ 
+*NOTE: installment debts lasting less than 10 months must be included if the amount of the debt 
+affects the applicant’s ability to pay the loan during the months immediately after loan closing, 
+especially if the applicant will have limited or no cash assets after loan closing. 
+ 
+Example  
+If the borrower owes $3,000 on his vehicle loan with only 10 payments remaining and has $5,000 in 
+a savings account, the underwriter may choose to omit the monthly payment from the DTI as the 
+applicant has sufficient funds to cover the outstanding balance. 
+ 
+RECURRING DEBT 
+Flagstar considers any debt the borrower owes to be a liability. Debt is defined as borrowed money, the 
+repayment of which may be either secured or unsecured, with various possible repayment schedules. The 
+following are examples of recurring debt: 
+ 
+REVOLVING DEBT 
+Revolving debt is an arrangement for credit in which the applicant is granted a credit limit and can use 
+any amount up to the limit. Credit cards are an example of revolving debt. The following should be 
+included in the DTI ratio: 
+•  The minimum payment (from statement or credit report); or  
+•  If no payment is stated on the credit report, use the greater of $10 or 5% of current balance 
+•  Authorized User Accounts – the payment is excluded from the DTI ratio 
+ 
+OPEN 30-DAY CHARGE ACCOUNTS 
+For open 30-day charge accounts (for example, Amex), the borrower must have sufficient verified liquid 
+assets to pay off the balance and meet the reserve requirements for the loan program to exclude the 
+payment from the qualifying DTI. 
+•  If sufficient liquid assets are verified exclude the reported monthly payment from the DTI. 
+•  If sufficient liquid assets are not verified obtain evidence that the account has been paid in full 
+and exclude the reported monthly payment from the DTI, or include the monthly payment (equal 
+to the outstanding account balance) in the calculation of the qualifying DTI. 
+•  If the account provides for a monthly payment option other than the total outstanding balance, 
+the account is not considered a 30-day charge account and these requirements do not apply. 
+ 
+OVERDRAFT PROTECTION ACCOUNT 
+Overdraft protection is considered a revolving line of credit that is attached to a checking account. If 
+there is not a payment listed in the credit report, a minimum payment of 5% or $25, whichever is 
+greater, will be included in the DTI ratios. 
+ 
+INSTALLMENT LOANS 
+Installment debt is borrowed money that is repaid in several successive payments, usually at regular 
+intervals, for a specific amount and for a specific term. 
+VI. Underwriting Guidelines                      20 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Installment debts with monthly payments that extend beyond 10 months should be included in 
+the DTI ratio 
+•  Even if the debt does not extend beyond 10 months, it must be noted whether the size and/or 
+number of remaining payments will impact the borrower’s ability to handle the new debt during 
+the early part of the loan 
+•  For purposes of qualifying, the borrower may pay off the installment debt 
+•  If debt is paid by the borrower’s business, it does not need to be included as a liability if 
+sufficient documentation is provided. Documentation may include: 
+  Copies of 12 month’s canceled business checks, or  
+o
+  Tax returns showing debt repayment from the business  
+o
+ 
+Timeshares 
+Timeshares to be considered installment debt and not classified as real estate owned, regardless if 
+reported on credit as a mortgage loan. 
+ 
+UNSECURED LOANS 
+Unsecured loans are personal loans that were given without benefit of security and have the same 
+repayment terms as installment loans. 
+ 
+LEASED OBLIGATIONS 
+A lease is a written document containing the conditions under which property is given to an individual 
+for a specific period of time. 
+•  The monthly payment for the leased item should always be included in the DTI, regardless of 
+remaining term 
+•  If lease is paid by the applicant’s business, the debt does not need to be included as a liability if 
+sufficient documentation is provided. Documentation includes copies of 12 month’s canceled 
+business checks 
+ 
+CHILD SUPPORT/ALIMONY/MAINTENANCE 
+Payments of child support and separate maintenance are considered recurring debts. Acceptable 
+sources of documentation include: 
+•  Copy of applicable page(s) and signature page of the Divorce Decree, or 
+•  Property settlement, or 
+•  Separation Agreement 
+ 
+If payments are being paid through the court, a letter from the court verifying the dollar amount is 
+sufficient. Obligations that will end within 10 months of application do not need to be included in the DTI 
+ratio. However, the size and number of the new payment should not impact the applicant’s ability to 
+handle the new payment during the early period of the loan. 
+ 
+CONTINGENT LIABILITIES (CO-BORROWER/CO-SIGNED DEBT) 
+Contingent Liabilities exist when an applicant co-signs another person’s loan or is a co-borrower on an 
+existing loan. As a co-borrower/co-signer, the individual has equal responsibility in repaying the loan 
+should the loan go into default. 
+ 
+Debts indicating that the applicant is a co-signer will be included in the DTI ratio if the remaining term is 
+greater than 10 months and if the amount of the debt does not affect the applicant’s ability to pay the 
+VI. Underwriting Guidelines                      21 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+loan during the months immediately after loan closing; all revolving debts will be included regardless of 
+the remaining term. 
+ 
+The debt is not included if the documentation in the file clearly substantiates that the other signer has 
+been paying the debt for at least 12 months, and on a timely basis for at least 12 months. If payments 
+are not made on a timely basis, or if they cannot be sufficiently documented, the debt should be 
+included as a recurring liability. Acceptable documentation includes: canceled checks, other party’s 
+bank statements showing monthly amounts disbursed, canceled cashier’s checks, money order 
+receipts or Divorce Decree indicating the debt is the responsibility of another party. 
+ 
+STUDENT LOANS 
+If a monthly student loan payment is provided on the credit report, the lender may use that amount for 
+qualifying purposes. If the credit report does not reflect the correct monthly payment, the lender may 
+use the monthly payment that is on the student loan documentation (the most recent student loan 
+statement) to qualify the borrower.  
+ 
+If the credit report does not provide a monthly payment for the student loan, or if the credit report shows 
+$0 as the monthly payment, the lender must determine the qualifying monthly payment using one of the 
+options below.  
+•  If the borrower is on an income-driven payment plan, the lender may obtain student loan 
+documentation to verify the actual monthly payment.  If the payment is $0 the borrower must qualify 
+using one of the following: 
+•  For deferred loans, loans in forbearance, or income-driven payment of $0 the lender must calculate  
+  a payment equal to 1% of the outstanding student loan balance, or  
+o
+  a fully amortizing payment using the documented loan repayment terms.  
+o
+ 
+DEFERRED LOANS (OTHER THAN STUDENT LOANS) 
+Deferred installment debt must always be included in the applicant’s monthly recurring obligations. If 
+the credit report does not indicate a monthly payment at the end of the deferment period, a payment of 
+2% of the outstanding balance will be calculated and included in the DTI ratio. If the loan is deferred 
+beyond the term of the loan, the payment can be excluded from the DTI ratio.  
+ 
+DEMAND LOANS 
+A demand loan has no monthly payment; it becomes due and is payable in full on a particular date. 
+This type of debt may or may not be secured. 
+•  If the note is due within the next two years and the applicant does not have adequate reserves 
+available to repay the obligation in full, the transaction should be treated as an installment loan, 
+and the minimum payment that will be included in the DTI ratio will be calculated by dividing the 
+outstanding balance by the remaining loan term. 
+•  If the applicant does have adequate reserves available to pay the obligation in full, the debt 
+should not be included in the DTI ratio. 
+ 
+Example 
+If the outstanding balance is $24,000 and the loan is due in full in 24 months, then the payment that 
+will be included in the monthly DTI ratio is $1,000 [$24,000/24 = $1,000].  
+ 
+VI. Underwriting Guidelines                      22 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+CASH MARGIN LOAN/BORROWED FUNDS AGAINST ASSETS 
+The applicant may take a loan against a liquid asset that is secured by stocks, bonds, or any other 
+investment account. Although information regarding the amount of the loan must be provided, the debt 
+is not included in the DTI ratio. 
+ 
+OBLIGATIONS NOT CONSIDERED DEBT 
+Obligations that are not considered debt, and therefore not subtracted from gross income, include: 
+•  Federal, State, and local taxes (unless court ordered garnishments exist); 
+•  Federal Insurance Contributions Act (FICA) or other retirement contributions, such as 401(k) 
+accounts (including repayment of debt secured by these funds) 
+•  Commuting costs; 
+•  Union dues; 
+•  Open accounts with zero balances; 
+•  Automatic deductions to savings accounts; 
+•  Child care (unless court ordered child support); and  
+•  Voluntary deductions. 
+ 
+PAYOFF OF DEBT TO QUALIFY 
+•  Paying down revolving debt and/or installment to qualify is not acceptable (e.g. cannot pay 
+installment down to 10 payments or less) 
+•  Lease payments may not be paid down or paid off for qualifying purposes  
+•  Paying off revolving debt and/or installment loans to qualify is allowed to be paid prior to or at time 
+of closing  
+  When paid off prior to close documentation must be provided to source funds and confirm 
+o
+zero balance 
+ 
+ASSETS 
+INTRODUCTION 
+Assets are an indicator of, and may be used to highlight an applicant’s creditworthiness and financial 
+strength. The applicant should have sufficient net worth – cash or other equity – in order to cover any costs 
+associated with the new loan and/or to mitigate any shortfall in capacity to repay the loan. 
+ 
+Asset verification will be required in which the applicant must bring $3,000 or more to closing, or as 
+deemed necessary by the underwriter. 
+ 
+For example, the underwriter may stipulate the verification of assets if the applicant has an outstanding tax 
+obligation of $2,500, and it appears the applicant may have limited or no cash assets after loan closing. 
+ 
+LOAN VERIFICATIONS 
+All Verifications of Deposit (VOD), Verbal Verifications for Employment (VVOE), Written Verifications of 
+Employment (WVOE [form 1005]), and Verifications of Mortgage or Rent (VOM) must be sent directly 
+by the lender and received back directly to the lender without being transmitted through the applicant or 
+any other party. We do not allow verifications to be hand carried. Flagstar Bank reserves the right to 
+verbally verify the information on a VVOE, WVOE, VOM or VOD with the borrower’s employer/asset 
+holder. 
+ 
+VI. Underwriting Guidelines                      23 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+VERIFICATION OF ASSETS 
+•  Monthly bank statements must be dated within 45 days of application.  
+  If the latest bank statement is more than 45 days earlier than the date of the loan 
+o
+application, the borrower must provide a more recent supplemental bank-generated form 
+that shows the account number, balance and date. 
+•  Quarterly statements must be dated with 90 days of application.  
+•  Depository and Investment accounts statement covering the most recent two-month period. 
+•  The most recent retirement statement available.  
+•  Asset statements must clearly identify the borrower as the account holder, include the account 
+number, the transaction history from the time period covered by the statement(s). 
+•  Verifications of source of funds may be dated up to 120 days before the date of the note.  
+•  Documents that are "faxed" to the lender or that the borrower downloads from the Internet must 
+clearly identify the name of the depository or investment institution and the source of the 
+information at the top of the document 
+ 
+REQUEST FOR VERIFICATION OF DEPOSIT 
+The Request for Verification of Deposit may be used to verify activity in the borrower's depository 
+accounts. When the borrower authorizes the lender to obtain this information directly from the different 
+depository institutions in which he or she has accounts by signing the Form 1006 or 1006(S), the 
+depository institutions must complete, sign and date the form and return it directly to the lender. The 
+Verification of Deposit should not be handled by the borrower. Rather than requiring the borrower to 
+sign multiple verification forms, the lender may have the borrower sign a borrower's signature 
+authorization form. 
+ 
+•  When a Verification of Deposit (Form 1006 or Form 1006[S]) (VOD) is used and depository 
+activity is not included, the lender must verify the source of funds for accounts opened within the 
+last 90 days of the application date, and 
+•  Account balances that are considerably greater than the average balance reflected on the VOD. 
+ 
+TYPES OF ASSETS 
+The following asset types may be used for closing costs. See additional guidelines for requirements when 
+assets may be required for reserves (e.g. income or debt obligations). 
+ 
+CHECKING AND SAVINGS ACCOUNTS 
+Bank statements must clearly identify the borrower as the account holder and include the account 
+number, the time period covered by the statement, all deposits and withdrawal transactions (for a 
+depository account) or all purchase and sale transactions and the ending account balance. 
+   
+RETIREMENT ACCOUNTS 
+Retirement account statements must identify the borrower's vested amount and the terms and 
+conditions for loans or the withdrawal of funds. 
+ 
+STOCKS, BONDS AND MUTUAL FUNDS 
+Stocks, government bonds and mutual funds are acceptable sources of funds if their value can be 
+verified.  
+•  The value of stocks, bonds and mutual funds (net of any margin accounts) may be verified by 
+referencing the most recent monthly or quarterly statement from the depository or investment 
+firm.  A photocopy of the stock certificate, accompanied by a newspaper stock list that is dated 
+VI. Underwriting Guidelines                      24 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+as of or near the date of the loan application, may also be used to document stock ownership 
+and value. 
+•  The value of government bonds should be based on their purchase price unless the redemption 
+value can be documented. 
+•  When used for the down payment or closing costs, if the value of the asset (as determined 
+above) is at least 20% more than the amount of funds needed for the down payment and 
+closing costs, no documentation of the borrower’s actual receipt of funds realized from the sale 
+or liquidation is required. Otherwise, evidence of the borrower’s actual receipt of funds realized 
+from the sale or liquidation must be documented. 
+•  Vested Stock Option are eligible source of borrower funds and reserves, and must be 
+documented with the following: 
+  Account statements covering a two-month period or direct account verification (i.e., 
+o
+VOD) confirming the number of vested shares and current value 
+  If the borrower does not receive a stock/security account statement for the stock options, 
+o
+the originator must: 
+• Provide a statement verifying the number of vested shares owned by the 
+borrower 
+• Provide the current stock price from a published source to determine the value 
+ 
+TRUST ACCOUNTS 
+Funds disbursed from a borrower's trust account are an acceptable source of funds if the borrower has 
+immediate access to them. The trust manager or trustee must verify the value of the trust account and 
+to confirm the conditions under which the borrower has access to the funds. The effect, if any is that the 
+withdrawal of funds from the account will have on any trust income that is used in qualifying the 
+borrower for the mortgage must also be documented. 
+ 
+LARGE DEPOSIT 
+When bank statements are used, the lender must evaluate large deposits, which are defined as a 
+single deposit that exceeds 50% of the total monthly qualifying income (includes income derived from 
+the asset calculation establishing the debt payment-to-income ratio) for the loan.   
+ 
+All large deposits should be reviewed for indications of recently opened liabilities resulting from 
+borrowed funds or any indication that the funds used to cover closing costs, or reserves generated from 
+an unacceptable source. 
+ 
+If funds from a large deposit are needed to complete the transaction, i.e., are used for closing costs, the 
+lender must document that those funds are from an acceptable source. Occasionally, a borrower may 
+not have all of the documentation required to confirm the source of a deposit. In those instances, the 
+lender must use reasonable judgment based on the available documentation as well as the borrower’s 
+debt-to-income ratio and overall income and credit profile. Examples of acceptable documentation 
+include the borrower’s written explanation, proof of ownership of an asset that was sold, or a copy of a 
+wedding invitation to support receipt of gift funds. The lender must place in the loan file written 
+documentation of the rationale for using the funds. 
+  Verified funds must be reduced by the amount, or portion, of the undocumented large 
+o
+deposit, as defined above, and the lender must confirm that the remaining funds are 
+sufficient for the down payment, closing costs, and financial reserves. When the lender 
+uses a reduced asset amount, net of the unsourced amount of a large deposit, that 
+reduced amount, must be used for underwriting purposes.  When a deposit has both 
+sourced and unsourced portions, only the unsourced portion must be used to calculate 
+VI. Underwriting Guidelines                      25 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+whether or not it must be considered a large deposit. See examples below: 
+• Scenario 1: 
+•  Borrower has monthly income of $4,000 and an account at ABC bank 
+with a balance of $20,000. A deposit of $3,000 is identified, but $2,500 of 
+that deposit is documented as coming from the borrower's federal income 
+tax refund. 
+•  Only the unsourced $500, the deposit of $3,000 minus the documented 
+$2,500, must be considered in calculating whether it meets the large 
+deposit definition. 
+•  The unsourced $500 is 12.5% of the borrower’s $4,000 monthly income, 
+falling short of the 50% definition of a large deposit.  
+•  Therefore, it is not considered a large deposit and the entire $20,000 
+balance in the ABC bank account can be used for underwriting purposes. 
+• Scenario 2: 
+•  Using the same borrower example, a deposit of $3,000 is identified, but 
+only $500 is documented as coming from the borrower’s federal income 
+tax refund, leaving $2,500 unsourced. 
+•  In this instance, the unsourced $2,500 is 63% of the borrower’s $4,000 
+monthly income, which does meet the definition of a large deposit. 
+•  Therefore, the unsourced $2,500 must be subtracted from the account 
+balance of $20,000 and only the remaining $17,500 may be used for 
+underwriting purposes. 
+ 
+Note: If the source of a large deposit is readily identifiable on the account statement(s), such as a direct 
+deposit from an employer (payroll), the Social Security Administration, or IRS or state income tax 
+refund, or a transfer of funds between verified accounts, and the source of the deposit is printed on the 
+statement, the lender does not need to obtain further explanation or documentation.  However, if the 
+source of the deposit is printed on the statement but the lender still has questions as to whether the 
+funds may have been borrowed, the lender should obtain additional documentation. 
+ 
+EMPLOYMENT & INCOME 
+INTRODUCTION 
+Employment and income are essential for loan repayment. Qualifying income should be stable, predictable, 
+and likely to continue. The applicant must demonstrate the financial wherewithal to repay the proposed 
+loan transaction as well as other obligations. 
+ 
+SOURCES OF INCOME 
+ACCEPTABLE SOURCES OF INCOME 
+Sources of income/liquidity/repayment may vary. Some receive primary income from only one source, 
+while others have a diversified portfolio and may receive income from several sources. Acceptable 
+sources which demonstrate ongoing sufficiency of repayment capacity and that can be utilized in the 
+analysis of a borrower’s income projections include: 
+•  Wage-Earner Income: All non-self-employed applicants who receive a W-2 at year end to 
+summarize total earnings – includes hourly, weekly, biweekly, part-time, seasonal, bonus, 
+commission, and tips/gratuity. 
+•  Self-Employed Income: Sole proprietorship, Partnership, Corporations, and S-Corporations 
+VI. Underwriting Guidelines                      26 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Other Non-Employment Income: Alimony/Child Support/Maintenance, Unemployment/Public 
+Assistance, Disability/Worker’s Compensation, Retirement/Pension, Social Security, Annuity, 
+IRA, Military/VA Benefits, Trust, Interest & Dividend, Inheritance/Guaranteed Income, Note 
+Receivables, Mortgage Differential/COLA & Rental 
+•  Readily Convertible Assets: Bank Deposits, Money Market, Marketable Securities, Mutual 
+Funds, Annuities, and Bonds 
+ 
+UNACCEPTABLE SOURCES OF INCOME 
+•  Income based on future earnings (unless documented from a source such as social security 
+income or retirement account/annuity/disability or other sources of protected income based 
+upon reliability and regularity of income where the source and term are verifiable). 
+•  Draw Income 
+•  Capital Withdrawals 
+•  VA Education Benefits 
+•  Income from Mortgage Certificates 
+•  Illegal Income/Income not listed on tax returns 
+•  Any income that cannot be documented and verified 
+•  Room/Boarder rent from subject property 
+•  Income derived from an activity that is prohibited by federal, state or local law, rules and 
+regulations cannot be considered. This applies to both W2 and self-employment, regardless if 
+reporting income or loss. Income sources may include, but not limited to: 
+  Foreign shell banks 
+o
+  Medical marijuana dispensaries 
+o
+  Any business or activity related to marijuana or CBD (e.g. growing, processing, distribution, 
+o
+etc) even if legally permitted under state or local law. 
+  Businesses engaged in any type of internet gambling. 
+o
+•  Income derived from virtual currency, such as cryptocurrency, including but not limited to: 
+  Income paid to or earned by the borrower in the form of cryptocurrency 
+o
+  Assets to establish income continuance such as retirement distributions, trust or 
+o
+dividend/interest income 
+  Use in assets as a basis for repayment of obligations 
+o
+  Rental payments. When a lease is necessary the payment on the lease must be reflected in 
+o
+U.S. dollars. 
+ 
+FOREIGN INCOME 
+Foreign income is income earned from a foreign corporation or a foreign government and is paid in 
+foreign currency. Borrowers may use foreign income to qualify if the following requirements are met: 
+•  All income must be converted to US dollars based on the exchange rate at the time of 
+underwriting for qualifying purposes. 
+•  All written communication must be presented in English or translated to English by a certified 
+translator. 
+ 
+Foreign Income – US Citizen Resident Alien (Green Card) 
+Residency  Occupancy  Verification  Ineligible 
+May live  Copies of his or her signed  Self-employed borrower 
+abroad, but  Subject to  federal income tax returns filed  who earns the self-
+must still  underwriter’s  with the IRS for the past two  employments income 
+maintain a  discretion  years that include foreign  from a country other 
+present  income verified with 4506C  than the United States 
+VI. Underwriting Guidelines                      27 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+address  Foreign earned pension  and is not reported on 
+within the US  converted to US currency  Schedule C or Schedule 
+E of the borrowers 
+1040’s. 
+Documentation to satisfy the  Unlawful aliens not 
+standard documentation  eligible 
+requirements 
+ 
+Foreign Income – Non-Permanent Resident Alien (Visa) 
+Residency  Occupancy  Verification  Ineligible 
+Copies of his or her signed  Self-employed borrower 
+federal income tax returns filed  who earns the self-
+with the IRS for the past two  employments income 
+Must  years that include foreign  from a country other 
+currently and  Subject to  income verified with 4506C  than the United States.  
+lawfully  underwriter’s  Foreign earned pension  Previously self-
+reside in the  discretion  converted to US currency  employed borrowers are 
+US  not eligible 
+Documentation to satisfy the 
+Unlawful aliens not 
+standard documentation 
+eligible 
+requirements 
+ 
+INCOME DOCUMENTATION 
+HELOC – LOAN AMOUNTS ≤ $150,000 
+Previous year's  
+Paystub OR The  Most recent year's 
+W-2 OR The Work 
+Work Number with  personal and 
+Scenario  Number with  Tax transcripts 
+verification of  business tax 
+verification of 
+income  returns 
+income 
+Hourly/Salary Base 
+X       
+Only 
+Hourly/Salary with 
+X  X     
+OT or Bonus 
+Commission  X  X     
+Self-Employed      X  X 
+ 
+HELOC – LOAN AMOUNTS > $150,000 
+Previous year's 
+Paystub OR The  Most recent two 
+ W-2 OR The Work 
+Work Number with  year's personal 
+Scenario  Number with   Tax transcripts 
+verification of  and business tax 
+verification of 
+income  returns 
+income 
+VI. Underwriting Guidelines                      28 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+Hourly/Salary Base 
+X  X     
+Only 
+Hourly/Salary with 
+X  X     
+OT or Bonus 
+Commission  X  X     
+Self-Employed      X  X 
+ 
+HELOC – ALL LOAN AMOUNTS 
+See Other Non-Employment Income for additional income requirements not included below. 
+One of the Following: 
+Scenario  Most recent year’s 
+Award Letter or  Bank statement 
+1099  personal tax 
+Pension Statement  with Direct Deposit 
+returns1 
+Social Security 
+(SSI and SSD)  X  X  X  X 
+Pension  X  X  X  X 
+1 When tax returns are used to determine income, tax transcripts are required 
+ 
+EMPLOYMENT 
+The applicant’s past employment record and the employer’s confirmation of current, ongoing employment 
+status should be examined when analyzing employment. Flagstar should confirm applicant has been 
+employed for the past 2 years (hourly/salaried/commissioned/self-employed). The depth and breadth of 
+employment and income verification should be commensurate with the type and size of the transaction, 
+and the applicant’s credit risk profile.  
+ 
+Applicants with non-consecutive and/or non-reoccurring employment histories must have financial 
+strengths in order to be considered for maximum financing. Applicants who work in certain industries may 
+experience frequent job changes due to the nature of the work (e.g. seasonal or unskilled labor). In these 
+instances, applicants will be considered if they are able to demonstrate the ability to maintain a steady 
+income despite the changes. 
+ 
+ 
+EMPLOYMENT DOCUMENTATION 
+This section addresses the sources of documentation that may be used to verify salary/wage earner 
+income and the principle methods of validating authenticity. 
+ 
+Telephone Verification (VVOE) 
+The phone number the applicant provided as their employer’s number must be independently 
+confirmed by using the phone book, or other source, such as the internet. Contact with the 
+employer must be documented in writing, or captured in the underwriting system and include the 
+name of person contacting the employer, company name, name and title of the person confirming 
+the information, date of contact, and information that was verified. 
+ 
+VI. Underwriting Guidelines                      29 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+Pay Stubs  
+Must be computer generated and include the following information in order for it to be considered 
+an acceptable form of verification: company’s name or employer Tax I.D. that matches the W-2, 
+name and/or social security number of the employee, the pay period covered, the year-to-date 
+gross earnings, list all deductions. Paystubs must be dated within 120 days of the Note date. 
+ 
+W-2’s  
+A W-2 form is a summary of earnings statement that the employer prepares and sends to its 
+employees at the end of the year. 
+ 
+Loan amounts over $150,000, a copy of the most recent year W-2 is required to verify annual 
+income and employment for each borrower. 
+ 
+Form 4506/4506-C  
+If pay stubs do not contain all required information and tax returns are used to verify income, the 
+applicant must also sign a 4506 form. The form may be required at application or closing. 
+ 
+Verification of Employment (WVOE) Form  
+A written VOE showing year-to-date income may be substituted for a verbal VOE, pay stub(s) and 
+W-2(s), provided it contains year-to-date earnings and the prior year’s earnings. The VOE must be 
+completed, signed, and dated by the owner, partner, or Human Resources representative, along 
+with the date and phone number. Forms completed by the applicant will not be accepted. 
+ 
+Internet Verifications  
+Downloads from the Internet are acceptable provided they meet all general guidelines outlined in 
+this section. The existence of the web site from which the documents were derived must be verified. 
+Printed web pages must show the uniform resource locator (URL) address and the date and time 
+printed. 
+ 
+EMPLOYMENT VERIFICATION 
+VERIFICATION OF EMPLOYMENT (VOE) 
+The phone number the applicant provided as their employer’s number must be independently 
+confirmed by using the phone book or other source, such as, the internet. Contact with the employer 
+must be documented in writing, or captured in the underwriting system, and include the name of person 
+contacting the employer, company name, name and title of the person confirming the information, date 
+of contact, and information that was verified. 
+ 
+Income Type  Requirements 
+VI. Underwriting Guidelines                      30 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+Verbal verification of employment is required on currently employed wage 
+earners when: 
+•  the loan amount is greater than $100,000; OR,  
+•  the loan amount is greater than $75,000 AND the CLTV is greater than 
+80%. 
+ 
+The VVOE must be dated within 10 business days of the Note date unless the 
+Wage Earner 
+following applies: 
+•  If a borrower is in the military, a military Leave and Earnings Statement 
+(LES) dated within 30 days of the closing is acceptable in lieu of a 
+verbal or written VOE.  
+•  Because third party vendor databases are typically updated monthly, 
+the verification must evidence that the information in the vendor’s 
+database was not more than 35 days old as of the Note date 
+Self-employed  Verification business is in operation is required within 20 business days of the 
+borrower  Note date 
+ 
+Self-Employment Verification 
+The existence of the borrower’s business must be verified from a third- party source. Acceptable 
+third- party sources include the following:  
+•  CPA, regulatory agency, or the applicable licensing bureau, if possible, or  
+•  By verifying a phone listing and address for the borrower’s business using the internet or 
+directory assistance.  
+ 
+TAX TRANSCRIPTS 
+When tax returns are used to document the qualifying income, the most recent (1) year tax transcripts 
+results will be required regardless of the number of applicable years required unless the following apply: 
+•  Transcripts are not required if the borrower is an existing Flagstar customer with one of the 
+following: 
+  Transcripts were previously obtained/provided to Flagstar for most recent year used for 
+o
+qualification  
+  There is no significant increase (defined as 10%) to the income source based on the last 
+o
+available transcript for the borrower  
+  Borrower has a satisfactory mortgage payment history of at least 12 months with Flagstar 
+o
+ 
+BORROWER EMPLOYED BY FAMILY MEMBER 
+Provide the most recent two (2) years personal tax returns with all schedules to determine stability of 
+income and potential ownership interest to document less than 25% ownership. 
+ 
+EMPLOYMENT STABILITY 
+INCOME ADEQUACY & CONTINUANCE 
+The applicant should have a history of generating steady income for at least 2 years*. Qualifying 
+income must be: 
+•  Recurring; 
+•  Received regularly 
+•  Received in cash (includes check, wire-transfer, etc.) and paid tax on the income as evidenced 
+by a U.S. tax return; 
+•  Reasonable based on the source 
+ 
+VI. Underwriting Guidelines                      31 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+The applicant must be receiving income if it is to be included as qualifying income. However, the 
+potential to increase income may be considered a strong compensating factor if the applicant has 
+recently completed education and/or training to enhance job opportunities/income. Income should be 
+expected to continue during the entire term of the Note. 
+ 
+EMPLOYMENT GAP 
+Explain any gaps in excess of 60 days during the past two years. 
+•  Allowances can be made for seasonal employment gaps beyond 60 days, typical for the building 
+trades and agricultural, if documented. 
+•  Income received from secondary employment or multiple job sources, there may be no gap greater 
+than 30 days in the last 12 months. 
+•   
+ 
+NEWLY ENTERING THE WORKFORCE 
+For a Borrower who has less than a two-year employment and income history, the Borrower's income 
+may be qualifying income if the Mortgage file contains documentation to support that the Borrower was 
+either attending school or in a training program immediately prior to their current employment history. 
+School transcripts must be provided to document. 
+ 
+WAGE EARNER INCOME 
+Wage earner income is defined as compensation for services paid by a person, business, or 
+organization at specified intervals is commonly referred to as salary or wage earner income. The pay 
+schedules of wage earners can be classified into four general categories: 
+ 
+Full Time  
+The applicant is a permanent employee of a company and works a standard work week, usually 
+totaling 35 to 40 hours a week. 
+ 
+Part Time 
+The applicant is a permanent employee of a company but the number of hours is not standardized, 
+usually totaling less than 30 hours per week. 
+ 
+Temporary  
+The applicant is not a permanent employee of the company and therefore is not part of the 
+company’s permanent staff. Temporary employees usually work for contracted, or “as needed” 
+period of time. 
+ 
+Occasional/Seasonal  
+The applicant works for a specified period of time on a specific job or project. Once completed, the 
+applicant is on “standby” until he/she receives their next assignment (e.g. roofers, landscapers, and 
+migrant farm workers) 
+ 
+If a wage earner intends to use income from other sources to qualify, the income may be considered 
+stable to the extent that it is consistent and it is expected to continue based on the required 
+documentation.  
+ 
+CONSUMERS RETURNING TO WORK AFTER AN EXTENDED ABSENCE 
+A consumer's income may be considered effective and stable when recently returning to work after an 
+extended absence if he/she: 
+VI. Underwriting Guidelines                      32 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Is employed in the current job for six months or longer; and 
+•  Can document a two-year work history prior to an absence from employment using: 
+•  Traditional employment verifications; and/or 
+•  Copies of IRS Form W-2s or pay stubs. 
+ 
+Note: An acceptable employment situation includes individuals who took several years off from 
+employment to raise children, then returned to the workforce.  Important: Situations not meeting the 
+criteria listed above may not be used in qualifying. Extended absence is defined as six months. 
+ 
+CALCULATING EMPLOYMENT INCOME 
+CONVERTING FROM PART TIME TO FULL TIME 
+When a borrower is converting from part time to full time with the same employer, the income must be 
+documented with a paystub reflecting 30 days year-to-date earnings of full-time employment along with 
+a WVOE to document the date the borrower transitioned to full time in order to use the current wages. 
+ 
+PRIMARY EMPLOYMENT LESS THAN 40 HOURS 
+When an applicant’s primary employment is less than a typical 40- hour work week, the underwriter 
+should evaluate the stability of that income as regular, on-going primary employment.  
+ 
+For example, a registered nurse may have worked 24 hours per week for the last year; although this job 
+is less than the 40-hour work week, it is the applicant’s primary employment and should be treated as 
+such for qualifying purposes. 
+ 
+CALCULATING WAGE EARNER INCOME 
+Individuals either receive a fixed regular annual income, usually paid monthly, semimonthly, biweekly, 
+or weekly, or they may work and get paid by the hour, day, or week. All receive regular compensation in 
+the form of a paycheck and year-end income is reported via W-2. Each type of qualifying income is 
+calculated differently. 
+ 
+Non-Fluctuating Employment Earnings 
+Pay Period   Calculation of Income 
+ 
+Annual Salary  Annual rate of base pay divided by 12  (without overtime, bonus, or 
+commission) 
+Monthly Salary  Monthly base pay as shown (without overtime, bonus, or commission) 
+Semi-monthly Salary  Base pay rate x 24 / 12 
+Bi-weekly Salary  Base pay rate x 26 / 12 
+Weekly Salary  Base pay rate x 52 / 12 
+Hourly  Rate of Pay x # Hours worked per week x 52 / 12   
+ 
+OTHER TYPES OF EMPLOYMENT-RELATED INCOME 
+OVERTIME & BONUS 
+Overtime is money paid to individuals who earn additional wages for time worked above and beyond 
+the normal workday or workweek. A Bonus is money paid in addition to regular wages. Sometimes 
+bonuses are paid on a regular basis throughout the year, and some employees receive a “guaranteed” 
+bonus as part of an incentive plan.  
+ 
+Overtime and Bonus income can be used to qualify if it has been received for the past two years and 
+documentation submitted for the loan does not indicate this income will likely cease. 
+VI. Underwriting Guidelines                      33 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+A two-year average of bonus or overtime income must be used; periods of overtime and bonus income 
+less than two years may be acceptable, provided the underwriter can justify and document in writing the 
+reason for using the income for qualifying purposes. Note: ‘projected’ bonus income must also be 
+verified in writing by the employer and scheduled to begin within 60 days of loan closing.  
+ 
+An earnings trend must be established and documented for overtime and bonus income. If either type 
+of income shows a continual decline, a sound rationalization must be documented in writing for 
+including the income when qualifying the applicant; the applicant will be qualified using the lower 
+amount. A period of more than two years must be used in calculating the average overtime and bonus 
+income if the income varies significantly from year to year. 
+ 
+TIPS/GRATUITY 
+Tips or gratuity income is compensation received in addition to the employee’s straight salary or hourly 
+wage. This type of income can be used to qualify if it is established and expected to continue. 
+ 
+COMMISSION INCOME 
+Verification of Commission Income:  
+•  A minimum history of 2 years of commission income is recommended; however, commission 
+income that has been received for 12 to 24 months may be considered as acceptable income, 
+as long as there are positive factors to reasonably offset the shorter income history.  
+•  One of the following must be obtained to document commission income:  
+  a completed Request for Verification of Employment (Form 1005 or Form 1005(S)), OR  
+o
+  The borrower’s recent paystub and IRS W-2 forms covering the most recent two-year 
+o
+period 
+ 
+If the income is declining/has declined, the applicant will be qualified using the lower amount. 
+ 
+AUTO ALLOWANCE 
+The full amount of an automobile allowance received for at least the last two consecutive years may be 
+included as income and the lease or financing expenditure must be included as a debt in the calculation 
+of the debt-to-income ratio.  
+ 
+HOUSING/PARSONAGE INCOME   
+A housing or parsonage allowance may be considered qualifying income if there is documentation that 
+it has been received for the most recent 12 months and the allowance is likely to continue for the next 
+three years. The housing allowance may be added to income but may not be used to offset the monthly 
+housing payment. 
+ 
+PART-TIME/SEASONAL/SECONDARY 
+Part-time or secondary income may be used to qualify if it can be documented that the applicant has 
+worked the part-time job uninterrupted for the past two years, and is expected to continue. Verification 
+of part-time or second-job income must be supported by IRS W-2 forms. If a borrower who has 
+historically been employed on a part-time basis indicates that he or she will now be working full-time, 
+written confirmation must be obtained from the borrower's employer.  
+ 
+Occasionally, an applicant who has less than a 2-year history of receiving income from part-time or 
+multiple-job employment may need that income to qualify for the mortgage. There is flexibility of 
+accepting less than a 2-year history, but no less than a 12-month history for a borrower if there is a 
+strong likelihood that the borrower will continue to receive that income and the lender develops an 
+average monthly income for the part-time or multiple jobs.  
+VI. Underwriting Guidelines                      34 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+ 
+Situations in which a shorter history of receiving income from a part-time job may be acceptable include 
+those in which there are two borrowers, one who has always been a full-time employee and one who 
+had recently returned to work on a part-time basis; those in which a full-time employee took on a 
+second, part-time job to offset the loss of income from overtime pay that was no longer available from 
+his or her primary source of employment; etc. 
+ 
+When a borrower relies on the income from a second job to qualify for a mortgage, it should be 
+determined if there has been any change in the borrower's overall employment status that might 
+jeopardize the continuance of income from the second job. For example, if a borrower recently 
+accepted a new primary job, but arranged to continue working at his or her old job as a second job, the 
+borrower would have a history of receiving income from what is now considered a second-job, but there 
+would be no history of his or her ability to handle two jobs on a continuing basis. For that reason, the 
+income from this second job would not be acceptable to use in qualifying the borrower. 
+ 
+Seasonal, part-time or second job income (including seasonal unemployment compensation) can be 
+considered as stable income if the borrower has worked in the same job (or line of seasonal work) for 
+the past two years and the borrower's employer indicates that there is a reasonable expectation that 
+the borrower will be rehired for the next season. Examples of borrowers who have seasonal jobs 
+include outdoor laborers (landscapers, construction workers, etc.), income tax preparers, supplemental 
+department store personnel who work during the Christmas shopping period or another holiday period, 
+etc. Seasonal unemployment compensation should not be used to qualify the borrower unless it is 
+appropriately documented, clearly associated with seasonal layoffs, expected to recur and reported on 
+the borrower's federal income tax returns.  
+For qualifying purposes, “part-time” income refers to employment taken to supplement the applicant’s 
+income from regular employment; part-time employment is not a primary job and it is worked less than 
+40 hours. 
+ 
+TEMPORARY LEAVES OF ABSENCE (INCLUDING MATERNITY LEAVE) 
+Temporary leave from an employer may encompass various circumstances (e.g. family and medical, 
+short-term disability, maternity, other temporary leaves with or without pay). Temporary leave is 
+generally short in duration. The period of time that borrower is on temporary leave may be determined 
+by various factors such as applicable law, employer policies and short-term insurance policy and/or 
+benefit terms. Leave ceases being considered temporary when the borrower does not intend to return 
+to the current employer or does not have a commitment from the employer to return to employment.  
+ 
+During a temporary leave, a borrower’s income may be reduced and/or completely interrupted. The 
+lender must determine that during and after the temporary leave the borrower has capacity to repay the 
+HELOC and all other monthly obligations.  
+ 
+Determining qualifying income and borrower capacity to meet obligations while on temporary leave:  
+•  For borrowers returning to their current employer prior to the first home equity payment due 
+date: 
+  The lender may use for qualifying income the borrower’s gross monthly income amount 
+o
+that will be received upon the borrower’s return to their current employer.  
+•  For borrowers returning to their current employer after the first payment due date the lender 
+must determine the income amount that will be received upon the borrower’s return to their 
+current employer. The lender must take into account any temporary reductions in income when 
+determining qualifying income, as follows: 
+  The lender may use for qualifying income the Borrower’s gross monthly income amount 
+o
+being received during the temporary leave. In the event that the income has been 
+VI. Underwriting Guidelines                      35 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+reduced or interrupted, the lender may use for qualifying income the monthly reduced 
+amount (this amount may be zero) being received during the temporary leave combined 
+with the partial or complete income supplement up to the amount of the income 
+reduction. 
+  The total qualifying income must not exceed the gross monthly income that will be 
+o
+received upon the borrower’s return to current employer.  
+  Assets that are required for the transaction, e.g., closing costs, financing costs, may not 
+o
+be considered as available assets to supplement the income.  
+ 
+Documentation Requirements 
+The following documents must be retained in the loan file:  
+•  Verification of the Borrower’s pre-leave income and employment  
+•  Documentation from the current employer confirming the borrower’s statutory right to return 
+to work, or the employer’s commitment to permit the borrower to return to work. The 
+confirmation date of return, and the borrower’s post leave employment and income.  
+•  Written statement signed by the borrower confirming that the borrower will return to their 
+current employer stating the confirmation date of return that has been agreed upon between 
+the borrower and the employer.  
+ 
+In addition, the following documentation is required for borrowers returning to the current employer 
+after the first mortgage payment due date:  
+•  Documentation evidencing amount, duration, and consistency of all temporary leave income 
+sources being used to qualify the borrower, e.g., short-term disability benefits or insurance, 
+sick leave benefits, temporarily reduced income from employer, that are being received 
+during the temporary leave  
+•  All available liquid assets used to supplement the reduced income for the duration of the 
+temporary leave must meet requirements of and be verified. 
+ 
+RESTRICTED STOCK (RS) AND RESTRICTED STOCK UNITS (RSU)  
+Employers increasingly include RS and RSU as a component of employee compensation. RS are 
+grants of company shares which represent equity interest in the company. RSU are grants valued in 
+terms of company shares that do not represent equity interest in the company. Both RS and RSU are 
+subject to a restriction period during which recipients are not permitted access to granted shares until 
+vesting requirements are met. Vesting requirements are based on varying criteria but the most common 
+types are:  
+•  Performance-based (e.g., a certain percentage of total granted shares vest based on individual 
+or corporate performance), and  
+•  Time-based (e.g., a certain percentage of total granted shares vest after a pre-determined 
+period of employment)  
+ 
+Documentation Requirements  
+RS and RSU may be used to qualify the Borrower for the Mortgage, provided the following 
+requirements have been met: 
+ 
+Income Type  Stable Monthly Income  Documentation Requirements 
+Requirements 
+RS and RSU subject to  History of receipt:  All of the following: 
+performance-based  •  Two years, consecutive  •  YTD paystub(s) documenting 
+vesting provisions  •  To be considered for history  all YTD earnings, including 
+of receipt, RS and RSU used  payout(s) of RS or RSU, W-2 
+VI. Underwriting Guidelines                      36 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+Income Type  Stable Monthly Income  Documentation Requirements 
+Requirements 
+for qualifying must have  forms for the most recent two 
+vested and been distributed  calendar years and a 10-
+to the Borrower from their  dayprior to close verbal 
+current employer, without  verification of employment. 
+restriction  Income verification obtained 
+  through a third-party 
+Continuance: Must be likely to  verification service provider is 
+continue for at least the next three  not permitted. 
+years. The underwriter is not required  Or all of the following: 
+to obtain documentation to verify  •  Written VOE documenting all 
+income continuance, absent any  YTD earnings (including 
+knowledge, information or  payout(s) of RS or RSU) as 
+documentation that the income is no  well as earnings for the most 
+longer being received or is likely to  recent two calendar years, 
+cease.  and a 10-day prior to close 
+  verbal verification of 
+employment. Income 
+verification obtained through 
+a third-party verification 
+service provider is not 
+permitted. 
+ 
+Additional documentation 
+requirements applicable to all 
+documentation levels: 
+•  Evidence the stock is publicly 
+traded 
+•  RS and/or RSU agreement 
+•  Most recent vested 
+schedule(s) detailing past and 
+future vesting 
+•  Evidence of receipt of 
+previous year(s) payout(s) of 
+RS/RSU (e.g., year-end 
+paystub, employee-provided 
+statement paired with a 
+brokerage or bank statement 
+showing transfer of shares or 
+funds) that must, at a 
+minimum, include: 
+  Date(s) of the 
+o
+payout(s) 
+The number of vested shares or its 
+cash equivalent distributed to the 
+Borrower (pre-tax) 
+ 
+Calculation 
+SUBJECT  REQUIREMENT AND GUIDANCE 
+RS and RSU subject to performance-based  Based on the form in which vested RS or RSU are 
+vesting provisions  distributed to the borrower (i.e., as shares or its cash 
+equivalent), the seller must use the applicable method(s) 
+below to calculate the monthly income: 
+ 
+VI. Underwriting Guidelines                      37 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+SUBJECT  REQUIREMENT AND GUIDANCE 
+RS or RSU distributed as shares: 
+ 
+Multiply the 52-week average stock price as of the 
+application received date by the total number of vested 
+shares distributed (pre-tax) to the borrower in the past two 
+years, then divide by 24. 
+ 
+(e.g. if 200 vested shares were distributed (pre-tax) in the 
+past two years and the 52-week average stock price as of 
+the application received date is $10, multiply 200 x $10 
+then divide by 24=$83.33 monthly income) 
+ 
+RS or RSU distributed as cash equivalent: 
+ 
+Use the total dollar amount distributed (pre-tax) from the 
+cash equivalent of vested shares in the past two years 
+and divide by 24.  
+ 
+Refer below for more information about fluctuating 
+earnings. 
+ 
+RS and RSU subject to time-based vesting  Based on the form in which vested RS or RSU are 
+provisions  distributed to the Borrower (i.e., as shares or its cash 
+equivalent), the Seller must use the applicable method(s) 
+below to calculate the monthly income: 
+ 
+RS or RSU distributed as shares: 
+ 
+Multiply the 52-week average stock price as of the 
+Application Received Date by the number of vested 
+shares distributed (pre-tax) to the Borrower in the past 
+year, then divide by 12.  
+ 
+(e.g., if 50 vested shares were distributed (pre-tax) in the 
+past year and the 52-week average stock price as of the 
+Application Received Date is $10, multiply 50 x $10 then 
+divide by $12=$41.67 monthly income) 
+ 
+RS or RSU distributed as cash equivalent: 
+ 
+Use the total dollar amount distributed (pre-tax) from the 
+cash equivalent of vested shares in the past year and 
+divide by 12. 
+ 
+Refer below for more information about fluctuating 
+earnings.  
+ 
+ 
+Analysis of Income Fluctuation and Stability  
+The determination of stability for RS and RSU income used to qualify must include analysis of 
+changes in the company's stock price as well as past and future distributions detailed in a vesting 
+schedule. If the YTD earnings are consistent with the previous year(s) earnings or trending upward, 
+then the underwriter must use the applicable calculation method(s) below to determine the monthly 
+income. If the earnings are not consistent (i.e., the value of vested shares distributed decreases 
+VI. Underwriting Guidelines                      38 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+substantially year-over-year), additional analysis is required and additional documentation may be 
+necessary to determine income stability and develop an accurate calculation of qualifying income.  
+ 
+Eligible Asset 
+Stock with limitations on its accessibility (e.g., restricted stock which has not vested and been 
+distributed to the recipient) is not eligible source of borrower funds and may not be used for closing 
+costs. 
+ 
+SELF-EMPLOYMENT INCOME 
+GENERAL 
+A consumer with a 25 percent or greater ownership interest in a business is considered self-employed.  
+The following factors must be analyzed before approving a home equity transaction for a self-employed 
+borrower:  
+•  The stability of the borrower’s income,  
+•  The location and nature of the borrower’s business,  
+•  The demand for the product or service offered by the business,  
+•  The financial strength of the business, and  
+•  The ability of the business to continue generating and distributing sufficient income to enable 
+the borrower to make the payments on the requested mortgage. 
+ 
+There are four basic types of business structures. They include: 
+•  Sole proprietorships; 
+•  Corporations; 
+•  Limited liability or “S” corporations; and 
+•  Partnerships. 
+ 
+INCOME OR LOSS REPORTED ON SCHEDULE K-1 (IRS FORMS 1065 OR 1120S) 
+Business income reported on Schedule K-1 may be used to qualify only when the borrower has a 
+documented history of receiving cash distributions of income from the business consistent with the level 
+of business income being used to qualify.  
+Caution must be used when including income that the borrower draws from the borrower’s partnership 
+or S corporation as qualifying income. Ordinary income, net rental real estate income, and other net 
+rental income reported on Schedule K-1 may be included in the borrower’s cash flow provided:  
+•  The borrower can document ownership share (may use Schedule K-1), and  
+•  The business has adequate liquidity (e.g. working capital) to support the withdrawal of earnings. 
+A written evaluation of the business income must be retained in the file. 
+ 
+If…  Then… 
+The Schedule K-1 reflects a documented,  No further documentation of access to the income 
+stable history of receiving cash  or adequate business liquidity is required. The 
+distributions of income from the business  Schedule K-1 income may then be included in the 
+consistent with the level of business  borrower’s cash flow. 
+income being used to qualify, 
+The Schedule K-1 does not reflect a  The lender must confirm the following to include the 
+documented, stable history of receiving  income in the borrower’s cash flow:  
+cash distributions of income from the    The business has adequate liquidity 
+o
+business consistent with the level of  (working capital) to support the 
+business income being used to qualify,  withdrawal of earnings. 
+VI. Underwriting Guidelines                      39 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+If…  Then… 
+The borrower has a two-year history of  These payments can be added to the borrower’s 
+receiving “guaranteed payments to the  cash flow 
+partner” from a partnership or an LLC, 
+The underwriter must consider the type of business 
+Business tax returns are required, 
+structure and analyze the business returns 
+ 
+DOCUMENTATION 
+Self-employed documentation requirements differ based on the loan amount: 
+•  Most recent one to two years of signed individual federal income tax returns—IRS Form 1040. 
+•  Tax transcript(s) obtained directly from the IRS may be used in lieu of signed tax returns.  
+•  Most recent one to two years of IRS Schedule K-1. 
+•  Most recent one to two years of signed business federal income tax returns (IRS Form 1065 or 
+IRS Form 1120S), unless the requirements to waive business tax returns have been met. 
+•  All applicants whose income is verified with tax returns, must sign IRS Form 4506 – Request for 
+Copy of Tax Return – (or 4506-C Request for Transcript of Tax Returns) for the individual, and if 
+applicable, for the business.  
+•  See Tax Transcript Section for additional requirements 
+ 
+If an applicant has submitted required income documentation with an existing or pending First 
+Mortgage and/or Commercial Relationship, the underwriter may relay on the following: 
+ 
+First Mortgage Relationships: 
+•  Residential first mortgage derived income may be used; AND 
+•  IDM may be used as repository for income docs/assets. 
+ 
+ANALYZING TAX RETURNS FOR A PARTNERSHIP, LLC AND S CORPORATION 
+Evaluating Business Income for Partnership, LLC and S Corporation 
+When the borrower has 25% or more ownership interest in the business and business tax returns 
+are required, the underwriter must perform a business cash flow analysis and evaluate the overall 
+financial position of the borrower’s business to determine whether:  
+•  Income is stable and consistent, and 
+•  Sales and earnings trends are positive. 
+ 
+If the business does not meet these standards listed above, business income cannot be used to 
+qualify the borrower.  
+ 
+Borrower’s Proportionate Share of Income/Loss for a Partnership and LLC 
+The borrower’s proportionate share of income or loss is based on the borrower’s partnership 
+percentage of Ending Capital in the business as shown on the IRS Form 1065, Schedule K-1. Only 
+the borrower’s proportionate share of the business income or loss after making the adjustment to 
+the business cash flow can be used when qualifying the borrower for the mortgage loan. 
+ 
+Borrower’s Proportionate Share of Income or Loss for an S Corporation 
+The borrower’s proportionate share of income or loss is based on the borrower’s (shareholder) 
+percentage of stock ownership in the business for the tax year as shown on IRS Form 1120S, 
+Schedule K-1. The cash flow analysis should consider only borrower’s proportionate share of the 
+business income (or loss), taking into account any adjustments to the business income that are 
+VI. Underwriting Guidelines                      40 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+discussed below. Business income may only be used to qualify the borrower if the lender obtains 
+documentation verifying that: 
+•  The borrower has ownership of the income (Schedule K-1 may be used to document 
+ownership share) 
+ 
+Alternatively, the lender can obtain documentation verifying that:  
+•  The business has adequate liquidity (e.g. working capital) to support the withdrawal of 
+earnings.  
+  A written evaluation of the business income must be retained in the mortgage file.  
+o
+ 
+Earnings from a Corporation (1120) 
+It is only required to document access to business income if the borrower is less than 100% owner 
+of the business (i.e. 1120) and the income is not reporting on the borrower’s personal tax returns.  
+ 
+ADJUSTMENTS TO BUSINESS CASH FLOW 
+Partnership, LLC and S Corporation 
+Items that can be added back to the business cash flow include depreciation, depletion, 
+amortization, casualty losses, and other losses that are not consistent and recurring.  The following 
+items should be subtracted from the business cash flow: 
+•  Meals and entertainment exclusion, 
+•  Other reported income that is not consistent and recurring, and 
+•  The total amount of obligations on mortgages or notes that are payable in less than one 
+year. 
+ 
+These adjustments are not required for lines of credit or if there is evidence that these obligations 
+roll over regularly and/or the business has sufficient liquid assets to cover them. 
+ 
+Income from Partnerships, LLCs, Estates, and Trusts 
+Income from partnerships, LLCs, estates, or trusts can only be considered if the lender obtains 
+documentation verifying that: 
+•  The borrower has ownership of the income (Schedule K-1 may be used to document 
+ownership share), and  
+•  The income was actually distributed to the borrower.  
+ 
+Alternatively, the lender can obtain documentation verifying that:  
+•  The borrower has access to the income through a partnership agreement, LLC operating 
+agreement, or other documentation that the lender determines is appropriate, unless the 
+borrower(s) own 100% of the business in which case confirmation of access to the income is 
+not required; and  
+•  The business has adequate liquidity (e.g. working capital) to support the withdrawal of 
+earnings. A written evaluation of the business income must be retained in the file. 
+ 
+OWNERSHIP IN THE BUSINESS < 25% 
+For borrowers who have less than 25% ownership of a partnership, S corporation, or limited liability 
+company (LLC), ordinary income, net rental real estate income, and other net rental income reported on 
+IRS Form 1065 or IRS Form 1120S, Schedule K-1 may be used in qualifying the borrower provided:  
+•  The borrower can document ownership share (may use Schedule K-1),  
+•  The borrower can document access to the income, and  
+VI. Underwriting Guidelines                      41 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  The business has adequate liquidity (e.g. working capital) to support the withdrawal of earnings. 
+A written evaluation of the business income must be retained in the file. 
+ 
+If…  Then… 
+The Schedule K-1 reflects a documented,  No further documentation of access to the income 
+stable history of receiving cash  or adequate business liquidity is required. The 
+distributions of income from the business  Schedule K-1 income may then be included in the 
+consistent with the level of business  borrower’s cash flow. 
+income being used to qualify, 
+The Schedule K-1 does not reflect a  The lender must confirm the following to include the 
+documented, stable history of receiving  income in the borrower’s cash flow:  
+cash distributions of income from the    The business has adequate liquidity 
+o
+business consistent with the level of  (working capital) to support the 
+business income being used to qualify,  withdrawal of earnings. 
+The borrower has a two-year history of  These payments can be added to the borrower’s 
+receiving “guaranteed payments to the  cash flow 
+partner” from a partnership or an LLC, 
+The underwriter must consider the type of business 
+Business tax returns are required, 
+structure and analyze the business returns 
+ 
+An exception to the two-year requirement of receiving “guaranteed payments to the partner” is if a 
+borrower has recently acquired nominal ownership in a professional services partnership (for example, 
+a medical practice or a law firm) after having an established employment history with the partnership. In 
+this situation, the lender may rely upon the borrower’s guaranteed compensation. This must be 
+evidenced by the borrower’s partnership agreement and further supported by evidence of current year-
+to-date income.  
+ 
+Documentation Requirements – For Schedule K-1 documentation requirements, the borrower must 
+provide the most recent two years of signed individual federal income tax returns and the most recent 
+two years of IRS Schedule K-1. If the K1 does not reflect a documented stable history of receiving cash 
+distributions of income, two years business returns will be required to demonstrate the business has 
+adequate liquidity (e.g. working capital) to support the withdrawal of earnings. 
+ 
+SECONDARY SELF-EMPLOYMENT INCOME  
+It is not required to account for self-employment loss when the borrower is qualified using only income 
+that is not derived from self-employment and self-employment is a secondary and separate source of 
+income (or loss). Examples of income not derived from self-employment include salary and retirement 
+income. 
+ 
+RENTAL INCOME- 
+CALCULATIONG MONTHLY NET RENTAL INCOME OR LOSS 
+When the subject property is a 2-4-unit principal residence, you must calculate rental income as 
+follows: 
+VI. Underwriting Guidelines                      42 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+Rental Income From the Subject Property 
+Does Borrower Have 
+History of Receiving  Calculate Monthly Net Rental 
+Documentation Requirements 
+Rental Income from  Income (or Loss) 
+Property? 
+Document the rental cash flow by  Analyze the borrower’s cash 
+obtaining a copy of the most recent year  flow and calculate the net rental 
+Yes 
+filed tax return, pages 1 and 2 and  income (or loss) per month from 
+Schedule E   the returns  
+The gross rental income from 
+the property is equal to the 
+lesser of the market rent 
+  established by the appraiser or 
+the current rent based on the 
+Leases can only be used if a property is 
+existing lease agreement(s). 
+No  not listed on Schedule E because it was 
+Net rental income equals 75% 
+acquired subsequent to filing the tax 
+of the gross rent; the remaining 
+return). 
+25% of the gross rent is 
+absorbed by vacancy losses 
+and ongoing maintenance 
+expenses. 
+ 
+When the borrower owns additional property that is rented, calculate the monthly net rental income (or 
+loss) in accordance with the following table: 
+Rental Income from Property Other Than the Security Property 
+Does Borrower Have 
+History of Receiving  Calculating Monthly Net Rental 
+Documentation Requirements  
+Rental Income from  Income (or Loss)  
+Property?  
+Document the rental cash flow by  Analyze the borrower’s cash flow 
+obtaining a copy of the most recent  and calculate the net rental 
+Yes 
+year filed tax return, pages 1 and 2  income (or loss) per month from 
+and Schedule E   the returns  
+Net rental income is 75% of the 
+Obtain copies of current lease 
+gross rent from the lease 
+agreements (only if a property is not 
+agreements, with the remaining 
+No  listed on Schedule E because it was 
+25% being absorbed by vacancy 
+acquired subsequent to filing the tax 
+losses and ongoing maintenance 
+return).  
+expenses.  
+ 
+Treatment of the Income (or Expense) 
+The amount of monthly net rental income (or loss) that is considered as part of the borrower’s total 
+monthly income (or expenses) and its treatment in the calculation of the borrower’s total debt-to-
+income ratio will vary depending on whether the borrower occupies the rental property as his or her 
+principal residence. 
+ 
+If the net rental income (or loss) relates to the borrower’s principal residence: 
+VI. Underwriting Guidelines                      43 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  The monthly net rental income (as defined above) must be added to the borrower’s total 
+monthly income. 
+•  Any net rental loss must be added to the borrower’s total monthly obligations. 
+•  The full amount of the mortgage payment (PITIA) must be included in the borrower’s total 
+monthly obligations when calculating the debt-to-income ratio. 
+ 
+If the net rental (or loss) relates to a property other than the borrower’s principal residence: 
+•  The monthly net rental income (as defined above, but excluding the full amount of the 
+related mortgage payment) must be added to the borrower’s total monthly income. 
+•  Any monthly net rental loss must be added to the borrower’s total monthly obligations. 
+•  The full PITIA for the rental property is factored into the amount of the net rental income (or 
+loss), therefore, it should not be counted as a monthly obligation. 
+•  The full PITIA for the borrower’s principal residence must be counted as a monthly 
+obligation. 
+ 
+When Schedule E is used to calculate rental income, the full PITIA must be accounted for. Any 
+listed depreciation, interest, taxes, insurance, or HOA expenses will be added back to the 
+borrower’s cash flow. Please refer to the Fannie Mae Rental Income Worksheets Forms 1037 or 
+1038 or the Freddie Mac Rental Income Worksheet Form 92. 
+ 
+When the borrower is using rental income to qualify for the mortgage the entire PITIA of the 
+property must be considered when evaluating property cash flow regardless of the obligated party. 
+ 
+OTHER NON-EMPLOYMENT INCOME 
+GENERAL 
+If the applicant intends to use income from other non-employed/non-self-employed sources to qualify, 
+the income may be considered stable to the extent that it is consistent and it can be established that 
+income appears to be sustainable for a specified period of time or the loan term based on the required 
+documentation. Factors that should be considered in determining the likelihood of consistent payments 
+include, but are not limited to the following: 
+•  Whether the payments are received pursuant to a written agreement, court decree, or law; 
+•  The length of time the payments have been received; 
+•  Eligibility criteria governing the continued receipt of the income, such as age of dependents or 
+accumulation of assets. 
+ 
+DOCUMENTATION 
+If other non-employed income is used to qualify, the applicant must have a history of receiving the 
+income regularly, and demonstrate that the income appears to be sustainable, and/or will continue for a 
+specific period of time or the loan term. In order to verify the duration in which the applicant has 
+received, and will continue to receive other non-employed income, the following documentation may be 
+obtained: 
+•  Most recent award letter, pension statement, court order/agreement, asset statement from 
+which the income is generated, notes receivable, agreements etc. confirming the amount, 
+frequency, duration of payment, and what if any portion is tax free, or; 
+•  Tax returns with all schedules from previous two years, most recent 1098 and/or most recent 
+1099, or; 
+•  Most recent bank statements showing receipt of income. 
+ 
+Evidence in the file shall demonstrate that the applicant income was considered to the extent that it is 
+reliably and regularly received. 
+VI. Underwriting Guidelines                      44 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+ 
+ALIMONY/CHILD SUPPORT/SEPARATE MAINTENANCE 
+In order for alimony or child support to be considered as acceptable, stable income, the applicant must 
+have received the income for at least 12 months and it must be expected to continue for at least 3 
+years as specified by the court order, final divorce decree, legal separation agreement, voluntary 
+payment agreement or an attorney’s letter specifying the individuals and issues.  
+ 
+ Child support may be “grossed up” by 25% to account for tax deductions.  
+ 
+We will accept as verification that alimony or child support will continue to be paid. A photocopy of the 
+divorce decree, or separation agreement if the divorce is not final, that provides for the payment of 
+alimony or child support and states the amount of the award and the period of time over which it will be 
+received; any other type of written legal agreement or court decree that describes the payment terms 
+for the alimony or child support; or any application of state law that requires alimony, child support, or 
+maintenance payments may be used as income. 
+ 
+FOSTER CARE 
+Income that a borrower receives from a state or county-sponsored organization for providing temporary 
+care for one or more children may be considered as acceptable stable income as long as the borrower 
+has a 2-year history of providing foster-care services and is likely, in the foreseeable future, to continue 
+to provide such services at a level that supports the amount of income needed for qualifying for the 
+loan. If a borrower has not been receiving this type of income for 2 full years, we may nevertheless 
+count the income as stable income, as long as the borrower has at least a 12-month history of providing 
+foster care services and this income does not represent more than 30% of the total gross income that is 
+used to qualify the borrower for the mortgage. 
+ 
+Foster-care income may be verified by: 
+•  Letters from the organizations providing the income,  
+•  Copies of the borrower's signed federal income tax returns that were filed with the IRS, or  
+•  Copies of the borrower's deposit slips or bank statements that confirm the regular deposit of    
+the payments. 
+ 
+CAPITAL GAINS INCOME  
+Income received from a capital gain is generally a one-time transaction; therefore, it should not usually 
+be considered as part of the borrower’s stable monthly income. However, if the borrower needs to rely 
+on the income from capital gains to qualify for the mortgage, copies of the borrower’s signed federal 
+income tax returns that were filed with the IRS for the past two years, including the related Capital 
+Gains and Losses (Schedule D to IRS Form 1040) must be obtained. When the borrower’s tax returns 
+show that he or she has realized capital gains for the last two years, develop an average income from 
+capital gains and use that amount as part of the borrower’s qualifying income, as long as the borrower 
+provides evidence that he or she owns additional property or assets that can be sold if extra income is 
+needed to make future mortgage payments.  
+ 
+The sale of real estate is not acceptable to be used as qualifying income unless documentation can 
+establish that the borrower does this for a living. 
+ 
+UNEMPLOYMENT BENEFITS 
+Unemployment benefits, such as those received by seasonal workers, may be considered as 
+acceptable income if the income is properly documented, has been received for the past 2 years and is 
+predictable and likely to continue (as discussed for seasonal unemployment compensation). Copies of 
+VI. Underwriting Guidelines                      45 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+the borrower's signed federal income tax returns that were filed with the IRS for the past 2 years should 
+be used to establish a history of the receipt of these benefits. 
+ 
+DISABILITY/WORKER’S COMPENSATION 
+Disability benefit payments should be treated as acceptable income unless the terms of the disability 
+policy specifically limit the stability or continuity of the benefit payments. Benefits that have a defined 
+expiration date must have a remaining term of at least three years from the date of the mortgage 
+application in order to be used for qualifying the borrower. For example, if a borrower is receiving 
+disability benefits that are scheduled to be discontinued when he or she reaches a certain age and the 
+borrower will reach that age within three years of loan closing, the lender should not count the disability 
+benefit as stable income. When a borrower is currently receiving short-term disability payments that will 
+decrease to a lesser amount within the next three years because they are being converted to long-term 
+benefits, the lender must use the amount of the long-term payments in determining the borrower’s 
+stable income. 
+ 
+Generally, long-term disability will not have defined expiration date and must be expected to continue. 
+The requirement for re-evaluation of benefits is not considered a defined expiration date. 
+ 
+Verification of long-term disability must be documented with one of the following:  
+•  Obtain a copy of the borrower’s disability policy or benefits statement from the benefits payer 
+(insurance company, employer, or other qualified disinterested party) to determine: 
+  The borrower’s current eligibility for the disability benefits, and  
+o
+  The amount and frequency of the disability payments, and  
+o
+  If there is contractually established termination or modification date  
+o
+•  Social Security income for long term disability will not have defined expiration date and must be 
+expected to continue. Verification of income must be documented with one of the following: 
+  A copy of the Social Security Administration’s award letter; or  
+o
+  Copies of signed federal income tax returns; or  
+o
+  Social Security Benefit Statement (Form SSA-1099); or  
+o
+  Copies of the borrower’s recent bank statements. 
+o
+ 
+NOTES RECEIVABLE  
+Payments on notes receivable must continue for at least 3 years from the date of the mortgage 
+application in order to be considered as acceptable stable income. We require a copy of the note to 
+establish the amount and length of payment. Borrowers must provide evidence the funds have been 
+received for the past 12 months. Acceptable evidence includes deposit slips, copies of signed federal 
+income tax returns that were filed with the IRS or copies of the borrower's bank statements that show 
+consistent deposits of these funds. 
+ 
+RETIREMENT, GOVERNMENT, AND PENSION INCOME 
+Individual retirement account (such as 401K or 403b), or annuity income is similar to pension and social 
+security income except that it may not be payable for life. A copy of the most recent updated individual 
+retirement account or annuity renewal statement showing the effective date, amount, frequency, and 
+duration of the benefit payments showing the income will continue for at least 3 years must be 
+obtained. 
+Document regular and continued receipt of the income as verified by 
+•  Letters from the organizations providing the income, 
+•  Copies of retirement award letters, 
+VI. Underwriting Guidelines                      46 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Copies of retirement award letters, 
+•  IRS W-2 or 1099 forms, or 
+•  Proof of current receipt 
+ 
+If retirement income is paid in the form of a distribution from a 401(k), IRA, or Keogh retirement 
+account, determine whether the income is expected to continue for at least three years after the date of 
+the mortgage application. In addition  
+•  The borrower must have unrestricted access without penalty to the accounts; and 
+•  If the assets are in the form of stocks, bonds, or mutual funds, 70% of the value (remaining after 
+any applicable costs for the subject transaction) must be used to determine the number of 
+distributions remaining to account for the volatile nature of these assets.  
+ 
+If the retirement income is newly established, verification of current receipt is not required. Document 
+the finalized terms of the newly established income including, but not limited to, the source, type, 
+effective date of income commencement, payment frequency and pre-determined payment amount with 
+the benefit verification letter, notice of award letter or other equivalent documentation from the payor 
+that provides and establishes these terms. The income must commence prior to or on the first 
+Mortgage payment due date. 
+ 
+All retirement income must be likely to continue for at least the next three years 
+ 
+Distributions from retirement accounts recognized by the Internal Revenue Service (IRS) (e.g., 401[k], 
+IRA) that are not subject to penalty (e.g., early withdrawal penalty) may be considered stable monthly 
+qualifying income. Evidence of the income source, type, distribution frequency, distribution amount(s), 
+current receipt (as applicable) and history of receipt (as applicable), must be documented. 
+ 
+If distributions are being taken in accordance with certain IRS rules, such as the Required Minimum 
+Distributions (RMD) rule (i.e., excise tax penalty applies if distributions are not taken), and evidence of 
+current receipt of the required minimum distribution amount is obtained, history of receipt is not required 
+for the income to be considered stable. 
+ 
+Due to the multiple variables inherent with distributions from retirement accounts, including, but not 
+limited to, fixed and fluctuating income amounts, the history of receipt necessary to justify a stable 
+monthly qualifying income amount may vary. This may include a range of history from zero to 24 
+months, depending upon the individual circumstances. As with all income, the underwriter (or “it” can be 
+acceptable) must determine that the source and amount of the income are stable. Factors that the 
+underwriter must consider when determining that the income used to qualify the Borrower is stable, and 
+when determining the history of receipt necessary to justify a stable monthly qualifying income amount 
+include, but are not limited to, the following: 
+•  Frequency and regularity of receipt of the distributions 
+•  Length of time the distributions have been taken and whether or not they establish a stable 
+pattern of receipt over a given period of time. For example, consider whether or not the 
+distributions are fixed amounts occurring with regular frequency or are fluctuating amounts 
+occurring with or without regular frequency. For fixed amounts occurring with regular frequency, 
+a lesser history of receipt may be needed in order to determine the amount and stability of the 
+qualifying income than would be needed for fluctuating amounts. For fluctuating amounts, it may 
+be necessary to obtain a longer history of receipt in order to determine the amount and stability 
+of the qualifying income while taking into consideration whether or not the overall payments are 
+similar when viewed year over year or with another similar measure, such as quarter over 
+quarter. 
+VI. Underwriting Guidelines                      47 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Rules governing distributions (e.g., IRS rules governing exceptions to early withdrawal penalties 
+and Required Minimum Distributions (RMD), employer retirement plan rules and designs 
+governing scheduled distribution terms). Certain rules may provide support for the frequency 
+and regularity of receipt as well as continued receipt, thereby enabling a lesser amount of 
+history to justify a stable monthly qualifying income amount. 
+ 
+Documentation Requirements: 
+•  Most recent retirement account statement(s), documentation from financial institution holding 
+retirement account that verifies regularly scheduled distribution arrangements, 1099(s) and/or 
+other equivalent documentation showing income source, type, distribution frequency, 
+distribution amounts and history of receipt (as applicable), and 
+•  Bank statement(s) or other equivalent documentation evidencing current receipt (as applicable), 
+and  
+•  Evidence of sufficient assets to support the qualifying income 
+ 
+If the retirement distributions are not scheduled monthly payments (e.g., annual, semi-annual, 
+quarterly), the most recent distribution verified through a retirement account statement, 1099 and/or 
+other equivalent documentation, as applicable, is sufficient in lieu of current receipt; however, 
+verification of receipt of multiple distributions may be necessary to determine frequency of distributions, 
+history of receipt and amount of stable monthly qualifying income.  Sufficient assets remaining after 
+closing must be documented to support continuance of the retirement account distributions as income 
+for at least the next three years. 
+ 
+A written rationale explaining the analysis used to determine the qualifying income must be provided, 
+regardless of the underwriting path.  
+ 
+ANNUITY INCOME 
+Annuity income is similar to pension and Social Security income except that it may not be payable for 
+life. A copy of the most recent updated annuity renewal statement showing the effective date, amount, 
+frequency, and duration of the benefit payments showing income will continue for at least three years 
+must be obtained. 
+ 
+SOCIAL SECURITY INCOME 
+Supplemental Security Income (SSI) may be considered as qualifying income that has a reasonable 
+expectation of continuance unless there is evidence that the benefits will not continue. Pending or 
+current re-evaluation of medical eligibility for benefit payments is not considered an indication that the 
+insurance and/or benefit payment will not continue. Social Security benefits received on behalf of 
+another beneficiary or under another’s Social Security account or work record may not necessarily 
+continue for three years. In these instances, documentation of continuance will be required.  
+ 
+MILITARY/VA BENEFITS 
+Military personnel may be entitled to different types of pay in addition to their base pay. The following 
+may be considered stable income provided there is documentation verifying the income will continue for 
+at least three years: 
+•  Flight Pay 
+•  Hazardous Duty Pay 
+•  Rations 
+•  Clothing Allowance 
+•  Housing Allowance 
+  
+VI. Underwriting Guidelines                      48 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+Education benefits used to offset education expenses are not acceptable. 
+ 
+Obtain a copy of the borrower’s last Leave and Earnings Statement (LES) to verify allotments, 
+allowances, estimated time in service, and the amount of net and gross pay. Also, obtain and verify the 
+following information from the borrower’s latest Leave and Earnings Statement (LES): 
+•  Military Rank 
+•  Social Security Number 
+•  Military Address 
+•  Length of active service to date 
+ 
+The tax-free income from housing (BAQ), rations, uniforms, food, flight pay, etc., can be used as 
+income to qualify for the loan. Grossing up of this income is subject to standard. The LES statement 
+must show at least 12 months remaining for time in service, otherwise the tax-free income cannot be 
+used to qualify for the loan. As long as there is at least 12 months remaining before the borrower’s “out 
+date” (as verified on the LES), a verbal verification of employment is not needed. 
+ 
+INTEREST & DIVIDENDS 
+Average interest and dividend income received for the last 2 years may be used to calculate the 
+qualifying income. Before calculating the projected interest or dividend income, the underwriter will 
+need to subtract any funds that are derived from these sources, or are required for the cash investment. 
+Asset statements must be provided to support a three-year continuance. Asset statements must be 
+provided to support a three-year continuance. 
+ 
+ROYALTY PAYMENTS 
+If the borrower needs to rely on income from royalty payments to qualify for the mortgage, the following 
+documentation must be provided: 
+•  Royalty contact, agreement, or statement confirming amount, frequency, and duration of the 
+income; and  
+•  Borrower’s most recent signed federal income tax return, including the related IRS Form 1040, 
+Schedule E.  
+ 
+Documented evidence showing that the borrower has received royalty payments for at least 12 months 
+and will continue to receive them for at least three years after the date of the mortgage application is 
+required in order to use the payments as qualifying income, and documentation of receipt of income. 
+ 
+TRUST INCOME 
+Income from a trust may be used if constant payments will continue for at least the first three years and 
+is properly documented via a copy of the Trust Certificate or other trustee statement confirming the 
+amount of the trust, frequency of distribution and duration of payments.  
+ 
+Trust account funds may be used for the required cash investment if the applicant provides adequate 
+documentation that the withdrawal of funds will not negatively affect income. 
+ 
+EMPLOYMENT-RELATED ASSETS AS QUALIFYING INCOME 
+All of the following loan parameters must be met in order for employment-related assets to be used as 
+qualifying income: 
+Parameter  Transaction Requirements 
+Maximum LTV/CLTV/HCLTV  70% for borrowers < age 62 
+80% for borrower = > age 62 
+VI. Underwriting Guidelines                      49 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+Minimum Credit Score  620 credit score 
+Loan Purpose  Cash-out refinance only 
+Number of units  1-4 units 
+Income Calculation/Payout  Divide “Net Documented Assets” by amortization term of the 
+Stream  loan (in months) 
+Asset Ownership  Borrower(s) must match asset ownership 
+ 
+Asset Requirements 
+Assets used for monthly income stream must be owned individually by the borrower, or the co-
+owner of the asset must be a co-borrower of the subject property. Assets must be liquid and 
+available to the borrower with no penalty. 
+•  Non-self-employed severance package or non-self-employed lump sum retirement package 
+(i.e., a lump sum distribution) must be documented with a distribution letter from the 
+employer (1099R) and deposited to a verified asset account. 
+•  401(k) or IRA, SEP, KEOGH retirement accounts, the borrower must have unrestricted 
+access to the funds in the accounts and can only use the account if distribution is not 
+already set up or the distribution amount is not enough to qualify. The account and is 
+composition must be documented with the most recent monthly, quarterly or annual 
+statement. 
+•  If a penalty would apply to a distribution of funds form the account made at the time of 
+calculation, then the amount of such penalty applicable to a complete distribution from the 
+account (after costs for the transaction) must be subtracted to determine the income stream 
+from these assets. 
+•  If the employment–related assets are in the form of stocks, bonds, and mutual funds, 70% of 
+the value (remaining after costs for the transaction and consideration of any penalty) must 
+be used to determine the income stream to account for the volatile nature of these assets. 
+•  A borrower shall only be considered to have unrestricted access to a 401(k) or IRA, SEP, 
+Keogh retirement account if the borrower has, as of the time of calculation, the unqualified 
+and unlimited right to request a distribution of all funds in the account (regardless of any 
+possible tax withholding or applicable penalty applied to such distribution). 
+ 
+Ineligible Assets 
+Non-employment related assets (e.g. stock options, non-vested restricted stock, lawsuits, lottery 
+winnings, sale of real estate, inheritance, divorce proceeds, etc.) 
+ 
+Net Documented Assets 
+“Net documented assets” are equal to the sum of eligible assets minus: 
+•  the amount of the penalty that would apply if the account was completely distributed at the 
+time of calculation; 
+•  the amount of funds used for down payment, closing costs, and required reserves; 
+•  30% of the remaining value of any stocks, bonds, or mutual fund assets (after the 
+calculation in (b)). 
+ 
+Example: Calculation of net Documented Assets 
+IRA (made up of stocks and mutual funds)  $500,000 
+Minus 10% of $500,000 ($5000,000 x .10)   
+(assumes the borrower is not yet 59 ½ years of age at the time this income is   
+being calculated; therefore, it is subject to a 10% penalty for early distribution.  (-) $50,000 
+This penalty must be levied against any cash being withdrawn for closing the 
+transaction as well as the remaining funds used to calculate the income stream.) 
+VI. Underwriting Guidelines                      50 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+Total eligible documented assets  (=) $450,000 
+Minus funds required for closing (down payment, closing costs, reserves)  (-) $100,000 
+(a) Subtotal  (=) $350,000 
+Minus 30% of $350,000 ($350,000 x .30)  (-) $105,000 
+(assumes funds are in the form of stocks, bonds, and mutual funds) 
+(b) Net Documented Assets  (=) $245,000 
+Monthly income calculation ($245,000/360 (or applicable term of loan in   
+months))  $680.56/month 
+ 
+See Income Calculation/Payout Stream in table below 
+ 
+NON-EMPLOYMENT-RELATED ASSETS AS QUALIFYING INCOME  
+When the borrower has liquid assets that are not employment-related, the assets may be used to 
+qualify the borrower if the following terms are met:  
+ 
+Parameter  Transaction Requirements 
+Maximum LTV/CLTV/HCLTV  60%  
+Minimum Credit Score  680 credit score 
+Occupancy  Primary Residence only 
+Loan Purpose  Cash-out refinance only 
+Number of units  1-2-unit properties only (3 to 4 units not eligible) 
+Asset Ownership  Borrower(s) must match asset ownership 
+ 
+Income Verification 
+To determine whether the borrower qualifies for the home equity transaction, the underwriter may 
+convert the borrower’s Other Financial Assets into an income stream as described in the Monthly 
+Income Stream Calculation section below. 
+ 
+The income derived from the monthly income stream calculation must be entered as “Other 
+Income” on the Uniform Residential Loan Application. Other Financial Assets used in the 
+conversion technique shall not be considered as assets available for closing costs or reserves. 
+ 
+Interest, dividends, and capital gains from Other Financial Assets (reported on the borrower’s tax 
+return) cannot be used as additional income. 
+ 
+Reserves 
+The borrower’s minimum reserve requirements may not be satisfied using any of the Other 
+Financial Assets that are being converted into an income stream. 
+ 
+Asset Requirements 
+•  Other Financial Assets must be owned individually by the borrower, or the co-owner of the 
+assets must be a co-borrower of the HELOCs. 
+•  Other Financial Assets used for the calculation of the monthly income stream must be liquid 
+and available to the borrower with no penalty. 
+•  If the Other Financial Assets are in the form of stock, bonds, mutual funds, or U.S. savings 
+bonds, 70% of the value (remaining after costs for the transaction) must be used to 
+determine the income stream to account for the volatile nature of these assets. 
+•  If assets are in the form of demand deposit account, savings account or certificate of 
+deposit, 100% of the value may be used to determine the income stream. 
+VI. Underwriting Guidelines                      51 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Net documented assets are equal to: 
+  The sum of eligible documented Other Financial Assets minus any funds that will be 
+o
+used for closing or required reserves, and 
+  Minus 30% of the remaining value of any stocks, bonds, mutual funds, or U.S. 
+o
+savings bonds assets (after the calculation in (a)). 
+ 
+Example: 
+Checking and savings accounts $40,000  
+IRA - made up of stocks and mutual funds $500,000  
+Funds required for closing - Down payment, closing costs, reserves (- $100,000)  
+ 
+Remaining IRA assets ($500,000 - $60,000 used at closing)  
+$440,000  
+Minus 30% 132,000  
+$308,000 Net documented assets 
+ 
+Minimum Asset Amount 
+The minimum amount of the Other Financial Assets required is as follows:  
+•  The lesser of one- and one-half times the original UPB or $500,000.00.  
+ 
+Minimum Seasoning of Assets 
+The minimum seasoning of the Other Financial Assets is 24 months  
+ 
+Eligible Asset Types 
+Assets Eligible as Other Financial Assets:  
+•  The same eligible liquid financial assets that may be used for the borrower’s reserves, which 
+includes: o Checking and savings accounts;  
+  Investments in stocks, bonds, mutual funds, CD’s, money market funds, and trust 
+o
+accounts; and  
+  Cash value of a vested life insurance policy  
+o
+•  Funds from the sale of investment properties.  
+ 
+Assets Ineligible as Other Financial Assets:  
+Assets that are ineligible as borrower’s reserves, which includes:  
+•  Funds that have not been vested;  
+•  Funds that cannot be withdrawn under circumstances other than the account owner’s 
+retirement, employment termination, or death;  
+•  Stock held in an unlisted corporation;  
+•  Non-vested stock options and non-vested restricted stock;  
+•  Personal unsecured loans; and  
+•  Cash proceeds from a cash-out refinance transaction on the subject property  
+ 
+Monthly Income Stream Calculation  
+Convert the borrower’s net documented assets by the amortization terms of the Mortgage (in 
+months).  
+ 
+Example of Calculation:  
+•  Present Value: $1,000,000  
+•  30-year Mortgage: 360  
+VI. Underwriting Guidelines                      52 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+•  Income: $2777.77  
+ 
+TAX EXEMPT INCOME 
+When needed for qualification, if income is verified to be nontaxable and its tax-exempt status are likely to 
+continue, the following requirements must be met to gross up the income: 
+•  Income must be from a non-taxable source such as social security, retirement payments, child 
+support, disability, workers compensation benefits, or certain public assistance payments 
+•  A copy of the complete federal individual tax return for the most recent one year, or other 
+documentation evidencing the income, or a portion of, is tax exempt must be provided. 
+•  The non-taxable portion of the income may be grossed up by using a calculation of either 
+  25% of the tax-exempt portion of the income 
+o
+  The current federal and state income tax withholding tables 
+o
+ 
+COLLATERAL & APPRAISAL GUIDELINES 
+INTRODUCTION 
+An essential part of the underwriting process is an accurate appraisal of the real property comprising the 
+loan security. The appraisal report summarizes the valuation process for the property; and establishes 
+whether the property’s value is adequate security for the proposed loan.  The appraisal report must convey 
+a thoroughly documented and well-supported impartial estimate of value as of a precise date. Appraisals 
+prepared for Flagstar must be of high quality, nondiscriminatory, and prepared in accordance with all 
+relevant professional standards and regulatory agency requirements. Appraisers must be independent of 
+any influences – financial or otherwise – that would in any way detract from the objectivity of their reports. 
+ 
+Use of appraisals or other valuations must conform to Flagstar’s appraisal policies and regulatory 
+requirements. 
+ 
+COLLATERAL EVALUATION 
+The appraisal report/evaluation forms are designed to provide a concise format for presenting both the 
+appraiser’s description of the subject property and the valuation analysis that leads to the opinion of 
+market value. All forms and documentation must be completed in a manner that will clearly reflect the 
+thoroughness of the appraiser’s investigation and analysis, and provide the rationale for the opinion of 
+market value.  
+ 
+There are a number of ways to determine that the collateral is acceptable for the transaction. The forms 
+vary depending on the underwriting method and the type of property. Collateral valuation is determined 
+as described in the following sections. 
+ 
+RESIDENTIAL PROPERTIES 
+On-site inspections completed by licensed or certified appraisers, statistical database modeling, or 
+other appropriate methods approved by the Chief Residential Appraisal Officer as long as they comply 
+with all regulations. The value will be equal to the lesser of the appraised value or purchase price. The 
+value for properties purchased within the prior 120 days will be equal to the lesser of the appraised 
+value or purchase price plus the documented cost of improvements, if applicable.    
+ 
+ORDERING THE APPRAISAL 
+When an appraisal is ordered for a residential property, the appraiser should be provided with all 
+information that may affect the appraiser’s estimate of value or marketability. The appraisal order must 
+include the name and phone number of a contact who can provide the appraiser with necessary 
+VI. Underwriting Guidelines                      53 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+information, and access to the property. The person ordering the appraisal cannot also be involved in 
+underwriting the loan. 
+ 
+AGE OF APPRAISALS AND OTHER VALUATIONS 
+Appraisal reports and other valuations are good for up to 120 days preceding the date of the note. If the 
+appraisal or other valuation is more than 120 days old at the time of application, the current appraised 
+value will be used for the property valuation. Properties purchased within 120 days of application will 
+use the lesser of the purchase price or appraised value to calculate LTV/CLTV/HCLTV, measured from 
+the date on which the property was purchased to the disbursement date of the new mortgage loan. 
+ 
+STANDARD APPRAISAL GUIDELINES 
+Standard appraisal requirements establish the value based on a thorough evaluation of both the interior 
+and exterior of the subject property. It includes a quantitative sales comparison analysis and requires 
+the assignment of a dollar value to reflect the market’s reaction to any features of a comparable sale 
+that differs from those of the subject property. 
+ 
+Appraisals must generally be completed ‘As Is”. 
+ 
+The appraiser must supply the following exhibits with all appraisal reports: 
+•  Street map to scale that shows the location of the subject property and all comparable sales 
+used 
+•  Exterior building sketch of the improvements that indicates the dimensions 
+•  Gross living area calculations must be shown 
+•  Exterior Photographs of the subject property that show the front, back, sides, street and any 
+amenity or obsolescence that adds or detracts value, as well as a picture of the front of each 
+comparable sale 
+•  Interior Photographs of the subject property that show the main living area, kitchen, all 
+bathrooms, and amenity or obsolescence that adds or detracts value 
+•  Condominium projects general information as it relates to the project itself such as 
+management, number of phases and completion, common elements, etc. 
+•  Any other data that is necessary to provide an adequately supported opinion of value 
+ 
+ 
+APPRAISAL FORMS 
+The forms required to document appraisal information, which is listed below, is dependent upon the 
+property type, loan amount, and CLTV. 
+•  Form 1004/URAR – Uniform Residential Appraisal Report: Used for interior inspections on 1-4-
+unit properties, PUD’s and site condominiums. 
+•  Form 1073/Individual Condominium Unit Appraisal Report (interior inspections) 
+•  Evaluation – integrated valuation model or collateral valuation report analysis. 
+ 
+VALUATION METHODS 
+Charted below are the guidelines for determination of property values: 
+ Appraisal Type  Loan Amount 
+≤ $250,000 
+3rd Party Collateral Evaluation  (see below for cases requiring a 
+full appraisal for ≤ $250,000) 
+1004/1073, as applicable  > $250,000 
+ 
+VI. Underwriting Guidelines                      54 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE
+
+ 
+ 
+  Standalone Home Equity Underwriting Guidelines 
+ 
+A full appraisal must be ordered through LoanTrac and be completed by a Flagstar approved Appraisal 
+Management Company (AMC), regardless of AIR Compliant status in lieu of an evaluation in the 
+following situations: 
+•  Adequate subject property and/or comparable data is not available; 
+•  Properties with any of the following characteristics: 
+  Recently remodeled or extensively renovated 
+o
+  Properties with excess acreage (15+ acres) 
+o
+  Unique design or amenities (berm/dome/log home or atypical amenities such as private 
+o
+tennis court, multiple outbuildings, etc.). 
+ 
+USE OF APPRAISAL FOR A SUBSEQUENT TRANSACTION  
+The use of an origination appraisal for a subsequent transaction is acceptable if the following 
+requirements are met:  
+•  The appraisal report must not be more than 12 months old on the note date of the subsequent 
+transaction. If the appraisal report is greater than 4 months old on the date of the note and 
+mortgage, then an appraisal update is required. Age of Appraisal and Appraisal Update 
+Requirements, for requirements for completing an appraisal update, must be met. 
+•  The property has not undergone any significant remodeling, renovation, or deterioration to the 
+extent that the improvement or deterioration of the property would materially affect the market 
+value of the subject property. 
+•  The borrower and the lender/client must be the same on the original and subsequent 
+transaction. 
+•  Appraisal Review must review appraisal. 
+ 
+ 
+ 
+ 
+ 
+VI. Underwriting Guidelines                      55 of 55     01/11/2023 
+Return to Top 
+
+NEW PAGE

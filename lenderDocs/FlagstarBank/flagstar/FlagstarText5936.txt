@@ -1,0 +1,395 @@
+Guidelines for Down Payment Assistance Programs
+ 
+DOWN PAYMENT ASSISTANCE PROGRAM GENERAL INFORMATION 
+Down payment assistance (DPA) can take a variety of forms: gift funds, grant money, secured loans 
+(hereinafter referred to as Community Seconds) and unsecured loans.  Down payment assistance programs 
+are used to provide funds for down payment, closing costs and/or prepaids.  The information below will: 
+•  Define the difference between a Community Second program and a Gift/Grant program, 
+•  Describe how to register loans with a Community Second or Gift/Grant in Flagstar’s Loantrac System, 
+•  Describe how the underwriter needs to address the different types of programs when running through 
+the automated underwriting system(s), and 
+•  Describe how the underwriter is to condition for the particular programs at loan closing.  
+ 
+Many in the industry refer to all down payment assistance programs as grants when in fact the vast majority of 
+DPA programs are structured as secured loans. Unsecured loans are not addressed within these guidelines 
+and should be reviewed by the underwriter according to the applicable investor criteria. 
+Flagstar publishes separate lists of eligible Community Second programs and Gift/Grant programs.  Refer to 
+Community Seconds Programs, Doc. #5932 and Gift/Grant Programs, Doc. #5935. 
+How to determine if a program is a Community Second or a Gift/Grant:  
+•  Is a lien filed in the property records? 
+•  Do the guidelines mention that the transaction is a “loan” or that a “retention agreement” is filed? 
+ 
+If any type of lien is filed the DPA program is considered a Community Second loan and not a Gift/Grant. The 
+loan amount must be considered in the CLTV, and if any payments are required in the first five years (three 
+years for FHA) the payment must be included in the borrower’s debt-to-income (DTI) ratio. 
+ELIGIBLE PROGRAM PROVIDERS 
+•  Government entities (states, counties, cities, etc.), government agencies, or instrumentalities of 
+government  
+•  Verifiable non-profit agencies (a 501(c)3 letter is required for verification) 
+•  Employers (through an established employer-assisted housing program) 
+ 
+INELIGIBLE PROGRAM PROVIDERS 
+•  Seller funded 
+•  Broker funded 
+•  Realtor funded 
+•  Builder funded 
+•  For profit entities 
+ 
+The listing of a program on either of the above lists does not override the requirements of the product 
+description or underwriting guidelines.   
+ 
+Cash back to the borrower is prohibited on a Community Seconds transaction. 
+V. Product Guidelines  1 of 7  Document #5936 
+Return to Top            01/22/2019 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Guidelines for Down Payment Assistance Programs
+ 
+COMMUNITY SECONDS PROGRAMS 
+Community Seconds programs are loans secured by the subject property.  The loan may or may not be 
+forgiven at the end of the loan term.  A Note (sometimes referred to as a Loan Agreement or other name) is 
+signed at closing, and a Deed of Trust/Mortgage or a Deed Restriction is filed to secure the loan.  Repayment 
+terms must always be reviewed by Flagstar for compliance with Fannie Mae, Freddie Mac and HUD 
+guidelines. The agency providing the assistance must provide an award/approval letter to the underwriter, 
+outlining the exact amount of the assistance and the repayment terms.  While the loan may be forgiven after a 
+specified retention period, some programs require the loan to be paid off upon sale of the property, and in 
+some instances payments are required during the term of the loan. If a payment is required within the first five 
+years (three years for FHA) the payment must be considered in the borrower’s DTI. 
+ 
+Flagstar will allow more than one Community Second loan to be used with a Flagstar first mortgage as long as 
+the CLTV does not exceed the maximum allowed by the first mortgage loan program. 
+ 
+BELOW MARKET RATE PROGRAMS (BMR) 
+Below market rate programs are reviewed in the same manner as a Community Second.  BMR programs 
+generally have a non-monetary Note, Mortgage and Restrictive Covenant associated. 
+ 
+GIFT/GRANT PROGRAMS 
+Gift or Grant programs require no repayment and no lien is filed in the property records.  These types of funds 
+are provided by a government agency, a verified nonprofit agency or the borrower’s employer.  If the 
+award/approval letter states a lien will be taken on the property (even if all payments are deferred) the program 
+is considered a Community Second. Gift/Grant assistance is entered as an asset on the 1003 in Loantrac. 
+ 
+Another type of grant program is an Individual Development Account (IDA).  In most cases these programs do 
+not have any recapture provision.  When they do have a recapture provision, they are considered Community 
+Seconds. 
+ 
+COMMUNITY SECONDS REQUIRING LENDER PARTICIPATION 
+Many organizations offering down payment assistance require lenders to become approved with them in order 
+to participate in the DPA program.  Lender participation can include, but is not limited to: 
+•  An agreement must be signed (agreements have requirements that must be able to be met) 
+•  Training for the program must take place 
+•  The program underwriting guidelines must be followed (even if different than the first mortgage program 
+guidelines). 
+•  A financial contribution may be required (whether it is an annual fee or a commitment fee) 
+ 
+Flagstar guidelines state, “Any lender participation required by the program would require the 
+broker’s/correspondent’s approval for participation.”  In essence this means, the broker or correspondent is 
+responsible for the relationship and whatever it entails with the DPA provider. Flagstar will not itself become 
+approved with any DPA provider. 
+ 
+Flagstar reviews programs to determine if we can comply with the first mortgage investor guidelines for 
+compliance purposes only. 
+V. Product Guidelines  2 of 7  Document #5936 
+Return to Top            01/22/2019 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Guidelines for Down Payment Assistance Programs
+ 
+FLAGSTAR-ELIGIBLE FIRST MORTGAGE PROGRAMS 
+Community Second programs are eligible for use with Flagstar Bank first mortgage products as outlined below 
+by the investor/guarantor. 
+ 
+FANNIE MAE 
+•  Fannie Mae Fixed Rate, Doc. #5301 
+•  Agency 3/1, 5/1, 7/1 and 10/1 ARMs, Doc. #5331 (only 5/1 and 7/1 ARMs eligible with Community 
+Seconds) 
+•  Fannie Mae HomeReady, Doc. #5318 
+•  Fannie Mae HomeStyle Renovation, Doc. #5719 
+ 
+All closing documents for the second lien program should be submitted to Flagstar with first mortgage 
+closing package. 
+ 
+FREDDIE MAC 
+•  Freddie Mac Fixed Rate, Doc. #5302 
+•  Freddie Mac A-Minus Program, Doc. #5303 
+•  Agency 3/1, 5/1, 7/1 and 10/1 ARMs, Doc. #5331 (only 5/1 and 7/1 ARMs eligible with Affordable 
+Seconds) 
+•  Freddie Mac HomePossible, Doc. #5335 
+•  Freddie Mac Home One, Doc. #5339 
+ 
+All closing documents for the second lien program should be submitted to Flagstar with first mortgage 
+closing package. 
+ 
+FHA 
+Refer to the appropriate HUD Handbook based on the agency case date as well as the LTV/CLTV and 
+Subordinate Financing sections in Flagstar’s FHA Underwriting Guidelines. All programs will be reviewed 
+according to the appropriate FHA guidelines. Non-profit entities must be approved by HUD to provide down 
+payment assistance. All closing documents for the second lien program should be submitted to Flagstar 
+with first mortgage closing package. 
+ 
+VA 
+VA provides blanket approval for down payment assistance programs offered by government entities; 
+however, programs must still appear on the appropriate Flagstar list (Community Seconds or Gift/Grant) 
+and Flagstar reserves the right not to accept any program that does not meet our standards. For DPA 
+programs offered by non-profit entities, lenders cannot themselves determine whether a DPA program is 
+acceptable. All such programs must be submitted to the VA for review. Flagstar will not submit programs to 
+the VA. The non-profit entity must work with the VA directly and provide the VA approval documentation 
+with the program review package. All closing documents for the second lien program should be submitted 
+to Flagstar with the first mortgage closing package. 
+ 
+RURAL DEVELOPMENT (RD) 
+While not true in every case, generally programs deemed acceptable by Flagstar for use with Fannie Mae 
+loan programs will be acceptable for use with Rural Development loan programs as well. All closing 
+V. Product Guidelines  3 of 7  Document #5936 
+Return to Top            01/22/2019 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Guidelines for Down Payment Assistance Programs
+ 
+documents for the second lien program should be submitted to Flagstar with first mortgage closing 
+package. 
+ 
+REGISTRATION AND UNDERWRITING GUIDELINES 
+Eligible programs are entered in Loantrac as Affordable/Community Seconds. 
+   
+ 
+The Affordable Community Seconds Repayment Type is then chosen based on whether the payments are 
+forgiven or not.   
+ 
+ Payments must be deferred for a minimum of five years (conventional) or three years (FHA) or the payment 
+must be included in the DTI. The approval letter from the DPA provider must be provided to the Underwriter 
+outlining the exact dollar amount and the repayment terms of the Community Second.  Underwriting must 
+include an “at close” condition for the secondary lien.  If more than one Community Second is to be used on an 
+individual loan, each subordinate lien must be conditioned separately with the name of the lien holder and the 
+dollar amount of the Community Second lien. (Conditions should be the same for a Community Second lien as 
+it would be for any subordinate financing). 
+ 
+REFINANCE TRANSACTIONS 
+If a DPA program is being re-subordinated we require only the following information be submitted to 
+Product.Development@Flagstar.com for review: 
+•  The loan number of the refinance loan 
+•  A copy of the original DPA note, and 
+•  The subordination agreement for the DPA lien 
+ 
+PROGRAM REVIEW 
+To have a program reviewed for eligibility, please submit the documentation indicated on the Down Payment 
+Assistance Submission Checklist, Doc. #3284 for review to Product Development via Fax: 888-633-4101 or via 
+email to Product.Development@Flagstar.com. 
+   
+V. Product Guidelines  4 of 7  Document #5936 
+Return to Top            01/22/2019 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Guidelines for Down Payment Assistance Programs
+ 
+Glossary of Terms 
+501(C)3  Letter from IRS showing organization's status as a nonprofit agency 
+ADDI  American Dream Down-payment Initiative 
+Approved secondary financing loans that can come from any duly authorized authority or 
+Affordable Second –  agency of the federal, State, local or municipal government, a nonprofit community or 
+Freddie Mac  religious  organization, the borrower's employer, or a regional Federal Home  Loan Bank 
+under one of its affordable housing programs 
+AHP  Affordable Housing Program 
+AHOP  Affordable Housing Opportunity Program or Affordable Homeownership Program 
+Household income is a measure of current private income commonly used by the United 
+States government and private institutions. To measure the income of a household, the pre-
+tax money receipts of all residents over the age of 18 over a single year  are combined. Most 
+of these receipts are in the form of wages and salaries, but many other forms of income, 
+such as unemployment  insurance, disability, child support, etc., are included as well. The 
+AMI  residents of the household do not have to be related to the householder for their earnings to 
+be considered part of the household's income. As households tend to share a common 
+economic fate, the use of household income remains among the most far and widely 
+accepted measures of income. However, the size of a household, which is commonly not 
+considered, creates significant distortions which offset gains or decreases in household 
+income and makes direct comparisons between quintiles impossible 
+Below Market Rate.  Program in which city reaches an agreement with a developer to sell  a 
+BMR  certain number of new developed properties to income eligible borrowers for a reduced 
+(Below Market) price 
+A bond program sells bonds and uses the funds to provide first and sometimes second 
+Bond Program  mortgages to eligible borrowers. Lender  participation is required.  These are specific to state, 
+county and local government programs 
+California Housing & Finance Agency (or Authority) Disburses funds to a number of 
+CalHFA  government and nonprofit agencies for DPA. Each program participant develops their own 
+guidelines for their  agency; therefore each program must be reviewed individually. 
+CASA  Community Activity-Set Aside Program 
+Community Assisted Shared Appreciation.  Loan that requires shared appreciation payback 
+CASA Home LoanTM 
+when home is no longer primary residence 
+CDBG  Community Development Block Grant 
+Community Development Corporation.  Community Development Corporation (CDC) is a 
+CDC  broad term referring  to not-for-profit organizations incorporated to provide programs, offer 
+services and engage in other activities that promote and support a  community 
+CDD  Community Development Department 
+CHDO  Community Housing Development Organizations 
+CHIP  Community Housing Improvement Program 
+Community Seconds allows a borrower to obtain a second lien mortgage that typically is 
+Community Second – 
+funded by a federal, state, or local government agency, an employer, or a nonprofit 
+Fannie Mae 
+organization and  may be forgiven 
+DAP  Down-payment Assistance Program 
+Based on the program the property may file a deed restriction in lieu of the note/mortgage. 
+Deed Restriction  Deed Restrictions in the context of a community second generally restrict use of property 
+(must be primary residence) and resale price 
+In a Community Second or retention agreement default is meant that the borrower does not 
+meet their guidelines by either - not living in the home as their primary residence, as well as 
+Default 
+failure to pay the first mortgage, taxes etc. This can trigger the default clause in the note and 
+required payments to be required 
+V. Product Guidelines  5 of 7  Document #5936 
+Return to Top            01/22/2019 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Guidelines for Down Payment Assistance Programs
+ 
+Glossary of Terms 
+Based on the program, payments are deferred for a certain period of time based on the 
+Deferred Payments  program guidelines. Payments can be deferred  for the entire term of the loan as long as the 
+borrower does not default on the loan 
+DOT  Deed of Trust aka Mortgage 
+Down-payment Assistance.  These may be in the form of an Affordable/Community Second 
+DPA 
+or a Gift/Grant 
+EAH  Employer Assisted Housing 
+Employer Identification Number, all companies have an EIN, it is  found on their W-9 if they 
+EIN 
+are a business or government agency, or 501(c)3 letter if they are a nonprofit agency 
+Fannie Mae Checklist 
+for Community  Checklist of items to determine eligibility for Community Second Programs for FNMA 
+Seconds 
+FEIN  Federal Employer Identification Number 
+FHLB  Federal Home Loan Bank - considered a government agency by  HUD 
+FLHOP  Florida Housing Opportunities Program 
+First Time Home Buyer.  As per HUD guidelines, has not owned a home in the past 3 years, 
+FTHB 
+or qualifies as a displaced homemaker 
+The length of time a borrower must remain in the property as their primary residence in order 
+Forgivability period  for the loan to be forgiven.  No payments (unless otherwise noted) must be made during this 
+period 
+Difference between what borrower can afford to put down and the amount required by the 
+GAP 
+lender, or a predetermined LTV by the DPA provider 
+Gift  A Gift or Grant program will require no mortgage lien or deferred  payments 
+Government Agency  Any State, County, City, municipal, Federal Home Loan Bank, or Indian Tribes 
+Grant  A Gift or Grant program will require no mortgage lien or deferred  payments 
+HAP  Homeowners Advantage Program or Homeowner Assistance Program 
+HIP  Homeownership Incentive Program 
+The HOME Investment Partnerships Program (HOME) is a type of United States Federal 
+assistance provided by the U.S. Department of Housing and Urban Development (HUD) to 
+States in order to provide decent and affordable housing, particularly housing for low- and 
+very low-income Americans. It is the largest Federal block grant to States and local 
+HOME  governments designed exclusively to create affordable housing for low-income families, 
+providing over US $2 billion each year. The program is commonly referred to as the Home 
+Investment or Home Partnership Program, and is often operating in conjunction with other 
+housing and other urban development programs, such as the CDBG program. Its federal 
+identification number, or CFDA number, is 14.239. 
+Freddie Mac REO division. There is no loan product (such as FNMA HomePath) for their 
+Home Steps 
+REO's. Check their website for current seller concessions 
+HOP  Homeowners Opportunity Program 
+HOPE (for  Homeownership Preservation Subsidy Program.   Not a DPA program, this is a workout 
+Homeowners)  program for delinquent mortgagees 
+HPS  Homeownership Preservation Subsidy Program 
+HUD  Any financing (other than the FHA-insured first mortgage) that creates a lien against the 
+description of "soft or  property is considered secondary financing and not a gift, even if it is a '''soft''' or '''silent''' 
+silent second"  second (which has no repayment provision) or has other features forgiving the debt 
+Nonprofit agencies approved for community seconds by HUD, divided into four regions. For 
+HUD Nonprofit Agency 
+FHA loans, non-profit agencies that  provide secondary financing must be approved by the 
+Roster 
+appropriate regional loan center." 
+V. Product Guidelines  6 of 7  Document #5936 
+Return to Top            01/22/2019 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Guidelines for Down Payment Assistance Programs
+ 
+Glossary of Terms 
+An Individual Development Account (IDA) is a matched savings  account that enables low-
+income families to save, build assets, and enter the financial mainstream. IDAs supplement 
+the savings of 
+IDA 
+Low income households with matching funds drawn from a variety of private and public 
+sources. The borrower's funds are listed as assets, and the matching funds are true gift 
+funds. There can be no cash back to borrower when using these funds 
+Indian Tribe  Indian tribes are considered an instrumentality of government as a sovereign nation 
+In order to be considered an instrumentality of government the nonprofit must be an entity 
+Instrumentality of 
+"established by a governmental body or  with governmental approval or under special law to 
+Government 
+serve a particular public purpose or designated by law (statue of court  opinion.) 
+Any lender participation required by the program would require the  broker/correspondents 
+Lender Participation 
+approval for participation 
+MALP  Mortgage Assistance Loan Program 
+MAP  Mortgage Assistance Program 
+Mortgage Credit Certificate - these are not gift/grants/or Community  Seconds.   Refer to the 
+MCC 
+Conventional Underwriting Guidelines for details 
+NHS  Neighborhood Housing Services 
+A non-profit organization (abbreviated NPO, also not-for-profit)  is an organization that does 
+not distribute its surplus funds to  owners or shareholders, but instead uses them to help 
+Non-profit Agency 
+pursue its  goals. Examples of NPOs include charities (i.e. charitable  organizations). For 
+Flagstar purposes an IRS designated 501(c)3  letter is required 
+Neighborhood Stabilization Program. This is part of the stimulus  program that provides funds 
+NSP  to government agencies and nonprofits  to help reduce the number of foreclosed properties. 
+Funds can only be used for the purpose of buying and/or renovating a foreclosed  property 
+PIN  Police In Neighborhood 
+Red Text  This simply designates new programs added for tracking purposes 
+Filed in lieu of a note and Deed of Trust/Mortgage to assure borrower remains in property as 
+principle residence for a specified period of time. It is still considered a lien on the property 
+Retention Agreement 
+and loans  with a retention agreement filed are still considered a Community Second and not 
+a gift/grant 
+Not allowed. Seller - or any party who benefits monetarily from the transaction - reimburses 
+Seller Funded DPA 
+the "gifting" agency the funds 
+In lieu of interest paid on the loan when second lien is paid off an  “equity share” is paid to the 
+lien holder. An Agency may not charge interest and still get shared appreciation.   This may 
+Shared Appreciation/ 
+not exceed the percentage of assistance toward the  purchase price originally given. (If 10% 
+Shared Equity 
+of purchase price was given as DPA then no more than 10% of shared equity, plus the 
+original loan amount may be required to be paid when loan is due.) 
+SHIP  State Housing Initiatives Program 
+FHA refers to silent seconds as seconds with no repayment provision or a second having 
+other forgivable features. The term “silent second” is used most frequently to describe self-
+Silent Second  serving or perhaps fraudulent schemes where house sellers accept second mortgages as 
+part of a sale transaction, without the full knowledge  of the first mortgage lender. The 
+“silence” refers to the absence of full disclosure to the first mortgage lender. 
+Same as Affordable/Community Second, the term is typically used in the Eastern United 
+Soft Second 
+States 
+WISH  Workforce Initiative Subsidy for Homeownership 
+ 
+ 
+ 
+V. Product Guidelines  7 of 7  Document #5936 
+Return to Top            01/22/2019 
+
+NEW PAGE

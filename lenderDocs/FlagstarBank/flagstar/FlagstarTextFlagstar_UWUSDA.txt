@@ -1,0 +1,303 @@
+USDA Underwriting Guidelines 
+ 
+USDA UNDERWRITING GUIDELINES 
+•  HB-1-3555 Single Family Housing Guaranteed Loan Program Technical Handbook – Do not use 
+consolidated version, as it has not been updated since March 2016 
+•  Single Family Housing Quick Reference provides an index to the Handbook location of frequently 
+requested information 
+•  Subscribe to receive USDA updates 
+•  Procedures Notices 
+ 
+OVERLAYS 
+AUTOMATED UNDERWRITING SYSTEM 
+For Flagstar underwritten loans, due to system constraints, unless Flagstar has sponsored a lender, 
+Flagstar must run GUS findings. 
+ 
+CLOSING 
+•  Borrowers may not close in trust 
+•  Note must reflect a late fee of 5% 
+ 
+CREDIT REPORTS 
+For Flagstar underwritten loans where the customer has not been sponsored by Flagstar to run GUS, 
+Credco credit report required for purchase and rate and term refinance transactions. Credit reports for 
+Streamlined Assist loans need not be from Credco. For additional information, see Processes and 
+Procedures section. 
+ 
+CREDIT SCORES 
+Minimum Credit Score: 
+•  Purchase 1-Unit:  580 
+•  Refinance 1-Unit: 580 
+•  Streamline-Assist 1 Unit: 580 
+ 
+ENERGY EFFICIENT ITEMS AND REPAIRS 
+Repairs, including energy efficient improvements may not be financed into the loan amount. 
+  VI. Underwriting Guidelines  2 of 7  11/22/2022
+Return to Top 
+ 
+
+NEW PAGE
+
+ 
+   USDA Underwriting Guidelines 
+ 
+ESCROW HOLDBACKS 
+•  Allowed only a case by cases basis only for exterior property repairs that cannot be completed due 
+to inclement weather 
+•  Closing documents must be prepared through Flagstar’s Web-Based Closing Documents (WBCD) 
+and all repair escrows for Flagstar-underwritten loans are held by Flagstar 
+•  Two bids required 
+ 
+POWER OF ATTORNEY 
+•  Powers of Attorney may not be e-signed 
+ 
+PROPERTY ELIGIBILITY 
+INELIGIBLE 
+•  Properties located in American Samoa, Guam, The Commonwealth of the Northern Mariana 
+Islands and Puerto Rico 
+•  Manufactured homes 
+•  Properties located in Hawaiian Homelands. 
+ 
+PROCESSES AND PROCEDURES 
+4506-C 
+•  If the 4506-C transcripts do not match the borrower’s income and the borrower is a victim of 
+taxpayer  identification theft, the following conditions must be met in order to validate the borrower’s 
+income: 
+Proof of identification theft as evidenced by one of the following:  
+o 
+  Proof ID theft was reported to and received by the IRS (IRS form 14039) OR 
+  Copy of notification from the IRS alerting the taxpayer to possible identification theft 
+  In addition to one of the documents above, all applicable documents below must be 
+o
+provided: 
+  W2 or 1099 transcripts which match the W2 or 1099 income shown on the 1040s 
+  1099 mortgage interest must match the reported interest on Schedule A or Schedule 
+E 
+  1099G unemployment must match the reported amount of unemployment 
+  1099 dividend and interest income must match the reported dividend and interest 
+  Validation of prior tax year’s income (income for current year must be in line with 
+prior years) 
+ 
+APPRAISAL 
+PORTABILITY 
+•  To transfer a Flagstar appraisal to another lender, refer to the Transfer Appraisal From Flagstar 
+to another lender section of Conventional Underwriting Guidelines 
+•  Appraisals already performed for a case number that was subsequently transferred to Flagstar 
+must be emailed in .pdf format to appraisal.review@flagstar.com by one of the following: 
+The original lender to whom the loan was initially submitted or  
+o 
+The appraisal management company providing the appraisal or 
+o 
+The appraiser 
+o 
+ 
+  VI. Underwriting Guidelines  3 of 7  11/22/2022
+Return to Top 
+ 
+
+NEW PAGE
+
+ 
+   USDA Underwriting Guidelines 
+PROPERTY ADDRESSES 
+The property addresses on the appraisal, mortgage, note, flood certification and in Loantrac must be 
+identical.  However, abbreviation of “Street,” “Road,” etc. is acceptable, even if “Street” or “Road” is fully 
+spelled in another document. This is the only acceptable variance. 
+•  Use the standardized USPS address unless the address in the legal description on the title 
+commitment differs. If the legal address differs, use the legal address 
+•  Appraisers are required to state the USPS address as the property address on the first line of 
+the appraisal.  If the legal address differs from the USPS address, the appraiser must reference 
+the legal address in a comment on the appraisal or an addendum to the appraisal 
+ 
+CLOSING REQUIREMENTS 
+•  Interest credit allowed - Loan must close by the 7th calendar day of the month preceding the first 
+payment date 
+•  All conditions must be collected and provided in the closing package 
+Down payment assistance funds are typically wired to the closing agent – Wire transfer 
+o 
+documentation must be included in the file prior to funding or purchase 
+•  Any changes to the terms of USDA’s commitment must be reviewed by underwriter and USDA prior 
+to closing and disbursing loan 
+•  Principal reductions are required when the total of lender and/or seller credits reflected on the 
+Closing Disclosure exceeds the total of the actual closing costs, pre-paid expenses and discount 
+points 
+•  Principal reductions are required when the borrower receives any cash back at a purchase 
+transaction closing 
+Documented funds paid by the borrower for EMD only may be refunded to the borrower at 
+o 
+closing 
+•  Closing documents must be signed and notarized on or before the closing date indicated on the 
+closing documents, regardless of the state in which the property is located and/or whether it’s an 
+escrow state 
+ 
+ESCROW STATES 
+•  Arizona  •  Hawaii  •  Nevada  •  Utah 
+•  California  •  Idaho  •  New Mexico  •  Washington 
+•  Colorado  •  Montana  •  Oregon  •  Wyoming 
+ 
+NOTARY POLICY 
+Refer to the Notary Policy stated in Settlement/Closing Requirements, Doc. #4601 
+ 
+CONFLICT OF INTEREST 
+Transactions in which the realtor and the originator are the same individual are ineligible. 
+ 
+CREDIT REPORTS 
+For Flagstar underwritten loans where the customer has not been sponsored by Flagstar to run GUS, if the 
+credit report provided at loan submission is not a Credco credit report, the underwriter will order one. The 
+information, including credit scores, on the Credco credit report will be used to underwrite the loan. 
+ 
+DE CUSTOMERS ONLY 
+•  Credit report must contain Office of Foreign Assets Control (OFAC) screening 
+  VI. Underwriting Guidelines  4 of 7  11/22/2022
+Return to Top 
+ 
+
+NEW PAGE
+
+ 
+   USDA Underwriting Guidelines 
+•  If credit report indicates a potential OFAC match, the credit report must be e-mailed to 
+delegated.underwriting@flagstar.com for review by Flagstar Bank’s Secrecy Act Compliance 
+Department – The loan may not close without clearance from Flagstar’s BSA Department 
+(violation of this policy is a federal crime) 
+ 
+DOWN PAYMENT 
+All community second and grant programs must be Flagstar-eligible - Refer to Gift/Grant Programs, 
+Doc. #5935 or Community Seconds Programs, Doc. #5932. 
+ 
+ELECTRONIC SIGNATURES 
+•  Electronic signatures are permitted for all USDA loan documents except the following: 
+  Powers of Attorney 
+o
+  Note and Mortgage 
+o
+ 
+ESCROWS 
+•  Escrow waivers not allowed 
+•  Escrows are required for all of the following: 
+  Real estate taxes 
+o
+  Monthly mortgage insurance premiums 
+o
+  Hazard insurance premiums, including flood insurance, wind insurance, etc. 
+o
+  Special assessments 
+o
+  Ground rents 
+o
+•  Generally, property tax escrows for all new construction properties must be calculated based on the 
+fully assessed property value. Obtain actual tax amounts from the local tax assessor’s office. If the 
+new construction property taxes charged by the municipality will not be based on the fully improved 
+   property within 12 months of closing, escrows may be based on one of the following. Regardless of 
+assessment dates, ratios and reserves must be calculated based on the fully assessed property 
+value: 
+  Lot only; or 
+o
+  A partial assessment; or 
+o
+  Actual or estimated amount based on fully assessed value 
+o
+•  The Closing Department will require the borrower(s) to confirm that once the property is fully 
+assessed, they are aware of the potential escrow shortage 
+•  For purchases of new and existing properties in California only, property taxes may be calculated 
+using 1.25% of the purchase price or the actual tax rate 
+ 
+ESCROW HOLDBACKS 
+•  Allowed on a case by cases basis only for exterior property repairs that cannot be completed due to 
+inclement weather 
+•  Fully executed Escrow Holdback Agreement, Doc. #3655 required in closing package 
+ 
+INSURANCE 
+HAZARD INSURANCE 
+Hazard Insurance Requirements, Doc. #4602 
+ 
+FLOOD INSURANCE 
+  VI. Underwriting Guidelines  5 of 7  11/22/2022
+Return to Top 
+ 
+
+NEW PAGE
+
+ 
+   USDA Underwriting Guidelines 
+•  Flood Insurance - Broker & Non Delegated Correspondent, Doc. #4603 or Flood Insurance - 
+Delegated Correspondent, Doc. #4603-A. 
+•  Eligible Flood Provider Companies- FEMA Flood Insurance Company List 
+•  Private flood insurance meeting the requirements of the Biggert-Waters Flood Insurance Reform 
+Act of 2012, however, all improvements, including detached structures must be insured. 
+•  Flood insurance must cover the lesser of the outstanding principal balance of the loan or the 
+maximum amount of coverage allowed under FEMA’s National Flood Insurance Program 
+(NFIP).  Unless a higher amount is allowed by state or federal law (which includes FEMA 
+policies), the maximum deductible clause for a flood insurance policy should not exceed the 
+greater of $1,000, or one percent of the face amount of the policy, or the minimum deductible 
+offered by the borrowers chosen insurance carrier. 
+ 
+LOAN TERM 
+30 year fixed rate mortgage 
+ 
+NET TANGIBLE BENEFIT 
+A net tangible benefit form must be completed when required by the state. 
+ 
+POWER OF ATTORNEY 
+•  All signatures on the power of attorney must be notarized, and the power of attorney must be 
+reviewed by a Flagstar underwriter. All signatures must match the signatures in the file 
+•  Unless the POA is a military Durable POA, the POA must be specific to Flagstar Bank’s loan and 
+indicate the property address 
+•  POA is not allowed for single borrower transactions unless Flagstar Bank has borrower experience 
+and the underwriter can compare signatures from previous transaction(s) 
+ 
+REFINANCE TRANSACTIONS 
+Pooling Restrictions for Streamlined Refinance and Cash-Out Refinance Loans: 
+•  Must meet the following seasoning requirements when the being paid off is a government loan 
+(FHA, VA or USDA); and 
+•  The borrower must of made at least six consecutive monthly payments on the loan being 
+refinanced, beginning with the date the payment was made for the first payment due date; and 
+•  The first payment due date of the refinance loan occurs no earlier than 210 days after the first 
+payment due date of the initial loan. 
+ 
+TITLE 
+Effective date of title commitment must be no older than 90 days as of initial underwrite and within 120 
+days of the note. 
+ 
+ENERGY LOAN TAX ASSESSMENT PROGRAM (ELTAP) LIENS 
+Not permitted 
+ 
+UNEXPIRED RIGHTS OF REDEMPTION – ALL STATES EXCEPT ALABAMA 
+•  Unless the property is located in the State of Alabama, Flagstar will not approve and/or purchase 
+any loan having an unexpired right of redemption unless the purchase agreement, title           
+and appraisal all show the same seller who is the original mortgagor 
+  Title may show lis pendens notices from the bank or mortgagee 
+o
+•  Purchase contract may indicate a short sale 
+  VI. Underwriting Guidelines  6 of 7  11/22/2022
+Return to Top 
+ 
+
+NEW PAGE
+
+ 
+   USDA Underwriting Guidelines 
+•  Unexpired Rights of Redemption – Alabama Only 
+  Purchase agreement, title and appraisal will be in the name of the lender and not the 
+o
+original mortgagor. 
+  Title commitment will show one or both of the following acceptable recorded deeds: 
+o
+  Foreclosure from John Doe (original mortgagor) to Anybank (foreclosing lender) 
+followed by the date on the deed and the recording date 
+  When the foreclosing lender deeds the property to HUD, Fannie Mae, Freddie 
+Mac, VA or GNMA, there will be a special warranty deed from Anybank 
+(foreclosing lender) to one of the GSEs listed above followed by the date on the 
+deed and the recording date 
+  If the above referenced deeds are dated within the most recent 12 months, the title 
+o
+commitment must contain a specific exception for the unexpired right of redemption and 
+affirmatively insure, without qualification, the mortgagee (Flagstar Bank) against all 
+losses arising out of the exercise of any outstanding right of redemption 
+ 
+UNDERWRITING TURN TIMES 
+Current underwriting turn times are posted on Flagstar’s website. 
+  VI. Underwriting Guidelines  7 of 7  11/22/2022
+Return to Top 
+ 
+
+NEW PAGE

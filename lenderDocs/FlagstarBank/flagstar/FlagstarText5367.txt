@@ -1,0 +1,332 @@
+Fannie Mae RefiNow 
+ 
+PRIMARY RESIDENCE – RATE/TERM REFINANCE   
+Maximum  Minimum  Underwriting Engine & 
+Property Type 1  Maximum CLTV/HCLTV 
+LTV  Credit Score  Required Response 
+1-unit 
+Refer to Subordinate 
+Condo  97%  DU – Approve/Eligible 
+Financing section below 
+PUD 
+NA 
+Manufactured Home  Refer to Subordinate 
+95%  DU – Approve/Eligible 
+(double-wide)   Financing section below 
+1.  Texas properties – any loan that must be classified as Section 50(a)(6) is not eligible for RefiNow. 
+ 
+PROGRAM SUMMARY 
+Fixed rate, fully amortizing, conventional conforming first lien mortgage loan program used to refinance one-
+unit primary residences for borrowers whose income is at or below 100% of the area median income (AMI). 
+Additional requirements of the existing loan being refinanced include: 
+•  Must be a conventional mortgage loan owned or securitized by Fannie Mae. 
+•  Must be seasoned at least 12 months (from the original note date to new loan note date). 
+•  Must not be subject to recourse, repurchase agreement, indemnification, outstanding repurchase 
+demand, or credit enhancement (unless the new loan is also subject to the credit enhancement or it is 
+no longer required). 
+•  Must not be an existing high LTV refinance loan, DU Refi Plus® loan, or Refi Plus® loan. 
+A look up tool is available at knowyouroptions.com to determine whether the borrower’s existing loan is owned 
+by Fannie Mae. Refer to Fannie Mae Lender Letter LL-2021-10 and the Desktop Underwriter/Desktop 
+Originator Release Notes DU Version 11.0 June Update for further program details. 
+BORROWER BENEFIT 
+The refinanced loan must provide both of the following benefits to the borrower: 
+•  A reduction in interest rate of at least 50 basis points, and 
+•  A reduction in the monthly payment that includes principal, interest, and the mortgage insurance 
+payment (if applicable). 
+PRODUCTS OFFERED 
+Loantrac Product Name  Term 
+Fannie Mae RefiNow 30-Year Fixed  30 years 
+Fannie Mae RefiNow 25-Year Fixed   25 years 
+Fannie Mae RefiNow 20-Year Fixed   20 years 
+Fannie Mae RefiNow 15-Year Fixed  15 years 
+Fannie Mae RefiNow 10-Year Fixed  10 years 
+ 
+LOAN REGISTRATION 
+When registering a loan with > 95% LTV, the user will be directed to the Additional Loan Purpose Info section of 
+the online 1003 in Loantrac, where the current First Mortgage Holder must be selected in the drop-down box. 
+V. Product Guidelines  1 of 7  Document #5367 
+Return to Top    04/22/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae RefiNow 
+LOAN AMOUNTS 
+MAXIMUM  
+Maximum standard conforming loan limits for 1-unit property (high-cost area limits except for standard AK, 
+HI, and USVI limits, are not eligible under this program). 
+ELIGIBLE BORROWERS 
+•  Borrowers whose income is at or below 100% of the area median income (AMI) 
+The loan must have identical borrowers on the new loan as the existing loan. New borrowers cannot be added. 
+One or more borrowers may only be removed if: 
+•  The remaining borrower(s) meet the payment history requirements and provides evidence that they 
+have made at least the last 12 months of payments from their own funds, or 
+•  Due to death of a borrower (evidence of deceased borrower’s death must be documented in loan file). 
+ 
+In all cases, at least one borrower from the mortgage being refinanced must be retained. 
+ 
+Non-occupant borrowers are permitted if they were also a borrower on the existing loan, and: 
+•  A maximum LTV, CLTV, and HCLTV ratio of 95% applies (CLTV ratio may be up to 105% when a 
+Community Seconds® is being resubordinated). 
+ELIGIBLE PROPERTY TYPES 
+•  1-unit properties 
+•  Condominiums 
+•  Planned unit developments (PUDs) 
+•  Modular homes 
+•  Manufactured homes, double-wide only 
+ 
+NOTE FOR CONDOS AND PUDS 
+All project review requirements will be waived for properties located in a condo or PUD project except that 
+the lender must confirm the project is not a condo hotel or motel, houseboat, timeshare or segmented 
+ownership project. 
+The lender must confirm appropriate property and flood insurance is obtained. Condos: Master hazard 
+insurance and HO-6 (if required) will be reviewed by Project Review team. 
+Search for and select “Fannie Mae RefiNow” from the project list in Loantrac, and enter the actual name of 
+the project in the Condo Name field. Condo Status will default to Established, and it can be left as-is. Leave 
+the remaining fields blank. 
+INELIGIBLE PROPERTY TYPES 
+•  Condominiums part of a condo hotel or motel, houseboat, timeshare or segmented ownership project 
+•  Cooperative properties (Flagstar overlay) 
+MINIMUM CREDIT SCORES 
+Follow DU response to determine loan eligibility. 
+ 
+V. Product Guidelines  2 of 7  Document #5367 
+Return to Top    04/22/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae RefiNow 
+FEES / CLOSING COSTS 
+There are no limitations on fees or closing costs outside of Flagstar and regulatory standards.  
+ 
+A $500 credit must be applied to all loans that obtain an appraisal. This credit is not required to be disclosed on 
+the Loan Estimate, but it must be entered as a negative number in the Payoffs and Payments section of the 
+Closing Disclosure and labeled as “RefiNow Appraisal Credit.” Loans that are approved by the underwriter with 
+a Property Inspection Waiver (PIW) on the findings of the last DU submission will not receive the credit 
+because there will be no appraisal fee charged. 
+ 
+QUALIFYING RATE 
+Note rate 
+ 
+QUALIFYING RATIOS 
+Debt-to-income (DTI) ratios are limited to a maximum of 65%. Refer to mortgage insurance companies for 
+additional restrictions. 
+RESERVES 
+Determined by DU 
+ 
+SUBORDINATE FINANCING 
+•  New subordinate financing is only permitted if it replaces existing subordinate financing. 
+•  Existing subordinate financing: 
+  May not be paid off with the proceeds of the new loan, and 
+o
+  Can remain in place if it is resubordinated to the new loan: 
+o
+  Standard subordinate financing up to 97% CLTV (95% CLTV for manufactured homes) 
+  Community Seconds subordinate financing up to 105% CTLV (95% for manuf. homes). 
+  May be simultaneously refinanced with the existing first lien mortgage, provided that: 
+o
+  The unpaid principal balance (UPB) of the new subordinate lien is not more than the 
+UPB of the subordinate lien being refinanced at the time of payoff, and 
+  There is no increase in the monthly principal and interest payment on the subordinate lien. 
+Refer to the Subordinate Financing section of the Conventional Underwriting Guidelines for details. 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible 
+UNDERWRITING 
+•  Refer to Fannie Mae Lender Letter LL-2021-10, Introduction of the RefiNow Option. 
+•  All loans must be submitted to Desktop Underwriter (DU) and receive an Approve/Eligible response.  
+•  Manual underwriting is not allowed (Flagstar overlay). 
+•  DU will automate the identification of loan casefiles that appear to be eligible for RefiNow based on the 
+borrowers listed on the loan application, the property address, qualifying income, and several other 
+factors. Refer to the Desktop Underwriter/Desktop Originator Release Notes DU Version 11.0 June 
+Update for additional information. 
+V. Product Guidelines  3 of 7  Document #5367 
+Return to Top    04/22/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae RefiNow 
+BORROWER INCOME LIMIT 
+•  Borrowers whose income is at or below 100% of the area median income (AMI) 
+•  In determining whether a loan is eligible under the borrower income limits, the lender must consider the 
+income from all borrowers who will sign the note, to the extent that the income is considered in 
+evaluating creditworthiness for the new loan. 
+•  The lender must use the same methodology in determining income eligibility for a RefiNow loan as they 
+use in reporting “Monthly Income” in Loan Delivery. 
+ 
+DOCUMENTATION REQUIREMENTS 
+The temporary credit and underwriting requirements and guidance related to COVID-19 also apply to 
+RefiNow mortgages (e.g., P&L and bank statement for self-employed borrowers). Refer to Temporary 
+COVID Guidelines for complete details. 
+Income Type  Minimum Documentation Requirements 
+The borrower’s most recent year-to-date paystub dated 
+no earlier than 30 days prior to the loan application; see 
+Base Pay (non-variable) 
+Employment Documentation requirements in the 
+Conventional Underwriting Guidelines 
+Base Pay (variable) including but not limited to:  The borrower’s most recent year-to-date paystub and 
+Fluctuating Hours, Tip, Bonus, Overtime Income,  W2 covering the most recent one-year period 
+Commission Income 
+Military Income  Military Leave and Earnings Statement 
+One year personal and business returns, unless the 
+terms to waive business tax returns are met: 
+•  closing costs are all personal funds (e.g. 
+Self-Employment 
+business funds are not eligible), and 
+•  borrower has been self-employed in the same 
+business for at least 5 years 
+Copy of divorce decree, separation agreement, court 
+Alimony, Child Support or Separate Maintenance  order or equivalent documentation, and one-month 
+documentation of receipt 
+Non-Employment Related Assets as Qualifying Income  Not eligible for use as qualifying income with RefiNow 
+All Other Eligible Income Types  Standard guideline requirements 
+ 
+The following additional documentation requirements apply: 
+•  Verbal verification of employment (employed or self-employment) is required as noted in the 
+Conventional Underwriting and Temporary COVID Guidelines. 
+•  Verification of funds to close are required. Acceptable asset documentation includes one recent 
+statement (monthly, quarterly, or annual) showing asset balance. 
+•  Verification and consideration of recurring alimony and child support payments as a liability, if 
+applicable, are required. Acceptable documentation includes a copy of the divorce decree, separation 
+agreement, court order, or equivalent documentation confirming the amount of the obligation. 
+PAYMENT HISTORY REQUIREMENTS 
+Financed properties, including the subject property, must adhere to the mortgage history requirements per 
+the Temporary COVID Guidelines, including validation all mortgages are current up to the Note date.  
+V. Product Guidelines  4 of 7  Document #5367 
+Return to Top    04/22/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae RefiNow 
+Missed payments resulting from a COVID-related forbearance must meet the eligibility requirements (e.g. 
+reinstatement or approved servicer resolution) prior to consummation. 
+The credit report can be relied on for determination of the payment history up to the date last reported on 
+credit. Additional due diligence is required to review the payment history between the date last reported 
+and the Note date in order to meet the eligibility requirements below. 
+For the loan being refinanced, the loan must not have been: 
+•  30 days delinquent in the most recent six-months. 
+•  30 days delinquent more than once in the most recent 12 months. 
+•  60 or more days delinquent in the most recent 12 months. 
+ 
+See the Eligible Borrowers section for additional requirements when one or more borrowers on the existing 
+loan are being removed. 
+SPECIAL FEATURE CODE 
+All RefiNow loans require Special Feature Code 868. 
+SIGNIFICANT DEROGATORY CREDIT 
+•  The borrower must comply with all applicable waiting periods following derogatory credit; refer to 
+Significant Derogatory Credit Events in the Conventional Underwriting Guidelines (Exception: The LTV 
+ratio limitation that applies to a previous foreclosure is not applicable – standard LTV ratios are 
+permitted.) 
+UNDERWRITER REFINOW WORKSHEET 
+•  The underwriter must use the Fannie Mae RefiNow worksheet, Doc. #3296, to: 
+  Validate the maximum interest rate, 
+o
+  Validate the maximum principal, interest and mortgage insurance (if applicable) payment, AND 
+o
+  Validate that the borrower does not receive in excess of $250 in cash back at closing. 
+o
+As stated on the worksheet, the following items MUST be submitted for all RefiNow applications to aid in 
+verifying the calculations: 
+•  Loan File must contain documentation to support current interest rate, principal and interest 
+payment, and MI payment (e.g. Note, Mortgage Statement, etc.). 
+•  Loan commitment expiration date cannot exceed the end of the month proceeding the next payment 
+due date. 
+USE OF PROCEEDS 
+•  The new loan may only be used to pay off the existing first mortgage only. 
+•  Subordinate liens, even if used for the purchase of the property and otherwise eligible for pay off with a 
+rate/term refinance, may not be paid off with proceeds of a RefiNow loan. 
+TEXAS REFINANCE LOANS 
+All refinance loans in Texas will be evaluated against the criteria outlined in our Conventional Underwriting 
+Guidelines, Texas Refinances section to determine if the loan must be originated under the requirements of 
+Section 50(a)6 of the Texas Constitution. Loans that must be treated as Section 50(a)(6) are not eligible under 
+this program. 
+V. Product Guidelines  5 of 7  Document #5367 
+Return to Top    04/22/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae RefiNow 
+MORTGAGE INSURANCE 
+Mortgage insurance providers may have additional restrictions not listed within this document; check the 
+provider’s website for completed details. Prior to running an MI quote through the Mortgage Insurance screen 
+in Loantrac, users will be asked to complete a new field to identify the existing MI provider on the loan. 
+ 
+MI Company  How They are Handling RefiNow Applications 
+Arch 
+Will insure only RefiNow loans if they currently insure the 
+MGIC 
+borrower’s existing loan 
+Radian 
+Enact (f.k.a. Genworth)  Will insure any loan that meets RefiNow guidelines, regardless 
+National  of the current MI provider 
+ 
+STANDARD MORTGAGE INSURANCE GUIDELINES 
+All loans above 80% LTV require mortgage insurance coverage according to the following guidelines.  
+Manufactured Home 
+LTV  > 20-Year Term  <= 20-Year Term 
+All Loan Terms 
+95.01 - 97%  35%  35%  NA 
+90.01 - 95%  30%  25%  30% 
+85.01 - 90%  25%  12%  25% 
+80.01 - 85%  12%  6%  12% 
+ 
+Single financed and lender paid MI options are not eligible under this program (Flagstar overlay). 
+ 
+STATE ELIGIBILITY 
+States not listed are available without restrictions. 
+State  Restriction 
+Puerto Rico  Not eligible 
+Loans that must be classified as Section 
+Texas 
+50(a)(6) loans are not eligible 
+ 
+PREPAYMENT PENALTY 
+None 
+CLOSING DOCUMENTATION 
+Closing docs may be ordered through Flagstar’s Web Based Closing Docs (WBCD) service available in 
+Loantrac. 
+ 
+A $500 credit must be applied to all loans that obtain an appraisal. The credit must be entered as a negative 
+number in the Payoffs and Payments section of the Closing Disclosure and labeled as “RefiNow Appraisal 
+Credit.” Loans that are approved by the underwriter with a Property Inspection Waiver (PIW) on the findings of 
+the last DU submission will not receive the credit because there will be no appraisal fee charged. 
+ 
+Borrowers may not receive cash out at closing in excess of $250. Excess proceeds may be applied as a 
+curtailment on the new loan and must be clearly reflected on the Closing Disclosure. 
+ 
+V. Product Guidelines  6 of 7  Document #5367 
+Return to Top    04/22/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae RefiNow 
+ALL LOANS: 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series. 
+•  Fannie Mae/Freddie Mac multi-state Fixed Rate Note, 3200-series. 
+•  Standard title commitment with all applicable endorsements. 
+IF APPLICABLE: 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form #3140. 
+•  Fannie Mae/Freddie Mac multi-state PUD Rider, Form #3150. 
+ 
+ 
+V. Product Guidelines  7 of 7  Document #5367 
+Return to Top    04/22/2022 
+
+NEW PAGE

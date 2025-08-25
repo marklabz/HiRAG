@@ -21,7 +21,7 @@ MAX_QUERIES = 100
 TOTAL_TOKEN_COST = 0
 TOTAL_API_CALL_COST = 0
 
-with open('config.yaml', 'r') as file:
+with open('/workspaces/HiRAG/config.yaml', 'r') as file:
     config = yaml.safe_load(file)
 
 # Extract configurations
@@ -63,7 +63,7 @@ async def GLM_embedding(texts: list[str]) -> np.ndarray:
         api_key=GLM_API_KEY,
         base_url="https://open.bigmodel.cn/api/paas/v4/"
     ) 
-    embedding = client.embeddings.create(
+    embedding = await client.embeddings.create(
         input=texts,
         model=model_name,
     )

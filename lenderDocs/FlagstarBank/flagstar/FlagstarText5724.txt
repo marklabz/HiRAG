@@ -1,0 +1,377 @@
+Jumbo One-Close Construction Fixed Rate 
+RESTRICTED USE PROGRAM  
+Originators must complete Flagstar’s Construction Loan training course prior to originating any loans under this 
+program. Originators will not be able to register construction transactions without having completed the course. 
+PRIMARY RESIDENCE – CONSTRUCTION/CONSTRUCTION-PERM 
+Maximum  Maximum  Minimum  Maximum 
+Property Type 
+LTV  CLTV  Credit Score  Loan Amount 
+85%  760  $1,500,000 
+1-Unit  80%  Subordinate  680  $1,500,000 
+PUD  80%  Financing Not  700  $2,000,000 
+Site Condo  Allowed 
+80%  720  $2,500,000 
+75%  740  $3,000,000 
+ 
+SECOND HOME – CONSTRUCTION/CONSTRUCTION-PERM 
+Maximum  Maximum  Minimum  Maximum 
+Property Type 
+LTV   CLTV  Credit Score   Loan Amount 
+1-Unit  80%  Subordinate  680  $1,500,000 
+PUD  Financing Not 
+Site Condo  75%  Allowed  700  $2,000,000 
+ 
+PROGRAM SUMMARY 
+The Jumbo One-Close Construction Fixed Rate program provides both construction and permanent financing 
+for borrowers looking to build a new primary or second home. During construction, only payments of interest 
+due on the amount drawn to-date are required along with monthly escrows (unless the loan has an escrow 
+waiver). The note will be modified upon completion of improvements to a fully amortized principal and interest 
+payment. Soft costs (architectural, engineering and permit fees) may be financed.  Closing costs may only be 
+financed if the loan purpose type is considered a rate/term refinance as defined in the Loan Registration 
+section.  Full third-party builder contracts only. Teardowns and major renovations are eligible. All loans will be 
+table-funded and must close in the name of Flagstar Bank, N.A. 
+ 
+PRODUCTS OFFERED 
+Permanent  Construction/  Loan Term for 
+Product Name 
+Loan Term  Interest-Only Period  Registration 
+Jumbo One-Close Construction 30-Year Fixed 12 month  30 years  12 months  372 
+ 
+CONSTRUCTION TERM AND PROJECT SIZE 
+For Jumbo One-Close Construction Fixed Rate loans, the maximum construction term allowed is 12 months. 
+ 
+The construction term for the loan is determined by the following: 
+•  The builder contract will be reviewed to determine the construction term. 
+•  If completion terms are not indicated in the contract, an amendment may be provided confirming the 
+construction period. 
+•  If completion terms are not indicated in the contract and no amendment is added, then project size will 
+determine the construction period. 
+  The maximum project size eligible for a 12-month construction term is $1,500,000. Project size 
+o
+is defined as soft and hard costs to complete construction. Price of land is not included in 
+construction cost and therefore not in project size. 
+V. Product Descriptions  1 of 9  Document #5724 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+   Jumbo One-Close Construction Fixed Rate 
+TABLE-FUNDED STRUCTURE FOR ALL CONSTRUCTION LOANS 
+All construction loans close in the name of Flagstar Bank with the following requirements: 
+•  Flagstar issues initial and all required additional Loan Estimates 
+•  Flagstar underwrites all loans 
+•  Flagstar issues all Closing Disclosures and closing packages 
+•  Flagstar funds all loans 
+ 
+AMORTIZATION STRUCTURE 
+•  Interest only payment due on outstanding principal balance during construction 
+•  After construction, loan converts to permanent phase with fully amortized payment over 30 years 
+LOAN REGISTRATION 
+•  Purpose type – Two loan purpose types are available for use under specific circumstances based on 
+the borrower’s ownership status of the lot at the time of application: 
+  “Construction” purpose type when borrower is not the owner of record at time of loan application 
+o
+(purchase)  
+  “Construction Permanent” purpose type when borrower is the owner of record, regardless of 
+o
+length of time owned or how title was acquired (rate/term refinance) 
+•  Loan term selection per “Loan Term for Registration” in the Products Offered section above 
+•  Year Built field should be entered with the current year (not the year construction will be completed) 
+•  Select “Proposed” in the Building Status field 
+•  Prior to selecting a product the Construction Worksheet must be completed; the worksheet can be 
+accessed in the Additional Loan Information section of the Loantrac Loan Application screen 
+ 
+ADDITIONAL REGISTRATION STEPS FOR CONSTRUCTION TO PERMANENT (REFI) LOANS 
+Construction Permanent loans are treated as rate/term refinance transactions.  Complete the following 
+information in the Loantrac Loan Application screen to ensure the loan is properly registered: 
+•  Complete the Construction Worksheet found in the Additional Loan Information section 
+•  Real Estate section: 
+  Find or enter the subject property record: 
+o
+  For the Indicator field, select “SUBJECT OF LOAN”  
+  For the Disposition field, select “RETAINED-WILL BECOME PRIMARY OR 
+ADDITIONAL RESIDENCE”  
+  Enter the estimated as-completed value in the Present Market Value field.   
+  The Mortgage Lien Amount field will display only the value of the land; this will be 
+updated once the Liabilities section has been completed 
+•  Liabilities section: 
+  For the appropriate liability, enter the Builder’s Price to Build plus Unpaid Balance of Lot 
+o
+from the Construction Worksheet in the Balance field; the Mortgage Lien Amount field in the 
+Real Estate section will update accordingly 
+  Be sure “YES” is selected for the Paid By Close? slider 
+o
+•  Check Details of Transaction section to verify that the Refinance field reflects the cost of 
+construction + outstanding lot loan balance 
+V. Product Descriptions  2 of 9  Document #5724 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+   Jumbo One-Close Construction Fixed Rate 
+•  Click “Save Loan” to go to the Rates & Pricing screen to select the construction loan product 
+See EXHIBIT A for further detail. 
+ 
+LOAN AMOUNTS 
+MAXIMUM 
+Refer to eligibility grids above 
+ 
+MINIMUM  
+Conforming High Balance Plus $1 
+ 
+ELIGIBLE PROPERTY TYPES 
+•  1-unit site-built homes 
+•  Detached planned unit development (PUD) 
+•  Detached condominium (site condo); must be fee simple interest for land and dwelling 
+•  Modular homes 
+•  Tear-downs & major renovation 
+•  Properties where construction has already begun. 
+  Confirmation is required that Flagstar’s first lien position is insurable by the title insurance 
+o
+provider for all construction completed prior to the closing of the loan. 
+ 
+QUALIFYING RATE  
+Note rate  
+ 
+QUALIFYING PAYMENT 
+Calculated using the Qualifying Rate above amortized over the 30-year permanent loan term. 
+ 
+QUALIFYING RATIOS 
+Maximum 45% 
+ 
+INTERESTED PARTY CONTRIBUTIONS 
+Interested party contributions include funds contributed by the property seller, builder, real estate agent/broker, mortgage 
+lender, or their affiliates, or any other party with an interest in the real estate transaction. Interested party contributions 
+may only be used for closing costs and prepaid expenses, and may never be applied to any portion of the down payment. 
+ 
+CLTV/HCLTV  IPC Allowance 
+> 80%  3% 
+< 80%  6% 
+ 
+TAX AND INSURANCE ESCROW 
+Refer to Non-Agency Underwriting Guidelines guides for calculation method for qualifying taxes. 
+ 
+DRAWS/FEES 
+Refer to the Construction & Renovation Lending for fee requirements. 
+V. Product Descriptions  3 of 9  Document #5724 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+   Jumbo One-Close Construction Fixed Rate 
+ 
+CONSTRUCTION GUIDES 
+Refer to Construction & Renovation Lending for information about the construction lending process. Executed 
+borrower acknowledgement must be in the loan file. The construction guide and supporting documentation can 
+be found under Construction Forms in the Seller’s Guide. 
+ 
+Borrower and contractor must also be supplied with the appropriate State Statutory Form package and State 
+Draw Requirement Letter. These can be found under Construction Forms in the Seller’s Guide. 
+ 
+INSURANCE 
+See Hazard Insurance Requirements, Doc. #4602 for insurance requirements during construction. 
+FILE SUBMISSION 
+BUILDER/PROJECT PACKAGE 
+Builder and project packages must be submitted to Granite Loan Management for review. 
+Builder/project packages must be submitted to:  
+Granite Loan Management, LLC  
+10770 Briarwood Ave., Suite 280  
+Centennial, CO 80112  
+Phone: (866) 380-9657  
+Fax: (800) 919-8912  
+Email: projects@graniteriskmanagement.com 
+CREDIT PACKAGE 
+Credit packages must be submitted to Underwriting through paperless loan submission and must include 
+the executed Construction Guide Acknowledgement. 
+ 
+APPRAISAL 
+All appraisals must be ordered through Flagstar Loantrac from an approved Appraisal Management Company 
+even if the customer has AIR Compliant status. All appraisals will be reviewed by the Appraisal Review 
+Department. At minimum, a Collateral Desktop Analysis (CDA) or Consolidated Collateral Analysis (CCA) 
+value reconciliation is needed when only one full appraisal is required or obtained. Refer to Document #4910, 
+Clear Capital & Consolidated Analytics Product Requirements for complete details on value reconciliation, 
+including instances when a Broker Price Opinion (BPO) may be required. 
+ 
+Loan Amount  Appraisal Requirement at Loan Origination 
+Up to $2,000,000  One Full Appraisal 
+Greater than $2,000,000  Two Full Appraisals 
+ 
+Obtain a new final appraisal to support LTV and confirm construction is complete. Only one appraisal is 
+required at completion, regardless of loan amount. 
+ 
+UNDERWRITING 
+See below for product specific criteria. All additional guidelines not addressed below must meet the parameters 
+documented in the Non-Agency Underwriting Guidelines. Product specific criteria may vary from the guidelines 
+only as indicated below. 
+ 
+V. Product Descriptions  4 of 9  Document #5724 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+   Jumbo One-Close Construction Fixed Rate 
+All loans must be originated through a table-funded TPO transaction.     
+•  All loans are underwritten by Flagstar 
+•  Underwriting will review the contract to confirm the loan structure (construction period and related 
+pricing) is supported by the contract or project size. 
+•  Fourth-party transactions are not eligible. 
+•  Project/builder will be reviewed by Granite Loan Management, LLC 
+•  Cost to construct must be documented by fully executed “arm’s length” third-party builder contract.  
+•  If construction has started it is subject to title company approval to insure prior to close 
+•  The LTV ratio will be calculated as follows: 
+  Construction purpose type (borrower not owner of record of lot):   
+o
+  Divide loan amount by the lesser of the total acquisition cost (sum of the cost of 
+construction plus the purchase price of the lot) or the as completed appraised value of the 
+property (lot and improvements) 
+  Construction to Perm purpose type (borrower is owner of record): 
+o
+  Divide loan amount by as-completed appraised value of property (lot and improvements) 
+  All payments made by the borrower directly to builder, or purchases of materials outside of the 
+o
+builder’s contract, will not be considered in the total acquisition cost calculation 
+•  If the lot was acquired within 120 days of loan application, acquisition funds must be documented 
+•  Sweat equity will not be accepted 
+•  $2,000 or 2% cash back to borrower is not eligible on this program 
+•  Interest Reserve Accounts to pay interest during the Construction Period are not eligible. Borrower 
+must make an interest-only payment during the construction period 
+•  Upon completion of construction: 
+  Obtain a new final appraisal to support LTV and confirm construction is complete; only one 
+o
+appraisal is required at completion, regardless of loan amount 
+  Verify mortgage remained current during the construction phase 
+o
+•  NEW CONSTRUCTION: All new construction properties require 5% contingency funds based on the 
+total cost of improvements, excluding the cost/value of the land. The contingency may only be waived if 
+the borrower can document 10% additional reserves after the down payment. 
+•  RENOVATION: All renovation loans require a contingency reserve equal to at least 10% of the cost of 
+renovations and must be included in the cost breakdown 
+ 
+RESERVES  
+Occupancy  Loan Amount  Required Reserves 1 
+Up to $1,000,000  9 months, verified PITI 
+Primary Residence   $1,000,001 - $1,500,000  21 months, verified PITI 
+$1,500,001 – program maximum  27 months, verified PITI 
+Up to $1,000,000  15 months, verified PITI 
+Second Home  $1,000,001 - $1,500,000  21 months, verified PITI 
+$1,500,001 – program maximum   27 months, verified PITI 
+1.  When borrowers have financed properties in addition to the subject property, an additional 6 months PITI reserves are required for each property. 
+ 
+Refer to the Underwriting Section for additional funds required for construction contingency reserves. 
+V. Product Descriptions  5 of 9  Document #5724 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+   Jumbo One-Close Construction Fixed Rate 
+ 
+MORTGAGE INSURANCE 
+Not required 
+FLOOD INSURANCE 
+A flood policy is required for any loan in a flood zone. 
+•  The full policy must be issued prior to building vertically 
+•  This may take up to 30 days for the agent to provide 
+•  No exceptions will be issued 
+TITLE INSURANCE 
+Long-form title insurance must be obtained for all construction loans; short-form title policies are not acceptable. 
+Title updates are required at the time of each draw. Ensure when you request your title quote that the title 
+company understands the quote is for a construction loan. Long-form title is required, and the title quote must 
+include the cost of endorsements required with each draw. 
+For properties located in Illinois, all title commitments, updates and final policies must be provided by: 
+•  First American Title 
+•  Fidelity National Title 
+•  Chicago Title 
+•  Attorneys Title Guaranty 
+ 
+For a smoother draw process with your construction loans you may wish to use one of these companies in all 
+eligible states. 
+EXTENSIONS OF CONSTRUCTION PERIOD 
+Extensions may be granted, pursuant to a change order, if Lender reasonably believes work will not be done 
+by the scheduled completion date. Maximum extension period is six whole months (extensions will not be 
+granted for partial months). Flagstar Bank will charge a Construction Extension Fee of $1,000 per month if the 
+construction is not completed by the pre-determined completion date.   
+INTEREST RATE MODIFICATION REQUESTS 
+During times of improved market rates available at the completion of construction, an interest rate modification 
+may be eligible by request. Modifications must be requested prior to conversion of the loan to the fully 
+amortized period. Contact the Construction Department for the current policy as project nears completion of 
+construction. 
+STATE ELIGIBILITY 
+State/Territory  Restriction 
+Puerto Rico  Not eligible 
+Virgin Islands  Not eligible 
+ 
+PREPAYMENT PENALTY 
+None 
+ 
+V. Product Descriptions  6 of 9  Document #5724 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+   Jumbo One-Close Construction Fixed Rate 
+CLOSING DOCUMENTATION 
+Interim interest is not collected at closing.  Loans closing within the first seven days of the month cannot be 
+closed with an interest credit. 
+ 
+Maximum draw request from builder at closing is capped at 10% or $100,000 of the total cost to build, 
+whichever is less. No further draws can occur until closing package has been received and post-closed by 
+Flagstar Bank (usually 10 business days).   
+ALL LOANS 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series 
+•  Fannie Mae multi-state Construction Loan Agreement, Form #3735 
+•  Fannie Mae multi-state Construction Loan Addendum to Note, Form #3736 
+•  Fannie Mae multi-state Construction Loan Rider to Security Instrument, Form #3737 
+•  Standard title commitment with all applicable endorsements 
+ 
+IF APPLICABLE 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form #3140 
+•  Fannie Mae/Freddie Mac multi-state PUD Rider, Form #3150 
+•  Fannie Mae/Freddie Mac multi-state Second Home Rider, Form #3890 
+ 
+LENDER/SELLER CREDITS 
+Lender/seller credits must be itemized when requesting funds. 
+   
+V. Product Descriptions  7 of 9  Document #5724 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+   Jumbo One-Close Construction Fixed Rate 
+EXHIBIT A 
+When registering a Construction to Perm loan, after completing the Additional Loan Information section, some 
+of the information must be manually entered into the Real Estate and Liabilities sections. The estimated “As 
+completed” appraised value must be entered as the Present Market Value on the Real Estate screen. The 
+Unpaid Balance of Lot plus Builder’s Price to Build from the Construction worksheet is entered in the Liabilities 
+balance field and marked as Paid by Close. 
+ 
+  
+V. Product Descriptions  8 of 9  Document #5724 
+Return to Top    01/27/2023 
+
+NEW PAGE
+
+ 
+ 
+   Jumbo One-Close Construction Fixed Rate 
+ 
+ 
+ 
+ 
+V. Product Descriptions  9 of 9  Document #5724 
+Return to Top    01/27/2023 
+
+NEW PAGE

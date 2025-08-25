@@ -1,0 +1,376 @@
+Fannie Mae HomeReady 
+Mortgage insurance providers may have additional restrictions not listed within this document. Please refer to 
+each mortgage insurance company’s website for complete eligibility details.  
+ 
+FIXED RATE CONFORMING 
+PRIMARY RESIDENCE – PURCHASE & RATE/TERM REFINANCE 
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  97% 1  105%/97% 2 
+PUD 
+NA  DU – Approve/Eligible 
+2-Unit  85%  85% 
+3 to 4-Unit  75%  75% 
+ 
+FIXED RATE HIGH BALANCE  
+PRIMARY RESIDENCE  - PURCHASE & RATE/TERM REFINANCE  
+Maximum  Maximum  Minimum  Underwriting Engine & 
+Property Type 
+LTV  CLTV/HCLTV  Credit Score  Required Response 
+1-Unit  
+Warrantable Condo  95%  105%/95% 2  
+PUD 
+NA  DU – Approve/Eligible 
+2-Unit  85%  85% 
+3 to 4-Unit  75%  75% 
+1.  The LTV/CLTV is limited to 95% on rate/term refinances of High Balance and loans with a non-occupant borrower. 
+2.  Traditional subordinate financing is limited to 97% CLTV, 95% for High Balance. Maximum CLTV allowed up to 105% for purchase transactions when 
+using an approved community second program with a fixed rate. 
+ 
+PROGRAM SUMMARY 
+The HomeReady product is offered by Fannie Mae to help meet the diverse needs of today’s buyers. It is 
+designed for creditworthy, low to moderate income borrowers, with expanded eligibility in designated low-
+income communities. 
+ 
+PRODUCTS OFFERED 
+Product Name  Term 
+HomeReady 30-Year Fixed  30 years 
+HomeReady 20-Year Fixed  20 years 
+HomeReady 15-Year Fixed  15 years 
+HomeReady 10-Year Fixed  10 years 
+HomeReady High Balance 30-Year Fixed  30 years 
+HomeReady High Balance 20-Year Fixed  20 years 
+HomeReady High Balance 15-Year Fixed  15 years 
+HomeReady High Balance 10-Year Fixed  10 years 
+ 
+V. Product Guidelines  1 of 7  Document #5318 
+Return to Top    12/30/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae HomeReady 
+LOAN REGISTRATION 
+When registering HomeReady loans in Loantrac, select HomeReady for the product question: ‘Is an affordable 
+housing loan requested?’ See the Income Limits section below for additional registration instructions. 
+ 
+LOAN AMOUNTS 
+MAXIMUM 
+The maximum conforming loan limits for 1 to 4-unit properties, including high balance loan limits. Refer to 
+Fannie Mae High Balance, Doc. #5346 for a complete list of eligible high-cost areas. 
+ 
+LOANS WITH AN LTV, CLTV, OR HCLTV 95.01 – 97% 
+All loans with an LTV, CLTV, or HCLTV between 95.01 – 97% must meet all of the following criteria in addition 
+to all other HomeReady requirements: 
+•  Purchase CLTV is restricted to 97% if subordinate lien is not an eligible community second loan. 
+Eligible community second may have a CLTV up to 105% 
+•  HCLTV is restricted to 97% 
+•  Rate/term refinance CLTV is restricted to 97%. 
+•  Subject loan must be a fixed-rate 
+•  All borrowers must occupy the property, non-occupant co-borrowers are not eligible 
+•  DU Approve/Eligible 
+•  Reserves per DU 
+•  For limited cash-out refinances, the lender must document that the existing loan being refinanced is 
+owned (or securitized) by Fannie Mae. Using the look up tool located at knowyouroptions.com, a 
+screenshot of the findings must be uploaded into the loan file. 
+ 
+ELIGIBLE BORROWERS 
+•  All income-eligible occupant borrowers 
+•  Occupying borrower(s) must not have an ownership interest in more than two financed residential 
+properties, including the subject property, as of the Note Date. 
+•  Non-occupant co-borrowers for loans with LTV, CLTV, or HCLTV less than or equal to 95% 
+ 
+ELIGIBLE PROPERY TYPES 
+•  1 to 4-unit properties 
+•  Fannie Mae-warrantable condominiums 
+•  Planned Unit Development (PUD) 
+•  Modular homes 
+ 
+INELIGIBLE PROPERTY TYPES 
+•  Manufactured homes 
+•  Cooperative properties 
+ 
+MINIMUM CREDIT SCORES 
+All scores must meet the credit score validation requirements outlined in the Conventional Underwriting 
+Guidelines. 
+V. Product Guidelines  2 of 7  Document #5318 
+Return to Top    12/30/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae HomeReady 
+ 
+QUALIFYING RATE 
+The note rate is the qualifying rate. 
+ 
+QUALIFYING RATIOS 
+•  Determined by Desktop Underwriter (DU) 
+ 
+UNDERWRITING 
+All loans must meet the parameters as set out in Flagstar Bank’s Residential Underwriting Guidelines. 
+•  For purchase transactions at least one borrower must complete the Framework Homeownership 
+Education course. Please see the Homeownership Education section below.  Homeownership 
+Education is not required for rate/term refinance transactions. 
+•  Loans must be submitted to DU and receive an Approve/Eligible response. 
+•  All scores must meet the credit score validation requirements outlined in the Conventional Underwriting 
+Guidelines. Manual underwriting, thin file, or non-traditional credit profiles are not eligible. 
+•  Minimum borrower contribution requirements for purchase loans: 
+Minimum Borrower Contribution from Borrower Personal Funds 
+HomeReady with  HomeReady with 
+Standard HomeReady  Standard HomeReady 
+Property   any grant funds  any grant funds 
+LTV/CLTV/HCLTV  LTV/CLTV/HCLTV  
+Type  LTV/CLTV/HCLTV  LTV/CLTV/HCLTV 
+<=80%  >80% 
+<=80%  >80% 
+1-Unit  None  None 
+2 to 4-Units  None  3%  None  5% 
+    
+INCOME AND INCOME LIMITS 
+In determining whether a mortgage is eligible under the borrower income limits, the lender must count the 
+income from all of the borrowers who will be listed on the mortgage note, to the extent that the income is 
+considered in evaluating creditworthiness for the mortgage loan. 
+•  80% of AMI as confirmed by DU 
+•  In order to obtain the proper income limit an 11 digit Federal Information Processing Standard 
+(FIPS) code must be determined. The FIPS is compromised of the state code, county code, and 
+census tract. Once the FIPS is determined the income limits can be confirmed. 
+  For pre-registration FIPS determination go to: 
+o
+  The HomeReady page on the Fannie Mae website 
+  Select the Income Eligibility Lookup Tool under the Income Eligibility section 
+•  Loans registered in Loantrac with a standardized address, Loantrac will display the FIPS number, 
+the corresponding Area Median Income, and the corresponding income percentage limits. 
+  If the FIPS and income limits are not displaying in the Affordable Housing screen, verify the 
+o
+property address and select standardized when prompted. 
+•  When DU is able to standardize the address, a message will be issued specifying the census tract 
+used to determine the income limit to be applied to the loan. 
+•  FIPS census tract must be compared to appraisal. 
+•  In the event the address cannot be standardized: 
+V. Product Guidelines  3 of 7  Document #5318 
+Return to Top    12/30/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae HomeReady 
+  Determine the census tract via FFIEC link above  
+o
+  Document file with screenshot 
+o
+  Verify census tract with appraisal 
+o
+•  In the event a census tract number must be entered prior to the submission of the loan to 
+underwriting, send an email underwritingsupport@flagstar.com with the following: 
+  Census Tract Entry in the subject line 
+o
+  Seller ID# 
+o
+  Loan Number 
+o
+  Borrower Name 
+o
+  State Code, County Code, and Census Tract for the subject property 
+o
+  Underwriting Support enters Census Tract without a period (e.g. 2140.00 = 214000) 
+  Underwriting Support ensures loan limits are displayed in the Affordable Housing 
+screen prior to closing ticket 
+•  Income other than the following listed below to be documented per standard Fannie Mae guidelines 
+and/or DU 
+  Boarder Income: 
+o
+  From a related or non-related party may be included for 1-unit properties as 
+qualifying income up to an amount of 30% of the total qualifying income if the relative 
+or non-relative has lived with (and paid rent to) the borrower for the last 12 months 
+  The boarder must provide appropriate documentation to demonstrate a history of 
+shared residency (such as a copy of a driver’s license, bill, or bank statement that 
+shows the boarder’s address as being the same as the borrower’s address) 
+  Document the payment of rent for borrower for; 
+•  The last 12 months (through cancelled check, etc.) 
+•  At least 9 months of the most recent 12 months provided the rental income is 
+averaged over a 12-month period.  
+  Boarder may not be obligated on the mortgage loan. The boarder may also not have 
+an ownership interest in the property  
+  Rental Income from a 1-unit property with an accessory unit can be considered in qualifying 
+o
+the borrower; documentations and calculation in accordance with existing rental income 
+guidelines 
+  Boarder Income and non-borrower household income from the same person cannot be 
+o
+used. 
+ 
+ASSETS 
+•  Document reserves/asset requirements per standard Fannie Mae guidelines and/or DU  
+•  Source of funds: 
+  Borrower must contribute to the transaction from his or her own funds (if required) the 
+o
+minimum amount listed in the Underwriting section towards down payment, closing costs, 
+and/or prepaid expenses. Other funds required for the transaction may be obtained from any 
+combination of the following sources: 
+  Gifts per Flagstar Conventional Underwriting Guidelines 
+  Eligible grants, see Flagstar Gift/Grant Programs, Doc. #5935. 
+  Community Seconds, see Flagstar Community Seconds Programs, Doc. #5932 
+V. Product Guidelines  4 of 7  Document #5318 
+Return to Top    12/30/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae HomeReady 
+  Net proceeds from a loan against the cash value or from the surrender of a life 
+insurance policy 
+  Cash-on-hand may be an acceptable source of funds for down payment, closing 
+costs, and prepaids in the following circumstances: 
+•  Not used towards reserve requirements 
+•  The following must be verified and documented: 
+  The borrower customarily uses cash for expenses and that its usage 
+o
+and reasonableness, as well as the amount of funds saved is 
+consistent with the borrower’s previous payment practices 
+  The lender must verify that funds for the down payment and closing 
+o
+costs exist in a financial institution account or an acceptable escrow 
+account. Funds must be on deposit at the time of application, or no 
+less than 30 days prior to closing 
+  Borrower to provide written statement that discloses the source of 
+o
+funds and states that the funds have not been borrowed 
+  The borrower’s credit report and other verifications should indicate 
+o
+limited or no use of credit and limited or no depository relationship 
+between the borrower and a financial institution 
+•  Data must be entered correctly prior to submitting loan to DU: 
+  You must enter the amount of cash on hand as Cash on Hand in the 
+o
+Assets section  of the online loan application 
+•  DU will use the Cash on Hand amount to calculate the available funds to 
+close. However, cash-on-hand funds will not be used to calculate reserves. 
+As an example, if a borrower needs $2,000 to close and the amount of cash-
+on-hand is $3,000, DU would count the cash-on-hand as sufficient funds to 
+close; however, DU would not apply the remaining $1,000 toward reserves 
+•  DU will return a message specific to the use of cash-on-hand 
+ 
+INTERESTED PARTY CONTRIBUTIONS 
+Interested party contributions include funds contributed by the property seller (directly or indirectly), builder, 
+real estate agent/broker, or any other party with an interest in the real estate transaction. The mortgage lender 
+may also be considered an interested party if it has an ownership relationship with the property seller or one of 
+the other interested parties such as the builder or real estate broker/agent. 
+•  Interested party contributions may be used exclusively to cover closing costs and prepaid expenses 
+that exceed the borrower’s minimum contribution requirement 
+INTERESTED PARTY CONTRIBUTION LIMITS 
+CLTV  Up to 75%  75.01-90%  90.01-97% 
+Primary Residences  Maximum 9%  Maximum 6%  Maximum 3% 
+ 
+HOMEOWNERSHIP EDUCATION 
+Refer to Conventional Underwriting Guidelines for requirements. 
+ 
+SUBORDINATE FINANCING 
+Refer to the Subordinate Financing section of the Conventional Underwriting Guidelines for details. The use of 
+financing obtained from the property seller is not allowed. 
+V. Product Guidelines  5 of 7  Document #5318 
+Return to Top    12/30/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae HomeReady 
+ 
+Eligible Community Seconds subsidized subordinate financing (up to 105% CLTV). Community Seconds may 
+be eligible from a state, local or municipal authority or agency, a 501(c)(3) nonprofit corporation, a tax-exempt 
+religious organization or the borrower’s employer. Flagstar Bank must review all Community Second programs 
+for eligibility. An official written description of the program (from the agency providing the funds), the loan 
+documents used in connection with the financing (i.e. the Note, Mortgage/Deed of Trust, etc.), and any other 
+written descriptive material must be submitted with the loan file. Subordinate financing program review 
+generally requires three to five business days for approval. 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible. 
+ 
+TEXAS REFINANCE LOANS 
+All refinance loans in Texas will be evaluated against the criteria outlined in our Conventional Underwriting 
+Guidelines, Texas Refinances section to determine if the loan must be originated under the requirements of 
+Section 50(a)(6) of the Texas Constitution. Refer to Texas Homestead 50(a)(6) Refinance - Correspondent, 
+Doc. #5906, or Texas Homestead 50(a)(6) Refinance - Broker, Doc. #5907, for eligibility, 
+documentation/disclosure, and title/closing requirements.   
+ 
+SPECIAL FEATURE CODES 
+This loan program requires that certain special feature codes be attached to each loan file by the underwriter. 
+•  All HomeReady: SFC 900 
+•  HomeReady High Balance: SFC 808 
+•  Other SFC as applicable 
+ 
+MORTGAGE INSURANCE 
+Mortgage insurance providers may have additional restrictions not listed within this document.  Due to rapid 
+changes within the industry, please refer to each mortgage insurance company's website for complete details.   
+ 
+Reduced MI coverage is not eligible. 
+ 
+All loans above 80% LTV require mortgage insurance coverage according to the following guidelines: 
+ 
+MORTGAGE INSURANCE GUIDELINES 
+Primary Residence – Purchase & Rate/Term Refinance 
+LTV  30-Year  10, 15 & 20-Year 
+95.01-97% 
+25% 
+90.01-95%  25% 
+85.01-90%  12% 
+80.01-85%  12%  6% 
+ 
+NEW YORK PROPERTIES 
+See Conventional Underwriting Guidelines. 
+ 
+For Single Financed Mortgage Insurance (SFMI) and Lender Paid Mortgage Insurance (LPMI) eligibility see 
+Single Financed Mortgage Insurance – Lender Paid Mortgage Insurance, Doc. #5010. 
+V. Product Guidelines  6 of 7  Document #5318 
+Return to Top    12/30/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  Fannie Mae HomeReady 
+ 
+STATE ELIGIBILITY 
+These products are available in the following states/territories with restrictions. The states/territories not listed 
+are available without restrictions. 
+State/Territory  Restriction 
+Refer to Mortgage Insurance section above for mortgage 
+New York 
+insurance coverage calculation requirements.  
+Puerto Rico  Ineligible 
+Texas  Refer to Texas Refinances section above.  
+ 
+PREPAYMENT PENALTY 
+There is no prepayment penalty. 
+ 
+CLOSING DOCUMENTATION – CORRESPONDENT TRANSACTIONS 
+Closing docs may be ordered through Flagstar’s Web Based Closing Docs (WBCD) service available in 
+Loantrac. 
+ 
+ALL LOANS 
+•  Fannie Mae/Freddie Mac Uniform Security Instrument, 3000-series 
+•  Standard title commitment with all applicable endorsements 
+ 
+IF APPLICABLE 
+•  Fannie Mae/Freddie Mac multi-state Condo Rider, Form# 3140 
+•  Fannie Mae/Freddie Mac multi-state PUD Rider, Form# 3150 
+•  Fannie Mae/Freddie Mac multi-state 1-4 Family Rider, Form# 3170 (for 2 to 4-unit primary 
+residences and all investment property mortgages) 
+V. Product Guidelines  7 of 7  Document #5318 
+Return to Top    12/30/2022 
+
+NEW PAGE

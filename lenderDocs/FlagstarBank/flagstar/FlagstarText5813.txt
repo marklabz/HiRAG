@@ -1,0 +1,183 @@
+FHA $100 HUD Repo 
+Refer to the State Eligibility section for eligible areas.
+ 
+PRIMARY RESIDENCE – PURCHASE 
+Maximum  Maximum  Minimum 
+Property Type  Underwriting Engine & Required Response 
+LTV  Loan Amount  Credit Score 
+1 to 2-Unit  FHA Total Mortgage Scorecard 
+100% 1  Varies by 
+PUD  580  DU – Approve or LPA – Accept 
+(minus $100)   County 
+Condo  Refer responses will be manually underwritten 
+1.  LTV may exceed 100% only to fund a repair escrow included in the sales contract. The cost of repairs may not exceed $10,000 (repair escrow may be up 
+to $11,000 after 10% contingency is added). DE Customers: Refer to the Escrow Holdbacks section of the FHA Underwriting Guidelines for more 
+information about escrow holdback requirements. 
+ 
+PROGRAM SUMMARY 
+The FHA $100 HUD Repo program is a purchase-money loan offered in limited geographic areas to borrowers 
+purchasing a home owned by the Department of Housing and Urban Development. Buyers are only required to 
+make a $100 down payment and may be eligible for sales incentives provided by HUD. 
+ 
+PRODUCTS OFFERED 
+FIXED-RATE MORTGAGES 
+Traditional and jumbo loan amounts are separated into distinct products: 
+•  10-year 
+•  15-year 
+•  20-year 
+•  25-year 
+•  30-year 
+ 
+ADJUSTABLE-RATE MORTGAGES 
+Traditional and jumbo loan amounts are combined into the same product: 
+•  5/1 CMT 
+ 
+ELIGIBLE BORROWERS 
+•  U. S. citizens and permanent resident aliens 
+•  Non-permanent resident aliens may qualify (refer to the applicable HUD Handbook) 
+•  Non-occupant co-borrowers: 
+  Purchase transactions are limited to 75% LTV, when secured by a 2-unit property 
+o
+ 
+ELIGIBLE PROPERTY TYPES 
+203(B) LOANS 
+•  1 to 2-unit property 
+•  Planned unit development 
+234(C) LOANS 
+•  Condominium (prior approval by FHA Field Office is required) 
+V. Product Guidelines  1 of 4  Document #5813 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA $100 HUD Repo 
+INELIGIBLE PROPERTY TYPES 
+•  3 to 4-unit property 
+•  Manufactured home 
+•  Cooperative 
+•  Working farm, ranch or orchard 
+ 
+LOAN AMOUNTS 
+MINIMUM 
+None 
+ 
+MAXIMUM 
+Maximum loan amount varies by county. Refer to the FHA Connection website to determine the geographic 
+mortgage limits. 
+ 
+All loans require borrowers to make a $100 down payment. The standard FHA policy requiring that 
+borrowers make a 3.5% investment is not required for the FHA $100 HUD Repo program. 
+ 
+TEMPORARY BUYDOWNS 
+Not eligible 
+ 
+SUBORDINATE FINANCING 
+Refer to the Subordinate Financing section of the FHA Underwriting Guidelines for details. 
+ 
+CREDIT ALERT INTERACTIVE VOICE RESPONSE SYSTEM (CAIVRS) 
+All borrowers must be screened using the Credit Alert Interactive Voice Response System (CAIVRS) (except 
+on streamline refinances). FHA will not insure a loan if the borrower is currently delinquent on any unpaid 
+federal debt, or has had a claim paid within the previous three years. Prior to accessing CAIVRS you will need 
+each applicant’s Social Security Number. CAIVRS must be accessed through FHA Connection. This is a web-
+based system that requires prior approval through HUD. 
+ 
+QUALIFYING RATE 
+Note rate 
+ 
+QUALIFYING RATIOS 
+Refer to the Ratios section of our FHA Underwriting Guidelines. 
+ 
+SUBMISSION DOCUMENTATION 
+Refer to the New Submission Coversheet – Government, Doc. #3218 for details. 
+FORMS AND DISCLOSURES 
+Refer to Government Forms and Disclosures, Doc. #9005 for details. 
+APPRAISAL GUIDELINES 
+The appraisal must comply with all of FHA’s minimum property standards. Refer to the Appraisal section of our 
+FHA Underwriting Guidelines. 
+V. Product Guidelines  2 of 4  Document #5813 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA $100 HUD Repo 
+UNDERWRITING 
+For underwriting questions and underwriting support please contact Government Customer Support by calling 
+(866) 945-9872 or via email at governmentuw@flagstar.com. 
+All loan applications will be underwritten to FHA’s Total Mortgage Scorecard and Flagstar current guidelines. 
+Refer to HUD Handbook 4000.1 and the FHA Underwriting Guidelines for Government Guidelines. 
+Borrowers may not receive any cash back at loan closing. The sales allowance and contributions received, if 
+any, can only be used toward closing costs/prepaid expenses, repairs to the property or to reduce the 
+mortgage amount. 
+If the real estate agent writes the sales contract as a 203(b) with a repair escrow then the entire repair value up 
+to $10,000 (plus a 10% contingency for a total of up to $11,000) can be included in the loan amount and 
+escrowed. 
+CREDIT SCORES 
+•  Non-traditional, alternative credit and no credit score loans are now eligible and will follow the FHA 
+Handbook 4000.1 
+•  Loans for borrowers with non-traditional credit are permissible; a credit score of 999 should be 
+entered for those borrowers. 
+ 
+ADP CODES 
+•  734 – 234(c) Condo Fixed-Rate 
+•  731 – 234(c) Condo ARM 
+ 
+MORTGAGE INSURANCE 
+Upfront and monthly mortgage insurance premiums will be calculated according to the policies outlined in HUD 
+Handbook 4000.1. 
+ 
+STATE ELIGIBILITY 
+HUD’s $100 down payment option has been discontinued in many states. To determine if the $100 down 
+program is available for a particular property see HUD’s REO sales web site at 
+https://www.hudhomestore.com/Home/Index.aspx. The property listing on the web site will show that the $100 
+down payment incentive is offered on the selected property, and the purchase agreement or an addendum to 
+the agreement must state the $100 down payment incentive is offered in conjunction with FHA financing. 
+State  Restriction 
+Puerto Rico  Not eligible 
+ 
+ADJUSTABLE RATE DETAILS 
+Interest Rate  5/1 ARMs: 
+Adjustment Caps  Initial: 1% up/down; Periodic: 1% up/down; Lifetime: 5% up 
+Margin  See Price Indication Sheet 
+Index  1-year Constant Maturity Treasury (CMT) 
+Interest Rate Floor  The interest rate floor is equal to the Margin 
+5/1 ARM: Initial interest rate change date will occur within 60 to 66 months, depending on 
+Change Dates 
+the first payment date. See table below. Interest rate will adjust every 12 months thereafter. 
+V. Product Guidelines  3 of 4  Document #5813 
+Return to Top    06/03/2022 
+
+NEW PAGE
+
+ 
+ 
+ 
+  FHA $100 HUD Repo 
+Conversion Option  None 
+Assumption  Subject to conditions, fees and rate adjustment 
+Negative Amortization  None 
+ 
+Initial Interest Rate Change Dates 2 
+First Payment Date  Initial Change Date 3 
+Jan. 1, Feb. 1, Mar. 1  April 1 
+Apr. 1, May 1, Jun. 1  July 1 
+Jul. 1, Aug. 1, Sep. 1  October 1 
+Oct. 1, Nov. 1, Dec. 1  January 1 
+ 
+2.  The initial interest rate change dates are also published on the daily price indication sheet. 
+3.  The change date is always the first day of the month. 
+ 
+CLOSING DOCUMENTATION 
+Closing documents may be ordered through Flagstar's Web-Based Closing Docs (WBCD) service available on 
+Loantrac. Please call (866) 945-9872 for questions pertaining to drawing Web-Based Closing Docs. 
+ 
+ 
+V. Product Guidelines  4 of 4  Document #5813 
+Return to Top    06/03/2022 
+
+NEW PAGE

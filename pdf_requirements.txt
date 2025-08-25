@@ -1,0 +1,50 @@
+# Requirements for PDF to Knowledge Graph Pipeline
+
+# Core HiRAG dependencies (install HiRAG first with: pip install -e .)
+# The main HiRAG package should be installed from this repository
+
+# PDF processing libraries
+PyPDF2>=3.0.1              # Basic PDF text extraction
+PyMuPDF>=1.23.0             # Advanced PDF processing (fitz)
+pdfplumber>=0.9.0           # Alternative PDF processing (optional)
+
+# Text processing
+nltk>=3.8                   # Natural language processing
+spacy>=3.6.0                # Advanced NLP (optional)
+
+# Configuration and utilities
+PyYAML>=6.0                 # YAML configuration files
+python-dotenv>=1.0.0        # Environment variable management
+
+# Progress tracking
+tqdm>=4.65.0                # Progress bars
+
+# Data handling
+pandas>=2.0.0               # Data manipulation (optional)
+numpy>=1.24.0,<2.0.0        # Numerical operations (constrained for compatibility)
+
+# Additional text extraction (optional)
+# textract>=1.6.5             # Multi-format text extraction (commented out due to pip compatibility issues)
+python-docx>=0.8.11         # Word document processing
+openpyxl>=3.1.0             # Excel file processing
+python-magic>=0.4.27        # File type detection (alternative to textract)
+chardet>=5.0.0              # Character encoding detection
+
+# OCR capabilities (optional, for scanned PDFs)
+pytesseract>=0.3.10         # OCR text extraction
+Pillow>=10.0.0              # Image processing for OCR
+
+# Installation notes:
+# 1. First install HiRAG: pip install -e .
+# 2. Then install PDF dependencies: pip install -r pdf_requirements.txt
+# 3. For OCR support, also install tesseract system package:
+#    - Ubuntu/Debian: sudo apt-get install tesseract-ocr
+#    - macOS: brew install tesseract
+#    - Windows: Download from https://github.com/UB-Mannheim/tesseract/wiki
+#
+# Note about textract:
+# The textract package has metadata compatibility issues with pip >= 24.1
+# If you need textract functionality, you can either:
+# - Downgrade pip: pip install "pip<24.1" && pip install textract==1.6.5
+# - Use alternative packages like python-docx, openpyxl, and python-magic
+# - Install textract directly: pip install --no-deps textract==1.6.5 (may have dependency issues)
